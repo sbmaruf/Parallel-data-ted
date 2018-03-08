@@ -1,0 +1,675 @@
+1
+00:00:00,000 --> 00:00:03,844
+Dalam video ini, saya mahu bincangkan sedikit tentang pecutan.
+
+2
+00:00:03,844 --> 00:00:06,711
+Pecutan.
+
+3
+00:00:06,711 --> 00:00:09,497
+Dan ini mungkin merupakan suatu idea yang anda telah biasakan jumpa
+
+4
+00:00:09,497 --> 00:00:12,469
+ataupun anda mungkin pernah dengar istilah ini di mana-mana.
+
+5
+00:00:12,469 --> 00:00:18,181
+Pecutan ialah perubahan halaju berbanding masa.
+
+6
+00:00:18,181 --> 00:00:25,844
+Perubahan halaju berbanding masa.
+
+7
+00:00:25,844 --> 00:00:30,727
+Salah satu contoh tipikal berkenaan dengan pecutan, jika anda berminat tentang kereta,
+
+8
+00:00:30,727 --> 00:00:34,482
+ialah, acap kali mereka akan berikan anda nombor pecutan,
+
+9
+00:00:34,482 --> 00:00:36,107
+terutamanya untuk kereta lumba.
+
+10
+00:00:36,107 --> 00:00:40,844
+Sebenarnya untuk kesemua kereta, jika anda lihat laporan pengguna ataupun di mana mereka beri
+
+11
+00:00:40,844 --> 00:00:45,598
+statistik untuk kereta berbeza, mereka akan berikan anda sesuatu seperti, hmmm...
+
+12
+00:00:45,598 --> 00:00:48,573
+katakan sebuah Porsche -- dan saya cuma ciptakan nombor-nombor ini ya.
+
+13
+00:00:48,573 --> 00:00:53,290
+Jadi katakan kita ada sebuah kereta Porsche 911.
+
+14
+00:00:53,290 --> 00:00:57,237
+Mereka akan katakan yang sebuah Porsche 911 -- mereka akan ukur ini menggunakan jam randik --
+
+15
+00:00:57,237 --> 00:01:01,892
+boleh pergi dari 0 ke 60 batu per jam --
+
+16
+00:01:01,969 --> 00:01:04,517
+dan ini bukanlah nombor yang sama, walaupun saya rasa ianya mungkin hampir.
+
+17
+00:01:04,517 --> 00:01:08,794
+0 ke 60 batu per jam, dalam katakan, 3 saat.
+
+18
+00:01:10,631 --> 00:01:13,108
+Dalam masa 3 saat.
+
+19
+00:01:13,385 --> 00:01:16,467
+Maka walaupun secara rasminya, apa yang mereka berikan kepada anda di sini adalah kelajuan
+
+20
+00:01:16,467 --> 00:01:19,133
+kerana mereka hanya berikan magnitud dan tiada arah,
+
+21
+00:01:19,133 --> 00:01:22,520
+anda boleh anggap yang ianya adalah dalam arah yang sama.
+
+22
+00:01:22,520 --> 00:01:27,308
+Dan anda boleh katakan 0 bpj ke Timur kepada 60 bpj ke Timur dalam 3 saat,
+
+23
+00:01:27,308 --> 00:01:30,397
+jadi apakah pecutannya di sini?
+
+24
+00:01:30,397 --> 00:01:33,071
+Jadi saya baru terangkan kepada anda tentang definisi pecutan --
+
+25
+00:01:33,071 --> 00:01:35,360
+di mana ianya adalah perubahan halaju berbanding masa.
+
+26
+00:01:35,360 --> 00:01:39,326
+Maka pecutan, dan sekali lagi, pecutan ialah kuantiti vektor.
+
+27
+00:01:39,326 --> 00:01:43,287
+Anda mahu tahu, bukan sahaja tentang berapakah perubahan halaju berbanding masa,
+
+28
+00:01:43,287 --> 00:01:45,283
+anda juga ambil kira tentang arah.
+
+29
+00:01:45,283 --> 00:01:48,933
+Dan ini juga maksud akal kerana halaju itu sendiri ialah kuantiti vektor.
+
+30
+00:01:48,933 --> 00:01:51,061
+Ia perlukan magnitud dan arah.
+
+31
+00:01:51,061 --> 00:01:52,708
+Jadi, pecutan di sini,
+
+32
+00:01:52,708 --> 00:01:57,208
+dan kita cuma akan anggap yang kita bergerak ke arah kanan,
+
+33
+00:01:57,208 --> 00:01:59,560
+0 bpj ke 60 bpj ke arah kanan.
+
+34
+00:01:59,560 --> 00:02:05,323
+Jadi...ianya akan menjadi perubahan dalam halaju -- biar saya tuliskannya menggunakan tatatanda lain,
+
+35
+00:02:05,323 --> 00:02:08,200
+jadi anda boleh biasakan diri anda jika anda lihatnya dalam buku teks melalui cara ini.
+
+36
+00:02:08,200 --> 00:02:16,886
+Maka, perubahan dalam halaju. Simbol delta di sini membawa maksud 'perubahan dalam'.
+
+37
+00:02:16,886 --> 00:02:21,646
+Perubahan dalam halaju berbanding masa. Berbanding masa.
+
+38
+00:02:21,646 --> 00:02:24,397
+Dan seperti yang telah saya terangkan dalam video-video sebelum ini
+
+39
+00:02:24,397 --> 00:02:30,210
+ianya adalah sebenarnya perubahan dalam masa, tapi kita boleh tuliskannya di sini.
+
+40
+00:02:30,210 --> 00:02:32,036
+Masa 3 saat ini ialah sebenarnya perubahan dalam masa.
+
+41
+00:02:32,036 --> 00:02:35,997
+Sebagai contoh lain, jika anda lihat pada tangan kiri anda,
+
+42
+00:02:35,997 --> 00:02:39,707
+ia mungkin berada pada masa 5 saat apabila ia mula bergerak dan ia kini mungkin telah
+
+43
+00:02:39,707 --> 00:02:41,263
+mencapai masa 8 saat apabila ia berhenti, jadi ia mengambil masa sebanyak 3 saat.
+
+44
+00:02:41,263 --> 00:02:46,230
+Jadi masa -- ia adalah perubahan dalam saat. Tapi kita cuma akan gunakan istilah masa di sini.
+
+45
+00:02:46,338 --> 00:02:47,921
+Atau kita gunakan tatatanda 't'.
+
+46
+00:02:47,921 --> 00:02:50,196
+Jadi, apakah perubahan halaju kita?
+
+47
+00:02:50,196 --> 00:02:53,556
+Maka, halaju akhir kita ialah 60 bpj.
+
+48
+00:02:53,556 --> 00:02:55,865
+Halaju akhir kita ialah 60 bpj.
+
+49
+00:02:55,865 --> 00:02:58,819
+Dan halaju asal kita ialah 0 bpj.
+
+50
+00:02:58,819 --> 00:03:01,714
+Jadi ianya adalah 60 tolak 0 bpj.
+
+51
+00:03:04,176 --> 00:03:06,581
+Dan kemudian, apakah masa kita?
+
+52
+00:03:06,581 --> 00:03:08,731
+Apakah masa kita di sini?
+
+53
+00:03:08,731 --> 00:03:10,974
+Maka, masa kita ialah, atau kita boleh katakan
+
+54
+00:03:10,974 --> 00:03:12,631
+perubahan dalam masa,
+
+55
+00:03:12,631 --> 00:03:15,038
+di mana, perubahan dalam masa kita ialah 3 saat.
+
+56
+00:03:15,808 --> 00:03:17,674
+3 saat.
+
+57
+00:03:18,028 --> 00:03:22,907
+Jadi, ini memberikan kita 20 bpj per saat.
+
+58
+00:03:22,907 --> 00:03:24,515
+Mari saya tuliskannya di sini.
+
+59
+00:03:24,515 --> 00:03:27,102
+Jadi ianya menjadi... Bahagian atas ialah 60.
+
+60
+00:03:27,102 --> 00:03:29,363
+60 dibahagikan dengan 3 ialah 20.
+
+61
+00:03:29,363 --> 00:03:32,226
+Maka, kita memppunyai 20...tapi apa yang kita ada di sini ialah unit yang pelik.
+
+62
+00:03:32,226 --> 00:03:35,291
+Jika anda tidak tahu, mph ialah miles per hour, atau
+
+63
+00:03:35,291 --> 00:03:39,582
+dalam bahasa Melayu nya, batu per jam.
+
+64
+00:03:40,474 --> 00:03:43,186
+Jadi, ianya adalah perkara yang sama.
+
+65
+00:03:43,186 --> 00:03:46,513
+Dan kita juga mempunyai, di bahagian penyebut di sini
+
+66
+00:03:46,513 --> 00:03:49,421
+di mana di bahagian penyebut di sini kita mempunyai
+
+67
+00:03:49,421 --> 00:03:51,713
+unit saat.
+
+68
+00:03:51,713 --> 00:03:53,729
+Yang sebenarnya adalah sedikit pelik.
+
+69
+00:03:53,729 --> 00:03:57,411
+Dan, seperti yang anda akan lihat, unit untuk pecutan kelihatan sedikit pelik.
+
+70
+00:03:57,411 --> 00:04:00,169
+Tapi jika kita fikirkannya betul-betul, ia mungkin juga masuk akal.
+
+71
+00:04:00,169 --> 00:04:02,959
+Jadi batu per jam, dan kemudian kita boleh letakkan saat,
+
+72
+00:04:02,959 --> 00:04:06,945
+seperti ini, atau kita boleh tuliskan per saat.
+
+73
+00:04:06,945 --> 00:04:08,461
+Dan mari kita fikirkan tentang maksud ini,
+
+74
+00:04:08,461 --> 00:04:11,659
+dan kemudian kita boleh tukarkannya ke dalam saat, atau jam, apa saja yang anda suka.
+
+75
+00:04:11,675 --> 00:04:15,569
+Ini mengatakan bahawa untuk setiap saat, kereta Porsche 911 ini,
+
+76
+00:04:15,569 --> 00:04:19,109
+boleh meningkatkan halajunya sebanyak 20 bpj.
+
+77
+00:04:19,109 --> 00:04:23,036
+Jadi, pecutannya ialah 20 batu per jam per saat.
+
+78
+00:04:23,036 --> 00:04:25,732
+Dan sebenarnya, kita patut masukkan sekali satu arah, kerana kita berdepan dengan kuantiti vektor.
+
+79
+00:04:26,619 --> 00:04:29,567
+Jadi ini menuju ke arah timur.
+
+80
+00:04:29,567 --> 00:04:32,744
+Dan ini ialah bahagian timur di situ.
+
+81
+00:04:32,744 --> 00:04:35,562
+Ini adalah untuk pastikan yang kita sedang berdepan dengan vektor.
+
+82
+00:04:35,562 --> 00:04:37,268
+Kita berikannya arah. Iaitu ke bahagian timur.
+
+83
+00:04:37,268 --> 00:04:41,641
+Jadi, setiap saat, ia boleh tingkatkan halajunya sebanyak 20 bpj.
+
+84
+00:04:41,641 --> 00:04:44,477
+Jadi saya harapkan, cara saya terangkan ini membawa makna untuk anda.
+
+85
+00:04:44,477 --> 00:04:46,498
+20 batu per jam per saat.
+
+86
+00:04:46,498 --> 00:04:48,687
+Maka, itu lah apa yang dimaksudkan oleh ini.
+
+87
+00:04:48,687 --> 00:04:51,979
+Sekarang, kita juga boleh tuliskannya begini, ini adalah perkara yang sama
+
+88
+00:04:51,979 --> 00:04:56,811
+dengan 20 batu per jam...
+
+89
+00:04:58,000 --> 00:05:01,360
+Kerana jika anda ambil sesuatu dan bahagikannya dengan saat,
+
+90
+00:05:01,360 --> 00:05:04,254
+ianya adalah sama dengan mendarabkannya dengan 1 per saat.
+
+91
+00:05:04,254 --> 00:05:08,338
+Jadi itu ialah batu per jam saat.
+
+92
+00:05:08,338 --> 00:05:12,082
+Dan walaupun ini adalah benar, bagi saya ini membuatkannya kurang intuitif.
+
+93
+00:05:12,551 --> 00:05:15,098
+Yang ini mengatakan bahawa ia meningkatkan
+
+94
+00:05:15,098 --> 00:05:17,271
+halajunya sebanyak 20 batu per jam untuk setiap saat.
+
+95
+00:05:17,271 --> 00:05:21,037
+Peningkatan halaju sebanyak 20 batu per jam per saat.
+
+96
+00:05:21,037 --> 00:05:22,834
+Jadi ianya masuk akal pada saya.
+
+97
+00:05:22,834 --> 00:05:25,200
+Di sini, ia mengatakan 20 batu per jam saat.
+
+98
+00:05:25,200 --> 00:05:28,471
+Jadi, sekali lagi, ianya tidaklah begitu intuitif.
+
+99
+00:05:28,471 --> 00:05:30,966
+Tapi kita boleh lakukannya supaya kesemuanya adalah dalam satu unit masa.
+
+100
+00:05:30,966 --> 00:05:33,056
+Walaupun anda tidak perlu berbuat demikian.
+
+101
+00:05:33,056 --> 00:05:35,879
+Anda boleh tukarkan ini supaya anda boleh buangkan
+
+102
+00:05:35,879 --> 00:05:37,880
+mungkin unit jam di bahagian penyebut.
+
+103
+00:05:37,880 --> 00:05:40,520
+Dan cara terbaik untuk hilangkan unit jam di penyebut
+
+104
+00:05:40,520 --> 00:05:43,287
+ialah dengan mendarabkannya dengan sesuatu yang mempunyai unit jam di pengangka.
+
+105
+00:05:43,287 --> 00:05:49,275
+Jadi jam, dan saat. Dan di sini...
+
+106
+00:05:49,275 --> 00:05:54,233
+Unit yang lebih kecil ialah saat, jadi ianya adalah 3600 saat untuk setiap 1 jam.
+
+107
+00:05:54,325 --> 00:05:56,795
+Atau, 1 jam adalah bersamaan dengan 3600 saat.
+
+108
+00:05:56,887 --> 00:06:01,141
+Atau, 1/3600 jam per saat.
+
+109
+00:06:01,141 --> 00:06:05,825
+Kesemua ini adalah cara yang sah untuk kita tafsirkan perkara yang berwarna magenta di situ.
+
+110
+00:06:05,825 --> 00:06:07,479
+Dan kemudian anda darabkan.
+
+111
+00:06:07,479 --> 00:06:09,129
+Kita lakukan sedikit analisa dimensi.
+
+112
+00:06:09,129 --> 00:06:12,253
+Unit jam batalkan unit jam, dan kemudian kita akan ada...
+
+113
+00:06:12,253 --> 00:06:14,621
+Ini adalah bersamaan dengan...
+
+114
+00:06:14,621 --> 00:06:18,621
+Ini akan bersamaan dengan 20/3600.
+
+115
+00:06:18,621 --> 00:06:21,200
+20/3600.
+
+116
+00:06:21,200 --> 00:06:23,969
+Batu per saat darab saat.
+
+117
+00:06:23,969 --> 00:06:28,069
+Atau kita boleh katakan...hmmm..biar saya tuliskannya begini.
+
+118
+00:06:28,069 --> 00:06:31,769
+Batu per saat darab saat.
+
+119
+00:06:31,860 --> 00:06:34,561
+Atau anda boleh katakan, batu per saat...
+
+120
+00:06:34,592 --> 00:06:36,769
+Saya mahu tuliskan itu menggunakan warna lain.
+
+121
+00:06:36,769 --> 00:06:39,361
+Batu per saat kuasa 2.
+
+122
+00:06:39,757 --> 00:06:44,204
+Batu per saat... Batu per saat, kuasa 2.
+
+123
+00:06:44,204 --> 00:06:45,882
+Dan kita boleh mudahkannya sedikit.
+
+124
+00:06:45,882 --> 00:06:48,825
+Bahagikan penyebut dan pengangka dengan 10.
+
+125
+00:06:48,825 --> 00:06:51,545
+Anda akan dapat 2 per 360.
+
+126
+00:06:51,545 --> 00:06:57,849
+Ataupun anda boleh dapat.. Ini adalah sama dengan... 1 per 180.
+
+127
+00:06:57,849 --> 00:07:04,271
+Batu per saat kuasa 2. Per saat kuasa 2.
+
+128
+00:07:04,271 --> 00:07:06,276
+Saya cuma memendekkannya seperti itu.
+
+129
+00:07:06,276 --> 00:07:08,405
+Dan sekali lagi, ini tidak membuatkannya...
+
+130
+00:07:08,405 --> 00:07:10,521
+1 per 180 batu. Berapa kiraannya ya?
+
+131
+00:07:10,521 --> 00:07:11,871
+Anda mungkin mahu tukarkannya kepada unit kaki,
+
+132
+00:07:11,871 --> 00:07:13,315
+tapi apa yang penting di sini ialah,
+
+133
+00:07:13,315 --> 00:07:14,748
+saya mahu tunjukkan kepada anda bahawa,
+
+134
+00:07:14,748 --> 00:07:16,446
+yang pertama, bagaimanakah cara untuk mengira pecutan,
+
+135
+00:07:16,446 --> 00:07:18,548
+dan berikan anda sedikit gambaran tentang maksudnya.
+
+136
+00:07:18,548 --> 00:07:20,738
+Dan sekali lagi, apa yang anda ada di sini,
+
+137
+00:07:20,738 --> 00:07:22,954
+apabila anda ada saat kuasa 2 di bahagian bawah unit,
+
+138
+00:07:22,954 --> 00:07:26,600
+ianya tidak berapa masuk akal, tapi kita boleh tuliskannya semula di atas ini.
+
+139
+00:07:26,600 --> 00:07:36,067
+Ini ialah 180... atau 1/180 batu per saat...
+
+140
+00:07:36,067 --> 00:07:40,655
+dan kemudian kita bahagikan dengan saat sekali lagi: per saat.
+
+141
+00:07:40,655 --> 00:07:44,208
+Atau mungkin saya boleh tuliskannya seperti ni; per saat.
+
+142
+00:07:44,208 --> 00:07:46,585
+Di mana kesemua ini ialah pengangka.
+
+143
+00:07:46,585 --> 00:07:49,884
+Jadi yang ini adalah lebih masuk akal dari sudut pandangan pecutan.
+
+144
+00:07:49,884 --> 00:07:52,673
+1 per 180 batu per saat...
+
+145
+00:07:52,673 --> 00:07:55,523
+Setiap saat, kereta Porsche 911 ini akan bergerak
+
+146
+00:07:55,523 --> 00:08:01,631
+semakin laju sebanyak 1/180 batu per saat.
+
+147
+00:08:01,631 --> 00:08:04,790
+Dan ia sebenarnya adalah lebih elok untuk kita kekal dengan unit batu per jam,
+
+148
+00:08:04,790 --> 00:08:07,529
+kerana itu adalah sesuatu yang biasa kita gunakan.
+
+149
+00:08:07,529 --> 00:08:09,387
+Dan cara lain untuk menggambarkannya.
+
+150
+00:08:09,387 --> 00:08:10,734
+Cara lain untuk menggambarkannya ialah.
+
+151
+00:08:10,734 --> 00:08:13,446
+Jika anda sedang memandu kereta Porsche itu, dan
+
+152
+00:08:13,446 --> 00:08:16,225
+anda melihat kepada meter kelajuan kereta Prosche,
+
+153
+00:08:16,225 --> 00:08:17,856
+dan jika pecutannya adalah malar,
+
+154
+00:08:17,856 --> 00:08:20,344
+sebenarnya ia tidak akan menjadi malar sepenuhnya,
+
+155
+00:08:20,344 --> 00:08:22,128
+dan jika anda lihat meter kelajuan ini...
+
+156
+00:08:22,128 --> 00:08:23,271
+Biar saya lukiskannya,
+
+157
+00:08:23,271 --> 00:08:30,328
+jadi ini akan jadi 10, 20, 30, 40, 50, 60.
+
+158
+00:08:30,328 --> 00:08:32,748
+Ini berkemungkinan besar bukan bagaimana meter kelajuan Porsche kelihatan seperti,
+
+159
+00:08:32,748 --> 00:08:35,386
+ini mungkinlah untuk meter kelajuan
+
+160
+00:08:35,386 --> 00:08:38,594
+kereta bersilinder 4, saya pasti
+
+161
+00:08:38,594 --> 00:08:40,305
+yang meter kelajuan kereta Porsche mesti akan
+
+162
+00:08:40,305 --> 00:08:42,782
+melebihi tahap 60 batu, tapi anda boleh lihat, bagi sesuatu yang
+
+163
+00:08:42,782 --> 00:08:46,136
+memecut sebegini laju, ialah apabila anda bermula,
+
+164
+00:08:46,136 --> 00:08:48,364
+meter kelajuan akan berada di situ.
+
+165
+00:08:48,364 --> 00:08:51,462
+Dan kemudian, bagi setiap saat, ianya akan menjadi lebih laju sebanyak 20 bpj.
+
+166
+00:08:51,462 --> 00:08:54,758
+Maka, setelah 1 saat, meter kelajuan telah bergerak sejauh ini.
+
+167
+00:08:54,758 --> 00:08:57,837
+Dan selepas 1 lagi saat, meter kelajuan akan bergerak sejauh ini pula.
+
+168
+00:08:57,837 --> 00:09:01,400
+Dan kemudian, setelah 1 lagi saat, meter kelajuan akan bergerak sejauh itu.
+
+169
+00:09:01,400 --> 00:09:04,246
+Dan untuk kebanyakan masanya, anda mungkin akan melekat kepada kerusi anda disebabkan kelajuan ini.

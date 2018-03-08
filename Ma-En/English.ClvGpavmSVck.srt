@@ -1,0 +1,508 @@
+1
+00:00:00,000 --> 00:00:02,000
+[Vigenère Cipher]
+
+2
+00:00:02,000 --> 00:00:04,000
+[Nate Hardison - Harvard University]
+
+3
+00:00:04,000 --> 00:00:07,000
+[This is CS50. - CS50.TV]
+
+4
+00:00:07,000 --> 00:00:09,000
+Meet Alice.
+
+5
+00:00:09,000 --> 00:00:11,260
+Alice has a crush on Bob. 
+
+6
+00:00:11,260 --> 00:00:15,030
+Fortunately for Alice, Bob also has eyes for her. 
+
+7
+00:00:15,030 --> 00:00:17,700
+Unfortunately for their budding romance, 
+
+8
+00:00:17,700 --> 00:00:20,580
+not only do Alice's parents disapprove of Bob, 
+
+9
+00:00:20,580 --> 00:00:23,820
+but Alice's best friend, Evelyn, has a secret crush on Bob
+
+10
+00:00:23,820 --> 00:00:27,290
+and selfishly wants to keep them apart at all costs. 
+
+11
+00:00:27,290 --> 00:00:31,280
+To send secret messages to each other that Alice's parents can't understand, 
+
+12
+00:00:31,280 --> 00:00:34,140
+&gt;&gt; Alice and Bob have been using a Caesar cipher, 
+
+13
+00:00:34,140 --> 00:00:37,410
+which works by shifting the alphabet by a certain number of letters 
+
+14
+00:00:37,410 --> 00:00:39,800
+as a way to generate a new alphabet. 
+
+15
+00:00:39,800 --> 00:00:44,130
+Each letter in the original alphabet is then substituted by its corresponding letter 
+
+16
+00:00:44,130 --> 00:00:46,920
+in the new shifted alphabet. 
+
+17
+00:00:46,920 --> 00:00:50,240
+Alice's favorite number is 3, which Bob knows, 
+
+18
+00:00:50,240 --> 00:00:52,450
+so she uses 3 as her key. 
+
+19
+00:00:52,450 --> 00:00:55,430
+When she shifts the English alphabet by 3 letters, 
+
+20
+00:00:55,430 --> 00:01:00,680
+A becomes D, B becomes E, C becomes F, 
+
+21
+00:01:00,680 --> 00:01:02,670
+and so forth. 
+
+22
+00:01:02,670 --> 00:01:07,460
+&gt;&gt; When she gets to the end of the alphabet--to the letters X, Y, and Z--
+
+23
+00:01:07,460 --> 00:01:09,970
+she just wraps around back to the beginning of the alphabet
+
+24
+00:01:09,970 --> 00:01:14,850
+and substitutes X with A, Y with B, and Z with C. 
+
+25
+00:01:14,850 --> 00:01:18,550
+So when Alice goes to encrypt her secret message to Bob, 
+
+26
+00:01:18,550 --> 00:01:21,520
+namely "Meet me at the park at eleven a.m.,"
+
+27
+00:01:21,520 --> 00:01:23,790
+she just makes the appropriate substitutions. 
+
+28
+00:01:23,790 --> 00:01:30,900
+M becomes P, E becomes H, and so on until her unencrypted plain text message
+
+29
+00:01:30,900 --> 00:01:34,350
+is turned into encrypted cipher text:
+
+30
+00:01:34,350 --> 00:01:37,280
+"Phhw ph dw wkh sdun dw hohyhq dp"
+
+31
+00:01:37,280 --> 00:01:39,370
+is definitely not the most romantic sounding, 
+
+32
+00:01:39,370 --> 00:01:41,650
+but Alice believe that it'll do. 
+
+33
+00:01:41,650 --> 00:01:45,140
+&gt;&gt; Alice gives the message to Evelyn to deliver to Bob's house. 
+
+34
+00:01:45,140 --> 00:01:50,030
+But Evelyn instead takes it back to her room and tries to crack the code. 
+
+35
+00:01:50,030 --> 00:01:55,470
+One of the first things Evelyn notices is that the letter H occurs 7 times in the message,
+
+36
+00:01:55,470 --> 00:01:58,930
+many more times than any other letter. 
+
+37
+00:01:58,930 --> 00:02:01,960
+Knowing that the letter E is the most common in the English language, 
+
+38
+00:02:01,960 --> 00:02:05,390
+occurring almost 13% of the time, 
+
+39
+00:02:05,390 --> 00:02:09,910
+Evelyn guesses that H has been substituted for E in order to make the secret message
+
+40
+00:02:09,910 --> 00:02:14,030
+and tries using a key of 3 to decrypt it. 
+
+41
+00:02:14,030 --> 00:02:19,700
+&gt;&gt; Within minutes, Evelyn figures out Alice's plans and evilly calls Alice's parents. 
+
+42
+00:02:19,700 --> 00:02:22,700
+Had Alice and Bob taken CS50, they would have known of this 
+
+43
+00:02:22,700 --> 00:02:25,750
+frequency-analysis attack on the Caesar cipher, 
+
+44
+00:02:25,750 --> 00:02:28,310
+which allows it to be broken quite quickly. 
+
+45
+00:02:28,310 --> 00:02:32,590
+They would also have known that the cipher is easily subject to a brute-force attack, 
+
+46
+00:02:32,590 --> 00:02:35,940
+whereby Evelyn could have tried all of the possible 25 keys, 
+
+47
+00:02:35,940 --> 00:02:38,440
+or shifts of the English alphabet, 
+
+48
+00:02:38,440 --> 00:02:40,490
+in order to decipher the message. 
+
+49
+00:02:40,490 --> 00:02:43,710
+Why 25 keys and not 26?
+
+50
+00:02:43,710 --> 00:02:49,010
+&gt;&gt; Well, try shifting any letter by 26 positions, and you'll see why. 
+
+51
+00:02:49,010 --> 00:02:52,280
+Anyway, a brute-force attack would have taken Evelyn a bit longer 
+
+52
+00:02:52,280 --> 00:02:56,070
+but not long enough to keep her from thwarting Alice and Bob's plans, 
+
+53
+00:02:56,070 --> 00:02:58,660
+especially if Evelyn has the aid of a computer
+
+54
+00:02:58,660 --> 00:03:02,640
+which could rip through all 25 cases in an instant. 
+
+55
+00:03:02,640 --> 00:03:06,170
+So, this problem also plagued others who used the Caesar cipher, 
+
+56
+00:03:06,170 --> 00:03:10,300
+and therefore people began experimenting with more complex substitution ciphers
+
+57
+00:03:10,300 --> 00:03:14,190
+that use multiple shift values instead of just one. 
+
+58
+00:03:14,190 --> 00:03:18,080
+One of the most well-known of these is called Vigenère cipher.
+
+59
+00:03:18,080 --> 00:03:19,980
+How do we get multiple shift values?
+
+60
+00:03:19,980 --> 00:03:24,630
+Well, instead of using a number as the key, we use a word for the key. 
+
+61
+00:03:24,630 --> 00:03:27,940
+We'll use each letter in the key to generate a number, 
+
+62
+00:03:27,940 --> 00:03:33,670
+and the effect is that we'll have multiple Caesar cipher-style keys for shifting letters. 
+
+63
+00:03:33,670 --> 00:03:36,620
+&gt;&gt; Let's see how this works by encrypting Alice's message to Bob: 
+
+64
+00:03:36,620 --> 00:03:39,010
+Meet me at the park at eleven a.m. 
+
+65
+00:03:39,010 --> 00:03:42,610
+I, personally, think bacon is delicious, 
+
+66
+00:03:42,610 --> 00:03:44,480
+so let's use that as the key. 
+
+67
+00:03:44,480 --> 00:03:48,220
+If we take the message in its unencrypted, plain-text format, 
+
+68
+00:03:48,220 --> 00:03:51,020
+we see that it's 25 letters long. 
+
+69
+00:03:51,020 --> 00:03:55,020
+Bacon has only 5 letters, so we need to repeat it 5 times 
+
+70
+00:03:55,020 --> 00:03:57,200
+to make it match the length of the plain text. 
+
+71
+00:03:57,200 --> 00:03:59,880
+&gt;&gt; Bacon bacon bacon bacon bacon. 
+
+72
+00:03:59,880 --> 00:04:02,300
+As a brief aside, if the number of letters in the plain text
+
+73
+00:04:02,300 --> 00:04:05,780
+didn't divide cleanly by the number of letters in the key, 
+
+74
+00:04:05,780 --> 00:04:08,260
+we just end the final repetition of our key early, 
+
+75
+00:04:08,260 --> 00:04:11,800
+using only the letters we needed to make everything match up. 
+
+76
+00:04:11,800 --> 00:04:14,590
+Now we go about finding the shift values. 
+
+77
+00:04:14,590 --> 00:04:19,100
+&gt;&gt; We're going to do this by using the position of each letter of our key--bacon--
+
+78
+00:04:19,100 --> 00:04:21,560
+in the A to Z alphabet. 
+
+79
+00:04:21,560 --> 00:04:26,060
+Since we're computer scientists, we like to start counting at zero instead of 1, 
+
+80
+00:04:26,060 --> 00:04:30,230
+so we're going to say that the position of the first letter of bacon--B--
+
+81
+00:04:30,230 --> 00:04:33,840
+is in position 1 in the zero-indexed A to Z alphabet,
+
+82
+00:04:33,840 --> 00:04:38,300
+not 2, and the position of A is zero, not 1. 
+
+83
+00:04:38,300 --> 00:04:42,450
+Using this algorithm, we can find the shift values for each letter. 
+
+84
+00:04:42,450 --> 00:04:45,330
+&gt;&gt; To encrypt the plain text and generate cipher text, 
+
+85
+00:04:45,330 --> 00:04:49,070
+we just shift each letter in the plain text by the specified amount,
+
+86
+00:04:49,070 --> 00:04:54,140
+just like we do with the Caesar cipher, wrapping from Z back to A if necessary. 
+
+87
+00:04:54,140 --> 00:04:57,880
+M gets shifted by 1 place to become N. 
+
+88
+00:04:57,880 --> 00:05:02,350
+The first E doesn't shift at all, but we shift the second E by 2 places to G
+
+89
+00:05:02,350 --> 00:05:06,200
+and T by 14 places to H. 
+
+90
+00:05:06,200 --> 00:05:08,610
+If we work through the plain text, we end up with,
+
+91
+00:05:08,610 --> 00:05:12,580
+"Negh zf av huf pcfx bt gzrwep oz." 
+
+92
+00:05:12,580 --> 00:05:16,620
+Again, not very romantic-sounding but definitely cryptic. 
+
+93
+00:05:16,620 --> 00:05:19,750
+If Alice and Bob had known about Vigenère cipher, 
+
+94
+00:05:19,750 --> 00:05:23,330
+would they have been safe from Evelyn's prying eyes?
+
+95
+00:05:23,330 --> 00:05:24,870
+What do you think?
+
+96
+00:05:24,870 --> 00:05:27,450
+Would you want to log into your bank account if your bank decided to use 
+
+97
+00:05:27,450 --> 00:05:32,720
+&gt;&gt; Vigenère cipher to encrypt your communication using your password as your key?
+
+98
+00:05:32,720 --> 00:05:34,810
+If I were you, I wouldn't. 
+
+99
+00:05:34,810 --> 00:05:38,720
+And while Evelyn might be kept busy long enough for Alice and Bob to have their meet-up, 
+
+100
+00:05:38,720 --> 00:05:41,600
+it's not worth it for Alice and Bob to chance it.
+
+101
+00:05:41,600 --> 00:05:45,780
+Vigenère cipher is relatively easy to break if you know the length of the key
+
+102
+00:05:45,780 --> 00:05:48,490
+because then you can treat the encrypted cipher text
+
+103
+00:05:48,490 --> 00:05:52,840
+as the product of a few interwoven Caesar ciphers. 
+
+104
+00:05:52,840 --> 00:05:55,950
+&gt;&gt; Finding the length of the key isn't terribly hard, either. 
+
+105
+00:05:55,950 --> 00:06:00,520
+If the original plain-text message is long enough that some words occur multiple times, 
+
+106
+00:06:00,520 --> 00:06:04,420
+eventually you'll see repetition cropping up in the encrypted cipher text, 
+
+107
+00:06:04,420 --> 00:06:10,010
+as in this example, where you see MONCY appear twice. 
+
+108
+00:06:10,010 --> 00:06:13,800
+Additionally, you can perform a brute-force attack on the cipher. 
+
+109
+00:06:13,800 --> 00:06:17,220
+This does take significantly longer than a brute-force attack on the Caesar cipher, 
+
+110
+00:06:17,220 --> 00:06:20,670
+which can be done almost instantaneously with a computer
+
+111
+00:06:20,670 --> 00:06:27,130
+since instead of 25 cases to check you've got 26ⁿ - 1 possibilities, 
+
+112
+00:06:27,130 --> 00:06:29,580
+where n is the length of the unknown key. 
+
+113
+00:06:29,580 --> 00:06:34,040
+&gt;&gt; This is because each letter in the key could be any of the 26 letters,
+
+114
+00:06:34,040 --> 00:06:38,280
+A through Z, and a smart person would try to use a key that can't be found in a dictionary, 
+
+115
+00:06:38,280 --> 00:06:44,280
+which means that you'd have to test all of the weird letter combinations, like ZXXXFF, 
+
+116
+00:06:44,280 --> 00:06:47,690
+and not just a couple hundred thousand words in the dictionary. 
+
+117
+00:06:47,690 --> 00:06:53,200
+The minus 1 comes into the math because you wouldn't want to use a key with only A's, 
+
+118
+00:06:53,200 --> 00:06:56,200
+since with our zero-indexed alphabet that would give you the same effect
+
+119
+00:06:56,200 --> 00:06:59,620
+as using a Caesar cipher with a key of zero. 
+
+120
+00:06:59,620 --> 00:07:04,120
+Anyway, 26ⁿ - 1 does get large rather quickly, 
+
+121
+00:07:04,120 --> 00:07:08,080
+but while you definitely wouldn't want to try breaking a cipher by hand this way, 
+
+122
+00:07:08,080 --> 00:07:11,080
+this is definitely doable with a computer. 
+
+123
+00:07:11,080 --> 00:07:14,030
+Fortunately for Alice and Bob, and for online banking, 
+
+124
+00:07:14,030 --> 00:07:17,890
+cryptographers have developed more secure ways to encrypt secret messages
+
+125
+00:07:17,890 --> 00:07:19,690
+from prying eyes. 
+
+126
+00:07:19,690 --> 00:07:22,400
+&gt;&gt; However, that's a topic for another time. 
+
+127
+00:07:22,400 --> 00:07:26,210
+My name is Nate Hardison. This is CS50. 
+

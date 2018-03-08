@@ -1,0 +1,1399 @@
+1
+00:00:03,000 --> 00:00:06,000
+I wrote a letter last week talking about the work of the foundation,
+
+2
+00:00:06,000 --> 00:00:09,000
+sharing some of the problems.
+
+3
+00:00:09,000 --> 00:00:12,000
+And Warren Buffet had recommended I do that --
+
+4
+00:00:12,000 --> 00:00:15,000
+being honest about what was going well, what wasn't,
+
+5
+00:00:15,000 --> 00:00:18,000
+and making it kind of an annual thing.
+
+6
+00:00:18,000 --> 00:00:21,000
+A goal I had there was to draw more people in to work on those problems,
+
+7
+00:00:21,000 --> 00:00:24,000
+because I think there are some very important problems
+
+8
+00:00:24,000 --> 00:00:27,000
+that don't get worked on naturally.
+
+9
+00:00:27,000 --> 00:00:32,000
+That is, the market does not drive the scientists,
+
+10
+00:00:32,000 --> 00:00:35,000
+the communicators, the thinkers, the governments
+
+11
+00:00:35,000 --> 00:00:38,000
+to do the right things.
+
+12
+00:00:38,000 --> 00:00:41,000
+And only by paying attention to these things
+
+13
+00:00:41,000 --> 00:00:45,000
+and having brilliant people who care and draw other people in
+
+14
+00:00:45,000 --> 00:00:47,000
+can we make as much progress as we need to.
+
+15
+00:00:47,000 --> 00:00:50,000
+So this morning I'm going to share two of these problems
+
+16
+00:00:50,000 --> 00:00:53,000
+and talk about where they stand.
+
+17
+00:00:53,000 --> 00:00:56,000
+But before I dive into those I want to admit that I am an optimist.
+
+18
+00:00:57,000 --> 00:01:01,000
+Any tough problem, I think it can be solved.
+
+19
+00:01:01,000 --> 00:01:04,000
+And part of the reason I feel that way is looking at the past.
+
+20
+00:01:04,000 --> 00:01:09,000
+Over the past century, average lifespan has more than doubled.
+
+21
+00:01:09,000 --> 00:01:12,000
+Another statistic, perhaps my favorite,
+
+22
+00:01:12,000 --> 00:01:15,000
+is to look at childhood deaths.
+
+23
+00:01:15,000 --> 00:01:21,000
+As recently as 1960, 110 million children were born,
+
+24
+00:01:21,000 --> 00:01:25,000
+and 20 million of those died before the age of five.
+
+25
+00:01:25,000 --> 00:01:29,000
+Five years ago, 135 million children were born -- so, more --
+
+26
+00:01:29,000 --> 00:01:34,000
+and less than 10 million of them died before the age of five.
+
+27
+00:01:35,000 --> 00:01:40,000
+So that's a factor of two reduction of the childhood death rate.
+
+28
+00:01:40,000 --> 00:01:42,000
+It's a phenomenal thing.
+
+29
+00:01:42,000 --> 00:01:45,000
+Each one of those lives matters a lot.
+
+30
+00:01:45,000 --> 00:01:50,000
+And the key reason we were able to it was not only rising incomes
+
+31
+00:01:50,000 --> 00:01:53,000
+but also a few key breakthroughs:
+
+32
+00:01:53,000 --> 00:01:56,000
+vaccines that were used more widely.
+
+33
+00:01:56,000 --> 00:01:59,000
+For example, measles was four million of the deaths
+
+34
+00:01:59,000 --> 00:02:01,000
+back as recently as 1990
+
+35
+00:02:01,000 --> 00:02:04,000
+and now is under 400,000.
+
+36
+00:02:04,000 --> 00:02:06,000
+So we really can make changes.
+
+37
+00:02:06,000 --> 00:02:09,000
+The next breakthrough is to cut that 10 million in half again.
+
+38
+00:02:10,000 --> 00:02:14,000
+And I think that's doable in well under 20 years.
+
+39
+00:02:14,000 --> 00:02:18,000
+Why? Well there's only a few diseases
+
+40
+00:02:18,000 --> 00:02:21,000
+that account for the vast majority of those deaths:
+
+41
+00:02:21,000 --> 00:02:26,000
+diarrhea, pneumonia and malaria.
+
+42
+00:02:27,000 --> 00:02:32,000
+So that brings us to the first problem that I'll raise this morning,
+
+43
+00:02:32,000 --> 00:02:39,000
+which is how do we stop a deadly disease that's spread by mosquitos?
+
+44
+00:02:39,000 --> 00:02:41,000
+Well, what's the history of this disease?
+
+45
+00:02:41,000 --> 00:02:44,000
+It's been a severe disease for thousands of years.
+
+46
+00:02:44,000 --> 00:02:47,000
+In fact, if we look at the genetic code,
+
+47
+00:02:47,000 --> 00:02:50,000
+it's the only disease we can see
+
+48
+00:02:50,000 --> 00:02:52,000
+that people who lived in Africa
+
+49
+00:02:52,000 --> 00:02:55,000
+actually evolved several things to avoid malarial deaths.
+
+50
+00:02:56,000 --> 00:03:02,000
+Deaths actually peaked at a bit over five million in the 1930s.
+
+51
+00:03:02,000 --> 00:03:05,000
+So it was absolutely gigantic.
+
+52
+00:03:05,000 --> 00:03:08,000
+And the disease was all over the world.
+
+53
+00:03:08,000 --> 00:03:11,000
+A terrible disease. It was in the United States. It was in Europe.
+
+54
+00:03:11,000 --> 00:03:14,000
+People didn't know what caused it until the early 1900s,
+
+55
+00:03:14,000 --> 00:03:20,000
+when a British military man figured out that it was mosquitos.
+
+56
+00:03:20,000 --> 00:03:22,000
+So it was everywhere.
+
+57
+00:03:22,000 --> 00:03:26,000
+And two tools helped bring the death rate down.
+
+58
+00:03:26,000 --> 00:03:29,000
+One was killing the mosquitos with DDT.
+
+59
+00:03:29,000 --> 00:03:34,000
+The other was treating the patients with quinine, or quinine derivatives.
+
+60
+00:03:34,000 --> 00:03:38,000
+And so that's why the death rate did come down.
+
+61
+00:03:38,000 --> 00:03:41,000
+Now, ironically, what happened was
+
+62
+00:03:41,000 --> 00:03:44,000
+it was eliminated from all the temperate zones,
+
+63
+00:03:44,000 --> 00:03:45,000
+which is where the rich countries are.
+
+64
+00:03:45,000 --> 00:03:47,000
+So we can see: 1900, it's everywhere.
+
+65
+00:03:47,000 --> 00:03:50,000
+1945, it's still most places.
+
+66
+00:03:51,000 --> 00:03:54,000
+1970, the U.S. and most of Europe have gotten rid of it.
+
+67
+00:03:54,000 --> 00:03:57,000
+1990, you've gotten most of the northern areas.
+
+68
+00:03:57,000 --> 00:04:01,000
+And more recently you can see it's just around the equator.
+
+69
+00:04:03,000 --> 00:04:07,000
+And so this leads to the paradox that
+
+70
+00:04:07,000 --> 00:04:09,000
+because the disease is only in the poorer countries,
+
+71
+00:04:09,000 --> 00:04:12,000
+it doesn't get much investment.
+
+72
+00:04:13,000 --> 00:04:17,000
+For example, there's more money put into baldness drugs
+
+73
+00:04:17,000 --> 00:04:19,000
+than are put into malaria.
+
+74
+00:04:20,000 --> 00:04:23,000
+Now, baldness, it's a terrible thing.
+
+75
+00:04:23,000 --> 00:04:26,000
+(Laughter)
+
+76
+00:04:26,000 --> 00:04:29,000
+And rich men are afflicted.
+
+77
+00:04:29,000 --> 00:04:34,000
+And so that's why that priority has been set.
+
+78
+00:04:35,000 --> 00:04:37,000
+But, malaria --
+
+79
+00:04:37,000 --> 00:04:39,000
+even the million deaths a year caused by malaria
+
+80
+00:04:39,000 --> 00:04:41,000
+greatly understate its impact.
+
+81
+00:04:41,000 --> 00:04:44,000
+Over 200 million people at any one time are suffering from it.
+
+82
+00:04:44,000 --> 00:04:49,000
+It means that you can't get the economies in these areas going
+
+83
+00:04:49,000 --> 00:04:52,000
+because it just holds things back so much.
+
+84
+00:04:52,000 --> 00:04:56,000
+Now, malaria is of course transmitted by mosquitos.
+
+85
+00:04:56,000 --> 00:05:01,000
+I brought some here, just so you could experience this.
+
+86
+00:05:01,000 --> 00:05:05,000
+We'll let those roam around the auditorium a little bit.
+
+87
+00:05:05,000 --> 00:05:08,000
+(Laughter)
+
+88
+00:05:08,000 --> 00:05:11,000
+There's no reason only poor people should have the experience.
+
+89
+00:05:11,000 --> 00:05:18,000
+(Laughter) (Applause)
+
+90
+00:05:18,000 --> 00:05:21,000
+Those mosquitos are not infected.
+
+91
+00:05:23,000 --> 00:05:27,000
+So we've come up with a few new things. We've got bed nets.
+
+92
+00:05:27,000 --> 00:05:30,000
+And bed nets are a great tool.
+
+93
+00:05:30,000 --> 00:05:33,000
+What it means is the mother and child stay under the bed net at night,
+
+94
+00:05:33,000 --> 00:05:38,000
+so the mosquitos that bite late at night can't get at them.
+
+95
+00:05:38,000 --> 00:05:43,000
+And when you use indoor spraying with DDT
+
+96
+00:05:43,000 --> 00:05:44,000
+and those nets
+
+97
+00:05:44,000 --> 00:05:47,000
+you can cut deaths by over 50 percent.
+
+98
+00:05:47,000 --> 00:05:50,000
+And that's happened now in a number of countries.
+
+99
+00:05:50,000 --> 00:05:52,000
+It's great to see.
+
+100
+00:05:52,000 --> 00:05:55,000
+But we have to be careful because malaria --
+
+101
+00:05:55,000 --> 00:06:00,000
+the parasite evolves and the mosquito evolves.
+
+102
+00:06:00,000 --> 00:06:04,000
+So every tool that we've ever had in the past has eventually become ineffective.
+
+103
+00:06:04,000 --> 00:06:07,000
+And so you end up with two choices.
+
+104
+00:06:07,000 --> 00:06:11,000
+If you go into a country with the right tools and the right way,
+
+105
+00:06:11,000 --> 00:06:14,000
+you do it vigorously,
+
+106
+00:06:14,000 --> 00:06:17,000
+you can actually get a local eradication.
+
+107
+00:06:17,000 --> 00:06:19,000
+And that's where we saw the malaria map shrinking.
+
+108
+00:06:19,000 --> 00:06:22,000
+Or, if you go in kind of half-heartedly,
+
+109
+00:06:22,000 --> 00:06:25,000
+for a period of time you'll reduce the disease burden,
+
+110
+00:06:25,000 --> 00:06:29,000
+but eventually those tools will become ineffective,
+
+111
+00:06:29,000 --> 00:06:32,000
+and the death rate will soar back up again.
+
+112
+00:06:32,000 --> 00:06:37,000
+And the world has gone through this where it paid attention and then didn't pay attention.
+
+113
+00:06:37,000 --> 00:06:39,000
+Now we're on the upswing.
+
+114
+00:06:39,000 --> 00:06:42,000
+Bed net funding is up.
+
+115
+00:06:42,000 --> 00:06:45,000
+There's new drug discovery going on.
+
+116
+00:06:45,000 --> 00:06:49,000
+Our foundation has backed a vaccine that's going into phase three trial
+
+117
+00:06:49,000 --> 00:06:50,000
+that starts in a couple months.
+
+118
+00:06:50,000 --> 00:06:53,000
+And that should save over two thirds of the lives if it's effective.
+
+119
+00:06:53,000 --> 00:06:56,000
+So we're going to have these new tools.
+
+120
+00:06:56,000 --> 00:06:59,000
+But that alone doesn't give us the road map.
+
+121
+00:06:59,000 --> 00:07:02,000
+Because the road map to get rid of this disease
+
+122
+00:07:02,000 --> 00:07:04,000
+involves many things.
+
+123
+00:07:04,000 --> 00:07:07,000
+It involves communicators to keep the funding high,
+
+124
+00:07:07,000 --> 00:07:09,000
+to keep the visibility high,
+
+125
+00:07:09,000 --> 00:07:11,000
+to tell the success stories.
+
+126
+00:07:11,000 --> 00:07:13,000
+It involves social scientists,
+
+127
+00:07:13,000 --> 00:07:16,000
+so we know how to get not just 70 percent of the people to use the bed nets,
+
+128
+00:07:16,000 --> 00:07:18,000
+but 90 percent.
+
+129
+00:07:18,000 --> 00:07:21,000
+We need mathematicians to come in and simulate this,
+
+130
+00:07:21,000 --> 00:07:27,000
+to do Monte Carlo things to understand how these tools combine and work together.
+
+131
+00:07:27,000 --> 00:07:30,000
+Of course we need drug companies to give us their expertise.
+
+132
+00:07:30,000 --> 00:07:35,000
+We need rich-world governments to be very generous in providing aid for these things.
+
+133
+00:07:35,000 --> 00:07:38,000
+And so as these elements come together,
+
+134
+00:07:38,000 --> 00:07:41,000
+I'm quite optimistic
+
+135
+00:07:41,000 --> 00:07:44,000
+that we will be able to eradicate malaria.
+
+136
+00:07:45,000 --> 00:07:48,000
+Now let me turn to a second question,
+
+137
+00:07:48,000 --> 00:07:51,000
+a fairly different question, but I'd say equally important.
+
+138
+00:07:52,000 --> 00:07:55,000
+And this is: How do you make a teacher great?
+
+139
+00:07:55,000 --> 00:08:00,000
+It seems like the kind of question that people would spend a lot of time on,
+
+140
+00:08:00,000 --> 00:08:03,000
+and we'd understand very well.
+
+141
+00:08:03,000 --> 00:08:06,000
+And the answer is, really, that we don't.
+
+142
+00:08:07,000 --> 00:08:10,000
+Let's start with why this is important.
+
+143
+00:08:10,000 --> 00:08:14,000
+Well, all of us here, I'll bet, had some great teachers.
+
+144
+00:08:14,000 --> 00:08:17,000
+We all had a wonderful education.
+
+145
+00:08:17,000 --> 00:08:20,000
+That's part of the reason we're here today,
+
+146
+00:08:20,000 --> 00:08:22,000
+part of the reason we're successful.
+
+147
+00:08:22,000 --> 00:08:25,000
+I can say that, even though I'm a college drop-out.
+
+148
+00:08:25,000 --> 00:08:28,000
+I had great teachers.
+
+149
+00:08:28,000 --> 00:08:33,000
+In fact, in the United States, the teaching system has worked fairly well.
+
+150
+00:08:33,000 --> 00:08:38,000
+There are fairly effective teachers in a narrow set of places.
+
+151
+00:08:38,000 --> 00:08:41,000
+So the top 20 percent of students have gotten a good education.
+
+152
+00:08:41,000 --> 00:08:45,000
+And those top 20 percent have been the best in the world,
+
+153
+00:08:45,000 --> 00:08:48,000
+if you measure them against the other top 20 percent.
+
+154
+00:08:48,000 --> 00:08:53,000
+And they've gone on to create the revolutions in software and biotechnology
+
+155
+00:08:53,000 --> 00:08:56,000
+and keep the U.S. at the forefront.
+
+156
+00:08:57,000 --> 00:09:00,000
+Now, the strength for those top 20 percent
+
+157
+00:09:00,000 --> 00:09:03,000
+is starting to fade on a relative basis,
+
+158
+00:09:03,000 --> 00:09:09,000
+but even more concerning is the education that the balance of people are getting.
+
+159
+00:09:09,000 --> 00:09:14,000
+Not only has that been weak. it's getting weaker.
+
+160
+00:09:14,000 --> 00:09:18,000
+And if you look at the economy, it really is only providing opportunities now
+
+161
+00:09:18,000 --> 00:09:21,000
+to people with a better education.
+
+162
+00:09:21,000 --> 00:09:24,000
+And we have to change this.
+
+163
+00:09:24,000 --> 00:09:27,000
+We have to change it so that people have equal opportunity.
+
+164
+00:09:27,000 --> 00:09:30,000
+We have to change it so that the country is strong
+
+165
+00:09:30,000 --> 00:09:32,000
+and stays at the forefront
+
+166
+00:09:32,000 --> 00:09:35,000
+of things that are driven by advanced education,
+
+167
+00:09:35,000 --> 00:09:37,000
+like science and mathematics.
+
+168
+00:09:37,000 --> 00:09:40,000
+When I first learned the statistics,
+
+169
+00:09:40,000 --> 00:09:43,000
+I was pretty stunned at how bad things are.
+
+170
+00:09:43,000 --> 00:09:46,000
+Over 30 percent of kids never finish high school.
+
+171
+00:09:46,000 --> 00:09:49,000
+And that had been covered up for a long time
+
+172
+00:09:49,000 --> 00:09:52,000
+because they always took the dropout rate as the number
+
+173
+00:09:52,000 --> 00:09:57,000
+who started in senior year and compared it to the number who finished senior year.
+
+174
+00:09:57,000 --> 00:09:59,000
+Because they weren't tracking where the kids were before that.
+
+175
+00:09:59,000 --> 00:10:02,000
+But most of the dropouts had taken place before that.
+
+176
+00:10:02,000 --> 00:10:05,000
+They had to raise the stated dropout rate
+
+177
+00:10:05,000 --> 00:10:07,000
+as soon as that tracking was done
+
+178
+00:10:07,000 --> 00:10:09,000
+to over 30 percent.
+
+179
+00:10:09,000 --> 00:10:12,000
+For minority kids, it's over 50 percent.
+
+180
+00:10:13,000 --> 00:10:16,000
+And even if you graduate from high school,
+
+181
+00:10:16,000 --> 00:10:19,000
+if you're low-income,
+
+182
+00:10:19,000 --> 00:10:23,000
+you have less than a 25 percent chance of ever completing a college degree.
+
+183
+00:10:23,000 --> 00:10:28,000
+If you're low-income in the United States,
+
+184
+00:10:28,000 --> 00:10:32,000
+you have a higher chance of going to jail
+
+185
+00:10:32,000 --> 00:10:34,000
+than you do of getting a four-year degree.
+
+186
+00:10:34,000 --> 00:10:37,000
+And that doesn't seem entirely fair.
+
+187
+00:10:37,000 --> 00:10:40,000
+So, how do you make education better?
+
+188
+00:10:40,000 --> 00:10:44,000
+Now, our foundation, for the last nine years, has invested in this.
+
+189
+00:10:44,000 --> 00:10:47,000
+There's many people working on it.
+
+190
+00:10:47,000 --> 00:10:50,000
+We've worked on small schools,
+
+191
+00:10:50,000 --> 00:10:52,000
+we've funded scholarships,
+
+192
+00:10:52,000 --> 00:10:54,000
+we've done things in libraries.
+
+193
+00:10:54,000 --> 00:10:56,000
+A lot of these things had a good effect.
+
+194
+00:10:56,000 --> 00:10:59,000
+But the more we looked at it, the more we realized that having great teachers
+
+195
+00:10:59,000 --> 00:11:02,000
+was the very key thing.
+
+196
+00:11:02,000 --> 00:11:05,000
+And we hooked up with some people studying
+
+197
+00:11:05,000 --> 00:11:08,000
+how much variation is there between teachers,
+
+198
+00:11:08,000 --> 00:11:11,000
+between, say, the top quartile -- the very best --
+
+199
+00:11:11,000 --> 00:11:13,000
+and the bottom quartile.
+
+200
+00:11:13,000 --> 00:11:16,000
+How much variation is there within a school or between schools?
+
+201
+00:11:16,000 --> 00:11:20,000
+And the answer is that these variations are absolutely unbelievable.
+
+202
+00:11:21,000 --> 00:11:26,000
+A top quartile teacher will increase the performance of their class --
+
+203
+00:11:26,000 --> 00:11:29,000
+based on test scores --
+
+204
+00:11:29,000 --> 00:11:31,000
+by over 10 percent in a single year.
+
+205
+00:11:31,000 --> 00:11:32,000
+What does that mean?
+
+206
+00:11:32,000 --> 00:11:35,000
+That means that if the entire U.S., for two years,
+
+207
+00:11:35,000 --> 00:11:38,000
+had top quartile teachers,
+
+208
+00:11:38,000 --> 00:11:42,000
+the entire difference between us and Asia would go away.
+
+209
+00:11:42,000 --> 00:11:48,000
+Within four years we would be blowing everyone in the world away.
+
+210
+00:11:48,000 --> 00:11:51,000
+So, it's simple. All you need are those top quartile teachers.
+
+211
+00:11:53,000 --> 00:11:57,000
+And so you'd say, "Wow, we should reward those people.
+
+212
+00:11:57,000 --> 00:12:00,000
+We should retain those people.
+
+213
+00:12:00,000 --> 00:12:03,000
+We should find out what they're doing and transfer that skill to other people."
+
+214
+00:12:03,000 --> 00:12:08,000
+But I can tell you that absolutely is not happening today.
+
+215
+00:12:08,000 --> 00:12:11,000
+What are the characteristics of this top quartile?
+
+216
+00:12:11,000 --> 00:12:13,000
+What do they look like?
+
+217
+00:12:13,000 --> 00:12:16,000
+You might think these must be very senior teachers.
+
+218
+00:12:16,000 --> 00:12:18,000
+And the answer is no.
+
+219
+00:12:18,000 --> 00:12:21,000
+Once somebody has taught for three years
+
+220
+00:12:21,000 --> 00:12:26,000
+their teaching quality does not change thereafter.
+
+221
+00:12:26,000 --> 00:12:29,000
+The variation is very, very small.
+
+222
+00:12:29,000 --> 00:12:34,000
+You might think these are people with master's degrees.
+
+223
+00:12:34,000 --> 00:12:37,000
+They've gone back and they've gotten their Master's of Education.
+
+224
+00:12:37,000 --> 00:12:40,000
+This chart takes four different factors
+
+225
+00:12:40,000 --> 00:12:43,000
+and says how much do they explain teaching quality.
+
+226
+00:12:43,000 --> 00:12:46,000
+That bottom thing, which says there's no effect at all,
+
+227
+00:12:46,000 --> 00:12:49,000
+is a master's degree.
+
+228
+00:12:50,000 --> 00:12:54,000
+Now, the way the pay system works is there's two things that are rewarded.
+
+229
+00:12:54,000 --> 00:12:56,000
+One is seniority.
+
+230
+00:12:56,000 --> 00:12:59,000
+Because your pay goes up and you vest into your pension.
+
+231
+00:12:59,000 --> 00:13:02,000
+The second is giving extra money to people who get their master's degree.
+
+232
+00:13:02,000 --> 00:13:05,000
+But it in no way is associated with being a better teacher.
+
+233
+00:13:05,000 --> 00:13:08,000
+Teach for America: slight effect.
+
+234
+00:13:08,000 --> 00:13:12,000
+For math teachers majoring in math there's a measurable effect.
+
+235
+00:13:12,000 --> 00:13:17,000
+But, overwhelmingly, it's your past performance.
+
+236
+00:13:17,000 --> 00:13:20,000
+There are some people who are very good at this.
+
+237
+00:13:20,000 --> 00:13:23,000
+And we've done almost nothing
+
+238
+00:13:23,000 --> 00:13:26,000
+to study what that is
+
+239
+00:13:26,000 --> 00:13:29,000
+and to draw it in and to replicate it,
+
+240
+00:13:29,000 --> 00:13:32,000
+to raise the average capability --
+
+241
+00:13:32,000 --> 00:13:35,000
+or to encourage the people with it to stay in the system.
+
+242
+00:13:35,000 --> 00:13:38,000
+You might say, "Do the good teachers stay and the bad teacher's leave?"
+
+243
+00:13:38,000 --> 00:13:41,000
+The answer is, on average, the slightly better teachers leave the system.
+
+244
+00:13:41,000 --> 00:13:44,000
+And it's a system with very high turnover.
+
+245
+00:13:45,000 --> 00:13:51,000
+Now, there are a few places -- very few -- where great teachers are being made.
+
+246
+00:13:51,000 --> 00:13:56,000
+A good example of one is a set of charter schools called KIPP.
+
+247
+00:13:56,000 --> 00:13:59,000
+KIPP means Knowledge Is Power.
+
+248
+00:13:59,000 --> 00:14:02,000
+It's an unbelievable thing.
+
+249
+00:14:02,000 --> 00:14:05,000
+They have 66 schools -- mostly middle schools, some high schools --
+
+250
+00:14:05,000 --> 00:14:09,000
+and what goes on is great teaching.
+
+251
+00:14:09,000 --> 00:14:12,000
+They take the poorest kids,
+
+252
+00:14:12,000 --> 00:14:16,000
+and over 96 percent of their high school graduates go to four-year colleges.
+
+253
+00:14:16,000 --> 00:14:19,000
+And the whole spirit and attitude in those schools
+
+254
+00:14:19,000 --> 00:14:22,000
+is very different than in the normal public schools.
+
+255
+00:14:22,000 --> 00:14:26,000
+They're team teaching. They're constantly improving their teachers.
+
+256
+00:14:26,000 --> 00:14:29,000
+They're taking data, the test scores,
+
+257
+00:14:29,000 --> 00:14:32,000
+and saying to a teacher, "Hey, you caused this amount of increase."
+
+258
+00:14:32,000 --> 00:14:36,000
+They're deeply engaged in making teaching better.
+
+259
+00:14:36,000 --> 00:14:39,000
+When you actually go and sit in one of these classrooms,
+
+260
+00:14:39,000 --> 00:14:42,000
+at first it's very bizarre.
+
+261
+00:14:42,000 --> 00:14:45,000
+I sat down and I thought, "What is going on?"
+
+262
+00:14:45,000 --> 00:14:48,000
+The teacher was running around, and the energy level was high.
+
+263
+00:14:48,000 --> 00:14:51,000
+I thought, "I'm in the sports rally or something.
+
+264
+00:14:51,000 --> 00:14:53,000
+What's going on?"
+
+265
+00:14:53,000 --> 00:14:56,000
+And the teacher was constantly scanning to see which kids weren't paying attention,
+
+266
+00:14:56,000 --> 00:14:58,000
+which kids were bored,
+
+267
+00:14:58,000 --> 00:15:01,000
+and calling kids rapidly, putting things up on the board.
+
+268
+00:15:01,000 --> 00:15:03,000
+It was a very dynamic environment,
+
+269
+00:15:03,000 --> 00:15:06,000
+because particularly in those middle school years -- fifth through eighth grade --
+
+270
+00:15:06,000 --> 00:15:09,000
+keeping people engaged and setting the tone
+
+271
+00:15:09,000 --> 00:15:12,000
+that everybody in the classroom needs to pay attention,
+
+272
+00:15:12,000 --> 00:15:18,000
+nobody gets to make fun of it or have the position of the kid who doesn't want to be there.
+
+273
+00:15:18,000 --> 00:15:20,000
+Everybody needs to be involved.
+
+274
+00:15:20,000 --> 00:15:22,000
+And so KIPP is doing it.
+
+275
+00:15:23,000 --> 00:15:26,000
+How does that compare to a normal school?
+
+276
+00:15:26,000 --> 00:15:30,000
+Well, in a normal school, teachers aren't told how good they are.
+
+277
+00:15:30,000 --> 00:15:33,000
+The data isn't gathered.
+
+278
+00:15:33,000 --> 00:15:35,000
+In the teacher's contract,
+
+279
+00:15:35,000 --> 00:15:39,000
+it will limit the number of times the principal can come into the classroom --
+
+280
+00:15:39,000 --> 00:15:41,000
+sometimes to once per year.
+
+281
+00:15:41,000 --> 00:15:44,000
+And they need advanced notice to do that.
+
+282
+00:15:44,000 --> 00:15:47,000
+So imagine running a factory where you've got these workers,
+
+283
+00:15:47,000 --> 00:15:50,000
+some of them just making crap
+
+284
+00:15:50,000 --> 00:15:54,000
+and the management is told, "Hey, you can only come down here once a year,
+
+285
+00:15:54,000 --> 00:15:56,000
+but you need to let us know, because we might actually fool you,
+
+286
+00:15:56,000 --> 00:16:00,000
+and try and do a good job in that one brief moment."
+
+287
+00:16:00,000 --> 00:16:05,000
+Even a teacher who wants to improve doesn't have the tools to do it.
+
+288
+00:16:05,000 --> 00:16:07,000
+They don't have the test scores,
+
+289
+00:16:07,000 --> 00:16:10,000
+and there's a whole thing of trying to block the data.
+
+290
+00:16:10,000 --> 00:16:13,000
+For example, New York passed a law
+
+291
+00:16:13,000 --> 00:16:18,000
+that said that the teacher improvement data could not be made available and used
+
+292
+00:16:18,000 --> 00:16:21,000
+in the tenure decision for the teachers.
+
+293
+00:16:22,000 --> 00:16:25,000
+And so that's sort of working in the opposite direction.
+
+294
+00:16:25,000 --> 00:16:27,000
+But I'm optimistic about this,
+
+295
+00:16:27,000 --> 00:16:31,000
+I think there are some clear things we can do.
+
+296
+00:16:31,000 --> 00:16:35,000
+First of all, there's a lot more testing going on,
+
+297
+00:16:35,000 --> 00:16:38,000
+and that's given us the picture of where we are.
+
+298
+00:16:38,000 --> 00:16:42,000
+And that allows us to understand who's doing it well,
+
+299
+00:16:42,000 --> 00:16:45,000
+and call them out, and find out what those techniques are.
+
+300
+00:16:45,000 --> 00:16:48,000
+Of course, digital video is cheap now.
+
+301
+00:16:48,000 --> 00:16:50,000
+Putting a few cameras in the classroom
+
+302
+00:16:50,000 --> 00:16:56,000
+and saying that things are being recorded on an ongoing basis
+
+303
+00:16:56,000 --> 00:16:58,000
+is very practical in all public schools.
+
+304
+00:16:58,000 --> 00:17:01,000
+And so every few weeks teachers could sit down
+
+305
+00:17:01,000 --> 00:17:04,000
+and say, "OK, here's a little clip of something I thought I did well.
+
+306
+00:17:04,000 --> 00:17:07,000
+Here's a little clip of something I think I did poorly.
+
+307
+00:17:07,000 --> 00:17:10,000
+Advise me -- when this kid acted up, how should I have dealt with that?"
+
+308
+00:17:10,000 --> 00:17:14,000
+And they could all sit and work together on those problems.
+
+309
+00:17:14,000 --> 00:17:18,000
+You can take the very best teachers and kind of annotate it,
+
+310
+00:17:18,000 --> 00:17:22,000
+have it so everyone sees who is the very best at teaching this stuff.
+
+311
+00:17:22,000 --> 00:17:24,000
+You can take those great courses and make them available
+
+312
+00:17:24,000 --> 00:17:29,000
+so that a kid could go out and watch the physics course, learn from that.
+
+313
+00:17:29,000 --> 00:17:31,000
+If you have a kid who's behind,
+
+314
+00:17:31,000 --> 00:17:35,000
+you would know you could assign them that video to watch and review the concept.
+
+315
+00:17:35,000 --> 00:17:39,000
+And in fact, these free courses could not only be available just on the Internet,
+
+316
+00:17:39,000 --> 00:17:43,000
+but you could make it so that DVDs were always available,
+
+317
+00:17:43,000 --> 00:17:50,000
+and so anybody who has access to a DVD player can have the very best teachers.
+
+318
+00:17:50,000 --> 00:17:55,000
+And so by thinking of this as a personnel system,
+
+319
+00:17:55,000 --> 00:17:57,000
+we can do it much better.
+
+320
+00:17:57,000 --> 00:17:59,000
+Now there's a book actually, about KIPP --
+
+321
+00:17:59,000 --> 00:18:01,000
+the place that this is going on --
+
+322
+00:18:01,000 --> 00:18:06,000
+that Jay Matthews, a news reporter, wrote -- called, "Work Hard, Be Nice."
+
+323
+00:18:06,000 --> 00:18:08,000
+And I thought it was so fantastic.
+
+324
+00:18:08,000 --> 00:18:12,000
+It gave you a sense of what a good teacher does.
+
+325
+00:18:12,000 --> 00:18:15,000
+I'm going to send everyone here a free copy of this book.
+
+326
+00:18:15,000 --> 00:18:20,000
+(Applause)
+
+327
+00:18:20,000 --> 00:18:23,000
+Now, we put a lot of money into education,
+
+328
+00:18:23,000 --> 00:18:29,000
+and I really think that education is the most important thing to get right
+
+329
+00:18:29,000 --> 00:18:34,000
+for the country to have as strong a future as it should have.
+
+330
+00:18:34,000 --> 00:18:36,000
+In fact we have in the stimulus bill -- it's interesting --
+
+331
+00:18:36,000 --> 00:18:39,000
+the House version actually had money in it for these data systems,
+
+332
+00:18:39,000 --> 00:18:41,000
+and it was taken out in the Senate
+
+333
+00:18:41,000 --> 00:18:44,000
+because there are people who are threatened by these things.
+
+334
+00:18:44,000 --> 00:18:46,000
+But I -- I'm optimistic.
+
+335
+00:18:46,000 --> 00:18:50,000
+I think people are beginning to recognize how important this is,
+
+336
+00:18:50,000 --> 00:18:57,000
+and it really can make a difference for millions of lives, if we get it right.
+
+337
+00:18:57,000 --> 00:19:00,000
+I only had time to frame those two problems.
+
+338
+00:19:00,000 --> 00:19:02,000
+There's a lot more problems like that --
+
+339
+00:19:02,000 --> 00:19:06,000
+AIDS, pneumonia -- I can just see you're getting excited,
+
+340
+00:19:06,000 --> 00:19:09,000
+just at the very name of these things.
+
+341
+00:19:09,000 --> 00:19:14,000
+And the skill sets required to tackle these things are very broad.
+
+342
+00:19:14,000 --> 00:19:17,000
+You know, the system doesn't naturally make it happen.
+
+343
+00:19:17,000 --> 00:19:22,000
+Governments don't naturally pick these things in the right way.
+
+344
+00:19:22,000 --> 00:19:26,000
+The private sector doesn't naturally put its resources into these things.
+
+345
+00:19:26,000 --> 00:19:29,000
+So it's going to take brilliant people like you
+
+346
+00:19:29,000 --> 00:19:32,000
+to study these things, get other people involved --
+
+347
+00:19:32,000 --> 00:19:35,000
+and you're helping to come up with solutions.
+
+348
+00:19:35,000 --> 00:19:38,000
+And with that, I think there's some great things that will come out of it.
+
+349
+00:19:38,000 --> 00:19:40,000
+Thank you.
+
+350
+00:19:40,000 --> 00:19:58,000
+(Applause)

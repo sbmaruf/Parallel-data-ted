@@ -1,0 +1,755 @@
+1
+00:00:01,060 --> 00:00:03,366
+Selamat datang ke perbincangan
+
+2
+00:00:03,366 --> 00:00:05,066
+tentang menambah dan menolak nombor negatif.
+
+3
+00:00:05,066 --> 00:00:06,380
+Jom kita mula!
+
+4
+00:00:06,380 --> 00:00:08,510
+Mula-mula, apa itu nombor negatif?
+
+5
+00:00:08,520 --> 00:00:12,080
+Ok, jom kita lukis garis nombor dulu.
+
+6
+00:00:12,080 --> 00:00:13,295
+Alamak, tak nampak macam garis pulak,
+
+7
+00:00:13,295 --> 00:00:15,190
+tapi rasanya semua faham kan?
+
+8
+00:00:15,190 --> 00:00:18,797
+Selalunya kita biasa ngan nombor positif, maknanya kalau itu 0
+
+9
+00:00:18,797 --> 00:00:24,670
+yang ni 1, yang ni 2, yang ni 3, yang ni 4
+
+10
+00:00:24,670 --> 00:00:25,686
+dan seterusnya...
+
+11
+00:00:25,686 --> 00:00:28,548
+Jadi kalau saya tanya berapa 2 + 2
+
+12
+00:00:28,548 --> 00:00:30,780
+awak akan mula pada 2, lepas tu awak tambah 2
+
+13
+00:00:30,780 --> 00:00:31,460
+dan awak akan dapat 4.
+
+14
+00:00:31,460 --> 00:00:32,140
+Untuk kebanyakan daripada kita, benda ni datang semulajadi.
+
+15
+00:00:32,150 --> 00:00:33,930
+Tapi kalau awak lukis atas garis nombor,
+
+16
+00:00:33,930 --> 00:00:36,130
+awak jawab 2 + 2 = 4
+
+17
+00:00:36,140 --> 00:00:38,490
+Dan kalau saya tanya berapa 2 - 1
+
+18
+00:00:38,490 --> 00:00:39,840
+atau katakanlah berapa 3 - 2.
+
+19
+00:00:39,840 --> 00:00:44,111
+Kalau awak mula pada 3 dan tolak 2
+
+20
+00:00:44,111 --> 00:00:45,658
+awak akan dapat 1
+
+21
+00:00:45,658 --> 00:00:51,248
+Jadi 2 + 2 = 4, dan 3 - 2 = 1
+
+22
+00:00:51,248 --> 00:00:52,980
+Senang kan?
+
+23
+00:00:52,990 --> 00:00:56,990
+Sekarang, kalau saya tanya apa dia 1 - 3?
+
+24
+00:00:56,990 --> 00:00:58,150
+Hmm.
+
+25
+00:00:58,150 --> 00:01:00,100
+Sama sahaja.
+
+26
+00:01:00,100 --> 00:01:03,847
+Awak mula pada 1 dan kita akan pergi 1 ..
+
+27
+00:01:03,847 --> 00:01:06,960
+Ok, sekarang kita akan pergi kurang dari 0
+
+28
+00:01:06,960 --> 00:01:07,730
+apa jadi bawah 0?
+
+29
+00:01:07,730 --> 00:01:08,500
+Haaa~ Dari situ la mulanya nombor negatif
+
+30
+00:01:08,510 --> 00:01:14,930
+-1, -2, -3, dan seterusnya.
+
+31
+00:01:14,930 --> 00:01:20,909
+Jadi kalau saya mula dengan 1 dekat sini, maknanya untuk 1 - 3
+
+32
+00:01:20,909 --> 00:01:25,610
+saya pergi 1, 2, 3. Saya sampai ke -2
+
+33
+00:01:25,620 --> 00:01:30,680
+Maknanya 1 - 3 = -2
+
+34
+00:01:30,680 --> 00:01:33,080
+Mungkin awak memang buat macam ni
+
+35
+00:01:33,090 --> 00:01:34,729
+dalam pembelajaran hari-hari.
+
+36
+00:01:34,729 --> 00:01:37,137
+Kalau saya bagitahu awak,
+
+37
+00:01:37,137 --> 00:01:39,225
+Wah, sejuknya hari ni, satu darjah je,
+
+38
+00:01:39,225 --> 00:01:40,728
+tapi esok akan jadi 3 darjah lebih sejuk,
+
+39
+00:01:40,728 --> 00:01:42,038
+awak mesti tahu dah,
+
+40
+00:01:42,038 --> 00:01:44,502
+nanti kita akan berada
+
+41
+00:01:44,502 --> 00:01:46,925
+pada suhu negatif dua darjah.
+
+42
+00:01:46,925 --> 00:01:48,040
+Jadi inilah maksud nombor negatif.
+
+43
+00:01:48,040 --> 00:01:51,132
+Ingat, bila satu nombor negatif itu besar,
+
+44
+00:01:51,132 --> 00:01:58,090
+katalah -50, itu sebenarnya lebih sejuk daripada -20, kan?
+
+45
+00:01:58,090 --> 00:02:01,710
+Maknanya nilai -50 sebenarnya lebih kecil daripada -20
+
+46
+00:02:01,710 --> 00:02:04,926
+sebab kedudukannya lebih jauh ke kiri daripada -20
+
+47
+00:02:04,926 --> 00:02:07,160
+Benda ni kita kena ikut gerak hati.
+
+48
+00:02:07,170 --> 00:02:08,708
+Kadang-kadang bila awak mula, awak rasa macam
+
+49
+00:02:08,708 --> 00:02:10,185
+oh, 50 lebih besar daripada 20
+
+50
+00:02:10,185 --> 00:02:13,860
+tapi sebenarnya -50, bukannya 50.
+
+51
+00:02:13,860 --> 00:02:15,306
+Jadi jom kita buat latihan,
+
+52
+00:02:15,306 --> 00:02:19,270
+dan kita akan terus guna garis nombor ok?
+
+53
+00:02:19,280 --> 00:02:22,415
+sebab saya rasa ianya amat berguna.
+
+54
+00:02:22,415 --> 00:02:26,872
+Ok, jom selesaikan 5 - 12
+
+55
+00:02:26,872 --> 00:02:29,785
+Saya rasa awak pun dah tahu
+
+56
+00:02:29,785 --> 00:02:34,195
+apa jawapan untuk soalan ni.
+
+57
+00:02:34,195 --> 00:02:45,144
+Tapi biar saya lukis garis, 5 - 12
+
+58
+00:02:45,144 --> 00:02:53,068
+Saya mula dengan -10, -9, -8, ..
+
+59
+00:02:53,068 --> 00:02:58,780
+Rasanya tak cukup ruang lah pulak.. -7, -6, -5
+
+60
+00:02:58,780 --> 00:03:05,155
+Patutnya saya dah lukis siap-siap dah.. -4, -3, -2, -1
+
+61
+00:03:05,155 --> 00:03:12,537
+0, 1, 2, 3, 4, dan saya letak 5 di sini.
+
+62
+00:03:12,537 --> 00:03:14,494
+Saya panjangkan sikit anak panah ni. Okay.
+
+63
+00:03:14,494 --> 00:03:15,548
+5 - 12
+
+64
+00:03:15,560 --> 00:03:18,430
+Jadi, jika kita mula dengan 5 .. eh, guna warna lainlah ..
+
+65
+00:03:18,430 --> 00:03:20,945
+kita mula pada 5 kat sini dan kita gerak ke kiri 12
+
+66
+00:03:20,945 --> 00:03:22,805
+sebab kita tengah tolak 12
+
+67
+00:03:22,805 --> 00:03:33,870
+Jadi kita pergi 1, 2, 3, 4, 5, 6, 7, 8, 9,10, 11, 12...
+
+68
+00:03:33,870 --> 00:03:38,262
+Negatif 7
+
+69
+00:03:38,262 --> 00:03:39,993
+Hmmm menarik.
+
+70
+00:03:40,000 --> 00:03:42,789
+Sebab kita juga tahu
+
+71
+00:03:42,789 --> 00:03:45,580
+yang 12 - 5 = + 7
+
+72
+00:03:45,590 --> 00:03:48,900
+Jadi, saya nak awak fikir sikit kenapa boleh jadi macam tu.
+
+73
+00:03:48,900 --> 00:03:52,939
+Kenapa beza antara 12 dan 5 adalah 7,
+
+74
+00:03:52,939 --> 00:03:58,918
+dan beza antara 5.....
+
+75
+00:03:58,918 --> 00:04:00,038
+.. rasanya mana-manapun boleh
+
+76
+00:04:00,038 --> 00:04:01,097
+Di sini menunjukkan
+
+77
+00:04:01,097 --> 00:04:03,812
+yang beza antara 5 dan 12 ialah -7,
+
+78
+00:04:03,812 --> 00:04:05,162
+tapi nombor-nombor tu jauh bezanya,
+
+79
+00:04:05,162 --> 00:04:07,496
+sekarang kita guna nombor yang kecil.
+
+80
+00:04:07,496 --> 00:04:09,538
+Ok, saya rasa ayat akhir tadi mengelirukan,
+
+81
+00:04:09,538 --> 00:04:11,789
+tapi jom kita teruskan.
+
+82
+00:04:11,789 --> 00:04:18,060
+Tadi kita kata 5 - 12 = - 7
+
+83
+00:04:18,060 --> 00:04:19,434
+Jom cuba lagi satu.
+
+84
+00:04:19,434 --> 00:04:25,843
+Apa dia - 3 + 5?
+
+85
+00:04:25,843 --> 00:04:28,050
+Kita guna garis nombor yang sama.
+
+86
+00:04:28,060 --> 00:04:31,490
+Jom buat -3 tambah 5
+
+87
+00:04:31,490 --> 00:04:33,580
+Kita akan pergi 5 langkah ke kanan
+
+88
+00:04:33,580 --> 00:04:38,425
+Satu, dua, tiga, empat, lima.
+
+89
+00:04:38,425 --> 00:04:42,602
+Jawapannya dua.
+
+90
+00:04:42,602 --> 00:04:44,363
+Sama dengan dua.
+
+91
+00:04:44,363 --> 00:04:48,790
+Jadi, -3 + 5 = 2
+
+92
+00:04:48,790 --> 00:04:53,843
+Menarik .. Sebab 5 - 3 pun sama dengan 2
+
+93
+00:04:53,843 --> 00:04:57,007
+Nampaknya 5 - 3 pun sama,
+
+94
+00:04:57,007 --> 00:05:00,252
+cuma cara lain untuk kita tulis 5 tambah -3
+
+95
+00:05:00,252 --> 00:05:04,050
+atau -3 tambah 5
+
+96
+00:05:04,050 --> 00:05:07,052
+Secara amnya, cara senang nak buat nombor negatif
+
+97
+00:05:07,052 --> 00:05:11,640
+ialah cara sama dengan tambah dan tolak nombor biasa,
+
+98
+00:05:11,640 --> 00:05:15,456
+tapi sekarang bila kita tolak
+
+99
+00:05:15,456 --> 00:05:18,634
+kita pergi ke kiri, kurang dari kosong.
+
+100
+00:05:18,634 --> 00:05:19,826
+Jom buat lagi satu.
+
+101
+00:05:19,826 --> 00:05:21,587
+Apa jadi bila awak dapat soalan
+
+102
+00:05:21,587 --> 00:05:27,111
+katalah, 2 tolak -3?
+
+103
+00:05:27,111 --> 00:05:30,747
+Kalau awak fikir betul-betul cara yang sepatutnya,
+
+104
+00:05:30,747 --> 00:05:32,079
+saya rasa yang ini ada logiknya tu.
+
+105
+00:05:32,079 --> 00:05:34,135
+Bila dua tanda negatif berjumpa,
+
+106
+00:05:34,135 --> 00:05:36,140
+tanda negatif tu akan terhapus.
+
+107
+00:05:36,140 --> 00:05:40,425
+Dah jadi sama macam 2 tambah +3
+
+108
+00:05:40,425 --> 00:05:43,050
+sama dengan 5.
+
+109
+00:05:43,060 --> 00:05:46,305
+Atau awak boleh kata .... kita buat lagi satulah ..
+
+110
+00:05:46,305 --> 00:05:52,866
+Apa dia -7 tolak -2?
+
+111
+00:05:52,866 --> 00:05:58,010
+Itu kan sama ngan -7 + 2
+
+112
+00:05:58,020 --> 00:06:00,144
+Ingat, kita mula pada -7
+
+113
+00:06:00,144 --> 00:06:03,560
+dan kita gerak 2 langkah ke kanan.
+
+114
+00:06:03,560 --> 00:06:06,224
+Kalau kita gerak 1 ke kanan kita dapat -6
+
+115
+00:06:06,224 --> 00:06:11,392
+Kalau kita gerak 2 ke kanan kita dapat -5
+
+116
+00:06:11,392 --> 00:06:13,755
+Logik kan sebab -7 + 2
+
+117
+00:06:13,755 --> 00:06:16,540
+sama ngan 2 - 7
+
+118
+00:06:16,550 --> 00:06:19,351
+Kalau sekarang suhu dua darjah dan
+
+119
+00:06:19,351 --> 00:06:22,475
+lepas tu jadi tujuh darjah lebih sejuk, dah jadi -5
+
+120
+00:06:22,475 --> 00:06:23,230
+Ok jom buat lagi.
+
+121
+00:06:23,240 --> 00:06:25,253
+Rasanya makin banyak awak buat, awak akan jadi lebih mahir.
+
+122
+00:06:25,253 --> 00:06:26,847
+dan modul ini dah terangkan dengan jelas.
+
+123
+00:06:26,847 --> 00:06:29,056
+Mungkin lebih baik daripada penjelasan saya.
+
+124
+00:06:29,056 --> 00:06:31,104
+Jadi jom selesaikan lebih banyak masalah.
+
+125
+00:06:31,104 --> 00:06:36,473
+Jadi saya kata -7 - 3
+
+126
+00:06:36,473 --> 00:06:39,396
+Sekarang kita akan gerak 3 ke kiri daripada -7
+
+127
+00:06:39,410 --> 00:06:41,386
+Kita akan dapat nilai yang kurang 3 daripada -7
+
+128
+00:06:41,386 --> 00:06:45,420
+jadi dapat -10 kan?
+
+129
+00:06:45,430 --> 00:06:49,055
+Memanglah, sebab jika soalannya 7 + 3
+
+130
+00:06:49,055 --> 00:06:50,762
+kita mula pada 7 di kanan 0
+
+131
+00:06:50,762 --> 00:06:52,504
+dan kita akan gerak lagi 3 ke kanan daripada 0
+
+132
+00:06:52,504 --> 00:06:54,538
+dan kita dapat positif 10
+
+133
+00:06:54,538 --> 00:06:57,385
+Jadi, untuk 7 ke kiri daripada 0 dan pergi lagi 3 ke kiri
+
+134
+00:06:57,385 --> 00:06:58,680
+kita akan sampai ke -10
+
+135
+00:06:58,680 --> 00:06:59,460
+Jom buat lagi.
+
+136
+00:06:59,470 --> 00:07:01,048
+Saya tahu saya mungkin mengelirukan awak,
+
+137
+00:07:01,048 --> 00:07:04,218
+tapi latihan-latihan ini akan tolong kita.
+
+138
+00:07:04,218 --> 00:07:09,118
+Jadi katakanlah 3 tolak -3
+
+139
+00:07:09,118 --> 00:07:12,360
+Haaa~ dua tanda negatif ni akan terhapus,
+
+140
+00:07:12,360 --> 00:07:14,570
+jadi ianya sama dengan 6
+
+141
+00:07:14,570 --> 00:07:17,088
+Apa 3 - 3?
+
+142
+00:07:17,088 --> 00:07:18,687
+3 - 3, senang je.
+
+143
+00:07:18,687 --> 00:07:20,687
+Jawapannya 0
+
+144
+00:07:20,687 --> 00:07:23,980
+Apa -3 tolak 3?
+
+145
+00:07:23,990 --> 00:07:26,420
+Skang kita akan dapat 3 kurang daripada -3
+
+146
+00:07:26,420 --> 00:07:28,880
+jadinya -6
+
+147
+00:07:28,880 --> 00:07:34,030
+Apa -3 tolak -3
+
+148
+00:07:34,040 --> 00:07:35,500
+Menarik.
+
+149
+00:07:35,500 --> 00:07:40,790
+Ingat, dua tanda negatif akan terhapus, jadi kamu dapat -3 tambah 3
+
+150
+00:07:40,800 --> 00:07:44,028
+Mula dengan 3 di kiri 0 dan gerak 3 ke kanan,
+
+151
+00:07:44,028 --> 00:07:46,060
+kita sampai ke 0.
+
+152
+00:07:46,060 --> 00:07:48,240
+Logik, kan?
+
+153
+00:07:48,250 --> 00:07:49,360
+Jom kita buat lagi sekali.
+
+154
+00:07:49,370 --> 00:07:53,290
+-3 tolak -3
+
+155
+00:07:53,290 --> 00:07:56,390
+Apa-apapun kalau ditolak dengan diri sendiri akan jadi 0, kan?
+
+156
+00:07:56,390 --> 00:07:57,950
+Patutpun jawapannya 0
+
+157
+00:07:57,950 --> 00:08:00,868
+Sebab tu lah logik kalau
+
+158
+00:08:00,868 --> 00:08:03,183
+dua tanda negatif sebelah menyebelah tu terhapus,
+
+159
+00:08:03,183 --> 00:08:05,498
+samalah ngan yang ini.
+
+160
+00:08:05,498 --> 00:08:07,429
+Jom buat lagi.
+
+161
+00:08:07,429 --> 00:08:12,140
+Kita buat 12 - 13
+
+162
+00:08:12,140 --> 00:08:13,610
+Senang tuh.`
+
+163
+00:08:13,620 --> 00:08:17,940
+12 - 12 = 0, jadi 12 - 13 = -1
+
+164
+00:08:17,940 --> 00:08:20,920
+sebab kita gerak 1 ke kiri daripada 0
+
+165
+00:08:20,930 --> 00:08:24,670
+Jom cuba 8 - 5
+
+166
+00:08:24,670 --> 00:08:27,270
+Yang ini biasa jer, ini 3
+
+167
+00:08:27,270 --> 00:08:29,640
+Berapa pulak 5 - 8?
+
+168
+00:08:29,640 --> 00:08:31,988
+Kita akan gerak terus ke 0
+
+169
+00:08:31,988 --> 00:08:35,420
+lepas tu 3 lagi ke kiri daripada 0, jadi sampai ke -3
+
+170
+00:08:35,420 --> 00:08:38,500
+Saya boleh lukis garis nombor di sini
+
+171
+00:08:38,500 --> 00:08:43,468
+Kalau ini 0, ini 5
+
+172
+00:08:43,468 --> 00:08:47,233
+dan skang kita gerak 8 langkah ke kiri,
+
+173
+00:08:47,233 --> 00:08:48,290
+kita sampai ke -3
+
+174
+00:08:48,300 --> 00:08:49,400
+Awak boleh buat macam ni untuk semua soalan ni.
+
+175
+00:08:49,400 --> 00:08:51,770
+Itu akan jadi latihan yang bagus.
+
+176
+00:08:51,770 --> 00:08:54,113
+Saya rasa ini adalah pengenalan yang baik untuk awak
+
+177
+00:08:54,113 --> 00:08:56,220
+dan saya sarankan awak buat semua modul,
+
+178
+00:08:56,220 --> 00:08:58,281
+sebab modul tu sebenarnya
+
+179
+00:08:58,281 --> 00:08:58,977
+terutamanya jika awak klik butang 'hints'
+
+180
+00:08:58,977 --> 00:08:59,673
+ianya ada grafik yang sangat cantik
+
+181
+00:08:59,673 --> 00:09:01,578
+jauh lebih cantik daripada
+
+182
+00:09:01,578 --> 00:09:03,990
+apa yang saya lukis dekat sini.
+
+183
+00:09:03,990 --> 00:09:05,463
+Jadi, cuba lah
+
+184
+00:09:05,463 --> 00:09:07,494
+dan saya akan cuba buat lebih modul
+
+185
+00:09:07,509 --> 00:09:09,140
+yang tidak akan mengelirukan awak
+
+186
+00:09:09,140 --> 00:09:10,533
+Awak juga boleh hadiri seminar
+
+187
+00:09:10,533 --> 00:09:12,700
+tentang menambah dan menolak nombor negatif.
+
+188
+00:09:12,700 --> 00:09:14,160
+Saya harap kamu bergembira!
+
+189
+00:09:14,160 --> 00:09:15,460
+Bye.

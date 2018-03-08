@@ -1,0 +1,351 @@
+1
+00:00:00,000 --> 00:00:00,875
+Mari katakan yang kita ada 2 garisan di sini.
+
+2
+00:00:00,875 --> 00:00:02,816
+Katakan kita panggil garis ini garis AB.
+
+3
+00:00:02,816 --> 00:00:08,783
+Jadi A dan B berada di atas garisan ini.
+
+4
+00:00:08,783 --> 00:00:10,370
+Dan mari katakan yang kita ada satu lagi garisan di sini.
+
+5
+00:00:10,370 --> 00:00:12,437
+Kita akan panggilnya garis CD.
+
+6
+00:00:12,437 --> 00:00:18,301
+Jadi ia melalui titik C dan juga melalui titik D dan ia akan terus bersambung.
+
+7
+00:00:18,301 --> 00:00:27,014
+Sekarang katakn yang kedua-dua garis ini berada di atas satah yang sama dan dalam kes ini satah itu ialah skrin kita ataupun sekeping kertas yang kita sedang lihat di sini.
+
+8
+00:00:27,014 --> 00:00:36,110
+Dan mereka tidak akan bersilang. Ia tidak akan bersilang. Jadi mereka berada di atas satah yang sama tapi tidak akan bersilang.
+
+9
+00:00:36,110 --> 00:00:36,703
+Jika kedua-dua perkara itu adalah benar di mana ianya bukan garis yang sama, ia tidak bersilang, ia boleh berada
+
+10
+00:00:36,703 --> 00:00:48,916
+di atas satah yang sama, maka kita katakan yang ianya adalah garis selari.
+
+11
+00:00:48,916 --> 00:00:53,904
+Mereka bergerak dalam arah yang sama, malah jika kita lihatnya dari pandangan algebra,
+
+12
+00:00:53,904 --> 00:00:57,034
+kita akan katakan yang mereka mempunyai cerun yang sama,
+
+13
+00:00:57,034 --> 00:01:01,307
+tetapi mereka mempunyai silang yang berbeza, ianya melibatkan titik yang berbeza.
+
+14
+00:01:01,307 --> 00:01:07,630
+Jika kita lakukan koordinat paksi di sini, mereka akan bersilang di titik berbeza tapi mereka akan mempunyai cerun yang sama.
+
+15
+00:01:07,630 --> 00:01:11,140
+Apa yang saya mahu lakukan ialah fikirkan bagaimana sudut berhubung dengan garis selari.
+
+16
+00:01:11,155 --> 00:01:13,832
+Jadi ini di sini, kita ada 2 garis selari.
+
+17
+00:01:13,909 --> 00:01:22,836
+Kita boleh katakan yang garis AB selari dengan garis CD.
+
+18
+00:01:24,232 --> 00:01:27,978
+Kadang-kadang anda akan lihat ianya dalam lukisan geometri sebegini.
+
+19
+00:01:27,978 --> 00:01:31,507
+Saya akan letakkan anak panah kecil untuk tunjukkan kedua garis ini adalah selari
+
+20
+00:01:31,507 --> 00:01:34,167
+dan jika anda telah guna anak panah bujang, maka anda mungkin boleh guna anak panah berganda
+
+21
+00:01:34,167 --> 00:01:38,301
+untuk menunjukkan yang garis ini adalah selari dengan garis itu di situ.
+
+22
+00:01:38,301 --> 00:01:44,700
+Sekarang, apa yang saya mahu buat ialah lukiskan satu garis yang bersilang dengan kedua-dua garis selari ini.
+
+23
+00:01:44,700 --> 00:01:48,574
+Jadi ini ialah satu garis yang bersilang dengan kedua mereka. Biar saya lukiskannya lebih dekat sedikit.
+
+24
+00:01:52,361 --> 00:01:59,368
+Dan saya akan labelkan garisan itu sebagai L.
+
+25
+00:01:59,368 --> 00:02:02,106
+Dan garis ini yang bersilang dengan kedua-dua garis selari itu,
+
+26
+00:02:02,106 --> 00:02:04,568
+kita panggilnya garis rentas lintang. Ini ialah garis rentas lintang.
+
+27
+00:02:06,152 --> 00:02:12,298
+Ia melintangi kedua-dua garis selari ini.
+
+28
+00:02:12,298 --> 00:02:15,483
+Dan apa yang saya mahu fikir ialah tentang sudut yang terbentuk
+
+29
+00:02:15,483 --> 00:02:17,303
+dan bagaimana mereka berhubung antara satu sama lain.
+
+30
+00:02:17,303 --> 00:02:21,150
+Sudut-sudut yang terbentuk pada persilangan antara garis rentas lintang
+
+31
+00:02:21,150 --> 00:02:22,961
+dan kedua garis selari.
+
+32
+00:02:22,961 --> 00:02:27,088
+Maka, kita boleh mulakan di sudut ini di sini.
+
+33
+00:02:27,088 --> 00:02:29,419
+Sudut itu di situ, kita boleh panggil sudut itu...
+
+34
+00:02:29,419 --> 00:02:33,953
+jika kita letakkan sedikit label di sini, itu akan menjadi D,
+
+35
+00:02:33,953 --> 00:02:36,642
+tapi saya cuma akan labelkan sudut itu di situ.
+
+36
+00:02:36,642 --> 00:02:38,927
+Kita tahu yang ini akan bersamaan sudut menegaknya.
+
+37
+00:02:38,927 --> 00:02:41,795
+Jadi sudut ini adalah mencancang dengan yang itu,
+
+38
+00:02:41,795 --> 00:02:44,353
+jadi ianya akan bersamaan dengan sudut itu di situ.
+
+39
+00:02:45,260 --> 00:02:51,834
+Kita juga tahu yang sudut ini di sini akan menjadi bersamaan dengan sudut itu yang merupakan sudut menegaknya.
+
+40
+00:02:51,834 --> 00:02:56,172
+Atau sudut yang bertentangan dengan persilangan, jadi ia akan sama dengan yang itu.
+
+41
+00:02:56,172 --> 00:03:00,673
+Dan kadang-kadang, anda akan lihat ia ditulis sebegini, akan ada tanda sudut berganda seperti itu
+
+42
+00:03:00,673 --> 00:03:02,647
+ataupun anda mungkin akan lihat seseorang tulis macam ini
+
+43
+00:03:02,647 --> 00:03:07,504
+untuk tunjukkan yang kedua ini adalah sama dan kedua ini di sini adalah sama.
+
+44
+00:03:07,811 --> 00:03:10,827
+Sekarang, perkara lain yang kita tahu ialah kita boleh lakukan latihan yang sama di sini -
+
+45
+00:03:10,827 --> 00:03:14,966
+Kedua-dua ini akan menjadi bersamaan dengan setiap satunya dan kedua ini akan menjadi sama dengan satu sama lain.
+
+46
+00:03:14,966 --> 00:03:16,499
+Mereka adalah sudut menegak.
+
+47
+00:03:16,499 --> 00:03:21,866
+Apa yang menarik di sini ialah untuk memikirkan tentang perhubungan antara sudut ini
+
+48
+00:03:21,866 --> 00:03:29,444
+di sini dan sudut itu di situ.
+
+49
+00:03:29,444 --> 00:03:33,561
+Dan jika anda lihatnya, perhubungan itu sebenarnya tampak jelas.
+
+50
+00:03:33,561 --> 00:03:37,240
+Mereka akan menjadi sudut yang sama.
+
+51
+00:03:37,240 --> 00:03:41,637
+Dan jika anda letakkan protraktor di sini dan ukurnya, anda akan dapat ukuran yang sama di atas sini.
+
+52
+00:03:42,477 --> 00:03:46,809
+Dan jika saya lukiskan garis selari, ia mungkin akan nampak lebih jelas.
+
+53
+00:03:46,809 --> 00:03:51,557
+Jadi jika saya anggap yang kedua-dua garis ini adalah selari dan saya ada garis rentas lintang di sini.
+
+54
+00:03:51,557 --> 00:03:57,651
+Maksud saya ialah, sudut ini akan menjadi sama dengan ukuran sudut di situ.
+
+55
+00:03:57,651 --> 00:04:01,853
+Dan untuk menggambarkannya, bayangkan jika kita sengetkan garis ini...
+
+56
+00:04:01,853 --> 00:04:07,227
+jadi ia nampak seperti kes itu di situ, jika anda ambil garis itu seperti ini dan anda lihatnya di sini,
+
+57
+00:04:07,227 --> 00:04:10,470
+ianya jelas yang ini adalah sama dengan yang ini dan sebenarnya tidak terdapat bukti untuk ini.
+
+58
+00:04:10,470 --> 00:04:14,407
+Inilah apa yang ahli matematik akan panggil yang jelas lagi nyata.
+
+59
+00:04:14,407 --> 00:04:19,873
+Di mana jika anda lihatnya, jika anda sengetkan garisan ini, anda akan katakan yang sudut ini adalah sama.
+
+60
+00:04:19,873 --> 00:04:23,445
+Atau cuba bayangkan kita letakkan protraktor di sini untuk ukur sudut-sudut itu.
+
+61
+00:04:23,445 --> 00:04:31,385
+Jika anda letakkan protraktor di sini, anda akan ada 1 sisi sudut pada 0 darjah dan sisi yang lagi satu akan berada di titik itu
+
+62
+00:04:31,385 --> 00:04:36,899
+dan jika anda letakkan protraktor di sini, perkara yang sama akan berlaku.
+
+63
+00:04:36,899 --> 00:04:42,395
+1 sisi akan berada di atas garis selari ini dan sisi yang satu lagi akan menunjuk ke titik yang sama.
+
+64
+00:04:42,395 --> 00:04:46,150
+Maka dengan itu, kita tahu yang bukan sahaja sisi ini sama dengan sisi ini,
+
+65
+00:04:46,150 --> 00:04:55,265
+ia juga adalah sama dengan sisi ini di sebelah sini, dan itu memberitahu kita yang itu juga adalah sama dengan sisi di sini.
+
+66
+00:04:55,265 --> 00:04:59,418
+Maka, kesemua perkara dalam warna hijau ini adalah sama, berdasarkan asas yang sama,
+
+67
+00:04:59,418 --> 00:05:02,384
+sisi ini di sini atau sudut ini
+
+68
+00:05:02,384 --> 00:05:10,752
+akan mempunyai ukuran yang sama dengan sudut ini dan itu akan menjadi sama dengan sudut yang ini, kerana mereka adalah bertentangan, atau mereka adalah sudut menegak.
+
+69
+00:05:10,752 --> 00:05:20,857
+Sekarang, perkara yang penting ialah sudut menegak adalah sama dan sudut sepadan pada titik sama persilangan adalah juga sama.
+
+70
+00:05:20,857 --> 00:05:26,779
+Jadi itu adalah perkataan baru yang saya perkenalkan di situ. Sudut ini dan sudut ini adalah sepadan.
+
+71
+00:05:26,779 --> 00:05:35,691
+Mereka mewakili penjuru sebelah kanan atas dalam contoh ini di mana kita bersilang. Di sini mereka mewakili penjuru kanan atas persilangan.
+
+72
+00:05:35,691 --> 00:05:40,835
+Ini akan menjadi penjuru kiri atas. Ianya akan sentiasa menjadi sama, iaitu sudut sepadan.
+
+73
+00:05:40,835 --> 00:05:45,708
+Dan sekali lagi, ianya adalah jelas.
+
+74
+00:05:45,708 --> 00:05:53,986
+Sekarang, terdapat perkataan lain yang kita gunakan untuk untuk menunjukkan bukan sahaja sudut ini sama dengan sudut ini,
+
+75
+00:05:53,986 --> 00:05:59,891
+tapi ianya juga adalah sama dengan sudut itu di situ. Dan kedua-dua sudut ini, mungkin jika saya panggilnya...
+
+76
+00:05:59,891 --> 00:06:04,425
+Biar saya labelkannya supaya kita boleh lihat dengan jelas. Jadi saya akan gunakan huruf kecil
+
+77
+00:06:04,425 --> 00:06:10,716
+untuk sudut itu sendiri. Mari panggilnya, huruf kecil a, huruf kecil b, huruf kecil c untuk sudut,
+
+78
+00:06:10,716 --> 00:06:16,987
+huruf kecil d dan kemudian ini pula e, f, g dan h.
+
+79
+00:06:16,987 --> 00:06:19,710
+Jadi kita tahu daripada sudut menegak yang b adalah sama dengan c,
+
+80
+00:06:19,710 --> 00:06:24,489
+tapi kita juga tahu yang b sama dengan f, kerana mereka adalah sudut sepadan.
+
+81
+00:06:24,489 --> 00:06:31,293
+Dan kemudian f adalah sama dengan g. Jadi sudut menegak adalah sama. Sudut sepadan adalah sama.
+
+82
+00:06:31,293 --> 00:06:34,051
+Dan kita juga tahu yang b adalah bersamaan dengan g.
+
+83
+00:06:34,051 --> 00:06:36,806
+Jadi kita katakan bahawa sudut berselang seli dalaman adalah sama.
+
+84
+00:06:36,806 --> 00:06:39,436
+Jadi anda lihat yang ianya adalah seperti bahagian dalam persilangan.
+
+85
+00:06:39,436 --> 00:06:43,068
+Ianya berada di tengah-tengah dua garisan itu, tapi semuanya berada bertentangan dengan garis rentas lintang.
+
+86
+00:06:43,068 --> 00:06:48,999
+Anda tidak perlu tahu perkataan tadi - sudut berselang seli dalaman - anda cuma perlu aruhkan dari
+
+87
+00:06:48,999 --> 00:06:54,682
+apa yang telah kita lihat di sini, di mana sudut-sudut menegak adalah sama dan sudut-sudut sepadan adalah sama.
+
+88
+00:06:54,682 --> 00:06:58,682
+Dan anda lihat yang ianya adalah sama dengan yang lain. Kita tahu yang a akan sama dengan d, yang akan sama dengan h, yang akan sama dengan e.

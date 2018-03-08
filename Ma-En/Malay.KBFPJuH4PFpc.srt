@@ -1,0 +1,439 @@
+1
+00:00:00,000 --> 00:00:00,750
+.
+
+2
+00:00:00,750 --> 00:00:04,810
+Gunakan formula kuadratik untuk selesaikan persamaan, 0 ialah bersamaan
+
+3
+00:00:04,810 --> 00:00:10,500
+dengan negative 7q kuasa dua tambah 2q tambah 9.
+
+4
+00:00:10,500 --> 00:00:14,230
+Sekarang, formula kuadratik, ia diapplikasikan di mana-mana persamaan
+
+5
+00:00:14,230 --> 00:00:16,750
+kuadratik-- Kita boleh letakkan 0
+
+6
+00:00:16,750 --> 00:00:17,600
+di sebelah kiri.
+
+7
+00:00:17,600 --> 00:00:24,160
+0 ialah bersamaan dengan ax kuasa dua tambah bx tambah c.
+
+8
+00:00:24,160 --> 00:00:27,170
+Dan kita secara umumnya berurusan dengan x, dalam msalah ini kita
+
+9
+00:00:27,170 --> 00:00:28,230
+berurusan dengan q.
+
+10
+00:00:28,230 --> 00:00:29,980
+Tetapi formula kuadratik berkata, lihat, jika anda mempunyai
+
+11
+00:00:29,980 --> 00:00:34,150
+persamaan kuadratik dalam bentuk ini, penyelesaian kepada
+
+12
+00:00:34,150 --> 00:00:37,610
+persamaan ini akan menjadi x akan menjadi bersamaan dengan
+
+13
+00:00:37,610 --> 00:00:44,330
+negatif b tambah atau tolak punca kuasa dua b kuasa dua tolak
+
+14
+00:00:44,330 --> 00:00:49,150
+4ac- semua itu per 2a.
+
+15
+00:00:49,150 --> 00:00:51,000
+Dan ini sebenarnya 2 kaedah, kerana
+
+16
+00:00:51,000 --> 00:00:53,350
+Ada satu kaedah dimana anda ambil positif punca kuasa dua
+
+17
+00:00:53,350 --> 00:00:54,910
+dan ada satu kaedah dimana anda ambil
+
+18
+00:00:54,910 --> 00:00:57,030
+punca negative.
+
+19
+00:00:57,030 --> 00:00:58,680
+Jadi ia berikan kedua-dua punca di sini.
+
+20
+00:00:58,680 --> 00:01:02,030
+Jadi jika kita lihat persamaan kuadratik yang perlu kita selesaikan
+
+21
+00:01:02,030 --> 00:01:03,250
+di sini, kita hanya perlu samakan pola.
+
+22
+00:01:03,250 --> 00:01:05,980
+Kita berurusan dengan q bukan x, tetapi ini hanyalah
+
+23
+00:01:05,980 --> 00:01:06,850
+idea umum yang sama.
+
+24
+00:01:06,850 --> 00:01:08,420
+Ia boleh menjadi x kalau anda suka.
+
+25
+00:01:08,420 --> 00:01:13,550
+Dan jika kita melihatnya, negatif 7 sepadan dengan a.
+
+26
+00:01:13,550 --> 00:01:14,600
+Itulah a kita.
+
+27
+00:01:14,600 --> 00:01:18,320
+Ia adalah pekali kepada sebutan dua darjah.
+
+28
+00:01:18,320 --> 00:01:21,290
+2 sepadan dengan b.
+
+29
+00:01:21,290 --> 00:01:24,250
+Itu ialah pekali kepada sebutan satu darjah.
+
+30
+00:01:24,250 --> 00:01:26,880
+Dan kemudian 9 sepadan dengan c.
+
+31
+00:01:26,880 --> 00:01:29,250
+Itu adalah yang dimalarkan.
+
+32
+00:01:29,250 --> 00:01:31,440
+Jadi, mari applikasikan formula kuadratik.
+
+33
+00:01:31,440 --> 00:01:34,510
+Formula kuadratik akan memberitahu kita yang kaedah
+
+34
+00:01:34,510 --> 00:01:38,600
+q melengkapkan persamaan ini- q akan bersamaan dengan
+
+35
+00:01:38,600 --> 00:01:40,440
+negatif b.
+
+36
+00:01:40,440 --> 00:01:42,390
+b ialah 2.
+
+37
+00:01:42,390 --> 00:01:53,840
+Tambah atau tolak punca kuasa dua b kuasa dua, oleh 2 kuasa dua,
+
+38
+00:01:53,840 --> 00:02:08,220
+tolak 4 kali a kali negatif 7 kali c, iaitu 9.
+
+39
+00:02:08,220 --> 00:02:10,639
+Dan semua itu per 2a.
+
+40
+00:02:10,639 --> 00:02:16,020
+Semua itu per 2 kali a, lagi sekali
+
+41
+00:02:16,020 --> 00:02:17,400
+negatif 7.
+
+42
+00:02:17,400 --> 00:02:20,256
+.
+
+43
+00:02:20,256 --> 00:02:22,760
+Dan kemudian kita hanya perlu menilai ini
+
+44
+00:02:22,760 --> 00:02:29,190
+Jadi ini akan menjadi bersamaan dengan negatif 2 tambah or tolak
+
+45
+00:02:29,190 --> 00:02:35,160
+punca kuasa dua- mari kita lihat, 2 kuasa dua ialah 4- dan kemudian
+
+46
+00:02:35,160 --> 00:02:37,962
+jika kita hanya mengambil bahagian ini di sini, jikalau kita hanya mengambil
+
+47
+00:02:37,962 --> 00:02:42,470
+negatif 4 kali negatif 7 kali 9, negatif ini dan
+
+48
+00:02:42,470 --> 00:02:43,890
+negatif itu akan dipangkah.
+
+49
+00:02:43,890 --> 00:02:45,960
+Ia hanya akan menjadi nombor positif.
+
+50
+00:02:45,960 --> 00:02:49,220
+Dan 4 kali 7 kali 9.
+
+51
+00:02:49,220 --> 00:02:52,720
+4 kali 9 ialah 36.
+
+52
+00:02:52,720 --> 00:02:54,270
+36 kali 7.
+
+53
+00:02:54,270 --> 00:02:55,710
+Mari lakukannya di atas ini.
+
+54
+00:02:55,710 --> 00:02:58,060
+36 kali 7.
+
+55
+00:02:58,060 --> 00:03:00,780
+7 kali 6 ialah 42.
+
+56
+00:03:00,780 --> 00:03:03,350
+7 kali 3, atau 3 kali 7 ialah 21.
+
+57
+00:03:03,350 --> 00:03:05,500
+Tambah 4 ialah 25.
+
+58
+00:03:05,500 --> 00:03:06,420
+252.
+
+59
+00:03:06,420 --> 00:03:09,290
+Jadi ini menjadi 4 tambah 252.
+
+60
+00:03:09,290 --> 00:03:11,430
+Ingat, anda mempunyai negatif 7 dan anda
+
+61
+00:03:11,430 --> 00:03:12,830
+mempunyai tolak di hadapan.
+
+62
+00:03:12,830 --> 00:03:16,020
+Yang itu semua pangkah, sebab itulah kita mempunyai positif 252 untuk
+
+63
+00:03:16,020 --> 00:03:17,950
+bahagian di sana itu.
+
+64
+00:03:17,950 --> 00:03:22,220
+Dan kemudian, penyebut kita, 2 kali negatif
+
+65
+00:03:22,220 --> 00:03:24,800
+7 ialah negatif 14.
+
+66
+00:03:24,800 --> 00:03:26,050
+Jadi ini bersamaan dengan?
+
+67
+00:03:26,050 --> 00:03:28,370
+.
+
+68
+00:03:28,370 --> 00:03:33,460
+Kita mempunyai ini bersamaan dengan negatif 2 tambah atau tolak
+
+69
+00:03:33,460 --> 00:03:36,080
+punca kuasa dua- berapakah jumlah 4 tambah 252?
+
+70
+00:03:36,080 --> 00:03:38,410
+Ia hanyalah 256.
+
+71
+00:03:38,410 --> 00:03:40,860
+Semua itu per negatif 14.
+
+72
+00:03:40,860 --> 00:03:43,600
+Dan berapakah 256?
+
+73
+00:03:43,600 --> 00:03:46,580
+Berapakah punca kuasa dua 256?
+
+74
+00:03:46,580 --> 00:03:47,360
+Ia ialah 16.
+
+75
+00:03:47,360 --> 00:03:48,420
+Anda boleh mencubanya dengan sendiri.
+
+76
+00:03:48,420 --> 00:03:49,810
+Ini adalah 16 kali 16.
+
+77
+00:03:49,810 --> 00:03:53,160
+Jadi punca kuasa dua 256 ialah 16.
+
+78
+00:03:53,160 --> 00:03:56,400
+Jadi kita boleh tulis semula semua ini bersamaan dengan
+
+79
+00:03:56,400 --> 00:04:04,500
+negatif 2 tambah 16 per negatif 14.
+
+80
+00:04:04,500 --> 00:04:07,790
+Atau negatif 2 tolak - betul?
+
+81
+00:04:07,790 --> 00:04:10,180
+Ini ialah tambah 16 per negatif 14.
+
+82
+00:04:10,180 --> 00:04:16,490
+Atau tolak 16 per negatif 14.
+
+83
+00:04:16,490 --> 00:04:20,740
+Jikalau anda fikirkan ia sebagai tambah atau tolak, yang tambah itu ialah tambah yang
+
+84
+00:04:20,740 --> 00:04:21,720
+di sana.
+
+85
+00:04:21,720 --> 00:04:26,510
+Dan jikalau anda mempunyai tolak, yang tolak itu ialah tolak yang
+
+86
+00:04:26,510 --> 00:04:28,250
+di sana.
+
+87
+00:04:28,250 --> 00:04:29,910
+Sekarang mari kita menilai dua nombor ini.
+
+88
+00:04:29,910 --> 00:04:32,430
+.
+
+89
+00:04:32,430 --> 00:04:39,010
+Negatif 2 tambah 16 ialah 14 dibahagikan dengan negatif 14 ialah
+
+90
+00:04:39,010 --> 00:04:40,170
+negatif 1.
+
+91
+00:04:40,170 --> 00:04:42,470
+Jadi q boleh bersamaan dengan negatif 1.
+
+92
+00:04:42,470 --> 00:04:47,430
+Atau negatif 2 tolak 16 iaalh negatif 18 dibahagi dengan
+
+93
+00:04:47,430 --> 00:04:51,320
+negatif 14 ialah bersamaan dengan 18 per 14
+
+94
+00:04:51,320 --> 00:04:54,500
+Negatif itu pangkahkan, iaaitu bersamaan dengan 9 per 7.
+
+95
+00:04:54,500 --> 00:04:57,190
+Jadi q boleh bersamaan dengan negatif 1, atau it boleh menjadi
+
+96
+00:04:57,190 --> 00:04:59,500
+bersamaan dengan 9 per 7.
+
+97
+00:04:59,500 --> 00:05:02,100
+Dan jikalau anda menyelesaikannya, gantikan q ini ke dalam
+
+98
+00:05:02,100 --> 00:05:04,460
+persamaan asli ini, dan mengesahkan ia sendiri yang
+
+99
+00:05:04,460 --> 00:05:05,350
+ia adalah memuaskan.
+
+100
+00:05:05,350 --> 00:05:07,900
+Kita boleh lakukannya dengan yang pertama.
+
+101
+00:05:07,900 --> 00:05:09,750
+Jadi jika anda ambil q bersamaan dengan negatif 1.
+
+102
+00:05:09,750 --> 00:05:12,795
+Negatif 7 kali negatif 1 kuasa dua- negatif 1 kuasa dua
+
+103
+00:05:12,795 --> 00:05:17,210
+ialah 1- jadi ini bakal menjadi negatif 7 kali 1, betul?
+
+104
+00:05:17,210 --> 00:05:18,920
+Itu ialah negatif 1 kuasa dua.
+
+105
+00:05:18,920 --> 00:05:22,260
+Negatif 1 kali 2 ialah tolak 2 tambah 9.
+
+106
+00:05:22,260 --> 00:05:26,150
+Jadi ia ialah negatif 7 tolak 2,iaitu negatif 9, tambah 9,
+
+107
+00:05:26,150 --> 00:05:27,960
+bersamaan dengan 0.
+
+108
+00:05:27,960 --> 00:05:29,180
+Cuba lihat yang ini.
+
+109
+00:05:29,180 --> 00:05:31,780
+Dan saya akan tinggalkan anda untuk mengesahkan bahawa 9 per
+
+110
+00:05:31,780 --> 00:05:34,150
+7 juga berfungsi.

@@ -1,0 +1,1239 @@
+1
+00:00:01,340 --> 00:00:03,890
+Kita telah lihat sejumlah
+
+2
+00:00:03,890 --> 00:00:05,390
+reaksi asid dan juga reaksi bes.
+
+3
+00:00:05,390 --> 00:00:08,160
+Jadi mari kita tuliskan beberapa daripadanya sebagai rujukan dan
+
+4
+00:00:08,160 --> 00:00:10,450
+mari kita lihat jika kita boleh nampak corak umum di sini.
+
+5
+00:00:10,450 --> 00:00:12,630
+Dan kebanyakan dari ini mungkin bukan sesuatu yang baru untuk anda.
+
+6
+00:00:12,630 --> 00:00:16,990
+Jadi jika kita mempunyai hidrogen florida, atau jika ianya adalah
+
+7
+00:00:16,990 --> 00:00:21,110
+larutan akueus, ia adalah asid hidroflorik.
+
+8
+00:00:21,110 --> 00:00:24,320
+Kita tahu bahawa ini ialah asid lemah -- ianya tidak terpisah
+
+9
+00:00:24,320 --> 00:00:24,850
+secara sepenuhnya.
+
+10
+00:00:24,850 --> 00:00:26,930
+Jadi ia berada dalam keseimbangan.
+
+11
+00:00:26,930 --> 00:00:28,090
+Sejenis keseimbangan.
+
+12
+00:00:28,090 --> 00:00:30,860
+Itu tidak bermaksud yang kepekatan nya adalah sama.
+
+13
+00:00:30,860 --> 00:00:32,110
+Hidrogen ini akan terpisah.
+
+14
+00:00:35,610 --> 00:00:38,080
+Sebenarnya, kita tahu dalam realiti, ia bergerak bersama dengan
+
+15
+00:00:38,080 --> 00:00:40,700
+molekul air lain dan membentuk hidronium.
+
+16
+00:00:40,700 --> 00:00:44,760
+Dan kemudian anda ada -- dan sudah tentu, ini masih lagi akueus.
+
+17
+00:00:44,760 --> 00:00:47,330
+Kesemuanya berlaku di dalam air.
+
+18
+00:00:47,330 --> 00:00:53,090
+Dan kemudian, anda ada anion florida,
+
+19
+00:00:53,090 --> 00:00:53,940
+atau ion negatif.
+
+20
+00:00:53,940 --> 00:00:57,650
+Dan itu juga adalah larutan akueus.
+
+21
+00:00:57,650 --> 00:01:00,000
+Dan kita boleh tuliskan semula -- sebenarnya, biar saya tuliskan
+
+22
+00:01:00,000 --> 00:01:02,210
+reaksi yang lain di sini, jadi anda boleh lihat corak umumnya.
+
+23
+00:01:02,210 --> 00:01:05,500
+Mari saya tuliskan reaksi berasid lain.
+
+24
+00:01:05,500 --> 00:01:08,720
+Mari saya tuliskan ammonium.
+
+25
+00:01:08,720 --> 00:01:16,820
+Jadi itu ialah NH4 tambah -- ia adalah ammonia dengan hidrogen berlebihan dalam --
+
+26
+00:01:16,820 --> 00:01:22,600
+biar saya tuliskannya -- dalam larutan akueus.
+
+27
+00:01:22,600 --> 00:01:29,400
+Itu boleh terpisah dengan satu daripada hidrogen yang
+
+28
+00:01:29,400 --> 00:01:31,790
+muncul dalam larutan akueus.
+
+29
+00:01:31,790 --> 00:01:37,120
+Dan kemudia, anda ada ammonia, NH3.
+
+30
+00:01:37,120 --> 00:01:39,190
+Itu juga adalah dalam larutan akueus.
+
+31
+00:01:39,190 --> 00:01:42,480
+Sekarang kedua-dua ini menerangkan reaksi keseimbangan, tapi
+
+32
+00:01:42,480 --> 00:01:45,110
+ia menunjukkan yang kita sedang berdepan dengan asid lemah.
+
+33
+00:01:45,110 --> 00:01:48,360
+Anda ambil asid, dan ianya menghasilkan hidrogen,
+
+34
+00:01:48,360 --> 00:01:50,700
+sekurang-kurangnya mengikut definisi Arrhenius tentang asid
+
+35
+00:01:50,700 --> 00:01:53,560
+jika anda lihat definisi Bronsted-Lowry di mana
+
+36
+00:01:53,560 --> 00:01:55,920
+ianya menderma proton kepada larutan.
+
+37
+00:01:55,920 --> 00:01:58,410
+Mereka akan mencipta hidronium dan mendermakan
+
+38
+00:01:58,410 --> 00:01:59,180
+proton kepada air di sekeliling mereka.
+
+39
+00:01:59,180 --> 00:02:02,330
+Tapi ia lebih kurang mendefinisikannya sebagai asid.
+
+40
+00:02:02,330 --> 00:02:04,940
+Tapi kita tahu ia adalah asid lemah, jadi reaksi ini akan
+
+41
+00:02:04,940 --> 00:02:05,370
+bergerak dalam dua arah.
+
+42
+00:02:05,370 --> 00:02:08,310
+Jadi kita boleh tuliskan reaksi sama sebagai
+
+43
+00:02:08,310 --> 00:02:10,050
+reaksi asas.
+
+44
+00:02:10,050 --> 00:02:13,550
+Jadi kita boleh -- daripada mengatakan asid hidroflorik
+
+45
+00:02:13,550 --> 00:02:17,790
+ialah asid kita -- kita boleh kata, hey, jika saya ada satu anion florida,
+
+46
+00:02:17,790 --> 00:02:22,140
+jika saya ada satu florida negatif di sini, saya boleh kata satu
+
+47
+00:02:22,140 --> 00:02:27,430
+florida negatif, jika saya masukkannya ke dalam -- sebenarnya
+
+48
+00:02:27,430 --> 00:02:30,370
+saya masih lakukan kesilapan yang sama.
+
+49
+00:02:30,370 --> 00:02:33,290
+Florin tidak mempunyai I di dalamnya.
+
+50
+00:02:33,290 --> 00:02:35,520
+Saya lakukannya kerana klorida mempunyainya.
+
+51
+00:02:35,520 --> 00:02:38,690
+Biar saya padamkan ini.
+
+52
+00:02:38,690 --> 00:02:40,860
+Hidrogen florida ialah HF.
+
+53
+00:02:40,860 --> 00:02:41,830
+Jadi itu cuma F di situ.
+
+54
+00:02:41,830 --> 00:02:43,440
+Mari kita pergi ke jadual berkala.
+
+55
+00:02:43,440 --> 00:02:46,910
+Lihat, saya sentiasa terkeliru antara florin dan klorin kerana
+
+56
+00:02:46,910 --> 00:02:48,490
+F adalah cuma florin.
+
+57
+00:02:48,490 --> 00:02:49,780
+Tapi anda faham maksud saya.
+
+58
+00:02:49,780 --> 00:02:50,090
+OK.
+
+59
+00:02:50,090 --> 00:02:55,260
+Jadi, saya boleh tuliskan semula keseimbangan asid lemah sebagai
+
+60
+00:02:55,260 --> 00:02:56,730
+keseimbangan bes lemah.
+
+61
+00:02:56,730 --> 00:03:01,150
+Atau saya boleh katakan anion florin negatif di dalam larutan akueus
+
+62
+00:03:01,150 --> 00:03:06,610
+adalah seimbang dengan -- dan sekarang kita katakan
+
+63
+00:03:06,610 --> 00:03:09,810
+saya mempertimbangkan ini sebagai bes, yang bermaksud ia akan
+
+64
+00:03:10,805 --> 00:03:11,800
+meningkatkan kepekatan OH.
+
+65
+00:03:11,800 --> 00:03:14,310
+Jadi apa yang ini mungkin mahu lakukan ialah ia mungkin mahu
+
+66
+00:03:14,310 --> 00:03:16,240
+mengambil sedikit hidrogen dari air yang berada
+
+67
+00:03:16,240 --> 00:03:17,290
+di dalam larutan akueus.
+
+68
+00:03:17,290 --> 00:03:25,120
+Jadi ia mengambil sedikit hidrogen dan menjadi hidrogen florida,
+
+69
+00:03:25,120 --> 00:03:27,010
+atau asid hidroflorik.
+
+70
+00:03:27,010 --> 00:03:31,680
+Mari saya lakukan itu menggunakan warna magenta.
+
+71
+00:03:31,680 --> 00:03:33,190
+Ianya adalah akueus.
+
+72
+00:03:33,190 --> 00:03:35,210
+Dan dari mana ia dapatkan hidrogen ini?
+
+73
+00:03:35,210 --> 00:03:37,230
+Jdi, ia dapatkannya dari salah satu molekul air yang
+
+74
+00:03:37,230 --> 00:03:39,420
+berada di sekeliling, iaitu H2O.
+
+75
+00:03:39,420 --> 00:03:41,540
+Memandangkan ia telah berikan satu dari hidrogennya, kini
+
+76
+00:03:41,540 --> 00:03:43,630
+ia cuma tinggal OH tolak.
+
+77
+00:03:43,630 --> 00:03:48,290
+Jadi molekul air di sekeliling ialah OH tolak akueus.
+
+78
+00:03:48,290 --> 00:03:49,680
+Sekarang, ini mungkin kelihatan berbeza.
+
+79
+00:03:53,750 --> 00:04:00,750
+Yang ini mendermakan hidrogen kepada medium sekeliling,
+
+80
+00:04:00,750 --> 00:04:02,940
+dan kemudian cuma tinggal molekul florin.
+
+81
+00:04:02,940 --> 00:04:06,980
+Maka, ini akan menghasilkan molekul hidroksida
+
+82
+00:04:06,980 --> 00:04:09,750
+daripada medium sekeliling jadi ianya kelihatan berbes,
+
+83
+00:04:09,750 --> 00:04:12,390
+tapi jika anda fikirkannya, reaksi ini adalah sama.
+
+84
+00:04:12,390 --> 00:04:15,020
+Maksud saya, anda boleh terus pergi ke arah bertentangan.
+
+85
+00:04:15,020 --> 00:04:17,190
+Anda boleh katakan, hey, ini akan bereaksi dengan
+
+86
+00:04:17,190 --> 00:04:21,540
+molekul hidronium rawak ataupun
+
+87
+00:04:21,540 --> 00:04:22,520
+proton bebas di luar sana.
+
+88
+00:04:22,520 --> 00:04:25,730
+Dan kemudian, ia boleh membentuk hidrogen florida, tapi kita tahu yang
+
+89
+00:04:25,730 --> 00:04:28,020
+hidronium tidak akan berada di mana-mana, bila mana
+
+90
+00:04:28,020 --> 00:04:30,570
+anda ambil reaksi bertentangan, apabila anda bergerak
+
+91
+00:04:30,570 --> 00:04:33,500
+ke arah ini, ia tidak akan perlu mengambil hidrogen
+
+92
+00:04:33,500 --> 00:04:35,130
+ini dari H3O.
+
+93
+00:04:35,130 --> 00:04:36,840
+Ia boleh megambilnya dari H2O.
+
+94
+00:04:36,840 --> 00:04:38,270
+Dan kemudian anda akan ada reaksi ini.
+
+95
+00:04:38,270 --> 00:04:39,500
+Ini adalah bersamaan.
+
+96
+00:04:39,500 --> 00:04:46,250
+Dan kita boleh lakukan perkara yang sama untuk ammonium dan ammonia.
+
+97
+00:04:46,250 --> 00:04:50,160
+Kita boleh tuliskan ammonia sebagai bes.
+
+98
+00:04:50,160 --> 00:04:56,000
+NH3 adalah dalam keseimbangan sebagai bes lemah -- ia boleh
+
+99
+00:04:56,000 --> 00:05:02,460
+mengambil hidrogen dari medium persekitaran dan menjadi NH4 tambah
+
+100
+00:05:02,460 --> 00:05:03,920
+di dalam larutan akueus.
+
+101
+00:05:03,920 --> 00:05:07,010
+Dan kemudian, ia akan mengambil hidrogen itu, mungkin dari
+
+102
+00:05:07,010 --> 00:05:10,430
+1 molekul air kerana itulah apa yang berada di sekelilingnya.
+
+103
+00:05:10,430 --> 00:05:13,230
+Maka, molekul air itu akan menjadi OH tolak.
+
+104
+00:05:13,230 --> 00:05:16,470
+Dan sekarang nampaknya ammonia ialah bes lemah.
+
+105
+00:05:16,470 --> 00:05:18,960
+Ammonium ialah asid lemah.
+
+106
+00:05:18,960 --> 00:05:21,680
+Tapi ini adalah reaksi yang sama.
+
+107
+00:05:21,680 --> 00:05:24,470
+Sekarang, anda mungkin telah lihat 1 hubungan di sini.
+
+108
+00:05:24,470 --> 00:05:26,940
+Ammonium ialah asid lemah.
+
+109
+00:05:26,940 --> 00:05:29,680
+Ammonia ialah bes lemah.
+
+110
+00:05:29,680 --> 00:05:31,570
+Dan apakah perbezaan antara kedua-dua nya?
+
+111
+00:05:31,570 --> 00:05:33,810
+Ia cumalah H.
+
+112
+00:05:33,810 --> 00:05:39,760
+Asid hidroflorik ialah asid lemah, cuma anion florin.
+
+113
+00:05:39,760 --> 00:05:42,090
+Florin negatif ialah bes lemah.
+
+114
+00:05:42,090 --> 00:05:43,580
+Dan apakah perbezaan antaranya?
+
+115
+00:05:43,580 --> 00:05:45,870
+Perbezaannya cumalah 1 hidrogen.
+
+116
+00:05:45,870 --> 00:05:48,880
+Mari saya tuliskannya.
+
+117
+00:05:48,880 --> 00:05:50,130
+Jadi mari saya tuliskan asid lemah.
+
+118
+00:05:53,400 --> 00:05:55,235
+Dan kemudian anda ada bes lemah anda.
+
+119
+00:05:59,410 --> 00:06:03,150
+Jadi bes lemah anda -- biar saya tuliskan asid lemah kita dulu.
+
+120
+00:06:03,150 --> 00:06:08,750
+Kita ada asid hidroflorik, dan kemudiannya bes lemah ialah
+
+121
+00:06:08,750 --> 00:06:10,930
+apabila kita buangkan hidrogen,
+
+122
+00:06:10,930 --> 00:06:12,320
+cuma proton hidrogen.
+
+123
+00:06:12,320 --> 00:06:14,480
+Kita simpan elektron, jadi sebab itulah ianya
+
+124
+00:06:14,480 --> 00:06:15,880
+bercas negatif di situ.
+
+125
+00:06:15,880 --> 00:06:18,180
+Hidrogen tanpa satu elektronnya cumalah 1 proton
+
+126
+00:06:18,180 --> 00:06:20,010
+kerana ia tidak mempunyai neutron.
+
+127
+00:06:20,010 --> 00:06:26,500
+Yang lagi satu ialah NH4 tambah.
+
+128
+00:06:26,500 --> 00:06:31,150
+Anda buangkan 1 hidrogennya dan anda dapat NH3.
+
+129
+00:06:31,150 --> 00:06:33,200
+Jadi apakah perbezaan yang berlaku?
+
+130
+00:06:33,200 --> 00:06:35,160
+Kesemua ini mempunyai kurang 1 hidrogen.
+
+131
+00:06:35,160 --> 00:06:38,700
+Atau jika anda pergi ke arah ini, anda tambahkan 1 hidrogen.
+
+132
+00:06:38,700 --> 00:06:42,400
+Jadi anda akan ada konjugasi seperti ini.
+
+133
+00:06:42,400 --> 00:06:45,800
+Dan ini adalah cara yang panjang dan berliku untuk
+
+134
+00:06:45,800 --> 00:06:50,020
+perkenalkan idea ini kepada anda yang anda mempunyai pasangan konjugasi ini.
+
+135
+00:06:50,020 --> 00:06:53,230
+Seperti asid hidroflorik, atau hidrogen florida dan
+
+136
+00:06:53,230 --> 00:06:54,960
+cuma anion florida.
+
+137
+00:06:54,960 --> 00:06:56,675
+Jadi ini adalah pasangan konjugasi.
+
+138
+00:07:04,790 --> 00:07:08,960
+Yang merupakan dua molekul yang sama kecuali
+
+139
+00:07:08,960 --> 00:07:12,070
+ia berbeza dalam bentuk 1 hidrogen.
+
+140
+00:07:12,070 --> 00:07:13,860
+Tidak lebih dari 1 hidrogen ya.
+
+141
+00:07:13,860 --> 00:07:15,720
+Satu hari nanti, mungkin ada satu ujian di mana anda ditunjukkan
+
+142
+00:07:15,720 --> 00:07:19,070
+2 molekul yang dipisahkan oleh 2 hidrogen -- itu
+
+143
+00:07:19,070 --> 00:07:21,940
+bukanlah pasangan konjugasi.
+
+144
+00:07:21,940 --> 00:07:28,980
+Sebagai contoh, jika saya tunjuk kepada anda H2O dan OH tolak,
+
+145
+00:07:28,980 --> 00:07:30,220
+ini adalah pasangan konjugasi.
+
+146
+00:07:30,220 --> 00:07:34,660
+Kerana ini di sini sememangnya yang ini, tapi kurang 1 proton.
+
+147
+00:07:34,660 --> 00:07:37,500
+Dan biar saya jelaskan di sini yang ia bukan cuma kekurangan
+
+148
+00:07:37,500 --> 00:07:39,850
+hidrogen -- ia kekurangan proton.
+
+149
+00:07:39,850 --> 00:07:41,630
+Satu daripadanya akan menyimpan elektron.
+
+150
+00:07:41,630 --> 00:07:46,150
+Jadi ini kekurangan 1 proton hidrogen,yang ini pula
+
+151
+00:07:46,150 --> 00:07:47,160
+terlebih 1 proton hidrogen.
+
+152
+00:07:47,160 --> 00:07:48,420
+Jadi, perbezaan antara kedua-dua ini
+
+153
+00:07:48,420 --> 00:07:50,320
+ialah cuma proton hidrogen.
+
+154
+00:07:50,320 --> 00:07:51,730
+Jadi mereka adalah pasangan konjugasi.
+
+155
+00:07:51,730 --> 00:07:58,410
+Sekarang, jika saya katakan yang H3O dan OH tolak, anda mungkin
+
+156
+00:07:58,410 --> 00:08:01,580
+akan berkata, hey, ini adalah sangat berasid, ini ialah bes,
+
+157
+00:08:01,580 --> 00:08:02,720
+jadi ia adalah pasangan konjugasi.
+
+158
+00:08:02,720 --> 00:08:07,630
+Tapi tidak, di situ ada 2 H, 2 perbezaan proton.
+
+159
+00:08:07,630 --> 00:08:09,160
+Ini ialah H3O tambah.
+
+160
+00:08:09,160 --> 00:08:10,980
+Terdapat perbezaan 2 proton, jadi mereka
+
+161
+00:08:10,980 --> 00:08:12,815
+bukanlah pasangan konjugasi.
+
+162
+00:08:18,950 --> 00:08:20,410
+Jadi mari saya gariskan yang itu.
+
+163
+00:08:20,410 --> 00:08:21,510
+Tapi yang ini adalah pasangan konjugasi.
+
+164
+00:08:21,510 --> 00:08:25,200
+Sekarang, anda boleh katakan, jika anda ada H3O, anda mungkin kata, hey,
+
+165
+00:08:25,200 --> 00:08:28,650
+apakah bes konjugasi -- dan itu adalah perkataan baru yang saya
+
+166
+00:08:28,650 --> 00:08:32,350
+perkenalkan kepada anda -- apakah bes konjugasi untuk H3O
+
+167
+00:08:32,350 --> 00:08:33,179
+jika H3O ialah asid?
+
+168
+00:08:33,179 --> 00:08:38,080
+Baik, jika anda mabil 1 H daripadanya dan anda dapat H2O.
+
+169
+00:08:38,080 --> 00:08:41,510
+Jadi ini adalah pasangan konjugasi.
+
+170
+00:08:41,510 --> 00:08:44,150
+Dan saya baru sebutkan 1 perkataan tanpa mendefinisikannya,
+
+171
+00:08:44,150 --> 00:08:45,050
+jadi sekarang biar saya definisikannya,
+
+172
+00:08:45,050 --> 00:08:49,050
+Dalam setiap pasangan konjugasi, anda ada asid dan bes.
+
+173
+00:08:49,050 --> 00:08:51,740
+Dan jika anda kata, oh, apakah bes konjugasi untuk
+
+174
+00:08:51,740 --> 00:08:55,580
+asid hidroflorik, anda buangkan 1 hidrogen dan anda katakan, oh,
+
+175
+00:08:55,580 --> 00:08:59,350
+ia cumalah anion florin.
+
+176
+00:08:59,350 --> 00:09:03,760
+Jika anda kata, saya ada sedikit ammonia, sebagai bes,
+
+177
+00:09:03,760 --> 00:09:05,310
+apakah asid konjugasinya?
+
+178
+00:09:05,310 --> 00:09:08,350
+Jadi jika seseorang bertanya kepada anda, apakah itu asid konjugasi,
+
+179
+00:09:08,350 --> 00:09:12,980
+anda tambahkan 1 proton hidrogen kepadanya dan anda ada ammonium.
+
+180
+00:09:12,980 --> 00:09:17,280
+Jadi saya boleh katakan ini ialah asid konjugasi.
+
+181
+00:09:17,280 --> 00:09:19,590
+Biar saya tukarkan istilah -- konjugasi.
+
+182
+00:09:19,590 --> 00:09:22,130
+Dan kita akan lihat sebenarnya, anda tidak perlu gunakan
+
+183
+00:09:22,130 --> 00:09:24,150
+asid lemah atau bes lemah.
+
+184
+00:09:24,150 --> 00:09:31,070
+Asid konjugasi, dan kemudian anda ada bes konjugasi.
+
+185
+00:09:31,070 --> 00:09:34,440
+Dan walaupun sesuatu mungkin adalah asid konjugasi atau
+
+186
+00:09:34,440 --> 00:09:38,340
+bes konjugasi, ia tidak bermaksud yang mereka adalah
+
+187
+00:09:38,340 --> 00:09:41,740
+sangat asas, sebagai contoh, atau sangat berasid.
+
+188
+00:09:41,740 --> 00:09:45,870
+Jika saya ada hidrogen klorida, kita tahu ini ialah asid kuat.
+
+189
+00:09:45,870 --> 00:09:48,990
+Hidrogen klorida.
+
+190
+00:09:48,990 --> 00:09:52,460
+Untuk bes konjugasinya, kita cuma buangkan
+
+191
+00:09:52,460 --> 00:09:55,090
+1 dari proton hidrogennya -- ia tidak akan bawa
+
+192
+00:09:55,090 --> 00:09:56,480
+elektron bersamanya.
+
+193
+00:09:56,480 --> 00:10:00,720
+Jadi ia cuma akan menjadi ion klorin negatif.
+
+194
+00:10:00,720 --> 00:10:02,300
+Ini ialah konjugasinya.
+
+195
+00:10:02,300 --> 00:10:04,280
+Jika saya berikan anda ion klorin negatif dan bertanya, apakah
+
+196
+00:10:04,280 --> 00:10:07,640
+bes konjugasinya -- apakah asid konjugasinya?
+
+197
+00:10:07,640 --> 00:10:08,880
+Anda akan katakan asid hidroklorik.
+
+198
+00:10:08,880 --> 00:10:11,590
+Jika saya berikan anda asid hidroklorik dan bertanya apakah
+
+199
+00:10:11,590 --> 00:10:15,300
+bes konjugasinya, anda cuma buangkan proton hidrogen dan
+
+200
+00:10:15,300 --> 00:10:18,100
+anda akan cuma ada ion klorin negatif -- anda katakan
+
+201
+00:10:18,100 --> 00:10:19,280
+itu adalah bes konjugasinya.
+
+202
+00:10:19,280 --> 00:10:22,410
+Sekarang, setelah kita katakan itu, kita tahu bahawa apabila anda
+
+203
+00:10:22,410 --> 00:10:25,190
+letakkan asid hidroklorik, kita tahu reaksi ini.
+
+204
+00:10:25,190 --> 00:10:28,000
+Saya rasa ini adalah reaksi pertama yang kita lihat
+
+205
+00:10:28,000 --> 00:10:29,780
+dalam larutan akueus.
+
+206
+00:10:29,780 --> 00:10:37,140
+Ia akan terpisah sepenuhnya untuk membentuk proton hidrogen
+
+207
+00:10:37,140 --> 00:10:39,230
+tambah anion klorin -- kesemuanya, sudah tentu,
+
+208
+00:10:39,230 --> 00:10:41,840
+adalah dalam larutan akueus.
+
+209
+00:10:41,840 --> 00:10:43,900
+Sekarang, dengan ianya terpisah secara sepenuhnya,
+
+210
+00:10:43,900 --> 00:10:47,700
+yang ia bukanlah reaksi yang sembang, ini menunjukkan bahawa
+
+211
+00:10:47,700 --> 00:10:52,170
+ianya adalah lebih berbes daripada air.
+
+212
+00:10:52,170 --> 00:10:55,630
+Ianya tidak mempunyai -- oh, tidak, tidak -- mari saya katakan
+
+213
+00:10:55,630 --> 00:10:57,230
+yang ianya kurang berbes berbanding air.
+
+214
+00:10:57,230 --> 00:11:03,710
+Ianya tidak mempunyai keinginan untuk mengambil proton hidrogen
+
+215
+00:11:03,710 --> 00:11:07,710
+dari medium sekeliling untuk membentuk asid hidroklorik.
+
+216
+00:11:07,710 --> 00:11:11,150
+Reaksi ini tidak akan bergerak ke arah ini.
+
+217
+00:11:11,150 --> 00:11:14,990
+Jadi walaupun anion klorin ini, atau ion negatif klorin,
+
+218
+00:11:19,775 --> 00:11:24,560
+ialah "bes konjugasi bagi HCL", itu tidak semestinya
+
+219
+00:11:24,560 --> 00:11:26,790
+bermakna yang ianya adalah berbes.
+
+220
+00:11:26,790 --> 00:11:28,980
+Ini adalah kurang berbes berbanding dengan air.
+
+221
+00:11:28,980 --> 00:11:32,140
+Ia kurang mahukan proton hidrogen
+
+222
+00:11:32,140 --> 00:11:34,180
+berbanding, mmm...katakan, hidronium.
+
+223
+00:11:34,180 --> 00:11:39,890
+Jadi jika anda letakkan sedikit klorin dengan sedikit hidronium,
+
+224
+00:11:39,890 --> 00:11:43,880
+atau katakan anda ada sedikit H tambah, anda tidak
+
+225
+00:11:43,880 --> 00:11:45,250
+akan membentuk asid hidroklorik.
+
+226
+00:11:45,250 --> 00:11:50,260
+Jadi ini tidaklah begitu berbes walaupun ianya
+
+227
+00:11:50,260 --> 00:11:52,620
+dianggap sebagai bes konjugasi.
+
+228
+00:11:52,620 --> 00:11:54,760
+Dan secara umum, itu adalah kes nya apabila anda berdepan
+
+229
+00:11:54,760 --> 00:11:58,920
+dengan asid kuat, seperti contoh ini, asid hidroklorik.
+
+230
+00:11:58,920 --> 00:12:05,610
+Jika saya ada larutan besar yang cuma mengandungi anion klorin di dalam air,
+
+231
+00:12:05,610 --> 00:12:08,550
+jadi saya cuma ada anion klorin yang berkepekatan tinggi dan air
+
+232
+00:12:08,550 --> 00:12:12,420
+yang banyak, kerana ia tidak akan lakukan sebarang
+
+233
+00:12:12,420 --> 00:12:16,550
+perubahan untuk mengubah hidrogen atau kepekatan hidroksida
+
+234
+00:12:16,550 --> 00:12:22,510
+di dalam air kerana ianya adalah kurang berbes berbanding air itu sendiri --
+
+235
+00:12:22,510 --> 00:12:26,050
+ia tidak mahu mengambil atau memberi apa-apa kepada air --
+
+236
+00:12:26,050 --> 00:12:30,380
+jadi jika anda ada sup, PH nya akan menjadi 7.
+
+237
+00:12:30,380 --> 00:12:34,730
+Jika anda ada klorin tolak dalam larutan akueus -- dan saya
+
+238
+00:12:34,730 --> 00:12:38,440
+tidak kisah apakah kepekatannya, anda boleh ada
+
+239
+00:12:38,440 --> 00:12:41,480
+10 molar -- PH nya akan masih menjadi 7 kerana
+
+240
+00:12:41,480 --> 00:12:43,700
+ia tidak akan mengubah larutan.
+
+241
+00:12:43,700 --> 00:12:46,640
+Ia tidak akan mengubah PH dengan sendirinya.
+
+242
+00:12:46,640 --> 00:12:48,970
+Secara jelasnya, jika anda letakkan asid hidroklorik ke dalam
+
+243
+00:12:48,970 --> 00:12:51,400
+larutan akueus, ini akan mengubahnya, kerana anda
+
+244
+00:12:51,400 --> 00:12:54,390
+akan membuang kesemua proton hidrogen ini
+
+245
+00:12:54,390 --> 00:12:55,420
+ke dalam larutan tersebut.
+
+246
+00:12:55,420 --> 00:12:58,310
+Jadi, secara umumnya -- maksud saya, anda boleh menghafalnya, tapi saya
+
+247
+00:12:58,310 --> 00:13:05,080
+fikir yang ianya adalah masuk akal -- bes konjugasi
+
+248
+00:13:05,080 --> 00:13:10,940
+untuk asid kuat adalah neutral di dalam air.
+
+249
+00:13:10,940 --> 00:13:12,160
+Neutral.
+
+250
+00:13:12,160 --> 00:13:14,560
+Jadi itu bermaksud, tiada kesan ke atas PH.
+
+251
+00:13:21,670 --> 00:13:27,400
+Anda kata klorin tambah H2O, maksud saya, anda masih akan
+
+252
+00:13:27,400 --> 00:13:29,520
+mempunyai klorin tambah H2O.
+
+253
+00:13:29,520 --> 00:13:31,760
+Anda tidak akan mengubah kepekatannya.
+
+254
+00:13:31,760 --> 00:13:35,480
+Sebaliknya, apabila anda berdepan dengan asid lemah,
+
+255
+00:13:35,480 --> 00:13:38,960
+maka reaksi ini akan pergi ke arah yang satu lagi.
+
+256
+00:13:38,960 --> 00:13:44,690
+Jika anda letakkan sedikit florin ke dalam air, ia akan mengambil
+
+257
+00:13:44,690 --> 00:13:47,710
+sedikit hidrogen -- tidak semestinya banyak, tapi ia akan ambil
+
+258
+00:13:47,710 --> 00:13:49,910
+sedikit hidrogen dari air di sekeliling -- dan
+
+259
+00:13:49,910 --> 00:13:52,470
+meningkatkan kepekatakn hidroksida.
+
+260
+00:13:52,470 --> 00:13:54,500
+Ia akan meningkatkan kepekatan benda
+
+261
+00:13:54,500 --> 00:13:55,220
+ini di sini.
+
+262
+00:13:55,220 --> 00:13:57,990
+Jadi dalam kes ini, ia akan membuatkan
+
+263
+00:13:57,990 --> 00:14:01,130
+larutan itu menjadi lebih berbes.
+
+264
+00:14:01,130 --> 00:14:04,030
+Ia meningkatkan PH larutan tersebut.
+
+265
+00:14:04,030 --> 00:14:18,610
+Jadi apabila anda mempunyai asid lemah, bes konjugasinya
+
+266
+00:14:18,610 --> 00:14:19,860
+akan menjadi bes lemah.
+
+267
+00:14:22,220 --> 00:14:23,430
+Dan anda boleh lakukan pernyataan
+
+268
+00:14:23,430 --> 00:14:24,560
+ini secara bertentangan.
+
+269
+00:14:24,560 --> 00:14:27,950
+Jika anda ada -- biar saya tukarkan warna, asyik yang sama pula --
+
+270
+00:14:27,950 --> 00:14:36,710
+jika anda ada bes konjugasi -- maaf, bes lemah,
+
+271
+00:14:36,710 --> 00:14:40,560
+asid konjugasinya akan menjadi asid lemah.
+
+272
+00:14:40,560 --> 00:14:42,450
+Jadi saya harap anda dapat ideanya di sini.
+
+273
+00:14:42,450 --> 00:14:44,650
+Ia sebenarnya bukanlah sesuatu yang sukar.
+
+274
+00:14:44,650 --> 00:14:48,860
+Ia cuma jika anda ada asid, bes konjugasinya ialah
+
+275
+00:14:48,860 --> 00:14:50,535
+asid itu, tapi kurang 1 hidrogen.
+
+276
+00:14:53,060 --> 00:14:57,220
+Jika anda ada bes, asid konjugasinya adalah
+
+277
+00:14:57,220 --> 00:14:59,410
+bes itu, tapi lebih 1 hidrogen.
+
+278
+00:14:59,410 --> 00:15:05,440
+Sebenarnya, mari saya lakukan beberapa soalan di sini
+
+279
+00:15:05,440 --> 00:15:10,640
+supaya kita boleh fahaminya dengan lebih jelas.
+
+280
+00:15:10,640 --> 00:15:11,810
+Mari kita lakukannya.
+
+281
+00:15:11,810 --> 00:15:19,940
+Jdi jika ini ialah asid, dan ini ialah bes konjugasinya, jadi
+
+282
+00:15:19,940 --> 00:15:24,010
+jika saya ada -- maksud saya, anda tidak perlu tahu perkataannya.
+
+283
+00:15:24,010 --> 00:15:26,130
+Jika saya ada itu, maka bes konjugasinya, OK, saya
+
+284
+00:15:26,130 --> 00:15:28,270
+cuma perlu buangkan 1 proton hidrogen.
+
+285
+00:15:28,270 --> 00:15:30,300
+Jadi, NO3 tolak.
+
+286
+00:15:30,300 --> 00:15:32,620
+Saya tidak buangkan kesemua molekul neutral hidrogen.
+
+287
+00:15:32,620 --> 00:15:34,950
+Ingat, saya cuma ambil 1 proton, dan elektron tidak akan
+
+288
+00:15:34,950 --> 00:15:38,360
+berubah, jadi saya ada cas negatif.
+
+289
+00:15:38,360 --> 00:15:43,460
+Katakan kita lakukan H2SO4.
+
+290
+00:15:43,460 --> 00:15:46,890
+Jadi, bes konjugasinya, kita buangkan 1 hidrogen.
+
+291
+00:15:46,890 --> 00:15:49,760
+HSO4 tolak.
+
+292
+00:15:49,760 --> 00:15:55,440
+Jika saya ada hidrogen bromida, buangkan 1 hidrogen.
+
+293
+00:15:55,440 --> 00:15:57,420
+Ianya adalah BR tolak.
+
+294
+00:15:57,420 --> 00:16:00,150
+Dan ini ialah asid kuat.
+
+295
+00:16:00,150 --> 00:16:03,010
+Jadi ini akan menjadi neutral -- jika anda letakkan ini di dalam
+
+296
+00:16:03,010 --> 00:16:05,440
+air, ia tidak akan merubah apa-apa walaupun anda
+
+297
+00:16:05,440 --> 00:16:08,720
+panggilnya bes konjugasi hidrogen bromida.
+
+298
+00:16:08,720 --> 00:16:10,460
+Sekarang, jika kita pergi ke arah satu lagi.
+
+299
+00:16:10,460 --> 00:16:13,420
+Jika kita berikan anda bes, jika saya beri anda OH tolak,
+
+300
+00:16:13,420 --> 00:16:14,570
+apakah asid konjugasinya?
+
+301
+00:16:14,570 --> 00:16:18,320
+Maka, anda tambahkan 1 proton kepadanya, dan dapat H2O.
+
+302
+00:16:18,320 --> 00:16:22,090
+Jika saya ada H2O -- kita sudah lakukannya -- anda tambahkan
+
+303
+00:16:22,090 --> 00:16:24,410
+1 proton, jadi anda akan dapat H3O tambah.
+
+304
+00:16:24,410 --> 00:16:28,540
+Jika anda ada -- maksud saya kita boleh teruskan.
+
+305
+00:16:28,540 --> 00:16:29,880
+Katakan saya ada itu.
+
+306
+00:16:29,880 --> 00:16:32,090
+Jika saya tambahkan 1 hidrogen kepadanya, saya ada H2.
+
+307
+00:16:34,850 --> 00:16:35,640
+Lihat......
+
+308
+00:16:35,640 --> 00:16:37,550
+Dan ianya adalah neutral sekarang sebab saya telah tambahkan 1 proton.
+
+309
+00:16:37,550 --> 00:16:40,640
+Walaubagaimanapun, saya harap ini boleh membantu anda dalam
+
+310
+00:16:40,640 --> 00:16:45,520
+memahami konsep konjugasi asid dan bes.

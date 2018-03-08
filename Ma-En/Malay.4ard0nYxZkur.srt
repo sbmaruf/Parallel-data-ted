@@ -1,0 +1,111 @@
+1
+00:00:00,502 --> 00:00:05,010
+Gunakan satu garis nombor untuk membandingkan 11.5 dan 11.7.
+
+2
+00:00:05,041 --> 00:00:06,879
+Jadi, mari kita melukis satu garis nombor di sini.
+
+3
+00:00:06,879 --> 00:00:09,564
+Dan saya akan memfokus antara 11 dan 12
+
+4
+00:00:09,564 --> 00:00:11,671
+kerana di situ adalah kedudukan kedua-dua nombor kita.
+
+5
+00:00:11,671 --> 00:00:14,487
+Nombor-nombor kita adalah 11 dan suatu nombor yang lain, suatu nombor yang persepuluh.
+
+6
+00:00:14,487 --> 00:00:19,179
+Jadi ini di sini adalah 11. Ini di sini akan menjadi 12.
+
+7
+00:00:19,179 --> 00:00:21,673
+Dan saya akan melukis persepuluh itu.
+
+8
+00:00:21,689 --> 00:00:24,114
+Jadi ini akan menjadi, betul-betul di tengah,
+
+9
+00:00:24,114 --> 00:00:28,696
+jadi itu akan menjadi sebelas dan lima persepuluh, atau itu adalah 11.5.
+
+10
+00:00:28,696 --> 00:00:30,102
+Saya sudah menyelesaikan bahagian yang pertama.
+
+11
+00:00:30,102 --> 00:00:35,785
+Saya sudah mengetahui di mana kedudukan 11.5. Ia adalah betul-betul di antara 11 dan 12.
+
+12
+00:00:35,785 --> 00:00:37,316
+Ia adalah 11 dan 5 persepuluh.
+
+13
+00:00:37,316 --> 00:00:39,815
+Tetapi saya akan mencari semua yang lain. Saya akan menandakan semua yang lain pada garis nombor ini.
+
+14
+00:00:39,815 --> 00:00:44,698
+Jadi itu adalah 1 persepuluh, 2 persepuluh, 3 persepuluh, 4 persepuluh, 5 persepuluh,
+
+15
+00:00:44,698 --> 00:00:50,085
+6 persepuluh, 7 persepuluh, 8 persepuluh, 9 persepuluh dan kemudian 10 persepuluh pada 12.
+
+16
+00:00:50,085 --> 00:00:53,333
+Ia dilukis tidak betul-betul mengikut skala. Saya melukisnya dengan tangan sebaik saya boleh.
+
+17
+00:00:53,348 --> 00:00:58,212
+Jadi, dimanakah terletaknya 11.7? Ini adalah 11.5.
+
+18
+00:00:58,212 --> 00:01:00,711
+Ini adalah 11.6. Ini adalah 11.7.
+
+19
+00:01:00,711 --> 00:01:02,173
+Sebelas dan tujuh persepuluh.
+
+20
+00:01:02,173 --> 00:01:06,370
+1 persepuluh, 2 persepuluh, 3 persepuluh, 4 persepuluh, 5 persepuluh, 6 persepuluh, 7 persepuluh.
+
+21
+00:01:06,370 --> 00:01:09,207
+Ini adalah 11.7.
+
+22
+00:01:09,207 --> 00:01:12,413
+Dan cara kita melukis garis nombor ini, nombornya menaik apabila kita bergerak
+
+23
+00:01:12,413 --> 00:01:16,188
+ke kanan. 11.7 adalah ke kanan 11.5.
+
+24
+00:01:16,188 --> 00:01:21,854
+Ia dengan jelasnya adalah lebih daripada 11.5. 11.7 > 11.5.
+
+25
+00:01:21,854 --> 00:01:26,173
+Dan anda sebenarnya tidak perlu melukis satu garis nombor untuk mengetahui itu.
+
+26
+00:01:26,173 --> 00:01:31,781
+Kedua-dua nombor itu adalah 11 dan sesuatu nombor yang lain. Ini adalah 11 dan 7 persepuluh.
+
+27
+00:01:31,797 --> 00:01:35,199
+Jadi, dengan jelasnya, ini adalah lebih besar.
+
+28
+00:01:35,199 --> 99:59:59,999
+Kedua-duanya mempunyai 11, tetapi ini mempunyai 7 persepuluh berbanding dengan 5 persepuluh.

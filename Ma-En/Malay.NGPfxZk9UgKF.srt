@@ -1,0 +1,615 @@
+1
+00:00:00,000 --> 00:00:00,530
+....
+
+2
+00:00:00,530 --> 00:00:03,270
+Mari lakukan beberapa masalah yang membawa
+
+3
+00:00:03,270 --> 00:00:05,950
+konsep yang kita belajar dalam dua video yang lepas
+
+4
+00:00:05,950 --> 00:00:11,140
+Maka mari katakan kita ada ketidaksamaan 4x tambah 3 ialah kurang
+
+5
+00:00:11,140 --> 00:00:12,850
+daripada -1
+
+6
+00:00:12,850 --> 00:00:16,440
+Maka mari cari semua x yang memuaskan ketidaksamaan ini
+
+7
+00:00:16,440 --> 00:00:18,880
+Jadi perkara pertama yang saya mahu lakukan ialah buangkan 3 ini
+
+8
+00:00:18,880 --> 00:00:23,430
+Maka mari tolakkan 3 daripada kedua-dua bahagian persamaan ini
+
+9
+00:00:23,430 --> 00:00:27,980
+Maka bahagian tangan kiri akan menjadi 4x
+
+10
+00:00:27,980 --> 00:00:29,320
+3 ini akan dibatalkan
+
+11
+00:00:29,320 --> 00:00:31,060
+Ia akan berakhir dengan 0
+
+12
+00:00:31,060 --> 00:00:33,200
+Tiada alasan untuk mengubah ketidaksamaan itu
+
+13
+00:00:33,200 --> 00:00:35,630
+Kita cuma tambahkan dan tolakkan daripada kedua-dua bahagian,
+
+14
+00:00:35,630 --> 00:00:36,375
+dalam kes ini, penolakan
+
+15
+00:00:36,375 --> 00:00:38,780
+Ia tidak mengubah ketidaksamaan selagi kita
+
+16
+00:00:38,780 --> 00:00:40,460
+tolakkan nilai yang sama
+
+17
+00:00:40,460 --> 00:00:43,300
+Kita ada -1 tolak 3
+
+18
+00:00:43,300 --> 00:00:45,680
+Itu ialah -4
+
+19
+00:00:45,680 --> 00:00:49,610
+-1 tolak 3 ialah -4
+
+20
+00:00:49,610 --> 00:00:53,380
+Dan kemudian kita mahu--- mari lihat, kita boleh bahagikan kedua-dua bahagian
+
+21
+00:00:53,380 --> 00:00:55,375
+persamaan ini dengan 4
+
+22
+00:00:55,375 --> 00:01:00,390
+...
+
+23
+00:01:00,390 --> 00:01:02,760
+Sekali lagi, apabila anda darabkan atau bahagikan kedua-dua bahagian
+
+24
+00:01:02,760 --> 00:01:06,190
+ketidaksamaan dengan nombor positif, ia tidak mengubah
+
+25
+00:01:06,190 --> 00:01:06,990
+ketidaksamaan
+
+26
+00:01:06,990 --> 00:01:09,255
+Maka bahagian tangan kiri ialah hanya x
+
+27
+00:01:09,255 --> 00:01:15,070
+x ialah kurang dari -4 bahagi dengan 4 ialah -1
+
+28
+00:01:15,070 --> 00:01:16,960
+x ialah kurang daripada -1
+
+29
+00:01:16,960 --> 00:01:19,210
+Atau kita boleh tulis ini dalam notasi jarak waktu
+
+30
+00:01:19,210 --> 00:01:24,080
+Kesemua x daripada infiniti negatif kepada -1, tetapi
+
+31
+00:01:24,080 --> 00:01:25,900
+tidak termasuk negatif 1, maka kita letakkan satu
+
+32
+00:01:25,900 --> 00:01:27,900
+tanda kurungan di sini
+
+33
+00:01:27,900 --> 00:01:31,980
+Mari lakukan yang lebih susah
+
+34
+00:01:31,980 --> 00:01:39,500
+Mari katakan kita ada 5x ialah lebih besar daripada 8x tambah 27
+
+35
+00:01:39,500 --> 00:01:41,620
+Maka mari dapatkan semua x pada bahagian tangan kiri, dan
+
+36
+00:01:41,620 --> 00:01:45,360
+cara terbaik untuk melakukan itu ialah tolakkan 8x daripada kedua-dua bahagian
+
+37
+00:01:45,360 --> 00:01:49,360
+Jadi anda tolak 8x dari kedua-dua bahagian
+
+38
+00:01:49,360 --> 00:01:53,640
+Bahagian tangan kiri menjadi 5x tolak 8x
+
+39
+00:01:53,640 --> 00:01:56,040
+Itu ialah -3x
+
+40
+00:01:56,040 --> 00:01:57,520
+Kita masih ada simbol yang lebih besar
+
+41
+00:01:57,520 --> 00:01:59,560
+Kita hanya tambahkan atau tolakkan
+
+42
+00:01:59,560 --> 00:02:01,040
+kuantiti yang sama pada kedua-dua bahagian
+
+43
+00:02:01,040 --> 00:02:04,960
+8x ini dibatalkan dan anda ditinggalkan dengan 27
+
+44
+00:02:04,960 --> 00:02:08,180
+Maka anda ada -3x ialah lebih besar daripada 27
+
+45
+00:02:08,180 --> 00:02:11,320
+Sekarang, untuk tukarkan ini kepada x, kita mahu bahagikan kedua-dua
+
+46
+00:02:11,320 --> 00:02:12,900
+bahagian dengan -3
+
+47
+00:02:12,900 --> 00:02:16,450
+Tetapi ingat, apabila anda darab atau bahagi kedua-dua bahagian
+
+48
+00:02:16,450 --> 00:02:19,140
+ketidaksamaan dengan nombor negatif, anda tukarkan
+
+49
+00:02:19,140 --> 00:02:20,550
+ketidaksamaan
+
+50
+00:02:20,550 --> 00:02:29,140
+Maka jika kita bahagikan kedua-dua bahagian ini dengan -3, kita perlu
+
+51
+00:02:29,140 --> 00:02:30,760
+tukarkan ketidaksamaan ini
+
+52
+00:02:30,760 --> 00:02:33,800
+Ia akan bertukar daripada simbol lebih besar daripada
+
+53
+00:02:33,800 --> 00:02:36,410
+kepada simbol kurang daripada
+
+54
+00:02:36,410 --> 00:02:39,090
+Dan cuma sedikit yang saya ingat lebih besar daripada
+
+55
+00:02:39,090 --> 00:02:41,410
+ialah bahagian tangan kiri kelihatan lebih besar
+
+56
+00:02:41,410 --> 00:02:42,550
+Ini ialah lebih besar daripada
+
+57
+00:02:42,550 --> 00:02:45,800
+Jika anda bayangkan ketinggian ini, ketinggian itu ialah lebih besar daripada
+
+58
+00:02:45,800 --> 00:02:48,170
+ketinggian itu di sini, iaitu ialah satu titik
+
+59
+00:02:48,170 --> 00:02:49,970
+Saya tidak tahu jika itu mengelirukan anda atau tidak
+
+60
+00:02:49,970 --> 00:02:50,830
+Ini ialah kurang daripada
+
+61
+00:02:50,830 --> 00:02:53,090
+Titik kecil ini ialah kurang daripada
+
+62
+00:02:53,090 --> 00:02:55,160
+jarak besar permbukaan
+
+63
+00:02:55,160 --> 00:02:56,490
+Itu ialah cara saya mengingatinya
+
+64
+00:02:56,490 --> 00:03:00,550
+Walaubagaimanapun, 3x per -3
+
+65
+00:03:00,550 --> 00:03:04,280
+Maka sekarang kita telah bahagikan kedua-dua bahagian dengan nombor negatif,
+
+66
+00:03:04,280 --> 00:03:07,410
+dengan -3, kita tukarkan ketidaksamaan daripada lebih besar daripada
+
+67
+00:03:07,410 --> 00:03:08,870
+kepada kurang daripada
+
+68
+00:03:08,870 --> 00:03:11,490
+Dan bahagian tangan kiri, -3 dibatalkan
+
+69
+00:03:11,490 --> 00:03:16,430
+Anda dapat x ialah kurang daripada 27 per -3
+
+70
+00:03:16,430 --> 00:03:18,820
+iaitu -9
+
+71
+00:03:18,820 --> 00:03:21,600
+Atau dalam notasi jarak waktu, ia kesemuanya daripada
+
+72
+00:03:21,600 --> 00:03:26,720
+infiniti negatif kepada -9, tidak termasuk -9
+
+73
+00:03:26,720 --> 00:03:29,350
+Jika anda mahu lakukan ia sebagai garis nombor,
+
+74
+00:03:29,350 --> 00:03:31,530
+Ia akan kelihatan seperti ini
+
+75
+00:03:31,530 --> 00:03:35,080
+Ini akan menjadi -9, mungkin ini akan jadi -8,
+
+76
+00:03:35,080 --> 00:03:37,350
+mungkin ini akan jadi -10
+
+77
+00:03:37,350 --> 00:03:40,770
+Anda akan mulakan pada -9, tidak termasuk, kerana kita tiada
+
+78
+00:03:40,770 --> 00:03:44,190
+simbol bersamaan di sini, dan cuba semua yang kurang daripada itu,
+
+79
+00:03:44,190 --> 00:03:47,860
+ke bawah, seperti yang kita lihat, untuk infiniti negatif
+
+80
+00:03:47,860 --> 00:03:52,540
+Mari kita lakukan satu masalah yang baik dan berselirat.
+
+81
+00:03:52,540 --> 00:04:05,930
+Mari katakan ita ada 8x tolak 5 darab 4x tambah 1 ialah lebih besar daripada
+
+82
+00:04:05,930 --> 00:04:12,290
+atau bersamaan dengan -1 tambah 2 darab 4x tolak 3
+
+83
+00:04:12,290 --> 00:04:14,330
+Sekarang, ini mungkin kelihatan sangat menggentarkan, tetapi jika kita
+
+84
+00:04:14,330 --> 00:04:17,240
+permudahkan ia langkah demi langkah, anda akan lihat ianya tidak susah daripada
+
+85
+00:04:17,240 --> 00:04:20,269
+mana-mana masalah yang kita telah selesaikan
+
+86
+00:04:20,269 --> 00:04:21,519
+Maka mari permudahkan ini
+
+87
+00:04:21,519 --> 00:04:26,990
+Anda dapat 8x tolak--- mari bahagikan -5 ini
+
+88
+00:04:26,990 --> 00:04:29,590
+Maka mari saya katakan 8x, kemudian bahagikan -5
+
+89
+00:04:29,590 --> 00:04:33,560
+-5 darab 4x ialah -20x
+
+90
+00:04:33,560 --> 00:04:35,760
+-5---- apabila saya kata -5, saya katakan tentang
+
+91
+00:04:35,760 --> 00:04:36,650
+perkara ini
+
+92
+00:04:36,650 --> 00:04:42,510
+-5 darab 1 ialah -5, dan kemudian ia akn menjadi
+
+93
+00:04:42,510 --> 00:04:45,660
+lebih besar daripada atau bersamaan dengan -1 tambah
+
+94
+00:04:45,660 --> 00:04:48,210
+2 darab 4x ialah 8x
+
+95
+00:04:48,210 --> 00:04:51,940
+2 darab -3 ialah -6
+
+96
+00:04:51,940 --> 00:04:56,490
+Dan sekarang, kita gabung dua terma ini. 8x tolak 20x ialah
+
+97
+00:04:56,490 --> 00:05:04,120
+-12x tolak 5 ialah lebih besar daripada atau bersamaan dengan..
+
+98
+00:05:04,120 --> 00:05:10,040
+Kita boleh gabungkan terma tetap ini. -1 tolak 6,
+
+99
+00:05:10,040 --> 00:05:16,070
+itu -7, kemudian kita ada ini tambah 8x ditinggalkan
+
+100
+00:05:16,070 --> 00:05:18,620
+Sekarang, saya mahu dapatkan kesemua terma x saya pada bahagian tangan kiri,
+
+101
+00:05:18,620 --> 00:05:22,255
+maka mari tolak 8x daripada kedua-dua bahagian persamaan ini
+
+102
+00:05:22,255 --> 00:05:30,670
+..
+
+103
+00:05:30,670 --> 00:05:32,700
+Saya tolakkan 8x
+
+104
+00:05:32,700 --> 00:05:34,900
+Bahagian tangan kiri, -12 tolak 8,
+
+105
+00:05:34,900 --> 00:05:36,900
+itu -20
+
+106
+00:05:36,900 --> 00:05:41,270
+-20x tolak 5
+
+107
+00:05:41,270 --> 00:05:42,710
+Sekali lagi, tiada sebab untuk mengubah
+
+108
+00:05:42,710 --> 00:05:44,380
+ketidaksamaan
+
+109
+00:05:44,380 --> 00:05:46,910
+Apa yang kita lakukan ialah permudahkan bahagian ini, atau tambahkan
+
+110
+00:05:46,910 --> 00:05:48,740
+dan tolakkan daripada mereka
+
+111
+00:05:48,740 --> 00:05:53,220
+Bahagian tangan kanan akan menjadi-- ini dbatalkan,
+
+112
+00:05:53,220 --> 00:05:54,600
+8x tolak 8x, ialah 0
+
+113
+00:05:54,600 --> 00:05:57,690
+Maka anda ditiggalkan dengan -7
+
+114
+00:05:57,690 --> 00:05:59,690
+Dan sekarang saya mahu buangkan -5 ini
+
+115
+00:05:59,690 --> 00:06:01,910
+Jadi mari tambah 5 kepada kedua-dua bahagian persamaan
+
+116
+00:06:01,910 --> 00:06:06,860
+...
+
+117
+00:06:06,860 --> 00:06:12,540
+Bahagian angan kiri, anda ditinggalkan dengan -20x
+
+118
+00:06:12,540 --> 00:06:14,600
+5 dibatalkan
+
+119
+00:06:14,600 --> 00:06:17,300
+Tiada sebab lagi untuk mengubah ketidaksamaan
+
+120
+00:06:17,300 --> 00:06:22,330
+-7 tambah 5, iaitu -2
+
+121
+00:06:22,330 --> 00:06:23,710
+Sekarang, kita pada bahagian yang menarik
+
+122
+00:06:23,710 --> 00:06:26,810
+Kita ada -20x ialah lebih besar daripada atau bersamaan dengan
+
+123
+00:06:26,810 --> 00:06:28,460
+-2
+
+124
+00:06:28,460 --> 00:06:31,000
+Jika ini ialah satu persmaan, atau mana jenis
+
+125
+00:06:31,000 --> 00:06:33,740
+ketidaksamaan, kita mahu bahagikan kedua-dua bahagian dengan -20
+
+126
+00:06:33,740 --> 00:06:36,520
+Tetapi kita harus ingat, apabila anda darabkan atau bahagikan
+
+127
+00:06:36,520 --> 00:06:39,370
+kedua-dua bahagian ketidaksamaan dengan nombor negatif, anda perlu
+
+128
+00:06:39,370 --> 00:06:40,810
+tukarkan ketidaksamaan
+
+129
+00:06:40,810 --> 00:06:42,250
+mari ingat itu
+
+130
+00:06:42,250 --> 00:06:46,761
+Maka jika kita bahagikan bahagian ini dengan -20 dan kita bahagikan ini
+
+131
+00:06:46,761 --> 00:06:50,900
+dengan -20, apa yang saya lakukan ialah ambil kedua-dua bahagian ini
+
+132
+00:06:50,900 --> 00:06:54,350
+dibahagikan dengan -20, kita perlu tukarkan ketidaksamaan
+
+133
+00:06:54,350 --> 00:06:58,560
+Lebih besar daripada atau bersamaan dengan harus menjadi kurang daripada atau
+
+134
+00:06:58,560 --> 00:06:59,990
+simbol bersamaan
+
+135
+00:06:59,990 --> 00:07:03,380
+Dan, pastinya, ini dibatalkan, dan anda dapat x ialah kurang daripada
+
+136
+00:07:03,380 --> 00:07:05,550
+atau bersamaan dengan--- negatif ini dibatalkan
+
+137
+00:07:05,550 --> 00:07:10,590
+2/20 ialah 1/10
+
+138
+00:07:10,590 --> 00:07:13,490
+Jika kita tuliskan ia dalam notasi jarak waktu, bahagian atas
+
+139
+00:07:13,490 --> 00:07:15,440
+akan menjadi 1/10
+
+140
+00:07:15,440 --> 00:07:18,670
+Ingat, kita masukkan ia, kerana kita ada simbol sama dengan,
+
+141
+00:07:18,670 --> 00:07:22,220
+kurang daripada atau bersamaan, maka kita masukkan 1/10, da kita
+
+142
+00:07:22,220 --> 00:07:24,210
+akan pergi ke bawah iaitu infiniti negatif
+
+143
+00:07:24,210 --> 00:07:27,260
+Kesemuanya kurang daripada atau bersamaan dengan 1/10
+
+144
+00:07:27,260 --> 00:07:29,600
+Ianya adalah cara lain untuk tuliskannya
+
+145
+00:07:29,600 --> 00:07:33,670
+Dan untuk berseronok, mari lukiskan garis nombor
+
+146
+00:07:33,670 --> 00:07:35,380
+Mari lukis garis nombor di sini
+
+147
+00:07:35,380 --> 00:07:38,520
+Ini ialah mungkin 0, itu 1
+
+148
+00:07:38,520 --> 00:07:42,610
+1/10 mungkin di sini
+
+149
+00:07:42,610 --> 00:07:45,090
+Kesemuanya kurang daripada atau bersamaan dengan 1/10
+
+150
+00:07:45,090 --> 00:07:51,620
+Maka kita akan masukkan 1/10 dan semua kurang daripada
+
+151
+00:07:51,620 --> 00:07:54,010
+ialah dimasukkan dalam set jawapan
+
+152
+00:07:54,010 --> 00:07:56,900
+Dan anda boleh cuba mana-mana nilai kurang daripada 1/10
+
+153
+00:07:56,900 --> 00:08:00,400
+dan nilaikan sama ada ia memuaskan ketidaksamaan
+
+154
+00:08:00,400 --> 00:08:01,333
+...

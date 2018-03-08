@@ -1,0 +1,67 @@
+1
+00:00:00,050 --> 00:00:03,189
+We started Universal Subtitles because we believe
+
+2
+00:00:03,189 --> 00:00:06,700
+every video on the web should be subtitle-able.
+
+3
+00:00:06,700 --> 00:00:11,171
+Millions of deaf and hard-of-hearing viewers require subtitles to access video.
+
+4
+00:00:11,171 --> 00:00:15,406
+Videomakers and websites should really care about this stuff too.
+
+5
+00:00:15,406 --> 00:00:20,752
+Subtitles give them access to a wider audience and they also get better search rankings.
+
+6
+00:00:20,844 --> 00:00:26,936
+Universal Subtitles makes it incredibly easy to add subtitles to almost any video.
+
+7
+00:00:26,936 --> 00:00:32,440
+Take an existing video on the web, submit the URL to our website
+
+8
+00:00:32,440 --> 00:00:38,298
+and then type along with the dialog to create the subtitles.
+
+9
+00:00:38,759 --> 00:00:43,650
+After that, tap on your keyboard to sync them with the video.
+
+10
+00:00:44,216 --> 00:00:49,607
+Then you're done— we give you an embed code for the video that you can put on any website
+
+11
+00:00:49,893 --> 00:00:55,683
+at that point, viewers are able to use the subtitles and can also contribute to translations.
+
+12
+00:00:56,041 --> 00:01:01,546
+We support videos on YouTube, Blip.TV, Ustream, and many more.
+
+13
+00:01:01,546 --> 00:01:05,109
+Plus we're adding more services all the time
+
+14
+00:01:05,109 --> 00:01:09,050
+Universal Subtitles works with many popular video formats,
+
+15
+00:01:09,050 --> 00:01:14,305
+such as MP4, theora, webM and over HTML 5.
+
+16
+00:01:14,305 --> 00:01:18,045
+Our goal is for every video on the web to be subtitle-able
+
+17
+00:01:18,060 --> 00:01:23,311
+so that anyone who cares about the video can help make it more accessible.

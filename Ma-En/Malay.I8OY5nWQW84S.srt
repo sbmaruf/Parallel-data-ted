@@ -1,0 +1,800 @@
+1
+00:00:00,530 --> 00:00:03,570
+Saya baru sahaja menerima masalah pengiraan ubat dari
+
+2
+00:00:03,580 --> 00:00:06,250
+seorang pelajar kejururawatan dan saya fikir ia adalah penting bahawa pelajar kejururawatan di luar sana
+
+3
+00:00:06,250 --> 00:00:08,890
+dapat melakukan pengiraan ini, sekiranya ada pesakit
+
+4
+00:00:08,890 --> 00:00:10,350
+yang menerima ubat.
+
+5
+00:00:10,350 --> 00:00:10,880
+Jadi mari kita lakukannya
+
+6
+00:00:10,890 --> 00:00:14,440
+Dan saya fikir ia adalah satu masalah penukaran unit yang menarik untuk sesiapa
+
+7
+00:00:14,440 --> 00:00:17,010
+yang mahu latihan dalam penukaran unit.
+
+8
+00:00:17,010 --> 00:00:19,560
+Jadi persoalannya adalah kita mempunyai doktor.
+
+9
+00:00:19,570 --> 00:00:23,740
+doktor tersebut memesan ubat X.
+
+10
+00:00:27,050 --> 00:00:29,780
+Dan ini adalah dos yang doktor yang minta
+
+11
+00:00:29,780 --> 00:00:39,530
+ia mengatakan 5 milligram per paun daripada berat pesakit-- saya
+
+12
+00:00:39,530 --> 00:00:46,780
+akan tulis per paun daripada berat pesakit-- untuk setiap 12 jam
+
+13
+00:00:46,790 --> 00:00:48,700
+ini yang patut kita buat
+
+14
+00:00:48,710 --> 00:00:58,130
+Tetapi bekalan ubat bukanlah didalam
+
+15
+00:00:58,140 --> 00:00:59,430
+milligram
+
+16
+00:00:59,430 --> 00:01:00,340
+ia berada dalam bentuk larutan
+
+17
+00:01:00,350 --> 00:01:04,200
+Ada sejumlah gram bagi setiap mililiter
+
+18
+00:01:04,200 --> 00:01:05,330
+bahawa kita mempunyai solusi
+
+19
+00:01:05,340 --> 00:01:08,180
+ubat tersebut dilarutkan dalam air
+
+20
+00:01:08,180 --> 00:01:11,020
+jadi ini adalah bekalan ubat X kita
+
+21
+00:01:14,750 --> 00:01:18,060
+kita ada .9-- saya akan letak angka 0 di hadapan
+
+22
+00:01:21,980 --> 00:01:29,910
+kita ada 0.9 gram per milliliter larutan tersebut
+
+23
+00:01:29,920 --> 00:01:32,820
+jika saya keluarkan 1 milliliter daripada larutan saya
+
+24
+00:01:32,820 --> 00:01:35,410
+dan berikan kepada pesakit, saya sebenarnya memberi mereka
+
+25
+00:01:35,420 --> 00:01:38,900
+0.9 gram ubat ini.
+
+26
+00:01:38,900 --> 00:01:44,950
+dan satu lagi info yang mereka telah beri ialah
+
+27
+00:01:44,950 --> 00:01:51,300
+pesakit itu-- mempunyai berat badan
+
+28
+00:01:53,730 --> 00:01:56,790
+72.7 kilogram
+
+29
+00:02:01,590 --> 00:02:03,090
+ada beberapa perkara yang menarik disini
+
+30
+00:02:03,090 --> 00:02:06,040
+Kita perlu mencari nilai dos dalam bentuk mililiter
+
+31
+00:02:06,040 --> 00:02:07,750
+kita perlu-- oh, saya tak bagitahu anda
+
+32
+00:02:07,760 --> 00:02:08,580
+apakah soalannya
+
+33
+00:02:08,580 --> 00:02:11,060
+soalannya, berapa milliliter larutan
+
+34
+00:02:11,060 --> 00:02:15,490
+perlu kita beri kepada pesakit itu per dos ?
+
+35
+00:02:15,500 --> 00:02:23,410
+jadi milliliter larutan per dos
+
+36
+00:02:23,410 --> 00:02:24,740
+itu lah soalan kita
+
+37
+00:02:24,750 --> 00:02:25,430
+dan ada beberapa perkara di sini
+
+38
+00:02:25,430 --> 00:02:29,000
+kita harus pergi darai milligram ke gram
+
+39
+00:02:29,000 --> 00:02:31,280
+dan selepas itu tukarkan gram ke milliliter
+
+40
+00:02:31,280 --> 00:02:33,520
+mereka juga memberitahu kita per paun, tetapi mereka beri kita
+
+41
+00:02:33,530 --> 00:02:36,470
+berat pesakit itu di dalam kilogram
+
+42
+00:02:36,470 --> 00:02:37,820
+jadi kita harus melakukan beberapa penukaran unit di sini
+
+43
+00:02:37,830 --> 00:02:41,240
+jadi saya betul betul faham jika anda berasa
+
+44
+00:02:41,250 --> 00:02:42,900
+sedikit takut ataupun terkeliru
+
+45
+00:02:42,900 --> 00:02:45,090
+mari kita lakukan ia satu demi satu
+
+46
+00:02:45,090 --> 00:02:47,430
+jadi perkara pertama yang anda
+
+47
+00:02:47,440 --> 00:02:49,200
+perlu tahu ataupun anda ada kalkulator
+
+48
+00:02:49,210 --> 00:02:52,240
+untuk melakukan pengiraan ini
+
+49
+00:02:52,250 --> 00:02:55,610
+adalah bagaimana hendak menukar kilogram kepada paun
+
+50
+00:02:55,610 --> 00:02:57,750
+dan ia amat berguna jika anda dapat menukar unit
+
+51
+00:02:57,750 --> 00:03:00,560
+dalam sistem metrik dan sistem Inggeris
+
+52
+00:03:00,560 --> 00:03:05,510
+jadi 1 kilogram adalah bersamaan dengan 2.2 paun
+
+53
+00:03:05,520 --> 00:03:08,520
+ia tidaklah tepat, tetapi itu adalah satu anggaran yang agak baik.
+
+54
+00:03:08,520 --> 00:03:12,860
+dan 1 paun--
+
+55
+00:03:12,870 --> 00:03:18,550
+bersamaan dengan 0.45 kilogram
+
+56
+00:03:18,550 --> 00:03:19,950
+jadi kita akan letakkan ini di dalam kotak
+
+57
+00:03:19,960 --> 00:03:23,240
+kita hanya perlukan informasi yang di atas sahaja
+
+58
+00:03:23,250 --> 00:03:24,630
+untuk menyelesaikan masalah ini
+
+59
+00:03:24,630 --> 00:03:26,890
+selain itu, kita juga memerlukan kalkulator, melainkan anda mahu
+
+60
+00:03:26,900 --> 00:03:29,560
+mengira dengan jari
+
+61
+00:03:29,560 --> 00:03:30,200
+jadi perkara pertama
+
+62
+00:03:30,210 --> 00:03:34,490
+mari kita kira dos yang diperlukan dalam unit per kilogram
+
+63
+00:03:34,500 --> 00:03:36,960
+ini berada dalam unit per paun dan kita tidak perlu
+
+64
+00:03:36,960 --> 00:03:38,200
+tahu setiap 12 jam
+
+65
+00:03:38,210 --> 00:03:41,330
+kerana soalannya adalah berapa milliliter larutan itu
+
+66
+00:03:41,330 --> 00:03:42,950
+per dos ?
+
+67
+00:03:42,960 --> 00:03:45,240
+satu dos bersamaan dengan setiap 12 jam
+
+68
+00:03:45,240 --> 00:03:47,690
+itu adalah info ekstra untuk anda semua
+
+69
+00:03:48,740 --> 00:03:52,720
+jadi kita mahu mencari nilai 5 milligram per paun ini
+
+70
+00:03:52,720 --> 00:03:57,090
+bagaimana kita tukarkan ia kepada milligram per kilogram?
+
+71
+00:04:01,180 --> 00:04:06,180
+jadi mari kita tulis 5 milligram per paun
+
+72
+00:04:06,180 --> 00:04:08,900
+dan kemudian kita mahu menukar ini kepada per kilogram
+
+73
+00:04:08,900 --> 00:04:12,590
+jadi kita boleh darabkannya dengan berat paun per
+
+74
+00:04:12,590 --> 00:04:15,820
+kilogram-- darab dengan
+
+75
+00:04:15,830 --> 00:04:17,540
+info di atas ini
+
+76
+00:04:17,550 --> 00:04:25,300
+darab 2.2 paun per kilogram
+
+77
+00:04:25,300 --> 00:04:27,750
+dan jika anda terkeliru-- "bagaimana awak tahu
+
+78
+00:04:27,750 --> 00:04:31,780
+untuk darabkan dengan 2.2 dan bukan bahagi 2.2?"
+
+79
+00:04:31,790 --> 00:04:34,350
+ia adalah benda yang sama seperti darab dengan 0.5
+
+80
+00:04:34,360 --> 00:04:37,290
+anda boleh memberi perhatian yang lebih kepada unit
+
+81
+00:04:37,300 --> 00:04:40,230
+lihat, saya tulis 2.2 paun per kilogram
+
+82
+00:04:40,230 --> 00:04:42,910
+2.2 paun per 1 kilogram
+
+83
+00:04:42,910 --> 00:04:45,810
+dan anda tahu ini akan berhasil kerana anda mempunya 1 paun di
+
+84
+00:04:45,810 --> 00:04:48,180
+pengangka dan 1 paun di penyebut
+
+85
+00:04:48,180 --> 00:04:50,420
+ia dipanggil Analisa Dimensi
+
+86
+00:04:50,430 --> 00:04:53,490
+jika anda berasa keliru,
+
+87
+00:04:53,500 --> 00:04:55,560
+saya mengesyorkan anda melakukan latihan yang banyak
+
+88
+00:04:55,560 --> 00:04:56,890
+supaya anda boleh membiasakan diri
+
+89
+00:04:56,890 --> 00:04:58,240
+tetapi bila anda baru sahaja bermula, untuk memastikan
+
+90
+00:04:58,250 --> 00:05:00,360
+anda tidak mendarab atau membahagi perkara yang
+
+91
+00:05:00,360 --> 00:05:02,250
+salah, pastikan dimensi tersebut dibatalkan
+
+92
+00:05:02,250 --> 00:05:05,310
+paun dalam pengangka, paun dalam penyebut
+
+93
+00:05:05,310 --> 00:05:06,350
+jadi mari kita lakukannya
+
+94
+00:05:06,360 --> 00:05:10,110
+paun dalam pengangka, paun dalam penyebut kita boleh batalkannya
+
+95
+00:05:10,110 --> 00:05:12,540
+dan anda darabkan 5 dan 2.2
+
+96
+00:05:15,970 --> 00:05:20,280
+bersamaan dengan--
+
+97
+00:05:20,290 --> 00:05:22,850
+5 x 2 = 10
+
+98
+00:05:22,850 --> 00:05:24,840
+5x0.2 = 1
+
+99
+00:05:24,840 --> 00:05:27,130
+jadi ia bersamaan dengan 11
+
+100
+00:05:27,130 --> 00:05:30,320
+dan di dalam pengangka kita, kita mempunyai milligram
+
+101
+00:05:30,330 --> 00:05:35,290
+11 milligram per kilogram
+
+102
+00:05:35,300 --> 00:05:39,160
+jadi kita baru sahaja menukar informasi dos kita ke
+
+103
+00:05:39,160 --> 00:05:40,880
+dalam sistem metrik
+
+104
+00:05:40,880 --> 00:05:42,750
+sebelum ini ia berada dalam campuran
+
+105
+00:05:42,760 --> 00:05:44,170
+sistem metrik dan sistem Inggeris
+
+106
+00:05:44,180 --> 00:05:45,190
+sekarang mari kita lihat apa kita boleh lakukan
+
+107
+00:05:45,190 --> 00:05:48,120
+jadi, mari kita lihat bolehkan kita dapatkannya dalam terma
+
+108
+00:05:48,130 --> 00:05:51,440
+berapa milliliter kita harus berikan per paun
+
+109
+00:05:51,450 --> 00:05:53,650
+jadi kita akan pergi unit
+
+110
+00:05:53,660 --> 00:05:54,990
+gram dahulu
+
+111
+00:05:55,000 --> 00:05:56,180
+kerana kita mempunyai milligram disini
+
+112
+00:05:56,180 --> 00:05:57,300
+kita ada gram di atas ini
+
+113
+00:05:57,310 --> 00:06:00,570
+jadi mari kita lihat jika kita boleh menukarkannya ke dalam gram
+
+114
+00:06:00,570 --> 00:06:02,760
+seperti yang kita lakukan sebelumnya, kita mahukan milligram
+
+115
+00:06:02,770 --> 00:06:04,730
+di dalam penyebut
+
+116
+00:06:06,020 --> 00:06:08,470
+kita mahukan milligram dalam penyebut dan kita mahu
+
+117
+00:06:08,480 --> 00:06:10,230
+gram dalam pengangka
+
+118
+00:06:10,230 --> 00:06:11,110
+kenapa saya berkata begitu ?
+
+119
+00:06:11,120 --> 00:06:13,180
+kerana saya mahu ini dan ini terbatal
+
+120
+00:06:13,180 --> 00:06:15,050
+dan saya mahukan gram di dalam pengangka
+
+121
+00:06:15,050 --> 00:06:18,270
+jadi ada berapa banyak gram per milligram
+
+122
+00:06:19,180 --> 00:06:23,500
+didalam 1 gram ada 1000 milligram
+
+123
+00:06:23,500 --> 00:06:26,150
+ataupun 1000 milligram per gram
+
+124
+00:06:26,160 --> 00:06:28,320
+dan anda hanya darabkan ia
+
+125
+00:06:28,320 --> 00:06:32,150
+jadi milligram akan terbatal dengan milligram dan kemudian
+
+126
+00:06:32,160 --> 00:06:38,330
+kita akan dapat-- ini bersamaan dengan 11/1000 gram per kilogram
+
+127
+00:06:42,040 --> 00:06:44,790
+jadi sekarang semua unit kita berada di dalam gram tapi
+
+128
+00:06:44,790 --> 00:06:46,050
+kita mahukan ia di dalam milliliter
+
+129
+00:06:46,060 --> 00:06:48,190
+soalannya sekarang, berapa banyak milliliter
+
+130
+00:06:48,190 --> 00:06:49,760
+larutan itu per dos ?
+
+131
+00:06:49,770 --> 00:06:52,870
+jadi mari kita pergi ke sini
+
+132
+00:06:52,870 --> 00:06:56,370
+kita sudah ada jawapannya
+
+133
+00:06:56,380 --> 00:07:01,630
+kita ada 11/1000 gram
+
+134
+00:07:01,630 --> 00:07:04,920
+ubat X per kilogram
+
+135
+00:07:04,930 --> 00:07:08,240
+kita baru sahaja menulis semula
+
+136
+00:07:08,250 --> 00:07:11,100
+info dos ini dalam unit yang lain
+
+137
+00:07:11,100 --> 00:07:14,820
+dan kita lihat berapa banyak larutan kita perlukan per kilogram
+
+138
+00:07:14,820 --> 00:07:18,880
+jadi saya hendak batalkan gram di sini dan ada
+
+139
+00:07:18,890 --> 00:07:19,910
+milliliter di sini
+
+140
+00:07:19,920 --> 00:07:21,790
+untuk membatalkan gram tersebut, saya harus mempunyai
+
+141
+00:07:21,790 --> 00:07:24,970
+gram dalam penyebut dan milliliter dalam pengangka
+
+142
+00:07:29,770 --> 00:07:34,440
+jad dalam larutan kita, ada berapa banyak gram per milliliter
+
+143
+00:07:34,440 --> 00:07:35,060
+mereka telahpun memberitahu kami
+
+144
+00:07:35,070 --> 00:07:38,260
+ada 0.9 gram per milliliter
+
+145
+00:07:38,270 --> 00:07:44,560
+atau untuk setiap 1 milliliter, ada 0.9 gram
+
+146
+00:07:44,560 --> 00:07:45,930
+lihat, saya hanya terbalikkan ia
+
+147
+00:07:45,940 --> 00:07:48,500
+kerana kita mahukan milliliter dalam pengangka, gram dalam
+
+148
+00:07:48,500 --> 00:07:50,780
+penyebut, jadi kedua dua ini terbatal
+
+149
+00:07:50,790 --> 00:07:52,800
+mari kita lakukan pendaraban
+
+150
+00:07:52,810 --> 00:07:54,370
+jadi gram kita sudah terbatal
+
+151
+00:07:54,370 --> 00:07:55,810
+kita mempunyai gram per kilogram
+
+152
+00:08:00,700 --> 00:08:01,900
+dan kemudian kita darabkan ia
+
+153
+00:08:01,910 --> 00:08:05,780
+11/1000 darab 1/0.9
+
+154
+00:08:08,100 --> 00:08:17,390
+ia akan menjadi 11/1000 darab 0.9 milliliter daripada
+
+155
+00:08:17,390 --> 00:08:19,840
+larutan kita per kilogram
+
+156
+00:08:19,850 --> 00:08:21,410
+kita sudah berada dini
+
+157
+00:08:21,410 --> 00:08:24,240
+jadi ini adalah per kilogram daripada berat pesakit
+
+158
+00:08:24,250 --> 00:08:27,070
+dan kemudian, mereka memberitahu kita berapa berat
+
+159
+00:08:27,070 --> 00:08:28,010
+pesakit kita dalam kilogram
+
+160
+00:08:28,020 --> 00:08:30,190
+mari kita lakukan pendaraban terakhir dan kemudian kita boleh
+
+161
+00:08:30,190 --> 00:08:33,220
+gunakan kalkulator kita dan lakukan pengiraan
+
+162
+00:08:33,230 --> 00:08:36,130
+kita hendak tahu berapa banyak milliliter
+
+163
+00:08:36,130 --> 00:08:38,310
+per pesakit
+
+164
+00:08:38,320 --> 00:08:40,280
+kita mahukan kilogram tersebut dibatalkan
+
+165
+00:08:40,280 --> 00:08:44,320
+jadi kita mahukan kilogram per pesakit
+
+166
+00:08:44,330 --> 00:08:46,140
+sekarang kita bercakap tentang seorang pesakit ini
+
+167
+00:08:46,140 --> 00:08:48,240
+bukan semua pesakit mempunyai
+
+168
+00:08:48,250 --> 00:08:49,390
+berat yang sama
+
+169
+00:08:49,390 --> 00:08:51,710
+tetapi jika kita lakukan ini, kilogram kita akan terbatal
+
+170
+00:08:51,720 --> 00:08:54,620
+kita akan ada milliliter per pesakit-- milliliter
+
+171
+00:08:54,620 --> 00:08:58,360
+larutan tersebut per pesakit-- itu lah yang kita mahu
+
+172
+00:08:58,370 --> 00:09:00,850
+kita mahukan milliliter larutan per dos per pesakit
+
+173
+00:09:00,850 --> 00:09:03,960
+tetapi semua yang kita anggap selama ini adalah dalam unit per dos
+
+174
+00:09:03,960 --> 00:09:06,640
+jadi berapakah berat pesakit tersebut?
+
+175
+00:09:06,640 --> 00:09:12,080
+kita mempunyai 72.7 kilogram per pesakit
+
+176
+00:09:12,090 --> 00:09:13,660
+itulah berat pesakit kita
+
+177
+00:09:13,660 --> 00:09:15,700
+jadi kita lakukan pendaraban terakhir ini dan
+
+178
+00:09:15,710 --> 00:09:16,290
+kita akan siap
+
+179
+00:09:16,290 --> 00:09:18,960
+jadi jawapan akhir kita
+
+180
+00:09:18,970 --> 00:09:24,720
+adalah 11 x 72.7
+
+181
+00:09:24,720 --> 00:09:28,720
+bahagi 100 darab-- sebenarnya 100 x 0.9
+
+182
+00:09:28,730 --> 00:09:29,790
+amat senang untuk dikira
+
+183
+00:09:29,790 --> 00:09:31,070
+iaitu 900
+
+184
+00:09:31,080 --> 00:09:35,150
+dibahagikan dengan 900 milliliter per pesakit
+
+185
+00:09:35,150 --> 00:09:37,580
+atau anda boleh katakan milliliter per dos
+
+186
+00:09:37,590 --> 00:09:38,500
+terpulang kepada diri masing masing
+
+187
+00:09:38,500 --> 00:09:39,460
+per dos per pesakit
+
+188
+00:09:39,470 --> 00:09:41,720
+mari kita gunakan kalkulator kita
+
+189
+00:09:41,720 --> 00:09:54,910
+jadi kita ada 11 x 72.7 bersamaan dengan 799 dibahagi dengan 900
+
+190
+00:09:54,910 --> 00:09:58,070
+bersamaan dengan 0.88-- kita boleh bundarkan ia
+
+191
+00:09:58,080 --> 00:09:59,360
+jadi 0.889
+
+192
+00:10:00,690 --> 00:10:04,440
+jadi ia akan menjadi
+
+193
+00:10:04,450 --> 00:10:14,830
+0.889 milliliter daripada larutan kita per dos
+
+194
+00:10:14,840 --> 00:10:17,130
+jadi ini lah jumlah ubat yang kita hendak beri untuk setiap 12 jam
+
+195
+00:10:17,130 --> 00:10:19,520
+jika mereka tanya, berapa jumlah milliliter dalam tempoh
+
+196
+00:10:19,530 --> 00:10:21,010
+dua hari ?
+
+197
+00:10:21,010 --> 00:10:22,530
+kita boleh menjawab "dua hari ialah 48 jam"
+
+198
+00:10:22,540 --> 00:10:23,910
+"kita darabkan dengan 4"
+
+199
+00:10:26,250 --> 00:10:32,750
+kesimpulannya, saya berharap ia amat berguna kepada anda semua
+
+200
+00:10:32,750 --> 00:10:35,710
+sekian terima kasih
+

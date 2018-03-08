@@ -1,0 +1,303 @@
+1
+00:00:00,630 --> 00:00:08,150
+Bundarkan 24,259 kepada ratus yang terdekat.
+
+2
+00:00:08,150 --> 00:00:09,590
+Kamu akan mendapati membuat soalan sebegini adalah
+
+3
+00:00:09,590 --> 00:00:11,910
+cukup jelas dan mudah, tetapi apa yang saya mahu kamu buat
+
+4
+00:00:11,910 --> 00:00:15,750
+ialah fikirkan apakah maksudnya untuk membundarkan kepada ratus yang terdekat.
+
+5
+00:00:15,750 --> 00:00:18,140
+Jadi, apa yang saya akan buat ialah melukis satu garis nombor.
+
+6
+00:00:18,140 --> 00:00:21,220
+Biar saya lukis garis nombor disini, dan saya hanya
+
+7
+00:00:21,220 --> 00:00:23,970
+tandakan 'ratus' pada nombor garis ini.
+
+8
+00:00:23,970 --> 00:00:37,290
+Jadi, kita mungkin ada 24,100, dan kita akan pergi ke 24,200, dan kita
+
+9
+00:00:37,290 --> 00:00:44,490
+pergi ke 24,300, dan kita pergi ke 24,400.
+
+10
+00:00:44,490 --> 00:00:46,000
+Saya rasa kamu dapat melihat maksud saya bila saya hanya
+
+11
+00:00:46,000 --> 00:00:47,250
+menanda 'ratus'.
+
+12
+00:00:47,250 --> 00:00:50,160
+Saya menanda mengikut turutan menaik secara ratus.
+
+13
+00:00:50,160 --> 00:00:56,130
+Sekarang, pada nombor garis ini, dimanakah 24,259?
+
+14
+00:00:56,130 --> 00:01:00,200
+Jadi, jika kita lihat pada nombor garis, ia adalah lebih dari 24,000
+
+15
+00:01:00,200 --> 00:01:02,930
+tetapi kurang dari 24,300.
+
+16
+00:01:02,930 --> 00:01:09,220
+Dan ia ialah 259, jadi jika jarak di sini ialah 100, 59
+
+17
+00:01:09,220 --> 00:01:14,300
+adalah lebih kurang disana, jadi disanalah terdapatnya nombor kita.
+
+18
+00:01:14,300 --> 00:01:18,570
+Itu ialah 24,259.
+
+19
+00:01:18,570 --> 00:01:22,110
+Maka, bila ada seseorang menanya kamu untuk bundarkan kepada ratus yang terdekat,
+
+20
+00:01:22,110 --> 00:01:25,700
+mereka sebenarnya sedang menyuruh secara literal untuk bundarkan kepada salah satu turutan menaik secara
+
+21
+00:01:25,700 --> 00:01:29,370
+100 atau bundarkan kepada mana-mana ratus
+
+22
+00:01:29,370 --> 00:01:30,900
+yang terdekat.
+
+23
+00:01:30,900 --> 00:01:33,420
+Dan jika kamu melihatnya secara teliti,
+
+24
+00:01:33,420 --> 00:01:38,760
+kamu sebenarnya nampak akan yang ia lebih dekat kepada 24,300
+
+25
+00:01:38,760 --> 00:01:41,220
+berbanding dengan 24,200.
+
+26
+00:01:41,220 --> 00:01:45,160
+Jadi, bila kamu membundarkannya, kamu membundarkannya kepada 24,300.
+
+27
+00:01:45,160 --> 00:01:47,890
+Jadi jika kamu membundarkannya kepada ratus yang terdekat, jawapannya
+
+28
+00:01:47,890 --> 00:01:51,180
+ialah 24,300.
+
+29
+00:01:51,180 --> 00:01:53,310
+Ini adalah pemahaman secara konsep kenapa ia dipanggil
+
+30
+00:01:53,310 --> 00:01:55,230
+ratus yang terdekat.
+
+31
+00:01:55,230 --> 00:01:58,200
+Ratus yang terdekat ialah 24,300.
+
+32
+00:01:58,200 --> 00:01:59,870
+Tetapi setiap kali kamu membuat soalan begini, kamu tidak perlu
+
+33
+00:01:59,870 --> 00:02:02,460
+melukis nombor garis dan melalui proses ini
+
+34
+00:02:02,460 --> 00:02:04,580
+walaupun kamu mungkin mahu memikirkan tentangnya.
+
+35
+00:02:04,580 --> 00:02:07,910
+Satu cara yang lebih mudah, atau mungkin satu cara yang lebih mekanikal ialah
+
+36
+00:02:07,910 --> 00:02:14,900
+melihat nombor 24,259 secara literal.
+
+37
+00:02:14,900 --> 00:02:17,470
+Kami mahu membundarkan kepada ratus yang terdekat, jadi kamu melihat
+
+38
+00:02:17,470 --> 00:02:19,080
+nilai tempat ‘ratus’.
+
+39
+00:02:19,080 --> 00:02:21,860
+Ini ialah nilai tempat ‘ratus’ dan jika kita bundarkan,
+
+40
+00:02:21,860 --> 00:02:23,130
+ia bermaksud kita tidak mahu sebarang nombor selepasnya.
+
+41
+00:02:23,130 --> 00:02:25,650
+Kita hanya mahu nombor kosong selepas nilai tempat ‘ratus’.
+
+42
+00:02:25,650 --> 00:02:28,490
+Jadi, apa yang kamu buat ialah kamu melihat
+
+43
+00:02:28,490 --> 00:02:29,510
+nilai tempat yang sebelumnya.
+
+44
+00:02:29,510 --> 00:02:33,120
+Ini ialah nilai tempat ‘ratus’, maka kamu melihat nombor 5 disana,
+
+45
+00:02:33,120 --> 00:02:37,950
+dan jika nombor ini adalah 5 atau lebih besar, jika ianya 5,6,7,8,
+
+46
+00:02:37,950 --> 00:02:40,360
+9, kamu membundar ke atas.
+
+47
+00:02:40,360 --> 00:02:46,290
+Jadi, 5 dan ke atas, kamu bundar ke atas.
+
+48
+00:02:46,290 --> 00:02:49,910
+Jadi, 5 dan ke atas, kamu bundar ke atas.
+
+49
+00:02:49,910 --> 00:02:52,800
+Dalam situasi ini, ia ialah 5.
+
+50
+00:02:52,800 --> 00:02:56,640
+Membundar ke atas bermaksud kita pergi
+
+51
+00:02:56,640 --> 00:03:04,270
+ke 24,000 dan kerana kita sedang membundar ke atas, kita jadikan
+
+52
+00:03:04,270 --> 00:03:05,820
+2 kepada 3.
+
+53
+00:03:05,820 --> 00:03:13,540
+Kita naikkan dengan satu, jadi bundarkan, jadi 24,300.
+
+54
+00:03:13,540 --> 00:03:15,570
+Itulah maksudnya pembundaran.
+
+55
+00:03:15,570 --> 00:03:18,180
+Dan sebagai contoh yang berlawanan, jika saya ada
+
+56
+00:03:18,180 --> 00:03:28,610
+24,249 dan saya mahu membundarkannya kepada ‘ratus’ yang terdekat, saya
+
+57
+00:03:28,610 --> 00:03:30,580
+akan kata ok, saya hendak membundarkannya kepada ratus yang terdekat.
+
+58
+00:03:30,580 --> 00:03:33,430
+Izinkan saya melihat nilai tempat ‘puluh’,
+
+59
+00:03:33,430 --> 00:03:35,150
+satu nilai tempat ke kanan,
+
+60
+00:03:35,150 --> 00:03:38,745
+jika ianya bukan 5 dan lebih, saya akan membundar ke bawah.
+
+61
+00:03:38,745 --> 00:03:43,010
+Saya akan membundar ke bawah.
+
+62
+00:03:43,010 --> 00:03:44,640
+Dan bila kita membundar ke bawah, berhati-hati.
+
+63
+00:03:44,640 --> 00:03:46,120
+Ia tidak bermaksud kamu menurunkan nombor 2 ini.
+
+64
+00:03:46,120 --> 00:03:48,700
+Ia bermaksud kamu hanya ada nombor 2 ini,
+
+65
+00:03:48,700 --> 00:03:50,410
+dan menyingkirkan segala selepas nombor ini.
+
+66
+00:03:50,410 --> 00:03:53,820
+Maka, ia menjadi 24,200.
+
+67
+00:03:53,820 --> 00:03:55,580
+Ini proses pembundaran ke bawah.
+
+68
+00:03:55,580 --> 00:03:58,300
+Jika kamu membundar ke atas, ia akan menjadi 24,300.
+
+69
+00:03:58,300 --> 00:03:59,180
+Ia masuk akal kerana
+
+70
+00:03:59,180 --> 00:04:05,410
+24249 akan berada lebih kurang disini, jadi
+
+71
+00:04:05,410 --> 00:04:08,730
+ia adalah lebih dekat kepada 24,200.
+
+72
+00:04:08,730 --> 00:04:12,310
+24,200 akan jadi ratus yang terdekat jika kita
+
+73
+00:04:12,310 --> 00:04:13,470
+bundar ke bawah dalam kes ini.
+
+74
+00:04:13,470 --> 00:04:17,390
+Untuk masalah 24,259,
+
+75
+00:04:17,390 --> 00:04:20,140
+ratus yang terdekat ialah 24,300.
+
+76
+00:04:20,140 --> 00:04:21,970
+Kita bundarkan ke atas.

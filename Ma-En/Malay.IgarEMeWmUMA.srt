@@ -1,0 +1,211 @@
+1
+00:00:01,000 --> 00:00:06,000
+Pada tahun 2008, Puting Beliung Nargis melanda Myanmar.
+
+2
+00:00:06,000 --> 00:00:10,000
+Jutaan manusia memerlukan bantuan.
+
+3
+00:00:10,000 --> 00:00:14,000
+Bangsa-bangsa Bersatu mahu segera menghantar penyelamat dan bekalan ke sana.
+
+4
+00:00:14,000 --> 00:00:17,000
+Tetapi tidak terdapat peta, tidak ada peta jalan raya,
+
+5
+00:00:17,000 --> 00:00:22,000
+tidak ada peta hospital, tidak ada cara untuk membantu mangsa puting beliung itu.
+
+6
+00:00:22,000 --> 00:00:25,000
+Apabila kita melihat pada peta Los Angeles atau London
+
+7
+00:00:25,000 --> 00:00:28,000
+sukar untuk mempercayai
+
+8
+00:00:28,000 --> 00:00:31,000
+bahawa sejak 2005 hanya 15 peratus kawasan dunia
+
+9
+00:00:31,000 --> 00:00:34,000
+yang dipeta ke tahap perincian geokod.
+
+10
+00:00:34,000 --> 00:00:37,000
+Bangsa-bangsa Bersatu berhadapan dengan masalah
+
+11
+00:00:37,000 --> 00:00:39,000
+yang dihadapi oleh kebanyakan negara ramai penduduk:
+
+12
+00:00:39,000 --> 00:00:41,000
+tidak mempunyai peta yang terperinci.
+
+13
+00:00:41,000 --> 00:00:43,000
+Namun, bantuan sedang tiba.
+
+14
+00:00:43,000 --> 00:00:45,000
+Di Google, 40 orang relawan
+
+15
+00:00:45,000 --> 00:00:48,000
+menggunakan satu perisian yang baru
+
+16
+00:00:48,000 --> 00:00:51,000
+untuk memeta 120,000 kilometer jalan raya,
+
+17
+00:00:51,000 --> 00:00:54,000
+3,000 tapak hospital, logistik dan bantuan.
+
+18
+00:00:54,000 --> 00:00:56,000
+Mereka mengambil masa empat hari.
+
+19
+00:00:56,000 --> 00:00:59,000
+Perisian baru yang mereka gunakan? Google Mapmaker.
+
+20
+00:00:59,000 --> 00:01:02,000
+Google Mapmaker ialah satu teknologi yang memperkasakan kita
+
+21
+00:01:02,000 --> 00:01:05,000
+untuk memeta apa yang kita tahu di peringkat tempatan.
+
+22
+00:01:05,000 --> 00:01:07,000
+Orang ramai menggunakan perisian ini
+
+23
+00:01:07,000 --> 00:01:09,000
+untuk memeta segala-galanya dari jalan raya hingga sungai,
+
+24
+00:01:09,000 --> 00:01:12,000
+dari sekolah hingga perniagaan tempatan,
+
+25
+00:01:12,000 --> 00:01:15,000
+dan kedai video hingga kedai sudut.
+
+26
+00:01:15,000 --> 00:01:17,000
+Peta adalah penting.
+
+27
+00:01:17,000 --> 00:01:19,000
+Calon Hadiah Nobel Hernando De Soto
+
+28
+00:01:19,000 --> 00:01:21,000
+mengiktiraf bahawa kunci kepada pemacuan ekonomi
+
+29
+00:01:21,000 --> 00:01:23,000
+bagi kebanyakan negara-negara sedang membangun
+
+30
+00:01:23,000 --> 00:01:26,000
+ialah untuk menggunakan kawasan tanah yang luas yang tidak dimanfaatkan.
+
+31
+00:01:26,000 --> 00:01:29,000
+Sebagai contoh, di India sahaja
+
+32
+00:01:29,000 --> 00:01:32,000
+hartanah bernilai trilion dolar tidak dipermodalkan.
+
+33
+00:01:32,000 --> 00:01:34,000
+Pada tahun lalu,
+
+34
+00:01:34,000 --> 00:01:38,000
+ribuan pengguna di 170 buah negara
+
+35
+00:01:38,000 --> 00:01:41,000
+telah memeta jutaan cebisan maklumat,
+
+36
+00:01:41,000 --> 00:01:44,000
+dan mencipta sebuah peta dengan tahap perincian yang tidak pernah difikirkan boleh.
+
+37
+00:01:44,000 --> 00:01:46,000
+Dan hal ini berlaku dengan
+
+38
+00:01:46,000 --> 00:01:50,000
+kuasa pengguna yang penuh semangat di mana-mana.
+
+39
+00:01:50,000 --> 00:01:53,000
+Mari kita lihat beberapa buah peta
+
+40
+00:01:53,000 --> 00:01:56,000
+yang sedang dicipta oleh pengguna sekarang.
+
+41
+00:01:56,000 --> 00:01:58,000
+Jadi, sedang kita berbicara, pengguna sedang memeta dunia
+
+42
+00:01:58,000 --> 00:02:00,000
+di 170 buah negara ini.
+
+43
+00:02:00,000 --> 00:02:06,000
+Anda boleh lihat Bridget di Afrika yang baru memeta sebatang jalan raya di Senegal.
+
+44
+00:02:06,000 --> 00:02:11,000
+Dan, lebih dekat dengan negara kita, Chalua, sebatang jalan raya N.G di Bangalore.
+
+45
+00:02:11,000 --> 00:02:14,000
+Ini adalah hasil daripada geometri perkomputeraan,
+
+46
+00:02:14,000 --> 00:02:17,000
+pengenalan gerak isyarat dan pembelajaran mesin.
+
+47
+00:02:17,000 --> 00:02:19,000
+Ini merupakan kemenangan bagi ribuan pengguna,
+
+48
+00:02:19,000 --> 00:02:21,000
+di ratusan bandar-bandar,
+
+49
+00:02:21,000 --> 00:02:23,000
+seorang pengguna, satu suntingan setiap masa.
+
+50
+00:02:23,000 --> 00:02:27,000
+Ini adalah satu pelawaan kepada 70 peratus
+
+51
+00:02:27,000 --> 00:02:29,000
+daripada kawasan planet kita yang belum dipeta.
+
+52
+00:02:29,000 --> 00:02:31,000
+Selamat datang ke dunia baru.
+
+53
+00:02:31,000 --> 00:02:34,000
+(Tepuk tangan)

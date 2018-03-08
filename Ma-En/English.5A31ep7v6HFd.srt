@@ -1,0 +1,319 @@
+1
+00:00:00,729 --> 00:00:05,038
+The Internet is one of the United States' most robust and growing industries.
+
+2
+00:00:05,038 --> 00:00:07,922
+It enables free and open communication among billions,
+
+3
+00:00:07,922 --> 00:00:10,890
+and it's been the backbone for protests around the world.
+
+4
+00:00:10,890 --> 00:00:14,189
+But a new bill proposes to give the power to censor the Internet
+
+5
+00:00:14,189 --> 00:00:16,852
+to the entertainment industry.
+
+6
+00:00:16,852 --> 00:00:20,130
+It's called PROTECT IP, and here's how it works.
+
+7
+00:00:21,438 --> 00:00:25,359
+Private corporations want the ability to shut down unauthorized sites
+
+8
+00:00:25,359 --> 00:00:28,528
+where people download movies, TV shows, and music.
+
+9
+00:00:28,528 --> 00:00:31,634
+Since most of these sites are outside US jurisdiction,
+
+10
+00:00:31,634 --> 00:00:35,822
+PROTECT IP uses a couple different tactics within American borders.
+
+11
+00:00:35,822 --> 00:00:38,045
+Firstly, it gives the government the power to make
+
+12
+00:00:38,045 --> 00:00:42,560
+US Internet providers block access to infringing domain names.
+
+13
+00:00:42,560 --> 00:00:45,140
+They can also sue US-based search engines,
+
+14
+00:00:45,140 --> 00:00:47,438
+directories, or even blogs and forums,
+
+15
+00:00:47,438 --> 00:00:50,071
+to have links to these sites removed.
+
+16
+00:00:50,071 --> 00:00:52,060
+Secondly, PROTECT IP gives corporations and
+
+17
+00:00:52,060 --> 00:00:54,474
+the government the ability to cut off funds to
+
+18
+00:00:54,474 --> 00:00:57,934
+infringing websites by having US-based advertisers
+
+19
+00:00:57,934 --> 00:01:00,674
+and payment services cancel those accounts.
+
+20
+00:01:00,674 --> 00:01:04,356
+In a nutshell, that's what PROTECT IP will try to do.
+
+21
+00:01:04,356 --> 00:01:07,828
+But in all likelihood, it'll do something else altogether.
+
+22
+00:01:09,213 --> 00:01:12,236
+For starters, it won't stop downloaders.
+
+23
+00:01:12,236 --> 00:01:14,324
+You'll still be able to access a blocked site
+
+24
+00:01:14,324 --> 00:01:18,245
+just by entering its IP address instead of its name.
+
+25
+00:01:18,245 --> 00:01:21,456
+What PROTECT IP will do is cripple new startups
+
+26
+00:01:21,456 --> 00:01:24,042
+because it also lets companies sue any site
+
+27
+00:01:24,042 --> 00:01:26,795
+they feel isn't doing their filtering well enough.
+
+28
+00:01:26,795 --> 00:01:29,590
+These lawsuits could easily bankrupt new search engines
+
+29
+00:01:29,590 --> 00:01:31,508
+and social media sites.
+
+30
+00:01:31,508 --> 00:01:34,136
+And PROTECT IP's wording is ambiguous enough
+
+31
+00:01:34,136 --> 00:01:36,734
+that important social media sites could become
+
+32
+00:01:36,734 --> 00:01:37,556
+targets.
+
+33
+00:01:37,556 --> 00:01:39,875
+Lots of trailblazing websites could look like
+
+34
+00:01:39,875 --> 00:01:42,456
+piracy heavens to the wrong judge.
+
+35
+00:01:42,456 --> 00:01:45,265
+Tumblr, SoundCloud, an early YouTube,
+
+36
+00:01:45,265 --> 00:01:47,274
+wherever people express themselves, make art,
+
+37
+00:01:47,274 --> 00:01:50,027
+broadcast news or organize protests,
+
+38
+00:01:50,027 --> 00:01:52,477
+there's plenty of TV footage, movie clips,
+
+39
+00:01:52,477 --> 00:01:54,903
+and copyrighted music mixed in.
+
+40
+00:01:54,903 --> 00:01:56,518
+And even if you trust the US government
+
+41
+00:01:56,518 --> 00:01:58,905
+not to abuse their new power to censor the Net,
+
+42
+00:01:58,905 --> 00:02:01,054
+what about the countries that follow in our path
+
+43
+00:02:01,054 --> 00:02:02,664
+and pass similar laws?
+
+44
+00:02:02,664 --> 00:02:04,470
+People around the world will have very different
+
+45
+00:02:04,470 --> 00:02:07,122
+Internets, and unscrupulous governments will have
+
+46
+00:02:07,122 --> 00:02:09,463
+powerful tools to hinder free expression.
+
+47
+00:02:09,463 --> 00:02:12,865
+But perhaps most dangerously, PROTECT IP will
+
+48
+00:02:12,865 --> 00:02:15,477
+meddle with the inner workings of the Net.
+
+49
+00:02:15,477 --> 00:02:18,085
+Experts believe by fiddling with the web's registry
+
+50
+00:02:18,085 --> 00:02:20,724
+of domain names, the result will be less security,
+
+51
+00:02:20,724 --> 00:02:22,225
+and less stability.
+
+52
+00:02:22,225 --> 00:02:25,515
+In short, PROTECT IP won't stop piracy, but it will
+
+53
+00:02:25,515 --> 00:02:28,515
+introduce vast potential for censorship and abuse,
+
+54
+00:02:28,515 --> 00:02:31,696
+while making the web less safe and less reliable.
+
+55
+00:02:31,696 --> 00:02:33,943
+This is the Internet we're talking about!
+
+56
+00:02:33,943 --> 00:02:36,281
+It's a vital and vibrant medium.
+
+57
+00:02:36,281 --> 00:02:38,075
+And our government is tampering with its
+
+58
+00:02:38,075 --> 00:02:41,462
+basic structure, so people will maybe buy more
+
+59
+00:02:41,462 --> 00:02:43,163
+Hollywood movies.
+
+60
+00:02:43,163 --> 00:02:45,957
+But Hollywood movies don't get grassroots candidates
+
+61
+00:02:45,957 --> 00:02:48,623
+elected. They don't overthrow corrupt regimes,
+
+62
+00:02:48,623 --> 00:02:51,363
+and the entire entertainment industry doesn't even
+
+63
+00:02:51,363 --> 00:02:53,523
+contribute that much to our economy.
+
+64
+00:02:53,523 --> 00:02:56,551
+The Internet does all these, and more.
+
+65
+00:02:56,551 --> 00:03:00,347
+Corporations already have tools to fight piracy.
+
+66
+00:03:00,347 --> 00:03:02,766
+They have the power to take down specific content,
+
+67
+00:03:02,766 --> 00:03:05,894
+to sue peer-to-peer software companies out of existence,
+
+68
+00:03:05,894 --> 00:03:08,885
+and to sue journalists just for talking about how to
+
+69
+00:03:08,885 --> 00:03:10,397
+copy a DVD.
+
+70
+00:03:10,397 --> 00:03:12,901
+They have a history of stretching and abusing
+
+71
+00:03:12,901 --> 00:03:15,343
+their powers. They tried to take a baby video
+
+72
+00:03:15,343 --> 00:03:17,489
+off YouTube, just for the music playing in
+
+73
+00:03:17,489 --> 00:03:19,825
+the background. They've used legal penalties
+
+74
+00:03:19,825 --> 00:03:22,269
+written for large-scale commercial piracy
+
+75
+00:03:22,269 --> 00:03:24,663
+to go after families and children.
+
+76
+00:03:24,663 --> 00:03:27,124
+They even sued to ban the VCR and the first
+
+77
+00:03:27,124 --> 00:03:28,747
+MP3 players.
+
+78
+00:03:28,747 --> 00:03:33,090
+So the question is, "How far will they take all this?"
+
+79
+00:03:33,090 --> 00:03:35,924
+The answer at this point, is obvious.
+
+80
+00:03:35,924 --> 00:03:38,712
+As far as we'll let them.

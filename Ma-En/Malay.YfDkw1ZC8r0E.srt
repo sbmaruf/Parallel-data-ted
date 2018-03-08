@@ -1,0 +1,227 @@
+1
+00:00:01,000 --> 00:00:04,600
+Cari cerun garis yang digambarkan pada graf.
+
+2
+00:00:04,600 --> 00:00:11,540
+Maka cerun garis diertikan dengan kenaikan per pergerakan.
+
+3
+00:00:11,540 --> 00:00:22,639
+Atau anda juga boleh lihat ia sebagai perubahan dalam y per perubahan dalam x.
+
+4
+00:00:22,639 --> 00:00:25,937
+Dan mari saya tunjukkan anda apa maksudnya.
+
+5
+00:00:25,937 --> 00:00:28,862
+Maka mari mulakan dengan titik arbitrari pada garisan ini.
+
+6
+00:00:28,862 --> 00:00:30,859
+Dan mereka warnakan beberapa titik tersebut
+
+7
+00:00:30,859 --> 00:00:33,135
+Jadi mari mulakan ada salah satu titik di sini.
+
+8
+00:00:33,135 --> 00:00:38,661
+Maka jika kita mahu mulakan pada salah satu titik. Mari katakan kita mahu menukar x kita dalam arah positif.
+
+9
+00:00:38,661 --> 00:00:43,677
+Maka kita mahu pergi ke kanan. Jadi mari katakan kita mahu pergi dari titik ini ke titik di sini.
+
+10
+00:00:43,677 --> 00:00:46,184
+Berapa banyak yang kita perlu gerakkan dalam x?
+
+11
+00:00:46,184 --> 00:00:49,250
+Maka jika kita mahu gerakkan dalam x, kita harus pergi dari titik ini kepada titik ini.
+
+12
+00:00:49,250 --> 00:00:52,667
+Kita akan pergi dari -3 kepada 0
+
+13
+00:00:52,667 --> 00:00:56,133
+Maka kita pergi dari -3 kepada 0
+
+14
+00:00:56,133 --> 00:00:59,745
+Jadi perubahan kita dalam x, dan tiga segi ini, itu ialah delta
+
+15
+00:00:59,745 --> 00:01:04,575
+Ia bermaksud perubahan dalam. Perubahan kita dalam x ialah bersamaan dengan 3
+
+16
+00:01:04,575 --> 00:01:08,383
+Maka perubahan kita dalam x di sini ialah bersamaan dengan 3.
+
+17
+00:01:08,383 --> 00:01:12,980
+Jadi apa perubahan kita dalam y apabila perubahan kita dalam x ialah bersamaan dengan 3?
+
+18
+00:01:12,980 --> 00:01:18,971
+Apabila kita gerakkan dari titik ini kepada titik ini, nilai x kita berubah kepada 3.
+
+19
+00:01:18,971 --> 00:01:20,800
+Tetapi apa berlaku pada nilai y kita?
+
+20
+00:01:20,800 --> 00:01:25,200
+Baiklah, nilai y kita turun ke bawah. Ia pergi dari positif 3 kepada positif 2.
+
+21
+00:01:25,200 --> 00:01:28,538
+nilai y kita turun sebanyak 1
+
+22
+00:01:28,538 --> 00:01:32,733
+Maka perubahan dalam y ialah bersamaan dengan -1
+
+23
+00:01:32,733 --> 00:01:36,015
+Jadi kita naikkan -1. Kita sebenarnya pergi ke bawah.
+
+24
+00:01:36,015 --> 00:01:41,355
+Oleh itu, kenaikan kita ialah -1 apabila kita bergerak, perubahan kita dalam x, ialah 3
+
+25
+00:01:41,355 --> 00:01:45,349
+Perubahan y per perubahan x ialah -1/3
+
+26
+00:01:45,349 --> 00:01:53,337
+Atau kita boleh katakan cerun kita ialah -1/3
+
+27
+00:01:53,337 --> 00:01:55,844
+Ianya -1/3
+
+28
+00:01:55,844 --> 00:01:59,513
+Dan saya mahu tunjukkan anda bahawa kita boleh lakukan ini dengan mana-mana dua titik pada garis
+
+29
+00:01:59,513 --> 00:02:02,300
+Kita boleh pergi lebih jauh dari 3 dalam arah x.
+
+30
+00:02:02,300 --> 00:02:05,829
+Mari kita pergi pada arah yang lain. Mari mulakan pada titik di sini.
+
+31
+00:02:05,829 --> 00:02:10,566
+Dan kemudian gerakkan ke belakang kepada titik di sini hanya untuk tunjukkan anda kita masih mampu mendapat hasil yang sama.
+
+32
+00:02:10,566 --> 00:02:15,303
+Maka untuk pergi dari titik ini kepada titik itu, apakah perubahan kita dalam x?
+
+33
+00:02:15,303 --> 00:02:20,736
+Jadi perubahan kita dalam x ialah di sini.
+
+34
+00:02:20,736 --> 00:02:22,454
+Perubahan kita dalam x ialah jarak di sini.
+
+35
+00:02:22,454 --> 00:02:26,800
+Kita mulakan pada 3 dan kita pergi kepada -3. Kita pergi semula kepada 6
+
+36
+00:02:26,800 --> 00:02:30,442
+Di sini, perubahan dalam x ialah bersamaan dengan -6
+
+37
+00:02:30,442 --> 00:02:36,386
+Kita mulakan pada titik ini sekarang. Maka di sini ialah perubahan kita dalam x ialah -6
+
+38
+00:02:36,386 --> 00:02:40,984
+Dan kemudian apabila perubahan dalam x ialah -6, apabila kita mulakan pada titik ini dan kita gerakkan 6 kebelakang
+
+39
+00:02:40,984 --> 00:02:43,724
+Apakah perubahan kita pada y untuk mendapatkan titik tersebut?
+
+40
+00:02:43,724 --> 00:02:48,043
+Baiklah, nilai y kita pergi dari 1, itu ialah nilai y kita pada titik ini
+
+41
+00:02:48,143 --> 00:02:51,804
+Dan kemudian kita pergi semula pada titik ini, nilai y kita ialah 3
+
+42
+00:02:51,804 --> 00:02:54,312
+Maka sekarang nilai y ialah 3. Oleh itu, apa yang kita perlu lakukan?
+
+43
+00:02:54,312 --> 00:02:58,770
+Kita gerakkan ke atas sebanyak 2. Perubahan dalam y kita ialah bersamaan dengan 2
+
+44
+00:02:58,770 --> 00:03:02,467
+Maka di sini, perubahan y kita ialah bersamaan dengan 2
+
+45
+00:03:02,467 --> 00:03:07,455
+Cerun ialah perubahan dalam y per perubahan dalam x. Atau, kenaikan per pergerakan.
+
+46
+00:03:07,455 --> 00:03:13,120
+Perubahan dalam y ialah kenaikan. Perubahan dalam x ialah pergerakan, berapa banyak pergerakan dalam arah melintang
+
+47
+00:03:13,120 --> 00:03:23,848
+Jadi kenaikan per pergerakan dalam contoh ini akan menjadi 2/-6, iaitu sama dengan -1/3
+
+48
+00:03:23,848 --> 00:03:25,333
+Dan anda boleh nilaikan sendiri
+
+49
+00:03:25,333 --> 00:03:30,303
+Ambil mana-mana dua titik. Mulakan pada salah satu daripada dua titik dan cari apakah pergerakan untuk mendapatkan
+
+50
+00:03:31,812 --> 00:03:33,322
+Ke titik seterusnya. Dan kemudian apa ialah kenaikan untuk pergi ke titik seterusnya
+
+51
+00:03:33,322 --> 00:03:35,667
+Dan untuk mana-mana garis, cerun tidak berubah
+
+52
+00:03:35,667 --> 00:03:36,990
+Mari saya lakukannya semula
+
+53
+00:03:36,990 --> 00:03:41,913
+Di sini, kita perlu gerakkan dalam arah +3. Maka, itu ialah pergerakan kita
+
+54
+00:03:41,913 --> 00:03:46,371
+Jadi di dini ialah +3. Itu ialah pergerakan kita. Tetapi apa kenaikan kita?
+
+55
+00:03:46,371 --> 00:03:50,644
+Baiklah, kita sebenarnya turun ke bawah. Jadi kita ada kenaikan negatif. Kenaikan kita ialah -1.
+
+56
+00:03:50,644 --> 00:03:54,034
+Maka kita ada -1 sebagai kenaikan kita. Kita turun ke bawah.
+
+57
+00:03:54,034 --> 99:59:59,999
+Pergerakan atau larian kita ialah +3. Jadi cerun kita di sini ialah -1/3

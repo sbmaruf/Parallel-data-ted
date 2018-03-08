@@ -1,0 +1,95 @@
+1
+00:00:00,415 --> 00:00:05,747
+Adakah perkadaran berikut benar atau palsu sekiranya 3/12 atau 3:12 itu
+
+2
+00:00:05,747 --> 00:00:09,964
+adalah sama dengan 5/35 atau 5:35?
+
+3
+00:00:09,964 --> 00:00:12,314
+Sekarang untuk menyelesaikan ini, kita hanya perlu mencari
+
+4
+00:00:12,314 --> 00:00:14,547
+sama ada semua ini adalah pecahan yang bernilai sama, dan cara yang paling senang
+
+5
+00:00:14,547 --> 00:00:17,830
+untuk melakukan itu, adalah dengan meletakkan kedua-duanya dalam bentuk yang termudah, dan
+
+6
+00:00:17,830 --> 00:00:19,499
+lihat sama ada kita mendapat jawapan yang sama.
+
+7
+00:00:19,499 --> 00:00:24,646
+Jadi mari kita mencuba 3/12 dahulu. Jadi jika kita mempunyai 3/12, kedua-dua
+
+8
+00:00:24,646 --> 00:00:28,113
+pengangka dan penyebutnya boleh dibahagi dengan 3.
+
+9
+00:00:28,113 --> 00:00:30,531
+Jadi mari kita membahagi dengan 3.
+
+10
+00:00:30,531 --> 00:00:32,896
+Jadi bahagikan pengangka itu dengan 3, dan mari kita membahagi
+
+11
+00:00:32,896 --> 00:00:34,844
+penyebutnya dengan 3.
+
+12
+00:00:34,844 --> 00:00:37,030
+Kita mendapat 3 dibahagi dengan 3 adalah 1.
+
+13
+00:00:37,030 --> 00:00:39,063
+12 dibahagi dengan 3 adalah 4.
+
+14
+00:00:39,063 --> 00:00:41,763
+Jadi 3/12 adalah sama dengan 1/4.
+
+15
+00:00:41,763 --> 00:00:45,433
+Jadi mari kita melakukan perkara yang sama dengan 5/35.
+
+16
+00:00:45,433 --> 00:00:51,995
+5 per 35-- saya tinggalkan sedikit ruang supaya kita boleh membahagi--
+
+17
+00:00:51,995 --> 00:00:54,596
+kedua-dua ini boleh dibahagi dengan 5, jadi mari kita membahagi pengangka itu
+
+18
+00:00:54,596 --> 00:00:56,430
+dan penyebut itu dengan 5.
+
+19
+00:00:56,430 --> 00:01:01,564
+Jadi jika kita membahagi pengangka itu dengan 5 dan penyebut itu dengan 5,
+
+20
+00:01:01,564 --> 00:01:06,498
+pengangka itu, 5 dibahagi dengan 5 adalah 1, dan kemudian 35
+
+21
+00:01:06,498 --> 00:01:08,497
+dibahagi dengan 5 adalah 7.
+
+22
+00:01:08,497 --> 00:01:14,181
+Jadi ini bermaksud kita mengatakan yang 1/4 itu adalah sama dengan
+
+23
+00:01:14,181 --> 00:01:19,063
+1/7, yang dengan jelasnya adalah tidak benar.
+
+24
+00:01:19,063 --> 00:01:23,649
+Ini dengan jelasnya adalah tidak benar, jadi perkadaran ini adalah palsu.

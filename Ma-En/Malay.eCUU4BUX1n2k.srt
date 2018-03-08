@@ -1,0 +1,203 @@
+1
+00:00:00,651 --> 00:00:05,201
+kita diminta untuk menyelesaikan 68-42.
+
+2
+00:00:05,201 --> 00:00:08,940
+apa yang saya nak lakukan ialah, pertama, saya akan menunjukkan bagaimana saya menyelesaikan masalah ini
+
+3
+00:00:08,940 --> 00:00:12,516
+dan seterusnya menerangkan bagaimana ia berfungsi
+
+4
+00:00:12,516 --> 00:00:17,533
+jadi, saya ada 68-42, satu cara untuk menyelesaikannya dengan cara paling biasa
+
+5
+00:00:17,533 --> 00:00:20,759
+ialah dengan menulis nombor yang anda hendak tolak dari atas,
+
+6
+00:00:20,759 --> 00:00:24,507
+dan tulis nombor yang ditolak dibawahnya
+
+7
+00:00:24,507 --> 00:00:27,353
+jadi kita ada 68-42.
+
+8
+00:00:27,353 --> 00:00:30,200
+dan perkara yang anda patut fikirkan dan pastikan anda melakukannya,
+
+9
+00:00:30,200 --> 00:00:34,077
+ialah anda perlu menyusun mengikut tempat yang betul, jadi 2 berada dibawah 8
+
+10
+00:00:34,077 --> 00:00:37,133
+mereka berada di tempat sa, dan 4 berada dibawah 6,
+
+11
+00:00:37,133 --> 00:00:40,533
+mereka berada ditempat puluh.
+
+12
+00:00:40,533 --> 00:00:43,800
+Anda akan lebih memahami diakhir video ini.
+
+13
+00:00:43,800 --> 00:00:46,138
+Baiklah, di tempat sa, kita dapat lihat nombor 8
+
+14
+00:00:46,138 --> 00:00:52,431
+dan kita akan menolak nombor 2, jadi, 8-2 ialah 6.
+
+15
+00:00:52,431 --> 00:00:53,533
+Tulis ia disini.
+
+16
+00:00:53,533 --> 00:00:55,067
+Tulis ia disini.
+
+17
+00:00:55,067 --> 00:00:56,667
+8-2 ialah 6
+
+18
+00:00:56,667 --> 00:01:02,200
+8-2=6.
+
+19
+00:01:02,200 --> 00:01:05,759
+Seterusnya ditempat puluh, kita ada 6-4.
+
+20
+00:01:05,759 --> 00:01:08,667
+Memandangkan mereka berada di tempat puluh, maka 60-40.
+
+21
+00:01:08,667 --> 00:01:15,604
+Tetapi 6-4 ialah 2, 6-4=2.
+
+22
+00:01:15,604 --> 00:01:18,810
+dan memandangkan mereka berada di tempat puluh, maka ini ialah 60-40.
+
+23
+00:01:18,810 --> 00:01:20,015
+sama jumlah dengan 20.
+
+24
+00:01:20,015 --> 00:01:21,850
+Saya akan menerangkan dengan lebih dalam sebentar lagi.
+
+25
+00:01:21,850 --> 00:01:23,015
+Jadi, kita sudah selesai.
+
+26
+00:01:23,015 --> 00:01:26,600
+68-42=26
+
+27
+00:01:26,600 --> 00:01:28,143
+dan anda boleh memeriksanya sendiri
+
+28
+00:01:28,143 --> 00:01:31,267
+jika anda tambah 26 dengan 42 anda seharusnya dapat 68
+
+29
+00:01:31,267 --> 00:01:35,667
+atau jika anda tolak 26 daripada 68 anda akan dapat 42.
+
+30
+00:01:35,667 --> 00:01:39,267
+Saya menggalakkan anda melakukannya sendiri selepas video ini.
+
+31
+00:01:39,267 --> 00:01:44,533
+Pastikan bahawa 42+26=68
+
+32
+00:01:44,533 --> 00:01:46,533
+bersamaan dengan 68
+
+33
+00:01:46,533 --> 00:01:50,867
+dan pastikan bahawa 68-26=42
+
+34
+00:01:50,867 --> 00:01:52,867
+dan anda boleh lihat ia bersamaan dengan 42
+
+35
+00:01:52,867 --> 00:01:56,100
+Jadi ini adalah dua perkara yang anda harus periksa sendiri.
+
+36
+00:01:56,100 --> 00:01:59,133
+Sekarang, perkara terakhir yang saya hendak lakukan dalam video ini ialah menerangkan
+
+37
+00:01:59,133 --> 00:02:01,667
+dengan lebih mendalam lagi bagaimana ia berfungsi
+
+38
+00:02:01,667 --> 00:02:05,400
+saya suka menggambarkan 68
+
+39
+00:02:05,400 --> 00:02:07,133
+anda tidak perlu tulis begini
+
+40
+00:02:07,133 --> 00:02:09,610
+tetapi ini untuk memastikan anda lebih faham
+
+41
+00:02:09,610 --> 00:02:15,324
+68 adalah sama dengan 60 tambah 8 atau 60 dan 8
+
+42
+00:02:15,324 --> 00:02:17,723
+dan kita akan menolak 42
+
+43
+00:02:17,723 --> 00:02:21,348
+dan 42 adalah sama dengan 40 tambah 2
+
+44
+00:02:21,364 --> 00:02:26,000
+jadi kita akan menolak 40 dan 2
+
+45
+00:02:26,000 --> 00:02:29,200
+kita menolak 42, kita menolak 40 dan 2
+
+46
+00:02:29,200 --> 00:02:32,410
+dan anda boleh menggambarkan ini adalah dua masalah yang berbeza
+
+47
+00:02:32,410 --> 00:02:35,415
+dalam kedudukan sa, anda ada 8-2
+
+48
+00:02:35,415 --> 00:02:38,200
+dan apa yang kita dapat ialah 6
+
+49
+00:02:38,200 --> 00:02:44,267
+dan dalam kedudukan puluh, anda ada 60-40 iaitu 20
+
+50
+00:02:44,267 --> 00:02:46,867
+jadi anda akan dapat 20+6
+
+51
+00:02:46,867 --> 00:02:53,105
+dan ia sama dengan 26.

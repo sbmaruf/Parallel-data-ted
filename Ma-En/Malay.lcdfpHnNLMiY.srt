@@ -1,0 +1,895 @@
+1
+00:00:00,424 --> 00:00:02,286
+Di Oxford pada 1950-an ada seorang
+
+2
+00:00:02,286 --> 00:00:06,054
+doktor yang hebat, agak luar biasa
+
+3
+00:00:06,054 --> 00:00:08,086
+bernama Alice Stewart.
+
+4
+00:00:08,086 --> 00:00:11,229
+Alice dikatakan luar biasa kerana jarang terdapat
+
+5
+00:00:11,229 --> 00:00:14,709
+doktor wanita ketika itu. Beliau seorang yang bijak,
+
+6
+00:00:14,709 --> 00:00:16,820
+salah seorang daripada Felo termuda yang dipilih oleh
+
+7
+00:00:16,820 --> 00:00:21,636
+Royal College of Physicians, ketika itu.
+
+8
+00:00:21,636 --> 00:00:25,393
+Beliau juga dianggap luar biasa kerana meneruskan
+
+9
+00:00:25,393 --> 00:00:27,488
+kerjayanya selepas berkahwin dan selepas mendapat anak.
+
+10
+00:00:27,488 --> 00:00:30,496
+Malah, selepas bercerai dan menjadi ibu tunggal,
+
+11
+00:00:30,496 --> 00:00:32,779
+beliau masih meneruskan kerjaya medisnya. Beliau
+
+12
+00:00:32,779 --> 00:00:36,899
+luar biasa kerana sangat berminat dalam bidang sains
+
+13
+00:00:36,899 --> 00:00:39,523
+yang baru muncul dan sedang berkembang iaitu
+
+14
+00:00:39,523 --> 00:00:43,011
+epidemiologi, kajian tentang pola penyakit.
+
+15
+00:00:43,011 --> 00:00:45,179
+Tetapi, seperti saintis lain, beliau tahu bahawa
+
+16
+00:00:45,179 --> 00:00:47,435
+untuk mencipta nama, apa yang perlu dilakukan adalah
+
+17
+00:00:47,435 --> 00:00:51,953
+mencari permasalahan yang sukar dan menyelesaikannya.
+
+18
+00:00:51,953 --> 00:00:54,497
+Permasalahan yang dipilih Alice
+
+19
+00:00:54,497 --> 00:00:57,895
+adalah peningkatan insiden kanser kanak-kanak.
+
+20
+00:00:57,895 --> 00:01:00,085
+Kebanyakan penyakit berkait dengan kemiskinan
+
+21
+00:01:00,085 --> 00:01:02,354
+tetapi dalam kes kanser kanak-kanak,
+
+22
+00:01:02,354 --> 00:01:04,958
+mereka yang tenat kebanyakannya datang
+
+23
+00:01:04,958 --> 00:01:07,403
+daripada keluarga yang berada.
+
+24
+00:01:07,403 --> 00:01:09,146
+Maka, beliau ingin tahu apakah sebab
+
+25
+00:01:09,146 --> 00:01:12,228
+berlakunya anomali ini?
+
+26
+00:01:12,228 --> 00:01:15,011
+Alice menghadapi masalah mendapatkan biayaan untuk
+
+27
+00:01:15,011 --> 00:01:17,002
+kajiannya. Akhirnya, beliau cuma mendapat 1,000 pound
+
+28
+00:01:17,002 --> 00:01:19,257
+sahaja, daripada anugerah Memorial Lady Tata.
+
+29
+00:01:19,257 --> 00:01:21,800
+Dan beliau sedar, beliau hanya ada satu peluang
+
+30
+00:01:21,800 --> 00:01:23,842
+sahaja untuk mengumpul datanya.
+
+31
+00:01:23,842 --> 00:01:26,319
+Beliau tidak tahu apa yang hendak dicarinya. Ia seperti
+
+32
+00:01:26,319 --> 00:01:29,435
+mencari getah di dalam semak, sangat sukar sekali.
+
+33
+00:01:29,435 --> 00:01:32,057
+Jadi, beliau bertanyakan apa sahaja yang mampu
+
+34
+00:01:32,057 --> 00:01:33,890
+difikirkannya. Pernahkah kanak-kanak itu makan gula-gula?
+
+35
+00:01:33,890 --> 00:01:35,963
+Pernahkah mereka minum air yang berwarna?
+
+36
+00:01:35,963 --> 00:01:37,610
+Adakah mereka makan ikan dan kerepek?
+
+37
+00:01:37,610 --> 00:01:39,618
+Adakah mereka mempunyai sistem paip di dalam atau di
+
+38
+00:01:39,618 --> 00:01:43,034
+luar rumah? Bilakah mereka mula bersekolah?
+
+39
+00:01:43,034 --> 00:01:46,402
+Dan apabila, salinan karbon soalselidik beliau mendapat
+
+40
+00:01:46,402 --> 00:01:49,322
+jawapan, satu pekara dan hanya satu perkara sahaja yang
+
+41
+00:01:49,322 --> 00:01:51,858
+timbul dengan kejelasan statistik yang
+
+42
+00:01:51,858 --> 00:01:54,698
+kebanyakan saintis impikan.
+
+43
+00:01:54,698 --> 00:01:56,618
+Dengan kadar satu daripada dua,
+
+44
+00:01:56,618 --> 00:01:58,699
+kanak-kanak yang telah meninggal dunia , mempunyai ibu
+
+45
+00:01:58,699 --> 00:02:04,994
+yang pernah melalui sinaran X ketika mengandung.
+
+46
+00:02:04,994 --> 00:02:09,499
+Hasil pencarian itu mencabar kebijaksanaan konvensional.
+
+47
+00:02:09,499 --> 00:02:11,406
+Kebijaksaan konvesional menyatakan sesuatu itu
+
+48
+00:02:11,406 --> 00:02:15,403
+selamat sehingga di ambang batasannya.
+
+49
+00:02:15,403 --> 00:02:17,730
+Ini mencabar kebijaksanaan konvensional, iaitu
+
+50
+00:02:17,730 --> 00:02:21,188
+keghairahan terhadap teknologi baru
+
+51
+00:02:21,188 --> 00:02:24,834
+pada zaman itu, iaitu mesin sinaran X.
+
+52
+00:02:24,834 --> 00:02:29,058
+Ini mencabar pandangan para doktor terdapat diri mereka
+
+53
+00:02:29,058 --> 00:02:32,866
+sendiri, sebagai golongan yang membantu pesakit,
+
+54
+00:02:32,866 --> 00:02:35,562
+bukan memudaratkan mereka.
+
+55
+00:02:35,562 --> 00:02:39,250
+Walaubagaimanapun, Alice Stewart bergegas menerbitkan
+
+56
+00:02:39,250 --> 00:02:42,834
+hasil kajian awalnya itu, di The Lancet pada 1956.
+
+57
+00:02:42,834 --> 00:02:46,842
+Ramai yang teruja, sehinggakan ada ura-ura mengenai
+
+58
+00:02:46,842 --> 00:02:48,962
+Hadiah Nobel, tetapi Alice mahu secepat mungkin,
+
+59
+00:02:48,962 --> 00:02:52,753
+cuba mengkaji kesemua kes kanser kanak-kanak yang
+
+60
+00:02:52,753 --> 00:02:54,906
+mampu dicarinya, sebelum ia hilang.
+
+61
+00:02:54,906 --> 00:02:59,250
+Hakikatnya, beliau tidak perlu tergesa-gesa kerana
+
+62
+00:02:59,250 --> 00:03:03,441
+hanya selepas 25 tahun, pertubuhan perubatan British --
+
+63
+00:03:03,441 --> 00:03:06,313
+British dan Amerika, meninggalkan amalan
+
+64
+00:03:06,313 --> 00:03:12,417
+sinaran X bagi wanita mengandung. Data ini
+
+65
+00:03:12,417 --> 00:03:17,898
+ada di luar sana, terbuka dan boleh didapati dengan
+
+66
+00:03:17,898 --> 00:03:22,122
+mudah, tetapi tiada siapa yang ambil peduli. Setiap minggu
+
+67
+00:03:22,122 --> 00:03:24,806
+seorang kanak-kanak berada di ambang maut, namun
+
+68
+00:03:24,806 --> 00:03:27,539
+tiada apa-apa perubahan. Keterbukaan sahaja tidak
+
+69
+00:03:27,539 --> 00:03:33,794
+mampu membawa pada perubahan. Jadi, selama 25 tahun,
+
+70
+00:03:33,794 --> 00:03:39,411
+Alice Stewart menghadapi pertarungan yang hebat.
+
+71
+00:03:39,411 --> 00:03:42,658
+Bagaimana beliau tahu bahawa pendapat dan kajiannya betul?
+
+72
+00:03:42,658 --> 00:03:46,321
+Beliau memiliki satu model pemikiran yang sangat hebat.
+
+73
+00:03:46,321 --> 00:03:48,566
+Beliau bekerja dengan seorang ahli statistik bernama George
+
+74
+00:03:48,566 --> 00:03:50,950
+Kneale, dan George merupakan seorang yang amat berbeza
+
+75
+00:03:50,950 --> 00:03:54,019
+daripada beliau. Alice seorang yang ceria dan sosial, tetapi
+
+76
+00:03:54,019 --> 00:03:56,477
+George merupakan seorang yang suka menyendiri.
+
+77
+00:03:56,477 --> 00:04:00,491
+Alice merupakan seorang yang mesra, empatetik terhadap pesakitnya.
+
+78
+00:04:00,491 --> 00:04:04,530
+George pula lebih senang dengan angka-angka daripada orang.
+
+79
+00:04:04,530 --> 00:04:08,508
+Tetapi George menyatakan perkara hebat ini, tentang hubungan pekerjaan mereka.
+
+80
+00:04:08,508 --> 00:04:14,844
+Kata George, "Tugas saya adalah untuk membuktikan bahawa Dr. Stewart salah"
+
+81
+00:04:14,844 --> 00:04:18,401
+Secara aktifnya dia sentiasa menafikan pendapat Alice.
+
+82
+00:04:18,401 --> 00:04:20,738
+Melihat dari sudut yang berbeza terhadap model-model
+
+83
+00:04:20,738 --> 00:04:23,995
+Alice, statistiknya, cara yang berbeza memproses data,
+
+84
+00:04:23,995 --> 00:04:27,058
+dalam usaha untuk menafikan beliau. Pada George,
+
+85
+00:04:27,058 --> 00:04:32,682
+tugasnya adalah mencipta konflik pada teori-teori Alice.
+
+86
+00:04:32,682 --> 00:04:35,778
+Kerana dengan ketidakmampuannya membuktikan
+
+87
+00:04:35,778 --> 00:04:38,146
+bahawa kajian Alice salah, George
+
+88
+00:04:38,146 --> 00:04:41,267
+akan memberi Alice keyakinan yang diperlukannya
+
+89
+00:04:41,267 --> 00:04:44,249
+untuk mengetahui bahawa beliau betul.
+
+90
+00:04:44,249 --> 00:04:48,924
+Ia merupakan satu model kolaborasi yang hebat --
+
+91
+00:04:48,924 --> 00:04:53,931
+rakan kongsi yang tidak berpemikiran seperti kebuk gema.
+
+92
+00:04:53,931 --> 00:04:56,283
+Saya tertanya-tanya, berapa ramai di kalangan kita yang
+
+93
+00:04:56,283 --> 00:05:03,202
+mempunyai ataupun berani memiliki kolaborasi seperti ini.
+
+94
+00:05:03,202 --> 00:05:06,979
+Alice dan George sangat bijak menghadapi konflik.
+
+95
+00:05:06,979 --> 00:05:10,115
+Mereka melihatnya sebagai peluang untuk berfikir.
+
+96
+00:05:10,115 --> 00:05:14,388
+Jadi, apakah yang diperlukan oleh konflik konstruktif seperti ini?
+
+97
+00:05:14,388 --> 00:05:17,763
+Pertama sekali, kita perlu mencari seseorang
+
+98
+00:05:17,763 --> 00:05:20,411
+yang berbeza daripada diri kita. Ini bermakna kita
+
+99
+00:05:20,411 --> 00:05:24,747
+perlu menolak kehendak neurobiologi kita, maksudnya,
+
+100
+00:05:24,747 --> 00:05:29,251
+kita lebih suka kepada orang yang seperti diri kita juga,
+
+101
+00:05:29,251 --> 00:05:31,475
+dan ini bermakna kita perlu mencari seseorang yang
+
+102
+00:05:31,475 --> 00:05:33,947
+mempunyai latarbelakang yang berbeza, disiplin yang berbeza
+
+103
+00:05:33,947 --> 00:05:38,098
+pemikiran yang berbeza dan pengalaman yang berbeza,
+
+104
+00:05:38,098 --> 00:05:41,963
+dan mencari cara untuk bekerjasama dengan mereka.
+
+105
+00:05:41,963 --> 00:05:46,607
+Ia memerlukan tahap kesabaran dan tenaga yang tinggi.
+
+106
+00:05:46,607 --> 00:05:48,418
+Dan semakin lama saya renung hal ini, saya
+
+107
+00:05:48,418 --> 00:05:53,579
+semakin yakin bahawa itu ialah satu bentuk percintaan.
+
+108
+00:05:53,579 --> 00:05:56,648
+Anda tidak akan meluangkan masa dan tenaga sebegitu, dengan
+
+109
+00:05:56,648 --> 00:06:01,339
+semudah itu, jika anda tidak benar-benar mengambilberat.
+
+110
+00:06:01,339 --> 00:06:05,799
+Dan ini juga bermakna, kita perlu bersedia untuk mengubah
+
+111
+00:06:05,799 --> 00:06:08,163
+fikiran kita. Anak perempuan Alice memberitahu saya
+
+112
+00:06:08,163 --> 00:06:11,275
+bahawa setiap kali Alice bersemuka dengan felo saintis,
+
+113
+00:06:11,275 --> 00:06:15,459
+mereka akan membuatkan Alice berfikir, berfikir dan berfikir
+
+114
+00:06:15,459 --> 00:06:19,477
+kembali. "Emak saya," katanya, "Emak saya tidak gemarkan
+
+115
+00:06:19,477 --> 00:06:24,619
+pertengkaran, tetapi dia sangat bijak dalam melakukannya."
+
+116
+00:06:24,619 --> 00:06:28,789
+Ini mungkin boleh dilakukan dalam hubungan satu lawan satu,
+
+117
+00:06:28,789 --> 00:06:32,076
+Tetapi sekilas di fikiran saya, masalah terbesar yang kita hadapi,
+
+118
+00:06:32,076 --> 00:06:34,950
+kebanyakan kegagalan yang pernah kita hadapi,
+
+119
+00:06:34,950 --> 00:06:36,901
+tidak semua datangnya daripada individu,
+
+120
+00:06:36,901 --> 00:06:38,789
+tetapi daripada organisasi, sesetengahnya
+
+121
+00:06:38,789 --> 00:06:40,797
+lebih besar daripada sebuah negara,
+
+122
+00:06:40,797 --> 00:06:43,057
+dan kebanyakannya mampu menjejas beratus-ratus,
+
+123
+00:06:43,057 --> 00:06:47,060
+ribuan, malahan jutaan nyawa.
+
+124
+00:06:47,060 --> 00:06:51,498
+Maka, bagaimana organisasi-organisasi itu berfikir?
+
+125
+00:06:51,498 --> 00:06:55,524
+Sebahagian besar daripada mereka tidak melakukannya.
+
+126
+00:06:55,524 --> 00:06:58,517
+Dan itu bukan kerana mereka tidak mahu berbuat sedemikian,
+
+127
+00:06:58,517 --> 00:07:00,922
+tetapi kerana mereka betul-betul tidak mampu melakukannya.
+
+128
+00:07:00,922 --> 00:07:04,269
+Dan mereka tidak mampu kerana orang yang berada di
+
+129
+00:07:04,269 --> 00:07:08,477
+dalam organisasi itu, terlalu takut untuk menghadapi konflik.
+
+130
+00:07:08,477 --> 00:07:11,341
+Dalam tinjauan tentang eksekutif-eksekutif daripada Eropah dan
+
+131
+00:07:11,341 --> 00:07:14,311
+Amerika, 85 peratus daripada mereka mengaku bahawa
+
+132
+00:07:14,311 --> 00:07:17,828
+mereka mempunyai isu-isu perihal kerja,
+
+133
+00:07:17,828 --> 00:07:21,461
+yang mereka takut bangkitkan.
+
+134
+00:07:21,461 --> 00:07:24,620
+Bimbang akan konflik yang mungkin tercetus,
+
+135
+00:07:24,620 --> 00:07:26,988
+takut terbabit dalam pertengkaran yang mereka
+
+136
+00:07:26,988 --> 00:07:29,019
+tidak tahu bagaimana menguruskannya,
+
+137
+00:07:29,019 --> 00:07:33,596
+dan merasakan bahawa mereka pasti akan kalah.
+
+138
+00:07:33,596 --> 00:07:39,773
+85 peratus merupakan satu nombor yang besar. Ini
+
+139
+00:07:39,773 --> 00:07:42,588
+bermakna kebanyakan organisasi tidak mampu melakukan
+
+140
+00:07:42,588 --> 00:07:44,916
+apa yang dilakukan oleh George dan Alice, dengan jayanya.
+
+141
+00:07:44,916 --> 00:07:49,315
+Mereka tidak mampu berfikir bersama-sama.
+
+142
+00:07:49,315 --> 00:07:51,556
+Dan ini bermakna, kebanyakan orang seperti kita,
+
+143
+00:07:51,556 --> 00:07:53,740
+yang mengurus organisasi cuba sedaya upaya
+
+144
+00:07:53,740 --> 00:07:57,307
+mencari pekerja yang terbaik, dan kebanyakannya
+
+145
+00:07:57,307 --> 00:08:03,580
+gagal mendapatkan hasil terbaik daripada mereka.
+
+146
+00:08:03,580 --> 00:08:06,916
+Jadi, bagaimanakah cara kita membina kemahiran yang diperlukan?
+
+147
+00:08:06,916 --> 00:08:10,999
+Kerana ia memerlukan kemahiran dan praktis, juga.
+
+148
+00:08:10,999 --> 00:08:14,413
+Jika kita tidak mahu merasa takut kepada konflik,
+
+149
+00:08:14,413 --> 00:08:16,572
+kita perlu melihatnya sebagai satu medium berfikir,
+
+150
+00:08:16,572 --> 00:08:20,908
+dan kemudian, kita perlu mahir dalam melakukannya.
+
+151
+00:08:20,908 --> 00:08:25,172
+Baru-baru ini, saya bekerja dengan seorang eksekutif bernama Joe
+
+152
+00:08:25,172 --> 00:08:28,644
+dan Joe bekerja di sebuah syarikat peralatan perubatan.
+
+153
+00:08:28,644 --> 00:08:31,619
+Dan Joe sangat bimbang tentang peralatan yang sedang
+
+154
+00:08:31,619 --> 00:08:34,644
+dikendalikannya. Dia rasakan ia terlalu rumit
+
+155
+00:08:34,644 --> 00:08:36,508
+dan berpendapat bahawa kerumitan itu akan mencipta
+
+156
+00:08:36,508 --> 00:08:40,775
+ruang kesilapan yang mampu mencederakan pengguna.
+
+157
+00:08:40,775 --> 00:08:44,915
+Dia bimbang akan musibah yang bakal menimba pesakit
+
+158
+00:08:44,915 --> 00:08:47,220
+yang cuba dibantunya. Tetapi apabila dia melihat sekeliling
+
+159
+00:08:47,220 --> 00:08:51,681
+organisasinya, tiada seorang pun yang kelihatan risau,
+
+160
+00:08:51,681 --> 00:08:54,236
+Jadi, dia tidak mahu berkata apa-apa.
+
+161
+00:08:54,236 --> 00:08:56,420
+Mungkin mereka tahu sesuatu yang dia tidak tahu.
+
+162
+00:08:56,420 --> 00:08:59,004
+Mungkin dia akan kelihatan bodoh.
+
+163
+00:08:59,004 --> 00:09:01,210
+Tetapi dia terus mengkhuatiri hal itu,
+
+164
+00:09:01,210 --> 00:09:04,256
+sehingga ke satu tahap di mana dia berfikir,
+
+165
+00:09:04,256 --> 00:09:06,415
+satu-satunya perkara yang boleh dilakukannya
+
+166
+00:09:06,415 --> 00:09:10,545
+adalah meninggalkan kerja yang dia suka ini.
+
+167
+00:09:10,545 --> 00:09:14,545
+Akhirnya, Joe dan saya, menemui satu jalan
+
+168
+00:09:14,545 --> 00:09:16,400
+untuk dia meluahkan kebimbangannya.
+
+169
+00:09:16,400 --> 00:09:19,271
+Dan apa yang berlaku ketika itu adalah perkara yang
+
+170
+00:09:19,271 --> 00:09:20,865
+lazimnya berlaku di dalam situasi sebegini.
+
+171
+00:09:20,865 --> 00:09:24,086
+Rupa-rupanya semua orang mempunyai
+
+172
+00:09:24,086 --> 00:09:25,832
+persoalan dan keraguan yang sama sepertinya. Sekarang,
+
+173
+00:09:25,832 --> 00:09:29,864
+Joe mempunyai teman. Mereka mampu berfikir bersama-sama.
+
+174
+00:09:29,864 --> 00:09:33,128
+Dan ya, berlaku banyak konflik dan perdebatan,
+
+175
+00:09:33,128 --> 00:09:37,432
+dan penghujahan, tetapi itu membenarkan semua orang
+
+176
+00:09:37,432 --> 00:09:41,512
+di sekeliling menjadi kreatif, menyelesaikan masalah,
+
+177
+00:09:41,512 --> 00:09:45,840
+dan mengubah peralatan tersebut.
+
+178
+00:09:45,840 --> 00:09:49,216
+Joe dianggap, oleh kebanyakan orang, sebagai
+
+179
+00:09:49,216 --> 00:09:51,488
+pemberi maklumat,
+
+180
+00:09:51,488 --> 00:09:54,203
+cumanya dalam kebanyakan pemberi maklumat,
+
+181
+00:09:54,203 --> 00:09:56,576
+Joe bukan seorang yang eksentrik, dia terlalu ghairah
+
+182
+00:09:56,576 --> 00:10:00,024
+mengabadikan dirinya kepada organisasi dan
+
+183
+00:10:00,024 --> 00:10:03,472
+tujuan utama organisasi itu.
+
+184
+00:10:03,472 --> 00:10:07,288
+Dia terlalu takut menghadapi konflik, tetapi
+
+185
+00:10:07,288 --> 00:10:12,368
+akhirnya, dia menjadi lebih takut kepada keheningan itu.
+
+186
+00:10:12,368 --> 00:10:14,227
+Apabila dia berani bersuara, dia menemui pelbagai perkara
+
+187
+00:10:14,227 --> 00:10:17,625
+tentang dirinya, dan pelbagai lagi yang diterimanya
+
+188
+00:10:17,625 --> 00:10:22,867
+daripada sistem, yang tidak pernah dibayangkannya.
+
+189
+00:10:22,867 --> 00:10:26,198
+Dan rakan sekerja tidak menganggapnya sebagai seorang eksentrik.
+
+190
+00:10:26,198 --> 00:10:31,326
+Mereka menganggapnya sebagai seorang pemimpin.
+
+191
+00:10:31,326 --> 00:10:35,694
+Jadi, bagaimanakah kita menjadikan perbualan seperti ini,
+
+192
+00:10:35,694 --> 00:10:37,607
+lebih mudah dan lebih kerap?
+
+193
+00:10:37,607 --> 00:10:39,593
+Begini, Universiti Delft
+
+194
+00:10:39,593 --> 00:10:41,990
+memerlukan pelajar PhD mereka mengemukakan
+
+195
+00:10:41,990 --> 00:10:45,903
+lima kenyataan yang mereka bersedia pertahankan.
+
+196
+00:10:45,903 --> 00:10:49,287
+Tidak kisah kenyataan tersebut mengenai apa,
+
+197
+00:10:49,287 --> 00:10:53,079
+apa yang penting adalah calon sanggup
+
+198
+00:10:53,079 --> 00:10:55,682
+dan mampu melawan pihak berkuasa.
+
+199
+00:10:55,682 --> 00:10:58,046
+Saya rasa ini merupakan satu sistem yang hebat,
+
+200
+00:10:58,046 --> 00:11:00,559
+tetapi pada saya, menyerahkannya kepada calon PhD sahaja,
+
+201
+00:11:00,559 --> 00:11:04,864
+tidak memadai, dan terlalu suntuk dalam kehidupan.
+
+202
+00:11:04,864 --> 00:11:08,030
+Pada saya, kita perlu mengajar kemahiran ini kepada kanak-kanak
+
+203
+00:11:08,030 --> 00:11:12,110
+dan golongan dewasa di setiap tahap perkembangan
+
+204
+00:11:12,110 --> 00:11:14,559
+mereka, jika kita mahu memiliki organisasi yang berfikir,
+
+205
+00:11:14,559 --> 00:11:18,206
+dan masyarakat yang berfikir.
+
+206
+00:11:18,206 --> 00:11:23,824
+Hakikatnya, bencana terbesar yang pernah kita saksikan,
+
+207
+00:11:23,824 --> 00:11:30,215
+jarang-jarang disebabkan oleh maklumat yang terahsia atau tersembunyi.
+
+208
+00:11:30,215 --> 00:11:34,519
+Masalah ia datang daripada maklumat yang mudah didapati dan
+
+209
+00:11:34,519 --> 00:11:36,903
+ada di luar sana, tetapi kita sengaja tidak mahu melihatnya,
+
+210
+00:11:36,903 --> 00:11:40,031
+kerana kita tidak mampu dan tidak mahu berdepan dengan
+
+211
+00:11:40,031 --> 00:11:44,438
+konflik yang bakal tercetus.
+
+212
+00:11:44,438 --> 00:11:47,367
+Namun, apabila kita berani untuk memecah keheningan
+
+213
+00:11:47,367 --> 00:11:50,024
+itu, ataupun apabila kita berani untuk melihat
+
+214
+00:11:50,024 --> 00:11:52,279
+dan mencipta konflik, kita memungkinkan
+
+215
+00:11:52,279 --> 00:11:54,904
+diri kita dan orang di sekeliling kita
+
+216
+00:11:54,904 --> 00:11:59,150
+berfikir dengan cara terbaik.
+
+217
+00:11:59,150 --> 00:12:02,526
+Maklumat terbuka sangat hebat,
+
+218
+00:12:02,526 --> 00:12:05,710
+rangkaian terbuka sangat diperlukan. Tetapi
+
+219
+00:12:05,710 --> 00:12:07,687
+kebenaran tidak akan membebaskan kita, sehingga
+
+220
+00:12:07,687 --> 00:12:11,451
+kita membina kemahiran dan tabiat dan bakat
+
+221
+00:12:11,451 --> 00:12:15,588
+dan keberanian moral untuk menggunanya.
+
+222
+00:12:15,588 --> 00:12:19,348
+Keterbukaan bukanlah pengakhir.
+
+223
+00:12:19,348 --> 00:12:21,990
+Ia adalah permulaan.
+
+224
+00:12:21,990 --> 00:12:33,469
+(Tepukan tangan)

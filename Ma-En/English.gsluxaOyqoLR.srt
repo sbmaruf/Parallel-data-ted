@@ -1,0 +1,321 @@
+1
+00:00:00,640 --> 00:00:04,280
+Find the area and
+perimeter of the polygon.
+
+2
+00:00:04,280 --> 00:00:06,770
+So let's start with
+the area first.
+
+3
+00:00:06,770 --> 00:00:08,580
+So the area of this
+polygon-- there's
+
+4
+00:00:08,580 --> 00:00:09,980
+kind of two parts of this.
+
+5
+00:00:09,980 --> 00:00:12,580
+First, you have this part
+that's kind of rectangular,
+
+6
+00:00:12,580 --> 00:00:15,980
+or it is rectangular,
+this part right over here.
+
+7
+00:00:15,980 --> 00:00:17,710
+And that area is
+pretty straightforward.
+
+8
+00:00:17,710 --> 00:00:20,140
+It's just going to
+be base times height.
+
+9
+00:00:20,140 --> 00:00:25,490
+So area's going to be 8 times
+4 for the rectangular part.
+
+10
+00:00:25,490 --> 00:00:28,050
+And then we have this
+triangular part up here.
+
+11
+00:00:28,050 --> 00:00:30,410
+So we have this area up here.
+
+12
+00:00:30,410 --> 00:00:35,070
+And for a triangle, the area
+is base times height times 1/2.
+
+13
+00:00:35,065 --> 00:00:36,695
+And that actually
+makes a lot of sense.
+
+14
+00:00:36,690 --> 00:00:38,890
+Because if you just
+multiplied base times height,
+
+15
+00:00:38,890 --> 00:00:41,020
+you would get this entire area.
+
+16
+00:00:41,020 --> 00:00:43,190
+You would get the area
+of that entire rectangle.
+
+17
+00:00:43,190 --> 00:00:45,400
+And you see that the triangle
+is exactly 1/2 of it.
+
+18
+00:00:45,399 --> 00:00:46,939
+If you took this
+part of the triangle
+
+19
+00:00:46,940 --> 00:00:49,100
+and you flipped it over,
+you'd fill up that space.
+
+20
+00:00:49,100 --> 00:00:50,640
+If you took this
+part of the triangle
+
+21
+00:00:50,641 --> 00:00:52,771
+and you flipped it over,
+you'd fill up that space.
+
+22
+00:00:52,770 --> 00:00:56,280
+So the triangle's area is
+1/2 of the triangle's base
+
+23
+00:00:56,280 --> 00:00:57,940
+times the triangle's height.
+
+24
+00:00:57,940 --> 00:01:01,400
+So plus 1/2 times
+the triangle's base,
+
+25
+00:01:01,400 --> 00:01:04,570
+which is 8 inches, times
+the triangle's height, which
+
+26
+00:01:04,569 --> 00:01:06,619
+is 4 inches.
+
+27
+00:01:06,620 --> 00:01:08,440
+And so let's just calculate it.
+
+28
+00:01:08,440 --> 00:01:13,710
+This gives us 32
+plus-- oh, sorry.
+
+29
+00:01:13,710 --> 00:01:14,780
+That's not 8 times 4.
+
+30
+00:01:14,784 --> 00:01:15,954
+I don't want to confuse you.
+
+31
+00:01:15,950 --> 00:01:18,260
+The triangle's height is 3.
+
+32
+00:01:18,260 --> 00:01:21,160
+8 times 3, right there.
+
+33
+00:01:21,160 --> 00:01:22,740
+That's the triangle's height.
+
+34
+00:01:22,740 --> 00:01:25,270
+So once again, let's go
+back and calculate it.
+
+35
+00:01:25,270 --> 00:01:31,460
+So this is going to be 32
+plus-- 1/2 times 8 is 4.
+
+36
+00:01:31,455 --> 00:01:33,905
+4 times 3 is 12.
+
+37
+00:01:33,900 --> 00:01:39,030
+And so our area for our
+shape is going to be 44.
+
+38
+00:01:39,030 --> 00:01:40,380
+Now let's do the perimeter.
+
+39
+00:01:40,380 --> 00:01:42,560
+The perimeter-- we just
+have to figure out what's
+
+40
+00:01:42,560 --> 00:01:44,130
+the sum of the sides.
+
+41
+00:01:44,125 --> 00:01:45,505
+How long of a
+fence would we have
+
+42
+00:01:45,500 --> 00:01:48,000
+to build if we wanted to make
+it around this shape, right
+
+43
+00:01:48,000 --> 00:01:50,280
+along the sides of this shape?
+
+44
+00:01:50,280 --> 00:01:55,210
+So the perimeter-- I'll
+just write P for perimeter.
+
+45
+00:01:55,210 --> 00:02:05,260
+It's going to be equal to 8 plus
+4 plus 5 plus this 5, this edge
+
+46
+00:02:05,260 --> 00:02:08,350
+right over here, plus--
+I didn't write that down.
+
+47
+00:02:08,350 --> 00:02:12,300
+So I have two 5's plus
+this 4 right over here.
+
+48
+00:02:12,300 --> 00:02:15,540
+So you have 8 plus 4 is 12.
+
+49
+00:02:15,540 --> 00:02:19,630
+12 plus 10-- well, I'll
+just go one step at a time.
+
+50
+00:02:19,630 --> 00:02:21,960
+12 plus 5 is 17.
+
+51
+00:02:21,956 --> 00:02:23,686
+17 plus 5 is 22.
+
+52
+00:02:23,684 --> 00:02:26,744
+22 plus 4 is 26.
+
+53
+00:02:26,740 --> 00:02:28,940
+So the perimeter is 26 inches.
+
+54
+00:02:28,940 --> 00:02:30,670
+And let me get the
+units right, too.
+
+55
+00:02:30,670 --> 00:02:33,440
+Because over here, I'm
+multiplying 8 inches
+
+56
+00:02:33,440 --> 00:02:34,530
+by 4 inches.
+
+57
+00:02:34,530 --> 00:02:36,260
+So you get square inches.
+
+58
+00:02:36,260 --> 00:02:39,240
+8 inches by 3 inches, so
+you get square inches again.
+
+59
+00:02:39,240 --> 00:02:41,980
+So this is going to
+be square inches.
+
+60
+00:02:41,980 --> 00:02:43,960
+So area is 44 square inches.
+
+61
+00:02:43,960 --> 00:02:45,840
+Perimeter is 26 inches.
+
+62
+00:02:45,836 --> 00:02:47,206
+And that makes
+sense because this
+
+63
+00:02:47,210 --> 00:02:48,580
+is a two-dimensional
+measurement.
+
+64
+00:02:48,584 --> 00:02:50,904
+It's measuring something
+in two-dimensional space,
+
+65
+00:02:50,900 --> 00:02:52,490
+so you get a
+two-dimensional unit.
+
+66
+00:02:52,490 --> 00:02:54,120
+This is a one-dimensional
+measurement.
+
+67
+00:02:54,120 --> 00:02:56,710
+It's only asking you,
+essentially, how long would
+
+68
+00:02:56,710 --> 00:02:59,520
+a string have to be to
+go around this thing.
+
+69
+00:02:59,520 --> 00:03:02,560
+And so that's why you get
+one-dimensional units.
+

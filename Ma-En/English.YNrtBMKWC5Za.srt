@@ -1,0 +1,2027 @@
+1
+00:00:00,000 --> 00:00:02,000
+18 minutes is an absolutely brutal time limit,
+
+2
+00:00:02,000 --> 00:00:04,000
+so I'm going to dive straight in, right at the point
+
+3
+00:00:04,000 --> 00:00:06,000
+where I get this thing to work.
+
+4
+00:00:06,000 --> 00:00:08,000
+Here we go. I'm going to talk about five different things.
+
+5
+00:00:08,000 --> 00:00:11,000
+I'm going to talk about why defeating aging is desirable.
+
+6
+00:00:11,000 --> 00:00:13,000
+I'm going to talk about why we have to get our shit together,
+
+7
+00:00:13,000 --> 00:00:15,000
+and actually talk about this a bit more than we do.
+
+8
+00:00:15,000 --> 00:00:17,000
+I'm going to talk about feasibility as well, of course.
+
+9
+00:00:17,000 --> 00:00:19,000
+I'm going to talk about why we are so fatalistic
+
+10
+00:00:19,000 --> 00:00:21,000
+about doing anything about aging.
+
+11
+00:00:21,000 --> 00:00:23,000
+And then I'm going spend perhaps the second half of the talk
+
+12
+00:00:23,000 --> 00:00:28,000
+talking about, you know, how we might actually be able to prove that fatalism is wrong,
+
+13
+00:00:28,000 --> 00:00:30,000
+namely, by actually doing something about it.
+
+14
+00:00:30,000 --> 00:00:32,000
+I'm going to do that in two steps.
+
+15
+00:00:32,000 --> 00:00:34,000
+The first one I'm going to talk about is
+
+16
+00:00:34,000 --> 00:00:37,000
+how to get from a relatively modest amount of life extension --
+
+17
+00:00:37,000 --> 00:00:40,000
+which I'm going to define as 30 years, applied to people
+
+18
+00:00:40,000 --> 00:00:42,000
+who are already in middle-age when you start --
+
+19
+00:00:42,000 --> 00:00:45,000
+to a point which can genuinely be called defeating aging.
+
+20
+00:00:45,000 --> 00:00:49,000
+Namely, essentially an elimination of the relationship between
+
+21
+00:00:49,000 --> 00:00:51,000
+how old you are and how likely you are to die in the next year --
+
+22
+00:00:51,000 --> 00:00:53,000
+or indeed, to get sick in the first place.
+
+23
+00:00:53,000 --> 00:00:55,000
+And of course, the last thing I'm going to talk about
+
+24
+00:00:55,000 --> 00:00:57,000
+is how to reach that intermediate step,
+
+25
+00:00:57,000 --> 00:01:00,000
+that point of maybe 30 years life extension.
+
+26
+00:01:00,000 --> 00:01:03,000
+So I'm going to start with why we should.
+
+27
+00:01:03,000 --> 00:01:05,000
+Now, I want to ask a question.
+
+28
+00:01:05,000 --> 00:01:08,000
+Hands up: anyone in the audience who is in favor of malaria?
+
+29
+00:01:08,000 --> 00:01:09,000
+That was easy. OK.
+
+30
+00:01:09,000 --> 00:01:11,000
+OK. Hands up: anyone in the audience
+
+31
+00:01:11,000 --> 00:01:14,000
+who's not sure whether malaria is a good thing or a bad thing?
+
+32
+00:01:14,000 --> 00:01:16,000
+OK. So we all think malaria is a bad thing.
+
+33
+00:01:16,000 --> 00:01:18,000
+That's very good news, because I thought that was what the answer would be.
+
+34
+00:01:18,000 --> 00:01:20,000
+Now the thing is, I would like to put it to you
+
+35
+00:01:20,000 --> 00:01:23,000
+that the main reason why we think that malaria is a bad thing
+
+36
+00:01:23,000 --> 00:01:27,000
+is because of a characteristic of malaria that it shares with aging.
+
+37
+00:01:27,000 --> 00:01:30,000
+And here is that characteristic.
+
+38
+00:01:30,000 --> 00:01:35,000
+The only real difference is that aging kills considerably more people than malaria does.
+
+39
+00:01:35,000 --> 00:01:37,000
+Now, I like in an audience, in Britain especially,
+
+40
+00:01:37,000 --> 00:01:39,000
+to talk about the comparison with foxhunting,
+
+41
+00:01:39,000 --> 00:01:42,000
+which is something that was banned after a long struggle,
+
+42
+00:01:42,000 --> 00:01:45,000
+by the government not very many months ago.
+
+43
+00:01:45,000 --> 00:01:47,000
+I mean, I know I'm with a sympathetic audience here,
+
+44
+00:01:47,000 --> 00:01:50,000
+but, as we know, a lot of people are not entirely persuaded by this logic.
+
+45
+00:01:50,000 --> 00:01:53,000
+And this is actually a rather good comparison, it seems to me.
+
+46
+00:01:53,000 --> 00:01:55,000
+You know, a lot of people said, "Well, you know,
+
+47
+00:01:55,000 --> 00:02:00,000
+city boys have no business telling us rural types what to do with our time.
+
+48
+00:02:00,000 --> 00:02:02,000
+It's a traditional part of the way of life,
+
+49
+00:02:02,000 --> 00:02:04,000
+and we should be allowed to carry on doing it.
+
+50
+00:02:04,000 --> 00:02:07,000
+It's ecologically sound; it stops the population explosion of foxes."
+
+51
+00:02:07,000 --> 00:02:09,000
+But ultimately, the government prevailed in the end,
+
+52
+00:02:09,000 --> 00:02:10,000
+because the majority of the British public,
+
+53
+00:02:10,000 --> 00:02:12,000
+and certainly the majority of members of Parliament,
+
+54
+00:02:12,000 --> 00:02:14,000
+came to the conclusion that it was really something
+
+55
+00:02:14,000 --> 00:02:16,000
+that should not be tolerated in a civilized society.
+
+56
+00:02:16,000 --> 00:02:17,000
+And I think that human aging shares
+
+57
+00:02:17,000 --> 00:02:19,000
+all of these characteristics in spades.
+
+58
+00:02:20,000 --> 00:02:22,000
+What part of this do people not understand?
+
+59
+00:02:22,000 --> 00:02:24,000
+It's not just about life, of course --
+
+60
+00:02:24,000 --> 00:02:25,000
+(Laughter) --
+
+61
+00:02:25,000 --> 00:02:28,000
+it's about healthy life, you know --
+
+62
+00:02:28,000 --> 00:02:31,000
+getting frail and miserable and dependent is no fun,
+
+63
+00:02:31,000 --> 00:02:33,000
+whether or not dying may be fun.
+
+64
+00:02:33,000 --> 00:02:35,000
+So really, this is how I would like to describe it.
+
+65
+00:02:35,000 --> 00:02:37,000
+It's a global trance.
+
+66
+00:02:37,000 --> 00:02:39,000
+These are the sorts of unbelievable excuses
+
+67
+00:02:39,000 --> 00:02:41,000
+that people give for aging.
+
+68
+00:02:41,000 --> 00:02:43,000
+And, I mean, OK, I'm not actually saying
+
+69
+00:02:43,000 --> 00:02:45,000
+that these excuses are completely valueless.
+
+70
+00:02:45,000 --> 00:02:47,000
+There are some good points to be made here,
+
+71
+00:02:47,000 --> 00:02:50,000
+things that we ought to be thinking about, forward planning
+
+72
+00:02:50,000 --> 00:02:52,000
+so that nothing goes too -- well, so that we minimize
+
+73
+00:02:52,000 --> 00:02:55,000
+the turbulence when we actually figure out how to fix aging.
+
+74
+00:02:55,000 --> 00:02:58,000
+But these are completely crazy, when you actually
+
+75
+00:02:58,000 --> 00:03:00,000
+remember your sense of proportion.
+
+76
+00:03:00,000 --> 00:03:04,000
+You know, these are arguments; these are things that
+
+77
+00:03:04,000 --> 00:03:06,000
+would be legitimate to be concerned about.
+
+78
+00:03:06,000 --> 00:03:09,000
+But the question is, are they so dangerous --
+
+79
+00:03:09,000 --> 00:03:11,000
+these risks of doing something about aging --
+
+80
+00:03:11,000 --> 00:03:15,000
+that they outweigh the downside of doing the opposite,
+
+81
+00:03:15,000 --> 00:03:17,000
+namely, leaving aging as it is?
+
+82
+00:03:17,000 --> 00:03:19,000
+Are these so bad that they outweigh
+
+83
+00:03:19,000 --> 00:03:25,000
+condemning 100,000 people a day to an unnecessarily early death?
+
+84
+00:03:25,000 --> 00:03:27,000
+You know, if you haven't got an argument that's that strong,
+
+85
+00:03:27,000 --> 00:03:30,000
+then just don't waste my time, is what I say.
+
+86
+00:03:30,000 --> 00:03:31,000
+(Laughter)
+
+87
+00:03:31,000 --> 00:03:32,000
+Now, there is one argument
+
+88
+00:03:32,000 --> 00:03:34,000
+that some people do think really is that strong, and here it is.
+
+89
+00:03:34,000 --> 00:03:36,000
+People worry about overpopulation; they say,
+
+90
+00:03:36,000 --> 00:03:38,000
+"Well, if we fix aging, no one's going to die to speak of,
+
+91
+00:03:38,000 --> 00:03:41,000
+or at least the death toll is going to be much lower,
+
+92
+00:03:41,000 --> 00:03:43,000
+only from crossing St. Giles carelessly.
+
+93
+00:03:43,000 --> 00:03:45,000
+And therefore, we're not going to be able to have many kids,
+
+94
+00:03:45,000 --> 00:03:47,000
+and kids are really important to most people."
+
+95
+00:03:47,000 --> 00:03:49,000
+And that's true.
+
+96
+00:03:49,000 --> 00:03:52,000
+And you know, a lot of people try to fudge this question,
+
+97
+00:03:52,000 --> 00:03:53,000
+and give answers like this.
+
+98
+00:03:53,000 --> 00:03:56,000
+I don't agree with those answers. I think they basically don't work.
+
+99
+00:03:56,000 --> 00:03:59,000
+I think it's true, that we will face a dilemma in this respect.
+
+100
+00:03:59,000 --> 00:04:03,000
+We will have to decide whether to have a low birth rate,
+
+101
+00:04:03,000 --> 00:04:05,000
+or a high death rate.
+
+102
+00:04:05,000 --> 00:04:08,000
+A high death rate will, of course, arise from simply rejecting these therapies,
+
+103
+00:04:08,000 --> 00:04:12,000
+in favor of carrying on having a lot of kids.
+
+104
+00:04:12,000 --> 00:04:14,000
+And, I say that that's fine --
+
+105
+00:04:14,000 --> 00:04:17,000
+the future of humanity is entitled to make that choice.
+
+106
+00:04:17,000 --> 00:04:21,000
+What's not fine is for us to make that choice on behalf of the future.
+
+107
+00:04:21,000 --> 00:04:23,000
+If we vacillate, hesitate,
+
+108
+00:04:23,000 --> 00:04:26,000
+and do not actually develop these therapies,
+
+109
+00:04:26,000 --> 00:04:30,000
+then we are condemning a whole cohort of people --
+
+110
+00:04:30,000 --> 00:04:32,000
+who would have been young enough and healthy enough
+
+111
+00:04:32,000 --> 00:04:34,000
+to benefit from those therapies, but will not be,
+
+112
+00:04:34,000 --> 00:04:36,000
+because we haven't developed them as quickly as we could --
+
+113
+00:04:36,000 --> 00:04:38,000
+we'll be denying those people an indefinite life span,
+
+114
+00:04:38,000 --> 00:04:40,000
+and I consider that that is immoral.
+
+115
+00:04:40,000 --> 00:04:43,000
+That's my answer to the overpopulation question.
+
+116
+00:04:43,000 --> 00:04:45,000
+Right. So the next thing is,
+
+117
+00:04:45,000 --> 00:04:47,000
+now why should we get a little bit more active on this?
+
+118
+00:04:47,000 --> 00:04:49,000
+And the fundamental answer is that
+
+119
+00:04:49,000 --> 00:04:52,000
+the pro-aging trance is not as dumb as it looks.
+
+120
+00:04:52,000 --> 00:04:56,000
+It's actually a sensible way of coping with the inevitability of aging.
+
+121
+00:04:56,000 --> 00:05:00,000
+Aging is ghastly, but it's inevitable, so, you know,
+
+122
+00:05:00,000 --> 00:05:02,000
+we've got to find some way to put it out of our minds,
+
+123
+00:05:02,000 --> 00:05:06,000
+and it's rational to do anything that we might want to do, to do that.
+
+124
+00:05:06,000 --> 00:05:09,000
+Like, for example, making up these ridiculous reasons
+
+125
+00:05:09,000 --> 00:05:11,000
+why aging is actually a good thing after all.
+
+126
+00:05:11,000 --> 00:05:15,000
+But of course, that only works when we have both of these components.
+
+127
+00:05:15,000 --> 00:05:18,000
+And as soon as the inevitability bit becomes a little bit unclear --
+
+128
+00:05:18,000 --> 00:05:20,000
+and we might be in range of doing something about aging --
+
+129
+00:05:20,000 --> 00:05:22,000
+this becomes part of the problem.
+
+130
+00:05:22,000 --> 00:05:26,000
+This pro-aging trance is what stops us from agitating about these things.
+
+131
+00:05:26,000 --> 00:05:30,000
+And that's why we have to really talk about this a lot --
+
+132
+00:05:30,000 --> 00:05:32,000
+evangelize, I will go so far as to say, quite a lot --
+
+133
+00:05:32,000 --> 00:05:35,000
+in order to get people's attention, and make people realize
+
+134
+00:05:35,000 --> 00:05:37,000
+that they are in a trance in this regard.
+
+135
+00:05:37,000 --> 00:05:39,000
+So that's all I'm going to say about that.
+
+136
+00:05:39,000 --> 00:05:42,000
+I'm now going to talk about feasibility.
+
+137
+00:05:42,000 --> 00:05:46,000
+And the fundamental reason, I think, why we feel that aging is inevitable
+
+138
+00:05:46,000 --> 00:05:49,000
+is summed up in a definition of aging that I'm giving here.
+
+139
+00:05:49,000 --> 00:05:50,000
+A very simple definition.
+
+140
+00:05:50,000 --> 00:05:53,000
+Aging is a side effect of being alive in the first place,
+
+141
+00:05:53,000 --> 00:05:55,000
+which is to say, metabolism.
+
+142
+00:05:55,000 --> 00:05:58,000
+This is not a completely tautological statement;
+
+143
+00:05:58,000 --> 00:05:59,000
+it's a reasonable statement.
+
+144
+00:05:59,000 --> 00:06:03,000
+Aging is basically a process that happens to inanimate objects like cars,
+
+145
+00:06:03,000 --> 00:06:05,000
+and it also happens to us,
+
+146
+00:06:05,000 --> 00:06:08,000
+despite the fact that we have a lot of clever self-repair mechanisms,
+
+147
+00:06:08,000 --> 00:06:10,000
+because those self-repair mechanisms are not perfect.
+
+148
+00:06:10,000 --> 00:06:12,000
+So basically, metabolism, which is defined as
+
+149
+00:06:12,000 --> 00:06:15,000
+basically everything that keeps us alive from one day to the next,
+
+150
+00:06:15,000 --> 00:06:17,000
+has side effects.
+
+151
+00:06:17,000 --> 00:06:19,000
+Those side effects accumulate and eventually cause pathology.
+
+152
+00:06:19,000 --> 00:06:21,000
+That's a fine definition. So we can put it this way:
+
+153
+00:06:21,000 --> 00:06:23,000
+we can say that, you know, we have this chain of events.
+
+154
+00:06:23,000 --> 00:06:25,000
+And there are really two games in town,
+
+155
+00:06:25,000 --> 00:06:28,000
+according to most people, with regard to postponing aging.
+
+156
+00:06:28,000 --> 00:06:32,000
+They're what I'm calling here the "gerontology approach" and the "geriatrics approach."
+
+157
+00:06:32,000 --> 00:06:34,000
+The geriatrician will intervene late in the day,
+
+158
+00:06:34,000 --> 00:06:36,000
+when pathology is becoming evident,
+
+159
+00:06:36,000 --> 00:06:39,000
+and the geriatrician will try and hold back the sands of time,
+
+160
+00:06:39,000 --> 00:06:42,000
+and stop the accumulation of side effects
+
+161
+00:06:42,000 --> 00:06:44,000
+from causing the pathology quite so soon.
+
+162
+00:06:44,000 --> 00:06:47,000
+Of course, it's a very short-term-ist strategy; it's a losing battle,
+
+163
+00:06:47,000 --> 00:06:50,000
+because the things that are causing the pathology
+
+164
+00:06:50,000 --> 00:06:52,000
+are becoming more abundant as time goes on.
+
+165
+00:06:52,000 --> 00:06:56,000
+The gerontology approach looks much more promising on the surface,
+
+166
+00:06:56,000 --> 00:06:59,000
+because, you know, prevention is better than cure.
+
+167
+00:06:59,000 --> 00:07:02,000
+But unfortunately the thing is that we don't understand metabolism very well.
+
+168
+00:07:02,000 --> 00:07:05,000
+In fact, we have a pitifully poor understanding of how organisms work --
+
+169
+00:07:05,000 --> 00:07:07,000
+even cells we're not really too good on yet.
+
+170
+00:07:07,000 --> 00:07:09,000
+We've discovered things like, for example,
+
+171
+00:07:09,000 --> 00:07:12,000
+RNA interference only a few years ago,
+
+172
+00:07:12,000 --> 00:07:14,000
+and this is a really fundamental component of how cells work.
+
+173
+00:07:14,000 --> 00:07:17,000
+Basically, gerontology is a fine approach in the end,
+
+174
+00:07:17,000 --> 00:07:19,000
+but it is not an approach whose time has come
+
+175
+00:07:19,000 --> 00:07:21,000
+when we're talking about intervention.
+
+176
+00:07:21,000 --> 00:07:24,000
+So then, what do we do about that?
+
+177
+00:07:24,000 --> 00:07:26,000
+I mean, that's a fine logic, that sounds pretty convincing,
+
+178
+00:07:26,000 --> 00:07:28,000
+pretty ironclad, doesn't it?
+
+179
+00:07:28,000 --> 00:07:30,000
+But it isn't.
+
+180
+00:07:30,000 --> 00:07:33,000
+Before I tell you why it isn't, I'm going to go a little bit
+
+181
+00:07:33,000 --> 00:07:35,000
+into what I'm calling step two.
+
+182
+00:07:35,000 --> 00:07:39,000
+Just suppose, as I said, that we do acquire --
+
+183
+00:07:39,000 --> 00:07:41,000
+let's say we do it today for the sake of argument --
+
+184
+00:07:41,000 --> 00:07:45,000
+the ability to confer 30 extra years of healthy life
+
+185
+00:07:45,000 --> 00:07:48,000
+on people who are already in middle age, let's say 55.
+
+186
+00:07:48,000 --> 00:07:51,000
+I'm going to call that "robust human rejuvenation." OK.
+
+187
+00:07:51,000 --> 00:07:52,000
+What would that actually mean
+
+188
+00:07:52,000 --> 00:07:55,000
+for how long people of various ages today --
+
+189
+00:07:55,000 --> 00:07:58,000
+or equivalently, of various ages at the time that these therapies arrive --
+
+190
+00:07:59,000 --> 00:08:00,000
+would actually live?
+
+191
+00:08:01,000 --> 00:08:03,000
+In order to answer that question -- you might think it's simple,
+
+192
+00:08:03,000 --> 00:08:04,000
+but it's not simple.
+
+193
+00:08:04,000 --> 00:08:07,000
+We can't just say, "Well, if they're young enough to benefit from these therapies,
+
+194
+00:08:07,000 --> 00:08:08,000
+then they'll live 30 years longer."
+
+195
+00:08:08,000 --> 00:08:10,000
+That's the wrong answer.
+
+196
+00:08:10,000 --> 00:08:12,000
+And the reason it's the wrong answer is because of progress.
+
+197
+00:08:12,000 --> 00:08:14,000
+There are two sorts of technological progress really,
+
+198
+00:08:14,000 --> 00:08:15,000
+for this purpose.
+
+199
+00:08:15,000 --> 00:08:18,000
+There are fundamental, major breakthroughs,
+
+200
+00:08:18,000 --> 00:08:22,000
+and there are incremental refinements of those breakthroughs.
+
+201
+00:08:22,000 --> 00:08:24,000
+Now, they differ a great deal
+
+202
+00:08:24,000 --> 00:08:27,000
+in terms of the predictability of time frames.
+
+203
+00:08:27,000 --> 00:08:28,000
+Fundamental breakthroughs:
+
+204
+00:08:28,000 --> 00:08:30,000
+very hard to predict how long it's going to take
+
+205
+00:08:30,000 --> 00:08:31,000
+to make a fundamental breakthrough.
+
+206
+00:08:31,000 --> 00:08:34,000
+It was a very long time ago that we decided that flying would be fun,
+
+207
+00:08:34,000 --> 00:08:37,000
+and it took us until 1903 to actually work out how to do it.
+
+208
+00:08:37,000 --> 00:08:41,000
+But after that, things were pretty steady and pretty uniform.
+
+209
+00:08:41,000 --> 00:08:44,000
+I think this is a reasonable sequence of events that happened
+
+210
+00:08:44,000 --> 00:08:48,000
+in the progression of the technology of powered flight.
+
+211
+00:08:48,000 --> 00:08:52,000
+We can think, really, that each one is sort of
+
+212
+00:08:52,000 --> 00:08:55,000
+beyond the imagination of the inventor of the previous one, if you like.
+
+213
+00:08:55,000 --> 00:08:59,000
+The incremental advances have added up to something
+
+214
+00:08:59,000 --> 00:09:01,000
+which is not incremental anymore.
+
+215
+00:09:01,000 --> 00:09:04,000
+This is the sort of thing you see after a fundamental breakthrough.
+
+216
+00:09:04,000 --> 00:09:06,000
+And you see it in all sorts of technologies.
+
+217
+00:09:06,000 --> 00:09:09,000
+Computers: you can look at a more or less parallel time line,
+
+218
+00:09:09,000 --> 00:09:10,000
+happening of course a bit later.
+
+219
+00:09:10,000 --> 00:09:13,000
+You can look at medical care. I mean, hygiene, vaccines, antibiotics --
+
+220
+00:09:13,000 --> 00:09:15,000
+you know, the same sort of time frame.
+
+221
+00:09:15,000 --> 00:09:19,000
+So I think that actually step two, that I called a step a moment ago,
+
+222
+00:09:19,000 --> 00:09:20,000
+isn't a step at all.
+
+223
+00:09:20,000 --> 00:09:23,000
+That in fact, the people who are young enough
+
+224
+00:09:23,000 --> 00:09:25,000
+to benefit from these first therapies
+
+225
+00:09:25,000 --> 00:09:27,000
+that give this moderate amount of life extension,
+
+226
+00:09:27,000 --> 00:09:31,000
+even though those people are already middle-aged when the therapies arrive,
+
+227
+00:09:31,000 --> 00:09:33,000
+will be at some sort of cusp.
+
+228
+00:09:33,000 --> 00:09:37,000
+They will mostly survive long enough to receive improved treatments
+
+229
+00:09:37,000 --> 00:09:39,000
+that will give them a further 30 or maybe 50 years.
+
+230
+00:09:39,000 --> 00:09:42,000
+In other words, they will be staying ahead of the game.
+
+231
+00:09:42,000 --> 00:09:45,000
+The therapies will be improving faster than
+
+232
+00:09:45,000 --> 00:09:49,000
+the remaining imperfections in the therapies are catching up with us.
+
+233
+00:09:49,000 --> 00:09:51,000
+This is a very important point for me to get across.
+
+234
+00:09:51,000 --> 00:09:53,000
+Because, you know, most people, when they hear
+
+235
+00:09:53,000 --> 00:09:58,000
+that I predict that a lot of people alive today are going to live to 1,000 or more,
+
+236
+00:09:58,000 --> 00:10:02,000
+they think that I'm saying that we're going to invent therapies in the next few decades
+
+237
+00:10:02,000 --> 00:10:05,000
+that are so thoroughly eliminating aging
+
+238
+00:10:05,000 --> 00:10:08,000
+that those therapies will let us live to 1,000 or more.
+
+239
+00:10:08,000 --> 00:10:10,000
+I'm not saying that at all.
+
+240
+00:10:10,000 --> 00:10:12,000
+I'm saying that the rate of improvement of those therapies
+
+241
+00:10:12,000 --> 00:10:13,000
+will be enough.
+
+242
+00:10:13,000 --> 00:10:16,000
+They'll never be perfect, but we'll be able to fix the things
+
+243
+00:10:16,000 --> 00:10:19,000
+that 200-year-olds die of, before we have any 200-year-olds.
+
+244
+00:10:19,000 --> 00:10:21,000
+And the same for 300 and 400 and so on.
+
+245
+00:10:21,000 --> 00:10:24,000
+I decided to give this a little name,
+
+246
+00:10:24,000 --> 00:10:25,000
+which is "longevity escape velocity."
+
+247
+00:10:26,000 --> 00:10:28,000
+(Laughter)
+
+248
+00:10:28,000 --> 00:10:31,000
+Well, it seems to get the point across.
+
+249
+00:10:31,000 --> 00:10:36,000
+So, these trajectories here are basically how we would expect people to live,
+
+250
+00:10:36,000 --> 00:10:38,000
+in terms of remaining life expectancy,
+
+251
+00:10:38,000 --> 00:10:40,000
+as measured by their health,
+
+252
+00:10:40,000 --> 00:10:43,000
+for given ages that they were at the time that these therapies arrive.
+
+253
+00:10:43,000 --> 00:10:45,000
+If you're already 100, or even if you're 80 --
+
+254
+00:10:45,000 --> 00:10:47,000
+and an average 80-year-old,
+
+255
+00:10:47,000 --> 00:10:49,000
+we probably can't do a lot for you with these therapies,
+
+256
+00:10:49,000 --> 00:10:51,000
+because you're too close to death's door
+
+257
+00:10:51,000 --> 00:10:55,000
+for the really initial, experimental therapies to be good enough for you.
+
+258
+00:10:55,000 --> 00:10:56,000
+You won't be able to withstand them.
+
+259
+00:10:56,000 --> 00:10:58,000
+But if you're only 50, then there's a chance
+
+260
+00:10:58,000 --> 00:11:01,000
+that you might be able to pull out of the dive and, you know --
+
+261
+00:11:01,000 --> 00:11:02,000
+(Laughter) --
+
+262
+00:11:02,000 --> 00:11:05,000
+eventually get through this
+
+263
+00:11:05,000 --> 00:11:08,000
+and start becoming biologically younger in a meaningful sense,
+
+264
+00:11:08,000 --> 00:11:10,000
+in terms of your youthfulness, both physical and mental,
+
+265
+00:11:10,000 --> 00:11:12,000
+and in terms of your risk of death from age-related causes.
+
+266
+00:11:12,000 --> 00:11:14,000
+And of course, if you're a bit younger than that,
+
+267
+00:11:14,000 --> 00:11:16,000
+then you're never really even going
+
+268
+00:11:16,000 --> 00:11:19,000
+to get near to being fragile enough to die of age-related causes.
+
+269
+00:11:19,000 --> 00:11:24,000
+So this is a genuine conclusion that I come to, that the first 150-year-old --
+
+270
+00:11:24,000 --> 00:11:26,000
+we don't know how old that person is today,
+
+271
+00:11:26,000 --> 00:11:28,000
+because we don't know how long it's going to take
+
+272
+00:11:28,000 --> 00:11:30,000
+to get these first-generation therapies.
+
+273
+00:11:30,000 --> 00:11:32,000
+But irrespective of that age,
+
+274
+00:11:32,000 --> 00:11:36,000
+I'm claiming that the first person to live to 1,000 --
+
+275
+00:11:36,000 --> 00:11:39,000
+subject of course, to, you know, global catastrophes --
+
+276
+00:11:39,000 --> 00:11:43,000
+is actually, probably, only about 10 years younger than the first 150-year-old.
+
+277
+00:11:43,000 --> 00:11:45,000
+And that's quite a thought.
+
+278
+00:11:45,000 --> 00:11:48,000
+Alright, so finally I'm going to spend the rest of the talk,
+
+279
+00:11:48,000 --> 00:11:51,000
+my last seven-and-a-half minutes, on step one;
+
+280
+00:11:51,000 --> 00:11:56,000
+namely, how do we actually get to this moderate amount of life extension
+
+281
+00:11:56,000 --> 00:11:59,000
+that will allow us to get to escape velocity?
+
+282
+00:11:59,000 --> 00:12:03,000
+And in order to do that, I need to talk about mice a little bit.
+
+283
+00:12:03,000 --> 00:12:06,000
+I have a corresponding milestone to robust human rejuvenation.
+
+284
+00:12:06,000 --> 00:12:09,000
+I'm calling it "robust mouse rejuvenation," not very imaginatively.
+
+285
+00:12:09,000 --> 00:12:11,000
+And this is what it is.
+
+286
+00:12:11,000 --> 00:12:13,000
+I say we're going to take a long-lived strain of mouse,
+
+287
+00:12:13,000 --> 00:12:16,000
+which basically means mice that live about three years on average.
+
+288
+00:12:16,000 --> 00:12:19,000
+We do exactly nothing to them until they're already two years old.
+
+289
+00:12:19,000 --> 00:12:21,000
+And then we do a whole bunch of stuff to them,
+
+290
+00:12:21,000 --> 00:12:23,000
+and with those therapies, we get them to live,
+
+291
+00:12:23,000 --> 00:12:25,000
+on average, to their fifth birthday.
+
+292
+00:12:25,000 --> 00:12:27,000
+So, in other words, we add two years --
+
+293
+00:12:27,000 --> 00:12:29,000
+we treble their remaining lifespan,
+
+294
+00:12:29,000 --> 00:12:31,000
+starting from the point that we started the therapies.
+
+295
+00:12:31,000 --> 00:12:34,000
+The question then is, what would that actually mean for the time frame
+
+296
+00:12:34,000 --> 00:12:37,000
+until we get to the milestone I talked about earlier for humans?
+
+297
+00:12:37,000 --> 00:12:39,000
+Which we can now, as I've explained,
+
+298
+00:12:39,000 --> 00:12:43,000
+equivalently call either robust human rejuvenation or longevity escape velocity.
+
+299
+00:12:43,000 --> 00:12:46,000
+Secondly, what does it mean for the public's perception
+
+300
+00:12:46,000 --> 00:12:48,000
+of how long it's going to take for us to get to those things,
+
+301
+00:12:48,000 --> 00:12:50,000
+starting from the time we get the mice?
+
+302
+00:12:50,000 --> 00:12:52,000
+And thirdly, the question is, what will it do
+
+303
+00:12:52,000 --> 00:12:53,000
+to actually how much people want it?
+
+304
+00:12:54,000 --> 00:12:56,000
+And it seems to me that the first question
+
+305
+00:12:56,000 --> 00:12:57,000
+is entirely a biology question,
+
+306
+00:12:57,000 --> 00:12:59,000
+and it's extremely hard to answer.
+
+307
+00:12:59,000 --> 00:13:01,000
+One has to be very speculative,
+
+308
+00:13:01,000 --> 00:13:04,000
+and many of my colleagues would say that we should not do this speculation,
+
+309
+00:13:04,000 --> 00:13:08,000
+that we should simply keep our counsel until we know more.
+
+310
+00:13:08,000 --> 00:13:09,000
+I say that's nonsense.
+
+311
+00:13:09,000 --> 00:13:12,000
+I say we absolutely are irresponsible if we stay silent on this.
+
+312
+00:13:12,000 --> 00:13:15,000
+We need to give our best guess as to the time frame,
+
+313
+00:13:15,000 --> 00:13:18,000
+in order to give people a sense of proportion
+
+314
+00:13:18,000 --> 00:13:20,000
+so that they can assess their priorities.
+
+315
+00:13:20,000 --> 00:13:23,000
+So, I say that we have a 50/50 chance
+
+316
+00:13:23,000 --> 00:13:25,000
+of reaching this RHR milestone,
+
+317
+00:13:25,000 --> 00:13:28,000
+robust human rejuvenation, within 15 years from the point
+
+318
+00:13:28,000 --> 00:13:30,000
+that we get to robust mouse rejuvenation.
+
+319
+00:13:30,000 --> 00:13:33,000
+15 years from the robust mouse.
+
+320
+00:13:33,000 --> 00:13:36,000
+The public's perception will probably be somewhat better than that.
+
+321
+00:13:36,000 --> 00:13:38,000
+The public tends to underestimate how difficult scientific things are.
+
+322
+00:13:38,000 --> 00:13:40,000
+So they'll probably think it's five years away.
+
+323
+00:13:40,000 --> 00:13:42,000
+They'll be wrong, but that actually won't matter too much.
+
+324
+00:13:42,000 --> 00:13:45,000
+And finally, of course, I think it's fair to say
+
+325
+00:13:45,000 --> 00:13:49,000
+that a large part of the reason why the public is so ambivalent about aging now
+
+326
+00:13:49,000 --> 00:13:51,000
+is the global trance I spoke about earlier, the coping strategy.
+
+327
+00:13:51,000 --> 00:13:53,000
+That will be history at this point,
+
+328
+00:13:53,000 --> 00:13:56,000
+because it will no longer be possible to believe that aging is inevitable in humans,
+
+329
+00:13:56,000 --> 00:13:59,000
+since it's been postponed so very effectively in mice.
+
+330
+00:13:59,000 --> 00:14:03,000
+So we're likely to end up with a very strong change in people's attitudes,
+
+331
+00:14:03,000 --> 00:14:05,000
+and of course that has enormous implications.
+
+332
+00:14:06,000 --> 00:14:08,000
+So in order to tell you now how we're going to get these mice,
+
+333
+00:14:09,000 --> 00:14:11,000
+I'm going to add a little bit to my description of aging.
+
+334
+00:14:11,000 --> 00:14:13,000
+I'm going to use this word "damage"
+
+335
+00:14:13,000 --> 00:14:17,000
+to denote these intermediate things that are caused by metabolism
+
+336
+00:14:17,000 --> 00:14:19,000
+and that eventually cause pathology.
+
+337
+00:14:19,000 --> 00:14:21,000
+Because the critical thing about this
+
+338
+00:14:21,000 --> 00:14:23,000
+is that even though the damage only eventually causes pathology,
+
+339
+00:14:23,000 --> 00:14:28,000
+the damage itself is caused ongoing-ly throughout life, starting before we're born.
+
+340
+00:14:28,000 --> 00:14:31,000
+But it is not part of metabolism itself.
+
+341
+00:14:31,000 --> 00:14:32,000
+And this turns out to be useful.
+
+342
+00:14:32,000 --> 00:14:35,000
+Because we can re-draw our original diagram this way.
+
+343
+00:14:35,000 --> 00:14:38,000
+We can say that, fundamentally, the difference between gerontology and geriatrics
+
+344
+00:14:38,000 --> 00:14:40,000
+is that gerontology tries to inhibit the rate
+
+345
+00:14:40,000 --> 00:14:42,000
+at which metabolism lays down this damage.
+
+346
+00:14:42,000 --> 00:14:44,000
+And I'm going to explain exactly what damage is
+
+347
+00:14:44,000 --> 00:14:46,000
+in concrete biological terms in a moment.
+
+348
+00:14:47,000 --> 00:14:49,000
+And geriatricians try to hold back the sands of time
+
+349
+00:14:49,000 --> 00:14:51,000
+by stopping the damage converting into pathology.
+
+350
+00:14:51,000 --> 00:14:53,000
+And the reason it's a losing battle
+
+351
+00:14:53,000 --> 00:14:55,000
+is because the damage is continuing to accumulate.
+
+352
+00:14:55,000 --> 00:14:58,000
+So there's a third approach, if we look at it this way.
+
+353
+00:14:58,000 --> 00:15:00,000
+We can call it the "engineering approach,"
+
+354
+00:15:00,000 --> 00:15:03,000
+and I claim that the engineering approach is within range.
+
+355
+00:15:03,000 --> 00:15:06,000
+The engineering approach does not intervene in any processes.
+
+356
+00:15:06,000 --> 00:15:08,000
+It does not intervene in this process or this one.
+
+357
+00:15:08,000 --> 00:15:11,000
+And that's good because it means that it's not a losing battle,
+
+358
+00:15:11,000 --> 00:15:14,000
+and it's something that we are within range of being able to do,
+
+359
+00:15:14,000 --> 00:15:17,000
+because it doesn't involve improving on evolution.
+
+360
+00:15:17,000 --> 00:15:19,000
+The engineering approach simply says,
+
+361
+00:15:19,000 --> 00:15:23,000
+"Let's go and periodically repair all of these various types of damage --
+
+362
+00:15:23,000 --> 00:15:27,000
+not necessarily repair them completely, but repair them quite a lot,
+
+363
+00:15:27,000 --> 00:15:30,000
+so that we keep the level of damage down below the threshold
+
+364
+00:15:30,000 --> 00:15:33,000
+that must exist, that causes it to be pathogenic."
+
+365
+00:15:33,000 --> 00:15:35,000
+We know that this threshold exists,
+
+366
+00:15:35,000 --> 00:15:38,000
+because we don't get age-related diseases until we're in middle age,
+
+367
+00:15:38,000 --> 00:15:41,000
+even though the damage has been accumulating since before we were born.
+
+368
+00:15:41,000 --> 00:15:45,000
+Why do I say that we're in range? Well, this is basically it.
+
+369
+00:15:45,000 --> 00:15:48,000
+The point about this slide is actually the bottom.
+
+370
+00:15:48,000 --> 00:15:51,000
+If we try to say which bits of metabolism are important for aging,
+
+371
+00:15:51,000 --> 00:15:54,000
+we will be here all night, because basically all of metabolism
+
+372
+00:15:54,000 --> 00:15:56,000
+is important for aging in one way or another.
+
+373
+00:15:56,000 --> 00:15:58,000
+This list is just for illustration; it is incomplete.
+
+374
+00:15:59,000 --> 00:16:01,000
+The list on the right is also incomplete.
+
+375
+00:16:01,000 --> 00:16:04,000
+It's a list of types of pathology that are age-related,
+
+376
+00:16:04,000 --> 00:16:06,000
+and it's just an incomplete list.
+
+377
+00:16:06,000 --> 00:16:09,000
+But I would like to claim to you that this list in the middle is actually complete --
+
+378
+00:16:09,000 --> 00:16:12,000
+this is the list of types of thing that qualify as damage,
+
+379
+00:16:12,000 --> 00:16:15,000
+side effects of metabolism that cause pathology in the end,
+
+380
+00:16:15,000 --> 00:16:17,000
+or that might cause pathology.
+
+381
+00:16:17,000 --> 00:16:20,000
+And there are only seven of them.
+
+382
+00:16:20,000 --> 00:16:23,000
+They're categories of things, of course, but there's only seven of them.
+
+383
+00:16:23,000 --> 00:16:28,000
+Cell loss, mutations in chromosomes, mutations in the mitochondria and so on.
+
+384
+00:16:28,000 --> 00:16:33,000
+First of all, I'd like to give you an argument for why that list is complete.
+
+385
+00:16:33,000 --> 00:16:35,000
+Of course one can make a biological argument.
+
+386
+00:16:35,000 --> 00:16:37,000
+One can say, "OK, what are we made of?"
+
+387
+00:16:37,000 --> 00:16:39,000
+We're made of cells and stuff between cells.
+
+388
+00:16:39,000 --> 00:16:42,000
+What can damage accumulate in?
+
+389
+00:16:42,000 --> 00:16:44,000
+The answer is: long-lived molecules,
+
+390
+00:16:44,000 --> 00:16:47,000
+because if a short-lived molecule undergoes damage, but then the molecule is destroyed --
+
+391
+00:16:47,000 --> 00:16:51,000
+like by a protein being destroyed by proteolysis -- then the damage is gone, too.
+
+392
+00:16:51,000 --> 00:16:53,000
+It's got to be long-lived molecules.
+
+393
+00:16:53,000 --> 00:16:56,000
+So, these seven things were all under discussion in gerontology a long time ago
+
+394
+00:16:56,000 --> 00:17:00,000
+and that is pretty good news, because it means that,
+
+395
+00:17:00,000 --> 00:17:02,000
+you know, we've come a long way in biology in these 20 years,
+
+396
+00:17:02,000 --> 00:17:04,000
+so the fact that we haven't extended this list
+
+397
+00:17:04,000 --> 00:17:07,000
+is a pretty good indication that there's no extension to be done.
+
+398
+00:17:08,000 --> 00:17:10,000
+However, it's better than that; we actually know how to fix them all,
+
+399
+00:17:10,000 --> 00:17:13,000
+in mice, in principle -- and what I mean by in principle is,
+
+400
+00:17:13,000 --> 00:17:16,000
+we probably can actually implement these fixes within a decade.
+
+401
+00:17:16,000 --> 00:17:20,000
+Some of them are partially implemented already, the ones at the top.
+
+402
+00:17:20,000 --> 00:17:23,000
+I haven't got time to go through them at all, but
+
+403
+00:17:23,000 --> 00:17:27,000
+my conclusion is that, if we can actually get suitable funding for this,
+
+404
+00:17:27,000 --> 00:17:31,000
+then we can probably develop robust mouse rejuvenation in only 10 years,
+
+405
+00:17:31,000 --> 00:17:34,000
+but we do need to get serious about it.
+
+406
+00:17:34,000 --> 00:17:35,000
+We do need to really start trying.
+
+407
+00:17:36,000 --> 00:17:39,000
+So of course, there are some biologists in the audience,
+
+408
+00:17:39,000 --> 00:17:42,000
+and I want to give some answers to some of the questions that you may have.
+
+409
+00:17:42,000 --> 00:17:44,000
+You may have been dissatisfied with this talk,
+
+410
+00:17:44,000 --> 00:17:46,000
+but fundamentally you have to go and read this stuff.
+
+411
+00:17:46,000 --> 00:17:48,000
+I've published a great deal on this;
+
+412
+00:17:48,000 --> 00:17:51,000
+I cite the experimental work on which my optimism is based,
+
+413
+00:17:51,000 --> 00:17:53,000
+and there's quite a lot of detail there.
+
+414
+00:17:53,000 --> 00:17:55,000
+The detail is what makes me confident
+
+415
+00:17:55,000 --> 00:17:57,000
+of my rather aggressive time frames that I'm predicting here.
+
+416
+00:17:57,000 --> 00:17:59,000
+So if you think that I'm wrong,
+
+417
+00:17:59,000 --> 00:18:02,000
+you'd better damn well go and find out why you think I'm wrong.
+
+418
+00:18:03,000 --> 00:18:06,000
+And of course the main thing is that you shouldn't trust people
+
+419
+00:18:06,000 --> 00:18:08,000
+who call themselves gerontologists because,
+
+420
+00:18:08,000 --> 00:18:12,000
+as with any radical departure from previous thinking within a particular field,
+
+421
+00:18:12,000 --> 00:18:16,000
+you know, you expect people in the mainstream to be a bit resistant
+
+422
+00:18:16,000 --> 00:18:18,000
+and not really to take it seriously.
+
+423
+00:18:18,000 --> 00:18:20,000
+So, you know, you've got to actually do your homework,
+
+424
+00:18:20,000 --> 00:18:21,000
+in order to understand whether this is true.
+
+425
+00:18:21,000 --> 00:18:23,000
+And we'll just end with a few things.
+
+426
+00:18:23,000 --> 00:18:26,000
+One thing is, you know, you'll be hearing from a guy in the next session
+
+427
+00:18:26,000 --> 00:18:30,000
+who said some time ago that he could sequence the human genome in half no time,
+
+428
+00:18:30,000 --> 00:18:32,000
+and everyone said, "Well, it's obviously impossible."
+
+429
+00:18:32,000 --> 00:18:33,000
+And you know what happened.
+
+430
+00:18:33,000 --> 00:18:37,000
+So, you know, this does happen.
+
+431
+00:18:37,000 --> 00:18:39,000
+We have various strategies -- there's the Methuselah Mouse Prize,
+
+432
+00:18:39,000 --> 00:18:42,000
+which is basically an incentive to innovate,
+
+433
+00:18:42,000 --> 00:18:45,000
+and to do what you think is going to work,
+
+434
+00:18:45,000 --> 00:18:47,000
+and you get money for it if you win.
+
+435
+00:18:48,000 --> 00:18:51,000
+There's a proposal to actually put together an institute.
+
+436
+00:18:51,000 --> 00:18:53,000
+This is what's going to take a bit of money.
+
+437
+00:18:53,000 --> 00:18:56,000
+But, I mean, look -- how long does it take to spend that on the war in Iraq?
+
+438
+00:18:56,000 --> 00:18:57,000
+Not very long. OK.
+
+439
+00:18:57,000 --> 00:18:58,000
+(Laughter)
+
+440
+00:18:58,000 --> 00:19:01,000
+It's got to be philanthropic, because profits distract biotech,
+
+441
+00:19:01,000 --> 00:19:05,000
+but it's basically got a 90 percent  chance, I think, of succeeding in this.
+
+442
+00:19:05,000 --> 00:19:08,000
+And I think we know how to do it. And I'll stop there.
+
+443
+00:19:08,000 --> 00:19:09,000
+Thank you.
+
+444
+00:19:09,000 --> 00:19:14,000
+(Applause)
+
+445
+00:19:14,000 --> 00:19:17,000
+Chris Anderson: OK. I don't know if there's going to be any questions
+
+446
+00:19:17,000 --> 00:19:19,000
+but I thought I would give people the chance.
+
+447
+00:19:19,000 --> 00:19:23,000
+Audience: Since you've been talking about aging and trying to defeat it,
+
+448
+00:19:23,000 --> 00:19:27,000
+why is it that you make yourself appear like an old man?
+
+449
+00:19:27,000 --> 00:19:31,000
+(Laughter)
+
+450
+00:19:31,000 --> 00:19:34,000
+AG: Because I am an old man. I am actually 158.
+
+451
+00:19:34,000 --> 00:19:35,000
+(Laughter)
+
+452
+00:19:35,000 --> 00:19:38,000
+(Applause)
+
+453
+00:19:38,000 --> 00:19:42,000
+Audience: Species on this planet have evolved with immune systems
+
+454
+00:19:42,000 --> 00:19:46,000
+to fight off all the diseases so that individuals live long enough to procreate.
+
+455
+00:19:46,000 --> 00:19:51,000
+However, as far as I know, all the species have evolved to actually die,
+
+456
+00:19:51,000 --> 00:19:56,000
+so when cells divide, the telomerase get shorter, and eventually species die.
+
+457
+00:19:56,000 --> 00:20:01,000
+So, why does -- evolution has -- seems to have selected against immortality,
+
+458
+00:20:01,000 --> 00:20:05,000
+when it is so advantageous, or is evolution just incomplete?
+
+459
+00:20:05,000 --> 00:20:07,000
+AG: Brilliant. Thank you for asking a question
+
+460
+00:20:07,000 --> 00:20:09,000
+that I can answer with an uncontroversial answer.
+
+461
+00:20:09,000 --> 00:20:12,000
+I'm going to tell you the genuine mainstream answer to your question,
+
+462
+00:20:12,000 --> 00:20:14,000
+which I happen to agree with,
+
+463
+00:20:14,000 --> 00:20:17,000
+which is that, no, aging is not a product of selection, evolution;
+
+464
+00:20:17,000 --> 00:20:19,000
+[aging] is simply a product of evolutionary neglect.
+
+465
+00:20:20,000 --> 00:20:25,000
+In other words, we have aging because it's hard work not to have aging;
+
+466
+00:20:25,000 --> 00:20:27,000
+you need more genetic pathways, more sophistication in your genes
+
+467
+00:20:27,000 --> 00:20:29,000
+in order to age more slowly,
+
+468
+00:20:29,000 --> 00:20:32,000
+and that carries on being true the longer you push it out.
+
+469
+00:20:32,000 --> 00:20:37,000
+So, to the extent that evolution doesn't matter,
+
+470
+00:20:37,000 --> 00:20:39,000
+doesn't care whether genes are passed on by individuals,
+
+471
+00:20:39,000 --> 00:20:41,000
+living a long time or by procreation,
+
+472
+00:20:42,000 --> 00:20:44,000
+there's a certain amount of modulation of that,
+
+473
+00:20:44,000 --> 00:20:47,000
+which is why different species have different lifespans,
+
+474
+00:20:47,000 --> 00:20:49,000
+but that's why there are no immortal species.
+
+475
+00:20:50,000 --> 00:20:52,000
+CA: The genes don't care but we do?
+
+476
+00:20:52,000 --> 00:20:53,000
+AG: That's right.
+
+477
+00:20:54,000 --> 00:20:59,000
+Audience: Hello. I read somewhere that in the last 20 years,
+
+478
+00:20:59,000 --> 00:21:04,000
+the average lifespan of basically anyone on the planet has grown by 10 years.
+
+479
+00:21:04,000 --> 00:21:07,000
+If I project that, that would make me think
+
+480
+00:21:07,000 --> 00:21:11,000
+that I would live until 120 if I don't crash on my motorbike.
+
+481
+00:21:12,000 --> 00:21:17,000
+That means that I'm one of your subjects to become a 1,000-year-old?
+
+482
+00:21:17,000 --> 00:21:18,000
+AG: If you lose a bit of weight.
+
+483
+00:21:19,000 --> 00:21:22,000
+(Laughter)
+
+484
+00:21:22,000 --> 00:21:25,000
+Your numbers are a bit out.
+
+485
+00:21:25,000 --> 00:21:28,000
+The standard numbers are that lifespans
+
+486
+00:21:28,000 --> 00:21:31,000
+have been growing at between one and two years per decade.
+
+487
+00:21:31,000 --> 00:21:34,000
+So, it's not quite as good as you might think, you might hope.
+
+488
+00:21:35,000 --> 00:21:37,000
+But I intend to move it up to one year per year as soon as possible.
+
+489
+00:21:38,000 --> 00:21:41,000
+Audience: I was told that many of the brain cells we have as adults
+
+490
+00:21:41,000 --> 00:21:42,000
+are actually in the human embryo,
+
+491
+00:21:43,000 --> 00:21:45,000
+and that the brain cells last 80 years or so.
+
+492
+00:21:45,000 --> 00:21:47,000
+If that is indeed true,
+
+493
+00:21:47,000 --> 00:21:50,000
+biologically are there implications in the world of rejuvenation?
+
+494
+00:21:50,000 --> 00:21:53,000
+If there are cells in my body that live all 80 years,
+
+495
+00:21:53,000 --> 00:21:55,000
+as opposed to a typical, you know, couple of months?
+
+496
+00:21:55,000 --> 00:21:57,000
+AG: There are technical implications certainly.
+
+497
+00:21:57,000 --> 00:22:00,000
+Basically what we need to do is replace cells
+
+498
+00:22:01,000 --> 00:22:04,000
+in those few areas of the brain that lose cells at a respectable rate,
+
+499
+00:22:04,000 --> 00:22:07,000
+especially neurons, but we don't want to replace them
+
+500
+00:22:07,000 --> 00:22:09,000
+any faster than that -- or not much faster anyway,
+
+501
+00:22:09,000 --> 00:22:13,000
+because replacing them too fast would degrade cognitive function.
+
+502
+00:22:13,000 --> 00:22:16,000
+What I said about there being no non-aging species earlier on
+
+503
+00:22:16,000 --> 00:22:18,000
+was a little bit of an oversimplification.
+
+504
+00:22:18,000 --> 00:22:22,000
+There are species that have no aging -- Hydra for example --
+
+505
+00:22:22,000 --> 00:22:24,000
+but they do it by not having a nervous system --
+
+506
+00:22:24,000 --> 00:22:26,000
+and not having any tissues in fact that rely for their function
+
+507
+00:22:26,000 --> 00:22:28,000
+on very long-lived cells.

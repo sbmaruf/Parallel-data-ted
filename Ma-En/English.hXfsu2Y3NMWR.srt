@@ -1,0 +1,47 @@
+1
+00:00:01,000 --> 00:00:04,000
+This is a question about peg solitaire.
+
+2
+00:00:04,000 --> 00:00:08,000
+In peg solitaire, a single player faces
+
+3
+00:00:08,000 --> 00:00:13,000
+the following kind of board.
+
+4
+00:00:13,000 --> 00:00:22,000
+Initially, all pieces are occupied except for the center piece.
+
+5
+00:00:22,000 --> 00:00:26,000
+You can find more information on peg solitare at the following URL.
+
+6
+00:00:26,000 --> 00:00:36,000
+[http://en.wikipedia.org/wiki/peg_solitaire]
+
+7
+00:00:36,000 --> 00:00:40,000
+I wish to know whether this game is partially observable,
+
+8
+00:00:40,000 --> 00:00:43,000
+Please say yes or no.
+
+9
+00:00:43,000 --> 00:00:46,000
+I wish to know whether it is stochastic.
+
+10
+00:00:46,000 --> 00:00:50,000
+Please say yes if it is and no if it's deterministic.
+
+11
+00:00:50,000 --> 00:00:55,000
+Let me know if it's continuous, yes or no,
+
+12
+00:00:55,000 --> 99:59:59,999
+and let me know if it's adversarial, yes or no.

@@ -1,0 +1,351 @@
+1
+00:00:00,690 --> 00:00:04,410
+Tiang utama kepada bot nelayan ini disokong oleh satu
+
+2
+00:00:04,410 --> 00:00:07,720
+tali kukuh yang disambung dari atas tiang hingga ke dek tersebut.
+
+3
+00:00:07,720 --> 00:00:10,990
+Jika tiang itu berukuran dalam 20 kaki dan tali yang disambung kepada
+
+4
+00:00:10,990 --> 00:00:14,390
+dek merupakan 15 kaki daripada dasar tiang itu,
+
+5
+00:00:14,390 --> 00:00:16,110
+berapa panjangkah tali tersebut?
+
+6
+00:00:16,110 --> 00:00:19,260
+Jadi, mari kita lukiskan satu bot dan pastikan kita paham akan
+
+7
+00:00:19,260 --> 00:00:22,150
+apa itu dek dan tiang dan kesemua yang tertera.
+
+8
+00:00:22,150 --> 00:00:25,620
+Jadi, mari saya lukiskan satu bot
+
+9
+00:00:25,620 --> 00:00:27,200
+dengan warna kuning
+
+10
+00:00:27,200 --> 00:00:31,270
+Katakanlah ini ialah bot saya.
+
+11
+00:00:31,270 --> 00:00:33,740
+Dan ini pula dek kepada bot ini.
+
+12
+00:00:33,740 --> 00:00:37,100
+Dan ia mungkin kelihatan seperti ini.
+
+13
+00:00:37,100 --> 00:00:40,480
+Ia ialah bot layar.
+
+14
+00:00:40,480 --> 00:00:42,210
+Ini pula air dibawahnya.
+
+15
+00:00:45,600 --> 00:00:47,875
+Dan tiang ialah benda yang memegang layar itu.
+
+16
+00:00:47,875 --> 00:00:56,630
+Jadi, mari saya lukiskan satu tiang.
+
+17
+00:00:56,630 --> 00:00:59,550
+Dan seperti disebut, tiang itu berukuran 20kaki.
+
+18
+00:00:59,550 --> 00:01:04,769
+jadi, jarak disini ialah 20 kaki.
+
+19
+00:01:04,769 --> 00:01:07,100
+Inilah yang memegang kapal ini.
+
+20
+00:01:07,100 --> 00:01:10,230
+Saya lukis tiang itu lebih jelas.
+
+21
+00:01:10,230 --> 00:01:12,960
+dan lorekkannya.
+
+22
+00:01:12,960 --> 00:01:16,200
+Dan kemudian dinyatakan bahawa tali yang disambung kepada dek itu berukuran 15 kaki
+
+23
+00:01:16,200 --> 00:01:18,670
+daripada dasar tiang tersebut. Jadi, ini merupakan dasar
+
+24
+00:01:18,670 --> 00:01:20,960
+tiang ini. Ini ialah dek.
+
+25
+00:01:20,960 --> 00:01:26,190
+Tali itu bersambung sebanyak 15kaki daripada dasar tiang itu.
+
+26
+00:01:26,190 --> 00:01:29,590
+Jadi, jika ini ialah dasar tiang, kita perolehi 15 kaki,
+
+27
+00:01:29,590 --> 00:01:31,255
+lebih kurang jaraknya disini.
+
+28
+00:01:31,255 --> 00:01:32,505
+Mari saya tandakan.
+
+29
+00:01:32,505 --> 00:01:36,330
+Jaraknya disini ialah 15 kaki
+
+30
+00:01:36,330 --> 00:01:37,620
+dan tali yang disambung disini,
+
+31
+00:01:37,620 --> 00:01:40,340
+dari atas hingga ke dasarnya,
+
+32
+00:01:40,340 --> 00:01:44,290
+jadi, tali itu terletak seperti itu.
+
+33
+00:01:44,290 --> 00:01:48,330
+dan kemudian, kita ditanya berapa panjangkah tali tersebut?
+
+34
+00:01:48,330 --> 00:01:50,470
+Jadi, ada beberapa benda yang mungkin kamu perasan,
+
+35
+00:01:50,470 --> 00:01:52,550
+kita sedang berhadapan dengan satu segi tiga disini.
+
+36
+00:01:52,550 --> 00:01:53,750
+Dan ia bukan sebarang segi tiga.
+
+37
+00:01:53,750 --> 00:01:57,680
+Kita anggapkan yang tiang itu lurus keatas dan,
+
+38
+00:01:57,680 --> 00:01:59,370
+dek itu lurus dari kiri ke kanan.
+
+39
+00:01:59,370 --> 00:02:00,970
+Maka, ini ialah bentuk segi tiga.
+
+40
+00:02:00,970 --> 00:02:03,090
+dan disini pula bersudut 90 darjah.
+
+41
+00:02:05,870 --> 00:02:08,660
+Dan kita tahu yang jika ada 2 sisi tegak kepada segi tiga ini,
+
+42
+00:02:08,660 --> 00:02:11,600
+kita dapat fikirkan sisi ketiga kepada segi tiga bersudut tegak ini
+
+43
+00:02:11,600 --> 00:02:12,850
+dengan menggunakan teorem Pythagoras.
+
+44
+00:02:19,750 --> 00:02:24,220
+Dan semua itu memberitahu kita akan jumlah kuasa dua kepada
+
+45
+00:02:24,220 --> 00:02:27,610
+sisi pendek segi tiga itu akan bersamaan dengan
+
+46
+00:02:27,610 --> 00:02:29,280
+kuasa dua sisi yang panjang.
+
+47
+00:02:29,280 --> 00:02:30,540
+Dan sisi yang panjang ini dipanggil hipotenus.
+
+48
+00:02:36,750 --> 00:02:39,010
+Kesemuanya dalam kes ini, hipotenus merupakan sisi
+
+49
+00:02:39,010 --> 00:02:40,360
+yang bertentangan dengan sudut 90 darjah.
+
+50
+00:02:40,360 --> 00:02:42,720
+Ia akan sentiasa menjadi sisi yang paling panjang
+
+51
+00:02:42,720 --> 00:02:44,760
+kepada segi tiga bersudut tegak.
+
+52
+00:02:44,760 --> 00:02:46,580
+Jadi kita perlu mencari hipotenus disini.
+
+53
+00:02:46,580 --> 00:02:48,920
+Kita tahu panjang kedua-dua sisi pendek.
+
+54
+00:02:48,920 --> 00:02:54,210
+Jadi, kita boleh lihat, apabila kita mengambil 15 kuasa 2, yang merupakan salah satu daripada
+
+55
+00:02:54,210 --> 00:02:56,280
+sisi pendek, saya berikan kuasa dua kepadanya.
+
+56
+00:02:56,280 --> 00:02:59,050
+Dan kemudian tambahkan ia kepada kuasa dua sisi pendek yang lagi satu.
+
+57
+00:02:59,050 --> 00:03:01,125
+kepada 20 kaki kuasa dua.
+
+58
+00:03:01,125 --> 00:03:03,620
+dan apabila saya katakan sisi pendek, saya maksudkan ia relatif dengan
+
+59
+00:03:03,620 --> 00:03:04,260
+hipotenus.
+
+60
+00:03:04,260 --> 00:03:06,700
+hipotenus akan selalu menjadi sisi yang paling panjang.
+
+61
+00:03:09,660 --> 00:03:12,670
+Katakan hipotenus ini dalam warna hijau, jadi kita akan mendapat
+
+62
+00:03:12,670 --> 00:03:13,940
+kod warna yang cantik.
+
+63
+00:03:13,940 --> 00:03:17,260
+Ini akan bersamaan kepada tali yang berkuasa dua.
+
+64
+00:03:17,260 --> 00:03:18,520
+atau lebih tepat, panjang tali ini.
+
+65
+00:03:18,520 --> 00:03:21,070
+Mari kita gelarkan jarak ini sebagai <i>r</i>
+
+66
+00:03:21,070 --> 00:03:22,320
+<i>r</i> untuk tali
+
+67
+00:03:28,520 --> 00:03:30,440
+Jadi, 15 kuasa dua tambah 20 kuasa dua akan
+
+68
+00:03:30,440 --> 00:03:33,080
+bersamaan dengan <i>r</i> kuasa dua.
+
+69
+00:03:33,080 --> 00:03:34,510
+Dan apakah jumlah 15 kuasa dua?
+
+70
+00:03:34,510 --> 00:03:37,260
+Jumlahnya 225.
+
+71
+00:03:37,260 --> 00:03:43,840
+20 kuasa dua ialah 400.
+
+72
+00:03:43,840 --> 00:03:47,460
+Dan itu semua akan bersamaan dengan <i>r</i> kuasa dua.
+
+73
+00:03:47,460 --> 00:03:52,260
+Sekarang, hasil tambah 225 dan 400 ialah 625.
+
+74
+00:03:52,260 --> 00:03:55,430
+625 ialah sama dengan <i>r</i> kuasa dua.
+
+75
+00:03:55,430 --> 00:03:57,443
+Dan, kita boleh ambil punca utama kedua-dua sisi
+
+76
+00:03:57,443 --> 00:03:58,430
+untuk persamaan ini.
+
+77
+00:03:58,430 --> 00:04:00,370
+kerana kita sedang bercakap tentang jarak, kita mahukan
+
+78
+00:04:00,370 --> 00:04:01,800
+punca kuasa dua yang positif.
+
+79
+00:04:01,800 --> 00:04:04,460
+Jadi, kamu ambil punca kuasa dua yang positif, atau punca utama
+
+80
+00:04:04,460 --> 00:04:07,140
+kedua-kedua sisi untuk persamaan ini.
+
+81
+00:04:07,140 --> 00:04:10,050
+Dan kamu akan dapat <i>r</i> yang sama dengan
+
+82
+00:04:10,050 --> 00:04:11,540
+punca kuasa dua 625.
+
+83
+00:04:11,540 --> 00:04:13,960
+Kamu boleh bermain-main dengannya jika kamu suka.
+
+84
+00:04:13,960 --> 00:04:17,500
+Tetapi, jika kamu pernah bermain dengan nombor dalam lingkungan 25, kamu akan lihat
+
+85
+00:04:17,500 --> 00:04:20,740
+yang ini sebernarnya merupakan 25 kuasa dua.
+
+86
+00:04:20,740 --> 00:04:25,520
+Jadi, <i>r</i> ialah sama dengan punca kuasa dua 625 iaitu 25.
+
+87
+00:04:25,520 --> 00:04:28,160
+Maka, jarak disini, panjang tali ini ialah
+
+88
+00:04:28,160 --> 00:04:31,700
+sama dengan 25 kaki.

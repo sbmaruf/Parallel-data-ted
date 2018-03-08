@@ -1,0 +1,551 @@
+1
+00:00:00,000 --> 00:00:00,540
+.
+
+2
+00:00:00,540 --> 00:00:04,520
+Gunakan kuasa dua untuk menulis persamaan kuadratik y
+
+3
+00:00:04,520 --> 00:00:09,390
+ialah bersamaan dengan negatif 3x kuasa dua, tambah 24x, tolak 27 dalam
+
+4
+00:00:09,390 --> 00:00:12,920
+bentuk bucu, dan kemudian kenal pasti bucu.
+
+5
+00:00:12,920 --> 00:00:15,340
+Jadi kita akan melihat apakah bentuk bucu, tetapi secara dasarnya kita
+
+6
+00:00:15,340 --> 00:00:18,880
+melengkapkan kuasa dua, dan kita menjana fungsi, atau kita
+
+7
+00:00:18,880 --> 00:00:23,440
+memanipulasikannya secara algebra supaya ia di dalam bentuk y bersamaan dengan
+
+8
+00:00:23,440 --> 00:00:29,970
+A kali x tolak B kuasa dua, tambah C.
+
+9
+00:00:29,970 --> 00:00:32,390
+Kita mahu mendapatkan persamaan dalam bentuk ini.
+
+10
+00:00:32,390 --> 00:00:37,450
+Ini adalah bentuk bucu.
+
+11
+00:00:37,450 --> 00:00:40,770
+Dan apabila anda telah dapat dalam bentuk bucu, anda boleh melihat yang anda
+
+12
+00:00:40,770 --> 00:00:44,280
+mengenal pasti nilai x puncak sebagai nilai yang akan membuat
+
+13
+00:00:44,280 --> 00:00:45,790
+ungkapan ini sama dengan 0.
+
+14
+00:00:45,790 --> 00:00:47,740
+Jadi dalam kes ini ia akan menjadi B.
+
+15
+00:00:47,740 --> 00:00:52,540
+Dan nilai y bucu, jika ini adalah bersamaan dengan 0, maka
+
+16
+00:00:52,540 --> 00:00:54,590
+nilai y hanya akan menjadi C.
+
+17
+00:00:54,590 --> 00:00:55,470
+Dan kita akan melihat itu.
+
+18
+00:00:55,470 --> 00:00:58,480
+Kita akan memahami mengapa ia adalah mercu, mengapa
+
+19
+00:00:58,480 --> 00:01:00,310
+bentuk bucu ini berguna.
+
+20
+00:01:00,310 --> 00:01:02,310
+Jadi mari kita cuba memanipulasikan persamaan ini untuk mendapatkan
+
+21
+00:01:02,310 --> 00:01:03,650
+ia dalam bentuk itu.
+
+22
+00:01:03,650 --> 00:01:06,060
+Jadi, jika kita hanya menulisnya semula, perkara pertama yang
+
+23
+00:01:06,060 --> 00:01:09,490
+jelas nampak ialah, sekurang-kurangnya semua nombor-nombor ini
+
+24
+00:01:09,490 --> 00:01:10,790
+dibahagikan dengan negative 3.
+
+25
+00:01:10,790 --> 00:01:13,170
+Dan saya selalu merasakan lebih mudah untuk memanipulasi
+
+26
+00:01:13,170 --> 00:01:15,920
+persamaan jika saya mempunyai pekali 1 di hadapan
+
+27
+00:01:15,920 --> 00:01:16,680
+x kuasa dua.
+
+28
+00:01:16,680 --> 00:01:18,390
+Jadi mari kita faktorkan negatif 3
+
+29
+00:01:18,390 --> 00:01:19,670
+terus dari permulaan.
+
+30
+00:01:19,670 --> 00:01:25,040
+Jadi kita boleh menulisnya semula sebagai y bersamaan dengan negatif 3 kali x
+
+31
+00:01:25,040 --> 00:01:30,470
+kuasa dua, tolak 8x - 24 dibahagikan dengan negative 3
+
+32
+00:01:30,470 --> 00:01:32,752
+negatif 8 - tambah 9.
+
+33
+00:01:32,752 --> 00:01:36,790
+Negatif 27 dibahagikan dengan negative 3 ialah positif 9.
+
+34
+00:01:36,790 --> 00:01:40,410
+Biar saya tuliskan positif 9 di sini.
+
+35
+00:01:40,410 --> 00:01:42,950
+Anda akan melihat dalam beberapa saat mengapa saya berbuat demikian
+
+36
+00:01:42,950 --> 00:01:46,020
+Sekarang, kita mahu ungkap sebahagian daripada
+
+37
+00:01:46,020 --> 00:01:47,290
+ungkapan ini sebagai kuasa dua yang sempurna.
+
+38
+00:01:47,290 --> 00:01:48,950
+Itulah apa yang bentuk bucu lakukan untuk kita.
+
+39
+00:01:48,950 --> 00:01:52,170
+Kita mahu ungkap sebahagian daripada ungkapan ini sebagai
+
+40
+00:01:52,170 --> 00:01:53,160
+kuasa dua sempurna.
+
+41
+00:01:53,160 --> 00:01:54,525
+Sekarang bagaimana kita boleh berbuat demikian?
+
+42
+00:01:54,525 --> 00:01:57,650
+Kita mempunyai x kuasa dua tolak 8x.
+
+43
+00:01:57,650 --> 00:02:01,250
+Jadi, jika kita mempunyai positif 16 positif di sini - kerana, hanya
+
+44
+00:02:01,250 --> 00:02:03,675
+fikirkan ia dengan cara ini, jika kita mempunyai negatif 8, anda bahagikan
+
+45
+00:02:03,675 --> 00:02:05,160
+dengan 2, anda akan mendapat negatif 4.
+
+46
+00:02:05,160 --> 00:02:08,110
+Anda kuasa dua kan itu, ia ialah positif 16.
+
+47
+00:02:08,110 --> 00:02:09,870
+Jadi, jika anda mempunyai positif 16 di sini, ini akan
+
+48
+00:02:09,870 --> 00:02:10,639
+menjadi kuasa dua sempurna.
+
+49
+00:02:10,639 --> 00:02:13,450
+Ini akan menjadi x tolak 4 kuasa dua.
+
+50
+00:02:13,450 --> 00:02:17,300
+Tetapi anda tidak boleh suka atau tidak menambah 16 di sana, samaada
+
+51
+00:02:17,300 --> 00:02:20,075
+anda perlu menambah jumlah yang sama kepada pihak lain, dan
+
+52
+00:02:20,075 --> 00:02:22,000
+anda oerlu skalakan ia dengan negatif 3 dan semua
+
+53
+00:02:22,000 --> 00:02:25,580
+itu, atau, anda hanya boleh tolak 16 di sini.
+
+54
+00:02:25,580 --> 00:02:26,840
+Saya belum mengubah ungkapan itu.
+
+55
+00:02:26,840 --> 00:02:28,630
+Saya menambah 16, menolak 16.
+
+56
+00:02:28,630 --> 00:02:29,370
+Saya telah menambah 0.
+
+57
+00:02:29,370 --> 00:02:30,770
+Saya belum mengubahnya.
+
+58
+00:02:30,770 --> 00:02:36,890
+Tetapi apa yang membolehkan saya lakukan ialah ungkapkan sebahagian daripada
+
+59
+00:02:36,890 --> 00:02:39,160
+persamaan ini sebagai kuasa dua yang sempurna.
+
+60
+00:02:39,160 --> 00:02:43,830
+Yang di sana ialah x tolak 4 kuasa dua.
+
+61
+00:02:43,830 --> 00:02:46,240
+Dan jika anda keliru, bagaimana saya tahu ia adalah 16?
+
+62
+00:02:46,240 --> 00:02:48,720
+Cuba fikirkan, saya mengambil negatif 8, saya bahagikan dengan 2, saya
+
+63
+00:02:48,720 --> 00:02:49,980
+mendapat negatif 4.
+
+64
+00:02:49,980 --> 00:02:51,300
+Dan saya kuasa duakan negatif 4.
+
+65
+00:02:51,300 --> 00:02:53,640
+Ini adalah negatif 4 kuasa dua di sana.
+
+66
+00:02:53,640 --> 00:02:56,790
+Dan kemudian saya perlu menolak jumlah yang sama supaya saya tidak
+
+67
+00:02:56,790 --> 00:02:58,130
+menukar persamaan.
+
+68
+00:02:58,130 --> 00:03:00,190
+Jadi bahagian itu ialah x tolak 4 kuasa dua.
+
+69
+00:03:00,190 --> 00:03:06,190
+Dan kemudian kita masih mempunyai negative 3 tergantung di situ.
+
+70
+00:03:06,190 --> 00:03:11,690
+Dan kemudian kita mempunyai negatif 16 tambah 9, iaitu negatif 7.
+
+71
+00:03:11,690 --> 00:03:13,230
+Jadi kita hampir di sana.
+
+72
+00:03:13,230 --> 00:03:15,860
+Kita mempunyai y bersamaan dengan negatif 3 kali keseluruhan ini, belum
+
+73
+00:03:15,860 --> 00:03:16,350
+dapat lagi.
+
+74
+00:03:16,350 --> 00:03:17,880
+Untuk mendapatkan yang di sana, kita hanya darab negatif 3.
+
+75
+00:03:17,880 --> 00:03:21,480
+Kita edarkan negatif 3 kepada kedua-dua terma ini. Jadi
+
+76
+00:03:21,480 --> 00:03:26,820
+kita mendapat y bersamaan dengan negatif 3 kali x, tolak 4 kuasa dua.
+
+77
+00:03:26,820 --> 00:03:32,390
+Dan negatif 3 kali negatif 7 ialah positif 21.
+
+78
+00:03:32,390 --> 00:03:35,520
+Jadi kita dapatkannya dalam bentuk bucu, kita selesai dengan itu.
+
+79
+00:03:35,520 --> 00:03:38,860
+Dan jika anda mahu berfikir tentang apakah bucu itu, saya memberitahu anda
+
+80
+00:03:38,860 --> 00:03:39,270
+bagaimana untuk melakukannya.
+
+81
+00:03:39,270 --> 00:03:41,670
+Baik, apakah nilai x yang menjadikan
+
+82
+00:03:41,670 --> 00:03:43,680
+ini sama dengan 0?
+
+83
+00:03:43,680 --> 00:03:46,860
+Baik, dalam usaha untuk sebutan ini menjadi 0, x tolak 4 perlu
+
+84
+00:03:46,860 --> 00:03:48,130
+bersamaan dengan 0.
+
+85
+00:03:48,130 --> 00:03:51,950
+x tolak 4 perlu bersamaan dengan 0, atau menambah 4 di kedua-dua belah pihak. x
+
+86
+00:03:51,950 --> 00:03:53,530
+perlu bersamaan dengan 4.
+
+87
+00:03:53,530 --> 00:03:56,580
+Dan jika x adalah bersamaan dengan 4, ini ialah 0, keseluruhan ini menjadi
+
+88
+00:03:56,580 --> 00:04:01,000
+0, maka y ialah bersamaan dengan 21.
+
+89
+00:04:01,000 --> 00:04:04,420
+Jadi puncak parabola ini- Saya hanya akan melakukan
+
+90
+00:04:04,420 --> 00:04:08,850
+graf cepat di sini - puncak parabola ini berlaku
+
+91
+00:04:08,850 --> 00:04:11,960
+di titik 4, 21.
+
+92
+00:04:11,960 --> 00:04:13,500
+Jadi saya akan lukiskannya seperti ini.
+
+93
+00:04:13,500 --> 00:04:16,480
+Berlaku pada titik.
+
+94
+00:04:16,480 --> 00:04:21,550
+Jika ini adalah titik 4, jika ini di sini adalah - jadi
+
+95
+00:04:21,550 --> 00:04:23,960
+ini adalah paksi-y, itulah paksi-x - jadi ini adalah
+
+96
+00:04:23,960 --> 00:04:25,920
+titik 4, 21.
+
+97
+00:04:25,920 --> 00:04:28,590
+Sekarang, ia sama ada akan menjadi minimum atau maksimum
+
+98
+00:04:28,590 --> 00:04:31,860
+titik dalam parabola kita, dan berfikir tentang sama ada ia adalah
+
+99
+00:04:31,860 --> 00:04:34,280
+titik minimum atau maksimum, fikirkan tentang apa yang berlaku.
+
+100
+00:04:34,280 --> 00:04:36,300
+Mari kita meneroka persamaan ini sedikit.
+
+101
+00:04:36,300 --> 00:04:44,040
+Yang ini, x tolak 4 kuasa dua sentiasa lebih besar daripada
+
+102
+00:04:44,040 --> 00:04:45,170
+atau sama dengan 0.
+
+103
+00:04:45,170 --> 00:04:45,510
+Betul?
+
+104
+00:04:45,510 --> 00:04:48,330
+Paling teruk ia boleh menjadi 0, tetapi anda mengambil kuasa dua, jadi
+
+105
+00:04:48,330 --> 00:04:50,560
+ia akan menjadi nombor bukan negatif.
+
+106
+00:04:50,560 --> 00:04:52,160
+Tetapi apabila anda mengambil nombor bukan negatif, dan kemudian
+
+107
+00:04:52,160 --> 00:04:55,860
+anda darabkan dengan negatif 3, itu menjamin yang
+
+108
+00:04:55,860 --> 00:05:00,660
+keseluruhan ini akan menjadi kurang daripada atau sama dengan 0.
+
+109
+00:05:00,660 --> 00:05:04,750
+.
+
+110
+00:05:04,750 --> 00:05:07,550
+Jadi nilai yang terbaik, tertinggi, yang fungsi ini boleh
+
+111
+00:05:07,550 --> 00:05:10,360
+dicapai, adalah apabila ungkapan
+
+112
+00:05:10,360 --> 00:05:11,630
+di sini adalah bersamaan dengan 0.
+
+113
+00:05:11,630 --> 00:05:13,680
+Dan ungkapan ini adalah bersamaan dengan 0 apabila x bersamaan dengan
+
+114
+00:05:13,680 --> 00:05:14,810
+4 dan y ialah 21.
+
+115
+00:05:14,810 --> 00:05:18,360
+Jadi ini ialah nilai tertinggi fungsi ini boleh dicapai.
+
+116
+00:05:18,360 --> 00:05:20,660
+Ia hanya boleh turun dari sana.
+
+117
+00:05:20,660 --> 00:05:24,510
+Kerana jika anda beralih x sekitar 4, maka ungkapan yang
+
+118
+00:05:24,510 --> 00:05:27,850
+di sini akan menjadi, ia akan menjadi bukan sifar.
+
+119
+00:05:27,850 --> 00:05:29,910
+Apabila anda kuasa dua, ia akan menjadi positif.
+
+120
+00:05:29,910 --> 00:05:31,225
+Apabila anda darabkan ia dengan negatif 3,
+
+121
+00:05:31,225 --> 00:05:32,360
+ia akan menjadi negatif.
+
+122
+00:05:32,360 --> 00:05:34,600
+Jadi anda akan mengambil nombor negatif tambah 21, ia akan
+
+123
+00:05:34,600 --> 00:05:37,490
+kurang daripada 21, jadi parabola anda akan
+
+124
+00:05:37,490 --> 00:05:38,730
+kelihatan seperti ini.
+
+125
+00:05:38,730 --> 00:05:44,160
+Parabola anda akan kelihatan seperti itu.
+
+126
+00:05:44,160 --> 00:05:47,330
+Dan itulah mengapa bentuk bucu berguna.
+
+127
+00:05:47,330 --> 00:05:52,970
+Anda pecahkan ia sehingga ke bahagian persamaan yang mengubah
+
+128
+00:05:52,970 --> 00:05:54,000
+nilai, dan apakah
+
+129
+00:05:54,000 --> 00:05:56,130
+nilai maksimum yang dicapai?
+
+130
+00:05:56,130 --> 00:05:57,150
+Itulah bucu.
+
+131
+00:05:57,150 --> 00:05:58,670
+Itu berlaku apabila x adalah bersamaan dengan 4.
+
+132
+00:05:58,670 --> 00:06:00,320
+Dan anda tahu nilai y.
+
+133
+00:06:00,320 --> 00:06:02,800
+Dan oleh kerana anda mempunyai pekali negatif di sini
+
+134
+00:06:02,800 --> 00:06:05,710
+iaitu negatif 3, anda tahu bahawa ia akan menjadi satu
+
+135
+00:06:05,710 --> 00:06:06,980
+pembukaan graf menurun.
+
+136
+00:06:06,980 --> 00:06:09,560
+Jika itu ialah positif 3, maka ini akan, pada
+
+137
+00:06:09,560 --> 00:06:13,160
+minimum, 0 dan ia akan menjadi satu pembukaan graf menaik.
+
+138
+00:06:13,160 --> 00:06:13,466
+.

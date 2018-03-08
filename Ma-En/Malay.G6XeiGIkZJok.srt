@@ -1,0 +1,115 @@
+1
+00:00:00,570 --> 00:00:04,420
+Lengkapkan kenyataan ini dengan menggunakan 'kurang daripada' atau 'lebih daripada'--
+
+2
+00:00:04,420 --> 00:00:06,850
+Itulah simbol-simbol---untuk
+
+3
+00:00:06,850 --> 00:00:08,029
+kurungan-kurungan ini.
+
+4
+00:00:08,029 --> 00:00:10,780
+Jadi, mereka ada satu 5 dan satu 2
+
+5
+00:00:10,780 --> 00:00:13,740
+dan mereka mahu kita letakkan simbol 'kurang daripada'
+
+6
+00:00:13,740 --> 00:00:16,500
+atau 'lebih daripada' untuk kurungan-kurungan ini.
+
+7
+00:00:16,500 --> 00:00:19,400
+Jadi, kita ada satu 5 dan satu 2, dan kita hanya
+
+8
+00:00:19,400 --> 00:00:20,660
+bandingkan kedua-duanya.
+
+9
+00:00:20,660 --> 00:00:22,250
+Nombor yang manakah lebih besar?
+
+10
+00:00:22,250 --> 00:00:23,540
+5 adalah lebih besar.
+
+11
+00:00:23,540 --> 00:00:25,630
+Jika kamu kira ke 5, kamu akan lalui 2.
+
+12
+00:00:25,630 --> 00:00:29,690
+Jika kamu lihat kepada garis nombor di sini, jika kamu bermula di 0, 1,
+
+13
+00:00:29,690 --> 00:00:35,460
+2,3,4,5, kamu dapat lihat 2 sebelum 5.
+
+14
+00:00:35,460 --> 00:00:37,120
+2 adalah kurang daripada 5.
+
+15
+00:00:37,120 --> 00:00:43,310
+Jika saya ada $2, itu adalah kurang daripada $5, atau $5 adalah lebih daripada $2.
+
+16
+00:00:43,310 --> 00:00:46,450
+Dan simbol untuk 'lebih daripada', cara yang kamu guna untuk ingat
+
+17
+00:00:46,450 --> 00:00:47,910
+--bahagian ini mungkin paling sukar untuk kamu
+
+18
+00:00:47,910 --> 00:00:51,050
+ingat---ialah kamu mahu sebelah yang lebih besar di simbol ini
+
+19
+00:00:51,050 --> 00:00:52,360
+menghadapi nombor yang lebih besar.
+
+20
+00:00:52,360 --> 00:00:54,830
+Jadi 5 ialah nombor yang lebih besar, kita mahu sebelah
+
+21
+00:00:54,830 --> 00:00:56,460
+yang lebih besar
+
+22
+00:00:56,460 --> 00:00:57,860
+Jadi, kita mahukan ia begini.
+
+23
+00:00:57,860 --> 00:01:00,040
+Cara yang saya guna ialah bahagian yang lebih besar
+
+24
+00:01:00,040 --> 00:01:02,980
+di simbol ini, dan di sini, poin ini, ialah
+
+25
+00:01:02,980 --> 00:01:07,110
+bahagian yang lebih kecil, jadi 5 ialah lebih daripada 2.
+
+26
+00:01:07,110 --> 00:01:11,800
+Jika cara yang berlawanan, kita boleh tulis 2 ialah kurang daripada 5.
+
+27
+00:01:11,800 --> 00:01:14,860
+Sekali lagi, kita selalu ada poin menunjuk ke sebelah
+
+28
+00:01:14,860 --> 00:01:19,090
+yang nombornya kecil, dan kita ada sebelah simbol
+
+29
+00:01:19,090 --> 00:01:22,650
+yang besar menunjuk ke nombor yang lebih besar.

@@ -1,0 +1,107 @@
+1
+00:00:00,600 --> 00:00:07,400
+Selesaikan x tambah 8 ialah kurang daripada atau bersamaan dengan 6 dan grafkan persamaan
+
+2
+00:00:07,400 --> 00:00:13,000
+Maka kita ada x tambah 8 ialah kurang daripada atau bersamaan dengan 6
+
+3
+00:00:13,000 --> 00:00:20,000
+Jadi mari selesaikan ketidaksamaan untuk x, dan cara termudah untuk asingkan x, mari asingkan pada bahagian tangan kiri
+
+4
+00:00:20,000 --> 00:00:23,000
+kerana ianya untuk menghapuskan 8
+
+5
+00:00:23,000 --> 00:00:26,267
+dan cara terbaik untuk buangkannya ialah tolak 8 dari kedua-dua bahagian
+
+6
+00:00:26,267 --> 00:00:29,975
+Mari tolak 8 dari kedua-dua bahagian, ia tidak akan mengubah
+
+7
+00:00:30,082 --> 00:00:33,800
+arah ketidaksamaan, maka bahagian tangan kiri
+
+8
+00:00:33,800 --> 00:00:36,600
+x tambah 8 tolak 8, anda ditinggalkan dengan x,
+
+9
+00:00:36,600 --> 00:00:42,467
+bahagian tangan kanan 6 tolak 8 ialah -2, dan kita masih ada kurang daripada atau bersamaan
+
+10
+00:00:42,467 --> 00:00:46,133
+Maka kita selesaikan ketidaksamaan, kita ada x ialah kurang daripada atau bersamaan dengan
+
+11
+00:00:46,133 --> 00:00:49,133
+-2, maka mari lukiskannya pada garis nombor
+
+12
+00:00:49,133 --> 00:00:53,533
+Jadi itu ialah garis nombor saya, mari ambil 0 di sini, mungkin jika
+
+13
+00:00:53,533 --> 00:00:59,400
+kita pergi pada 1, kita boleh pergi pada -1, -2, -3
+
+14
+00:00:59,400 --> 00:01:01,867
+dan kita boleh terus pergi ke kiri, dan kita mahu
+
+15
+00:01:01,867 --> 00:01:05,467
+semua x yang kurang daripada atau bersamaan dengan -2
+
+16
+00:01:05,467 --> 00:01:10,867
+Sejak ia boleh jadi bersamaan dengan -2, kita masukkan
+
+17
+00:01:10,867 --> 00:01:15,067
+garis di sini pada -2, dan semua nilai yang kurang daripada itu
+
+18
+00:01:15,067 --> 00:01:18,800
+Jika ia kurang daripada itu, jika tidak simbol bersamaan dengan, kita akan lakukan titik terbuka
+
+19
+00:01:18,800 --> 00:01:22,133
+tetapi kerana ianya kurang daripada atau bersamaan dengan, kita tutup titik ini
+
+20
+00:01:22,133 --> 00:01:25,400
+Kemudian kita mahu semua nilai di bawahnya
+
+21
+00:01:25,400 --> 00:01:30,933
+Dan anda boleh cuba beberapa dan nilaikan sendiri sama ada ia berkesan,
+
+22
+00:01:30,933 --> 00:01:34,200
+Berdasarkan kepada ini, -3 sepatutnya berkesan, dan jika anda ambil
+
+23
+00:01:34,200 --> 00:01:39,200
+-3, -3 tambah 8 ialah 5, yang mana ia pasti
+
+24
+00:01:39,200 --> 00:01:41,800
+kurang daripada 6, maka ia berkesan, dan -1 tidak sepatutnya berkesan
+
+25
+00:01:41,800 --> 00:01:44,533
+ianya tidak termasuk dalam set di sini, mari kita cuba.
+
+26
+00:01:44,533 --> 00:01:51,400
+-1 tambah 8 ialah 7, yang pasti tidak kurang daripada 6,
+
+27
+00:01:51,400 --> 99:59:59,999
+maka kita cuba beberapa daripadanya, dan kita telah dapatkan jawapan yang benar.

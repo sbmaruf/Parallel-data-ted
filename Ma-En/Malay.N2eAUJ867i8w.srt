@@ -1,0 +1,739 @@
+1
+00:00:01,250 --> 00:00:05,640
+Selamat datang ke pembentangan tentang pembahagian tahap 4
+
+2
+00:00:05,640 --> 00:00:09,540
+Jadi apa yang membuat pembahagian tahap 4 lebih mencabar daripada pembahagian tahap 3
+
+3
+00:00:09,540 --> 00:00:14,582
+ialah kita bukan lagi membahagi dengan nombor satu digit tetapi
+
+4
+00:00:14,582 --> 00:00:17,838
+sekarang kita akan membahagi dengan nombor dua digit.
+
+5
+00:00:17,838 --> 00:00:21,540
+Mari kita mulakan dengan beberapa masalah.
+
+6
+00:00:21,540 --> 00:00:26,118
+Kita mulakan dengan contoh yang saya fikir agak mudah.
+
+7
+00:00:26,118 --> 00:00:27,318
+Soalan tahap 4 yang kamu biasanya lihat
+
+8
+00:00:27,318 --> 00:00:28,300
+sebenarnya lebih sukar daripada ini.
+
+9
+00:00:28,300 --> 00:00:40,320
+Katakan saya bagi 6250 bahagi dengan 25.
+
+10
+00:00:40,320 --> 00:00:46,660
+Jadi cara terbaik untuk berfikir tentangnya adalah, kamu boleh kata, okey, saya ada 25.
+
+11
+00:00:46,660 --> 00:00:48,520
+Bolehkah 25 masuk ke dalam 6?
+
+12
+00:00:48,520 --> 00:00:49,300
+Tidak.
+
+13
+00:00:49,300 --> 00:00:52,900
+Jelaslah yang 6 adalah lebih kecil daripada 25, maka 25 tidak boleh masuk ke 6.
+
+14
+00:00:52,900 --> 00:00:56,744
+Kemudian kita boleh tanya, baik, kalau 25 tidak boleh masuk ke enam,
+
+15
+00:00:56,744 --> 00:00:58,990
+dapatkah 25 masuk ke 62?
+
+16
+00:00:58,990 --> 00:00:59,740
+Tentunya boleh.
+
+17
+00:00:59,740 --> 00:01:03,940
+62 adalah lebih besar daripada 25, maka 25 dapat masuk ke 62.
+
+18
+00:01:03,940 --> 00:01:05,230
+Mari kita fikirkan.
+
+19
+00:01:05,230 --> 00:01:07,370
+25 kali 1 adalah 25.
+
+20
+00:01:07,370 --> 00:01:10,800
+25 kali 2 adalah 50.
+
+21
+00:01:10,800 --> 00:01:13,180
+Maka ia masuk ke 62 sekurang-kurangnya dua kali.
+
+22
+00:01:13,180 --> 00:01:15,700
+Dan 25 kali 3 adalah 75.
+
+23
+00:01:15,700 --> 00:01:16,900
+Itu terlalu banyak.
+
+24
+00:01:16,900 --> 00:01:21,300
+Jadi 25 masuk ke 62 sebanyak dua kali.
+
+25
+00:01:21,300 --> 00:01:25,020
+Sebenarnya tiada cara lain yang boleh kita fikirkannya.
+
+26
+00:01:25,030 --> 00:01:26,508
+Kamu perlu fikirkan,
+
+27
+00:01:26,508 --> 00:01:28,375
+okey, berapa kali agaknya 25 akan dapat masuk ke 62?
+
+28
+00:01:28,375 --> 00:01:29,440
+Dan kadang-kadang kamu akan buat kesilapan.
+
+29
+00:01:29,440 --> 00:01:30,560
+Kadang-kadang kamu letakkan suatu nombor di sini
+
+30
+00:01:30,560 --> 00:01:32,949
+Katakanlah, saya letakkan tiga di sini
+
+31
+00:01:32,949 --> 00:01:34,484
+dan kemudian 3 kali 25
+
+32
+00:01:34,484 --> 00:01:35,930
+dan saya akan dapat 75 di sini.
+
+33
+00:01:35,930 --> 00:01:37,486
+Dan nombor ini terlalu besar,
+
+34
+00:01:37,486 --> 00:01:39,840
+jadi saya perlu tukarkannya kepada dua.
+
+35
+00:01:39,840 --> 00:01:43,808
+Ataupun, jika saya tuliskan 1 dan 1 kali 25 adalah 25,
+
+36
+00:01:43,808 --> 00:01:45,703
+apabila saya menolak,
+
+37
+00:01:45,703 --> 00:01:48,290
+bezanya akan menjadi lebih besar daripada 25.
+
+38
+00:01:48,290 --> 00:01:50,150
+Jadi saya tahulah yang 1 adalah terlalu kecil.
+
+39
+00:01:50,150 --> 00:01:51,970
+Saya perlu tukarkannya kepada dua.
+
+40
+00:01:51,970 --> 00:01:53,490
+Saya harap ia tidak terlalu mengelirukan ya.
+
+41
+00:01:53,490 --> 00:01:56,445
+Kamu tidak perlu cemas kalau kamu tidak tahu
+
+42
+00:01:56,445 --> 00:01:59,612
+apa hasil bahagi yang kamu patut dapat.
+
+43
+00:01:59,612 --> 00:02:01,170
+Ia adalah biasa untuk kita meneka hasil bahaginya
+
+44
+00:02:01,170 --> 00:02:02,800
+kerana tiada cara lain untuk lakukannya sebenarnya.
+
+45
+00:02:02,800 --> 00:02:04,540
+Semua yang membuat pembahagian akan perlu teka juga.
+
+46
+00:02:04,540 --> 00:02:08,650
+Jadi 25 masuk dua kali ke 62.
+
+47
+00:02:08,650 --> 00:02:10,480
+Sekarang mari kita darabkan 2 dengan 25.
+
+48
+00:02:10,480 --> 00:02:13,840
+2 kali 5 adalah 10.
+
+49
+00:02:13,840 --> 00:02:18,740
+Dan 2 kali 2 tambah 1 adalah 5.
+
+50
+00:02:18,740 --> 00:02:21,860
+Dan kita tahu bahawa 25 kali 2 adalah 50.
+
+51
+00:02:21,860 --> 00:02:23,020
+Kemudian kita tolakkannya.
+
+52
+00:02:23,020 --> 00:02:24,970
+2 tolak 0 adalah 2.
+
+53
+00:02:24,970 --> 00:02:27,630
+6 tolak 5 adalah 1.
+
+54
+00:02:27,631 --> 00:02:31,101
+Dan turunkan 5.
+
+55
+00:02:31,101 --> 00:02:32,220
+Jadi yang lain sama saja
+
+56
+00:02:32,220 --> 00:02:35,540
+seperti masalah pembahagian tahap tiga.
+
+57
+00:02:35,540 --> 00:02:41,250
+Sekarang kita fikirkan, berapa kali 25 dapat masuk ke 125?
+
+58
+00:02:41,250 --> 00:02:43,720
+Baik, cara saya fikirkan tentangnya ialah, 25 -
+
+59
+00:02:43,720 --> 00:02:45,288
+ia masuk ke 100 lebih kurang empat kali -
+
+60
+00:02:45,288 --> 00:02:47,855
+jadi ia akan masuk ke 125 satu kali lagi.
+
+61
+00:02:47,855 --> 00:02:49,560
+Ia dapat masuk sebanyak lima kali.
+
+62
+00:02:49,560 --> 00:02:51,096
+Jika kamu tidak pasti kamu boleh cuba empat
+
+63
+00:02:51,096 --> 00:02:53,110
+dan kemudian kamu akan lihat yang ia adalah terlalu kecil.
+
+64
+00:02:53,110 --> 00:02:57,540
+Atau jika kamu cuba enam, kamu akan dapat -
+
+65
+00:02:57,540 --> 00:02:59,805
+6 kali 25 adalah lebih besar daripada 125.
+
+66
+00:02:59,805 --> 00:03:02,380
+Jadi kita tidak boleh menggunakan 6.
+
+67
+00:03:02,380 --> 00:03:07,212
+Jadi 25 dapat masuk ke 125 sebanyak lima kali,
+
+68
+00:03:07,212 --> 00:03:13,608
+maka kita darabkan. 5 kali 5 adalah 25.
+
+69
+00:03:13,608 --> 00:03:17,138
+5 kali 2 adalah 10 tambah 2
+
+70
+00:03:17,138 --> 00:03:18,376
+125.
+
+71
+00:03:18,376 --> 00:03:19,400
+Dan tiada bakinya.
+
+72
+00:03:19,400 --> 00:03:22,414
+125 tolak 125 adalah 0.
+
+73
+00:03:22,414 --> 00:03:25,150
+Maka kita turunkan 0 ini.
+
+74
+00:03:25,150 --> 00:03:28,270
+Dan 25 tak dapat masuk ke 0.
+
+75
+00:03:28,270 --> 00:03:29,430
+0 kali 25 adalah 0.
+
+76
+00:03:29,430 --> 00:03:30,990
+Bakinya 0.
+
+77
+00:03:30,990 --> 00:03:39,500
+Maka kita lihat bahawa 25 masuk ke 6250 tepat-tepat 250 kali.
+
+78
+00:03:39,500 --> 00:03:45,998
+Mari kita buat soalan yang lain.
+
+79
+00:03:45,998 --> 00:03:50,820
+Katakanlah saya bagi -- biar saya fikirkan ,
+
+80
+00:03:50,820 --> 00:03:55,232
+katakan saya ada 15
+
+81
+00:03:55,232 --> 00:04:05,710
+dan saya nak tahu berapa kali ia dapat masuk ke 2265.
+
+82
+00:04:05,710 --> 00:04:07,330
+Baik, kami lakukan perkara yang sama seperti tadi.
+
+83
+00:04:07,330 --> 00:04:09,780
+Dapatkah 15 masuk ke 2?
+
+84
+00:04:09,780 --> 00:04:10,710
+Tidak.
+
+85
+00:04:10,710 --> 00:04:12,910
+Jadi, dapatkah 15 masuk ke 22?
+
+86
+00:04:12,910 --> 00:04:13,430
+Boleh.
+
+87
+00:04:13,430 --> 00:04:16,250
+15 boleh masuk 1 kali ke 22.
+
+88
+00:04:16,250 --> 00:04:18,220
+Perhatikan yang kita menulis 1 di atas 22.
+
+89
+00:04:18,220 --> 00:04:20,800
+Jika ia dapat masuk ke dua, kita akan tuliskan 1 di sini.
+
+90
+00:04:20,800 --> 00:04:23,260
+Tetapi 15 masuk ke 22 sebanyak satu kali.
+
+91
+00:04:23,260 --> 00:04:27,984
+1 kali 15 adalah 15. Betul?
+
+92
+00:04:27,999 --> 00:04:33,378
+22 tolak 15 - kita buat pinjaman - 1, 12.
+
+93
+00:04:33,378 --> 00:04:36,392
+12 tolak 5 adalah 7
+
+94
+00:04:36,392 --> 00:04:38,158
+1 tolak 1 adalah 0.
+
+95
+00:04:38,158 --> 00:04:40,443
+22 tolak 15 adalah 7.
+
+96
+00:04:40,443 --> 00:04:43,190
+Turunkan 6.
+
+97
+00:04:43,190 --> 00:04:46,980
+Okay, berapa kali 15 boleh masuk ke 76?
+
+98
+00:04:46,980 --> 00:04:50,330
+Seperti tadi, kamu boleh agak-agakkan.
+
+99
+00:04:50,330 --> 00:04:53,210
+Sebab tiada cara lain yang boleh kita gunakan.
+
+100
+00:04:53,210 --> 00:04:55,530
+Baik, 15 kali 2 adalah 30.
+
+101
+00:04:55,530 --> 00:04:58,490
+15 kali 4 adalah 60
+
+102
+00:04:58,490 --> 00:05:01,510
+15 kali 5 adalah 75
+
+103
+00:05:01,510 --> 00:05:08,469
+Ia dah lebih kurang cukup, jadi katakan 15 masuk ke 76 sebanyak lima kali.
+
+104
+00:05:08,469 --> 00:05:12,118
+Jadi 5 kali 5 adalah bersamaan dengan.
+
+105
+00:05:12,118 --> 00:05:13,760
+Biar kita kirakan.
+
+106
+00:05:13,760 --> 00:05:15,200
+5 kali 1 adalah 5.
+
+107
+00:05:15,200 --> 00:05:17,920
+Tambah 7.
+
+108
+00:05:17,920 --> 00:05:20,740
+Oh maaf.
+
+109
+00:05:20,740 --> 00:05:25,825
+5 kali 5 adalah 25.
+
+110
+00:05:25,825 --> 00:05:26,620
+5 kali 1 adalah 5.
+
+111
+00:05:26,620 --> 00:05:29,994
+Tambah 2 dapatlah 7.
+
+112
+00:05:30,025 --> 00:05:32,030
+Sekarang hanya perlu tolakkan.
+
+113
+00:05:32,040 --> 00:05:34,640
+76 tolak 75 adalah 1.
+
+114
+00:05:34,640 --> 00:05:37,770
+Turunkan 5.
+
+115
+00:05:37,770 --> 00:05:42,090
+Baik, 15 bahagi 15 dapat tepat-tepat 1.
+
+116
+00:05:42,090 --> 00:05:47,684
+1 kali 15 adalah 15.
+
+117
+00:05:47,684 --> 00:05:50,338
+Tolakkan dan kita akan dapat baki 0.
+
+118
+00:05:50,340 --> 00:05:57,410
+Jadi 15 masuk ke 2265 sebanyak 151 kali.
+
+119
+00:05:57,410 --> 00:05:59,647
+Mari kita fikirkan apa sebenarnya yang kita lakukan di sini
+
+120
+00:05:59,647 --> 00:06:04,100
+dan kenapa ia lebih sukar daripada membahagi dengan nombor satu digit.
+
+121
+00:06:04,100 --> 00:06:05,550
+Ia adalah sebab kita perlu fikirkan
+
+122
+00:06:05,550 --> 00:06:09,580
+berapa kali nombor dua digit ini dapat masuk ke nombor yang lebih besar ini?
+
+123
+00:06:09,580 --> 00:06:14,926
+Dan oleh sebab kamu tidak belajar jadual pendaraban dua angka - tak banyak orang yang belajarnya -
+
+124
+00:06:14,926 --> 00:06:16,416
+jadi kamu perlu membuat tekaan.
+
+125
+00:06:16,416 --> 00:06:17,992
+Kadang-kadang kamu boleh melihat pada angka pertama ini
+
+126
+00:06:17,992 --> 00:06:20,600
+dan bandingkan dengan digit pertama di sini dan membuat anggaran.
+
+127
+00:06:20,600 --> 00:06:21,800
+Tetapi kadang-kadang kamu perlu cuba beberapa kali.
+
+128
+00:06:21,800 --> 00:06:23,575
+Apabila kamu cuba untuk mendarabkan,
+
+129
+00:06:23,575 --> 00:06:25,510
+kamu mungkin akan dapat jawapan yang salah pada percubaan pertama.
+
+130
+00:06:25,510 --> 00:06:27,875
+Biar kita buat satu lagi masalah.
+
+131
+00:06:27,875 --> 00:06:29,262
+Dan sebenarnya, saya akan memilih nombor secara rawak,
+
+132
+00:06:29,262 --> 00:06:31,020
+jadi ia mungkin lebih susah.
+
+133
+00:06:31,020 --> 00:06:32,300
+Tetapi saya fikir kamu akan lebih fahaminya.
+
+134
+00:06:32,300 --> 00:06:33,738
+Saya takkan mengajar kamu perpuluhan dalam video ini,
+
+135
+00:06:33,738 --> 00:06:36,590
+jadi jika ada baki, saya akan tinggalkan saja.
+
+136
+00:06:36,590 --> 00:06:49,580
+Katakan 5978 dibahagi dengan 67.
+
+137
+00:06:49,580 --> 00:06:51,651
+Nombor-nombor ini saya pilih secara rawak.
+
+138
+00:06:51,651 --> 00:06:56,513
+Jadi saya boleh tunjukkan yang kadang-kadang kamu perlu membuat tekaan
+
+139
+00:06:56,513 --> 00:07:00,326
+untuk mendapat tahu berapa kali nombor dua digit ini dapat masuk ke nombor yang lebih besar.
+
+140
+00:07:00,326 --> 00:07:03,560
+Jadi 67 masuk ke 5 sebanyak 0 kali.
+
+141
+00:07:03,560 --> 00:07:06,620
+67 masuk ke 59 0 kali.
+
+142
+00:07:06,620 --> 00:07:13,440
+67 masuk ke 597 - mari kita fikirkan.
+
+143
+00:07:13,440 --> 00:07:19,880
+67 adalah lebih kurang 70 dan 597 lebih kurang 600.
+
+144
+00:07:19,880 --> 00:07:27,681
+Jadi, jika ia adalah 70, - 70 kali 9 adalah 630. Betul?
+
+145
+00:07:27,681 --> 00:07:29,820
+Kerana 7 kali 9 adalah 63.
+
+146
+00:07:29,820 --> 00:07:33,110
+Jadi saya akan membuat anggaran.
+
+147
+00:07:33,110 --> 00:07:35,060
+Saya akan katakan yang ia boleh masuk lapan kali.
+
+148
+00:07:35,060 --> 00:07:38,765
+Saya mungkin salah
+
+149
+00:07:38,765 --> 00:07:40,226
+tetapi kita boleh periksa.
+
+150
+00:07:40,226 --> 00:07:42,930
+Kita boleh periksa jika ia adalah jawapan yang betul.
+
+151
+00:07:42,930 --> 00:07:48,082
+8 kali 7 adalah 56.
+
+152
+00:07:48,082 --> 00:07:51,251
+Dan kemudian 8 kali 6 adalah 48.
+
+153
+00:07:51,251 --> 00:07:57,377
+Tambah 5 dapatlah 53.
+
+154
+00:07:57,377 --> 00:07:59,315
+7 tolak 6 adalah 1.
+
+155
+00:07:59,315 --> 00:08:01,740
+9 tolak 3 adalah 6.
+
+156
+00:08:01,740 --> 00:08:03,560
+5 tolak 5 adalah 0.
+
+157
+00:08:03,560 --> 00:08:04,650
+61
+
+158
+00:08:04,650 --> 00:08:05,908
+Baik,saya dapat jawapan yang betul.
+
+159
+00:08:05,908 --> 00:08:12,040
+Kerana jika saya dapat baki yang bersamaan dengan 67 atau lebih besar daripada 67,
+
+160
+00:08:12,052 --> 00:08:15,050
+ia bermakna nombor di atas ini tidak cukup besar.
+
+161
+00:08:15,050 --> 00:08:17,401
+Tetapi di sini, saya mendapat nombor positif,
+
+162
+00:08:17,401 --> 00:08:20,530
+kerana 536 adalah lebih kurang daripada 597.
+
+163
+00:08:20,530 --> 00:08:24,070
+Dan bakinya kurang daripada 67, jadi saya telah membuat tekaan yang baik.
+
+164
+00:08:24,070 --> 00:08:28,250
+Jadi, kita turunkan 8.
+
+165
+00:08:28,250 --> 00:08:30,760
+Sekarang, ini mungkin lebih sukar.
+
+166
+00:08:30,760 --> 00:08:35,500
+Seperti tadi, kita ada lebih kurang 70 dan di sini kita ada lebih kurang 630.
+
+167
+00:08:35,500 --> 00:08:37,990
+Jadi mungkin ia dapat masuk 9 kali.
+
+168
+00:08:37,990 --> 00:08:42,225
+Baik, mari kita cuba buatkan.
+
+169
+00:08:42,225 --> 00:08:49,318
+9 kali 7 adalah 63.
+
+170
+00:08:49,338 --> 00:08:51,709
+9 kali 6 adalah 54
+
+171
+00:08:51,720 --> 00:08:53,870
+Tambah 6 dapatlah 60.
+
+172
+00:08:53,870 --> 00:08:54,700
+Bagus!
+
+173
+00:08:54,700 --> 00:08:56,210
+Ia dapat masuk sebanyak 9 kali
+
+174
+00:08:56,210 --> 00:08:59,480
+kerana 603 kurang daripada 618.
+
+175
+00:08:59,480 --> 00:09:01,730
+8 tolak 3 adalah 5.
+
+176
+00:09:01,730 --> 00:09:04,580
+1 tolak 0 adalah 1.
+
+177
+00:09:04,580 --> 00:09:07,662
+Dan 6 tolak 6 adalah 0.
+
+178
+00:09:07,662 --> 00:09:13,434
+Kami dapat baki 15, yang lebih kecil daripada 67.
+
+179
+00:09:13,434 --> 00:09:15,158
+Jadi saya takkan mengajar perpuluhan sekarang,
+
+180
+00:09:15,158 --> 00:09:16,970
+jadi saya akan abaikan baki itu.
+
+181
+00:09:16,970 --> 00:09:23,690
+Maka, kita boleh katakan bahawa 67 boleh masuk ke 5978 sebanyak 89 kali.
+
+182
+00:09:23,690 --> 00:09:25,488
+Jadi hasil bahaginya adalah 89
+
+183
+00:09:25,488 --> 00:09:28,670
+dengan baki 15.
+
+184
+00:09:28,670 --> 00:09:33,558
+Saya harap kamu sudah bersedia untuk mencuba lebih banyak masalah pembahagian tahap 4 lagi.
+
+185
+00:09:33,560 --> 00:09:35,130
+Selamat mencuba!

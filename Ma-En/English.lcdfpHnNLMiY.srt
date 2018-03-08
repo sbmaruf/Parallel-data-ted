@@ -1,0 +1,895 @@
+1
+00:00:00,424 --> 00:00:02,286
+In Oxford in the 1950s,
+
+2
+00:00:02,286 --> 00:00:06,054
+there was a fantastic doctor, who was very unusual,
+
+3
+00:00:06,054 --> 00:00:08,086
+named Alice Stewart.
+
+4
+00:00:08,086 --> 00:00:11,229
+And Alice was unusual partly because, of course,
+
+5
+00:00:11,229 --> 00:00:14,709
+she was a woman, which was pretty rare in the 1950s.
+
+6
+00:00:14,709 --> 00:00:16,820
+And she was brilliant, she was one of the,
+
+7
+00:00:16,820 --> 00:00:21,636
+at the time, the youngest Fellow to be elected to the Royal College of Physicians.
+
+8
+00:00:21,636 --> 00:00:25,393
+She was unusual too because she continued to work after she got married,
+
+9
+00:00:25,393 --> 00:00:27,488
+after she had kids,
+
+10
+00:00:27,488 --> 00:00:30,496
+and even after she got divorced and was a single parent,
+
+11
+00:00:30,496 --> 00:00:32,779
+she continued her medical work.
+
+12
+00:00:32,779 --> 00:00:36,899
+And she was unusual because she was really interested in a new science,
+
+13
+00:00:36,899 --> 00:00:39,523
+the emerging field of epidemiology,
+
+14
+00:00:39,523 --> 00:00:43,011
+the study of patterns in disease.
+
+15
+00:00:43,011 --> 00:00:45,179
+But like every scientist, she appreciated
+
+16
+00:00:45,179 --> 00:00:47,435
+that to make her mark, what she needed to do
+
+17
+00:00:47,435 --> 00:00:51,953
+was find a hard problem and solve it.
+
+18
+00:00:51,953 --> 00:00:54,497
+The hard problem that Alice chose
+
+19
+00:00:54,497 --> 00:00:57,895
+was the rising incidence of childhood cancers.
+
+20
+00:00:57,895 --> 00:01:00,085
+Most disease is correlated with poverty,
+
+21
+00:01:00,085 --> 00:01:02,354
+but in the case of childhood cancers,
+
+22
+00:01:02,354 --> 00:01:04,958
+the children who were dying seemed mostly to come
+
+23
+00:01:04,958 --> 00:01:07,403
+from affluent families.
+
+24
+00:01:07,403 --> 00:01:09,146
+So, what, she wanted to know,
+
+25
+00:01:09,146 --> 00:01:12,228
+could explain this anomaly?
+
+26
+00:01:12,228 --> 00:01:15,011
+Now, Alice had trouble getting funding for her research.
+
+27
+00:01:15,011 --> 00:01:17,002
+In the end, she got just 1,000 pounds
+
+28
+00:01:17,002 --> 00:01:19,257
+from the Lady Tata Memorial prize.
+
+29
+00:01:19,257 --> 00:01:21,800
+And that meant she knew she only had one shot
+
+30
+00:01:21,800 --> 00:01:23,842
+at collecting her data.
+
+31
+00:01:23,842 --> 00:01:26,319
+Now, she had no idea what to look for.
+
+32
+00:01:26,319 --> 00:01:29,435
+This really was a needle in a haystack sort of search,
+
+33
+00:01:29,435 --> 00:01:32,057
+so she asked everything she could think of.
+
+34
+00:01:32,057 --> 00:01:33,890
+Had the children eaten boiled sweets?
+
+35
+00:01:33,890 --> 00:01:35,963
+Had they consumed colored drinks?
+
+36
+00:01:35,963 --> 00:01:37,610
+Did they eat fish and chips?
+
+37
+00:01:37,610 --> 00:01:39,618
+Did they have indoor or outdoor plumbing?
+
+38
+00:01:39,618 --> 00:01:43,034
+What time of life had they started school?
+
+39
+00:01:43,034 --> 00:01:46,402
+And when her carbon copied questionnaire started to come back,
+
+40
+00:01:46,402 --> 00:01:49,322
+one thing and one thing only jumped out
+
+41
+00:01:49,322 --> 00:01:51,858
+with the statistical clarity of a kind that
+
+42
+00:01:51,858 --> 00:01:54,698
+most scientists can only dream of.
+
+43
+00:01:54,698 --> 00:01:56,618
+By a rate of two to one,
+
+44
+00:01:56,618 --> 00:01:58,699
+the children who had died
+
+45
+00:01:58,699 --> 00:02:04,994
+had had mothers who had been X-rayed when pregnant.
+
+46
+00:02:04,994 --> 00:02:09,499
+Now that finding flew in the face of conventional wisdom.
+
+47
+00:02:09,499 --> 00:02:11,406
+Conventional wisdom held
+
+48
+00:02:11,406 --> 00:02:15,403
+that everything was safe up to a point, a threshold.
+
+49
+00:02:15,403 --> 00:02:17,730
+It flew in the face of conventional wisdom,
+
+50
+00:02:17,730 --> 00:02:21,188
+which was huge enthusiasm for the cool new technology
+
+51
+00:02:21,188 --> 00:02:24,834
+of that age, which was the X-ray machine.
+
+52
+00:02:24,834 --> 00:02:29,058
+And it flew in the face of doctors' idea of themselves,
+
+53
+00:02:29,058 --> 00:02:32,866
+which was as people who helped patients,
+
+54
+00:02:32,866 --> 00:02:35,562
+they didn't harm them.
+
+55
+00:02:35,562 --> 00:02:39,250
+Nevertheless, Alice Stewart rushed to publish
+
+56
+00:02:39,250 --> 00:02:42,834
+her preliminary findings in The Lancet in 1956.
+
+57
+00:02:42,834 --> 00:02:46,842
+People got very excited, there was talk of the Nobel Prize,
+
+58
+00:02:46,842 --> 00:02:48,962
+and Alice really was in a big hurry
+
+59
+00:02:48,962 --> 00:02:52,753
+to try to study all the cases of childhood cancer she could find
+
+60
+00:02:52,753 --> 00:02:54,906
+before they disappeared.
+
+61
+00:02:54,906 --> 00:02:59,250
+In fact, she need not have hurried.
+
+62
+00:02:59,250 --> 00:03:03,441
+It was fully 25 years before the British and medical --
+
+63
+00:03:03,441 --> 00:03:06,313
+British and American medical establishments
+
+64
+00:03:06,313 --> 00:03:12,417
+abandoned the practice of X-raying pregnant women.
+
+65
+00:03:12,417 --> 00:03:17,898
+The data was out there, it was open, it was freely available,
+
+66
+00:03:17,898 --> 00:03:22,122
+but nobody wanted to know.
+
+67
+00:03:22,122 --> 00:03:24,806
+A child a week was dying,
+
+68
+00:03:24,806 --> 00:03:27,539
+but nothing changed.
+
+69
+00:03:27,539 --> 00:03:33,794
+Openness alone can't drive change.
+
+70
+00:03:33,794 --> 00:03:39,411
+So for 25 years Alice Stewart had a very big fight on her hands.
+
+71
+00:03:39,411 --> 00:03:42,658
+So, how did she know that she was right?
+
+72
+00:03:42,658 --> 00:03:46,321
+Well, she had a fantastic model for thinking.
+
+73
+00:03:46,321 --> 00:03:48,566
+She worked with a statistician named George Kneale,
+
+74
+00:03:48,566 --> 00:03:50,950
+and George was pretty much everything that Alice wasn't.
+
+75
+00:03:50,950 --> 00:03:54,019
+So, Alice was very outgoing and sociable,
+
+76
+00:03:54,019 --> 00:03:56,477
+and George was a recluse.
+
+77
+00:03:56,477 --> 00:04:00,491
+Alice was very warm, very empathetic with her patients.
+
+78
+00:04:00,491 --> 00:04:04,530
+George frankly preferred numbers to people.
+
+79
+00:04:04,530 --> 00:04:08,508
+But he said this fantastic thing about their working relationship.
+
+80
+00:04:08,508 --> 00:04:14,844
+He said, "My job is to prove Dr. Stewart wrong."
+
+81
+00:04:14,844 --> 00:04:18,401
+He actively sought disconfirmation.
+
+82
+00:04:18,401 --> 00:04:20,738
+Different ways of looking at her models,
+
+83
+00:04:20,738 --> 00:04:23,995
+at her statistics, different ways of crunching the data
+
+84
+00:04:23,995 --> 00:04:27,058
+in order to disprove her.
+
+85
+00:04:27,058 --> 00:04:32,682
+He saw his job as creating conflict around her theories.
+
+86
+00:04:32,682 --> 00:04:35,778
+Because it was only by not being able to prove
+
+87
+00:04:35,778 --> 00:04:38,146
+that she was wrong,
+
+88
+00:04:38,146 --> 00:04:41,267
+that George could give Alice the confidence she needed
+
+89
+00:04:41,267 --> 00:04:44,249
+to know that she was right.
+
+90
+00:04:44,249 --> 00:04:48,924
+It's a fantastic model of collaboration --
+
+91
+00:04:48,924 --> 00:04:53,931
+thinking partners who aren't echo chambers.
+
+92
+00:04:53,931 --> 00:04:56,283
+I wonder how many of us have,
+
+93
+00:04:56,283 --> 00:05:03,202
+or dare to have, such collaborators.
+
+94
+00:05:03,202 --> 00:05:06,979
+Alice and George were very good at conflict.
+
+95
+00:05:06,979 --> 00:05:10,115
+They saw it as thinking.
+
+96
+00:05:10,115 --> 00:05:14,388
+So what does that kind of constructive conflict require?
+
+97
+00:05:14,388 --> 00:05:17,763
+Well, first of all, it requires that we find people
+
+98
+00:05:17,763 --> 00:05:20,411
+who are very different from ourselves.
+
+99
+00:05:20,411 --> 00:05:24,747
+That means we have to resist the neurobiological drive,
+
+100
+00:05:24,747 --> 00:05:29,251
+which means that we really prefer people mostly like ourselves,
+
+101
+00:05:29,251 --> 00:05:31,475
+and it means we have to seek out people
+
+102
+00:05:31,475 --> 00:05:33,947
+with different backgrounds, different disciplines,
+
+103
+00:05:33,947 --> 00:05:38,098
+different ways of thinking and different experience,
+
+104
+00:05:38,098 --> 00:05:41,963
+and find ways to engage with them.
+
+105
+00:05:41,963 --> 00:05:46,607
+That requires a lot of patience and a lot of energy.
+
+106
+00:05:46,607 --> 00:05:48,418
+And the more I've thought about this,
+
+107
+00:05:48,418 --> 00:05:53,579
+the more I think, really, that that's a kind of love.
+
+108
+00:05:53,579 --> 00:05:56,648
+Because you simply won't commit that kind of energy
+
+109
+00:05:56,648 --> 00:06:01,339
+and time if you don't really care.
+
+110
+00:06:01,339 --> 00:06:05,799
+And it also means that we have to be prepared to change our minds.
+
+111
+00:06:05,799 --> 00:06:08,163
+Alice's daughter told me
+
+112
+00:06:08,163 --> 00:06:11,275
+that every time Alice went head-to-head with a fellow scientist,
+
+113
+00:06:11,275 --> 00:06:15,459
+they made her think and think and think again.
+
+114
+00:06:15,459 --> 00:06:19,477
+"My mother," she said, "My mother didn't enjoy a fight,
+
+115
+00:06:19,477 --> 00:06:24,619
+but she was really good at them."
+
+116
+00:06:24,619 --> 00:06:28,789
+So it's one thing to do that in a one-to-one relationship.
+
+117
+00:06:28,789 --> 00:06:32,076
+But it strikes me that the biggest problems we face,
+
+118
+00:06:32,076 --> 00:06:34,950
+many of the biggest disasters that we've experienced,
+
+119
+00:06:34,950 --> 00:06:36,901
+mostly haven't come from individuals,
+
+120
+00:06:36,901 --> 00:06:38,789
+they've come from organizations,
+
+121
+00:06:38,789 --> 00:06:40,797
+some of them bigger than countries,
+
+122
+00:06:40,797 --> 00:06:43,057
+many of them capable of affecting hundreds,
+
+123
+00:06:43,057 --> 00:06:47,060
+thousands, even millions of lives.
+
+124
+00:06:47,060 --> 00:06:51,498
+So how do organizations think?
+
+125
+00:06:51,498 --> 00:06:55,524
+Well, for the most part, they don't.
+
+126
+00:06:55,524 --> 00:06:58,517
+And that isn't because they don't want to,
+
+127
+00:06:58,517 --> 00:07:00,922
+it's really because they can't.
+
+128
+00:07:00,922 --> 00:07:04,269
+And they can't because the people inside of them
+
+129
+00:07:04,269 --> 00:07:08,477
+are too afraid of conflict.
+
+130
+00:07:08,477 --> 00:07:11,341
+In surveys of European and American executives,
+
+131
+00:07:11,341 --> 00:07:14,311
+fully 85 percent of them acknowledged
+
+132
+00:07:14,311 --> 00:07:17,828
+that they had issues or concerns at work
+
+133
+00:07:17,828 --> 00:07:21,461
+that they were afraid to raise.
+
+134
+00:07:21,461 --> 00:07:24,620
+Afraid of the conflict that that would provoke,
+
+135
+00:07:24,620 --> 00:07:26,988
+afraid to get embroiled in arguments
+
+136
+00:07:26,988 --> 00:07:29,019
+that they did not know how to manage,
+
+137
+00:07:29,019 --> 00:07:33,596
+and felt that they were bound to lose.
+
+138
+00:07:33,596 --> 00:07:39,773
+Eighty-five percent is a really big number.
+
+139
+00:07:39,773 --> 00:07:42,588
+It means that organizations mostly can't do
+
+140
+00:07:42,588 --> 00:07:44,916
+what George and Alice so triumphantly did.
+
+141
+00:07:44,916 --> 00:07:49,315
+They can't think together.
+
+142
+00:07:49,315 --> 00:07:51,556
+And it means that people like many of us,
+
+143
+00:07:51,556 --> 00:07:53,740
+who have run organizations,
+
+144
+00:07:53,740 --> 00:07:57,307
+and gone out of our way to try to find the very best people we can,
+
+145
+00:07:57,307 --> 00:08:03,580
+mostly fail to get the best out of them.
+
+146
+00:08:03,580 --> 00:08:06,916
+So how do we develop the skills that we need?
+
+147
+00:08:06,916 --> 00:08:10,999
+Because it does take skill and practice, too.
+
+148
+00:08:10,999 --> 00:08:14,413
+If we aren't going to be afraid of conflict,
+
+149
+00:08:14,413 --> 00:08:16,572
+we have to see it as thinking,
+
+150
+00:08:16,572 --> 00:08:20,908
+and then we have to get really good at it.
+
+151
+00:08:20,908 --> 00:08:25,172
+So, recently, I worked with an executive named Joe,
+
+152
+00:08:25,172 --> 00:08:28,644
+and Joe worked for a medical device company.
+
+153
+00:08:28,644 --> 00:08:31,619
+And Joe was very worried about the device that he was working on.
+
+154
+00:08:31,619 --> 00:08:34,644
+He thought that it was too complicated
+
+155
+00:08:34,644 --> 00:08:36,508
+and he thought that its complexity
+
+156
+00:08:36,508 --> 00:08:40,775
+created margins of error that could really hurt people.
+
+157
+00:08:40,775 --> 00:08:44,915
+He was afraid of doing damage to the patients he was trying to help.
+
+158
+00:08:44,915 --> 00:08:47,220
+But when he looked around his organization,
+
+159
+00:08:47,220 --> 00:08:51,681
+nobody else seemed to be at all worried.
+
+160
+00:08:51,681 --> 00:08:54,236
+So, he didn't really want to say anything.
+
+161
+00:08:54,236 --> 00:08:56,420
+After all, maybe they knew something he didn't.
+
+162
+00:08:56,420 --> 00:08:59,004
+Maybe he'd look stupid.
+
+163
+00:08:59,004 --> 00:09:01,210
+But he kept worrying about it,
+
+164
+00:09:01,210 --> 00:09:04,256
+and he worried about it so much that he got to the point
+
+165
+00:09:04,256 --> 00:09:06,415
+where he thought the only thing he could do
+
+166
+00:09:06,415 --> 00:09:10,545
+was leave a job he loved.
+
+167
+00:09:10,545 --> 00:09:14,545
+In the end, Joe and I found a way
+
+168
+00:09:14,545 --> 00:09:16,400
+for him to raise his concerns.
+
+169
+00:09:16,400 --> 00:09:19,271
+And what happened then is what almost always
+
+170
+00:09:19,271 --> 00:09:20,865
+happens in this situation.
+
+171
+00:09:20,865 --> 00:09:24,086
+It turned out everybody had exactly the same
+
+172
+00:09:24,086 --> 00:09:25,832
+questions and doubts.
+
+173
+00:09:25,832 --> 00:09:29,864
+So now Joe had allies. They could think together.
+
+174
+00:09:29,864 --> 00:09:33,128
+And yes, there was a lot of conflict and debate
+
+175
+00:09:33,128 --> 00:09:37,432
+and argument, but that allowed everyone around the table
+
+176
+00:09:37,432 --> 00:09:41,512
+to be creative, to solve the problem,
+
+177
+00:09:41,512 --> 00:09:45,840
+and to change the device.
+
+178
+00:09:45,840 --> 00:09:49,216
+Joe was what a lot of people might think of
+
+179
+00:09:49,216 --> 00:09:51,488
+as a whistle-blower,
+
+180
+00:09:51,488 --> 00:09:54,203
+except that like almost all whistle-blowers,
+
+181
+00:09:54,203 --> 00:09:56,576
+he wasn't a crank at all,
+
+182
+00:09:56,576 --> 00:10:00,024
+he was passionately devoted to the organization
+
+183
+00:10:00,024 --> 00:10:03,472
+and the higher purposes that that organization served.
+
+184
+00:10:03,472 --> 00:10:07,288
+But he had been so afraid of conflict,
+
+185
+00:10:07,288 --> 00:10:12,368
+until finally he became more afraid of the silence.
+
+186
+00:10:12,368 --> 00:10:14,227
+And when he dared to speak,
+
+187
+00:10:14,227 --> 00:10:17,625
+he discovered much more inside himself
+
+188
+00:10:17,625 --> 00:10:22,867
+and much more give in the system than he had ever imagined.
+
+189
+00:10:22,867 --> 00:10:26,198
+And his colleagues don't think of him as a crank.
+
+190
+00:10:26,198 --> 00:10:31,326
+They think of him as a leader.
+
+191
+00:10:31,326 --> 00:10:35,694
+So, how do we have these conversations more easily
+
+192
+00:10:35,694 --> 00:10:37,607
+and more often?
+
+193
+00:10:37,607 --> 00:10:39,593
+Well, the University of Delft
+
+194
+00:10:39,593 --> 00:10:41,990
+requires that its PhD students
+
+195
+00:10:41,990 --> 00:10:45,903
+have to submit five statements that they're prepared to defend.
+
+196
+00:10:45,903 --> 00:10:49,287
+It doesn't really matter what the statements are about,
+
+197
+00:10:49,287 --> 00:10:53,079
+what matters is that the candidates are willing and able
+
+198
+00:10:53,079 --> 00:10:55,682
+to stand up to authority.
+
+199
+00:10:55,682 --> 00:10:58,046
+I think it's a fantastic system,
+
+200
+00:10:58,046 --> 00:11:00,559
+but I think leaving it to PhD candidates
+
+201
+00:11:00,559 --> 00:11:04,864
+is far too few people, and way too late in life.
+
+202
+00:11:04,864 --> 00:11:08,030
+I think we need to be teaching these skills
+
+203
+00:11:08,030 --> 00:11:12,110
+to kids and adults at every stage of their development,
+
+204
+00:11:12,110 --> 00:11:14,559
+if we want to have thinking organizations
+
+205
+00:11:14,559 --> 00:11:18,206
+and a thinking society.
+
+206
+00:11:18,206 --> 00:11:23,824
+The fact is that most of the biggest catastrophes that we've witnessed
+
+207
+00:11:23,824 --> 00:11:30,215
+rarely come from information that is secret or hidden.
+
+208
+00:11:30,215 --> 00:11:34,519
+It comes from information that is freely available and out there,
+
+209
+00:11:34,519 --> 00:11:36,903
+but that we are willfully blind to,
+
+210
+00:11:36,903 --> 00:11:40,031
+because we can't handle, don't want to handle,
+
+211
+00:11:40,031 --> 00:11:44,438
+the conflict that it provokes.
+
+212
+00:11:44,438 --> 00:11:47,367
+But when we dare to break that silence,
+
+213
+00:11:47,367 --> 00:11:50,024
+or when we dare to see,
+
+214
+00:11:50,024 --> 00:11:52,279
+and we create conflict,
+
+215
+00:11:52,279 --> 00:11:54,904
+we enable ourselves and the people around us
+
+216
+00:11:54,904 --> 00:11:59,150
+to do our very best thinking.
+
+217
+00:11:59,150 --> 00:12:02,526
+Open information is fantastic,
+
+218
+00:12:02,526 --> 00:12:05,710
+open networks are essential.
+
+219
+00:12:05,710 --> 00:12:07,687
+But the truth won't set us free
+
+220
+00:12:07,687 --> 00:12:11,451
+until we develop the skills and the habit and the talent
+
+221
+00:12:11,451 --> 00:12:15,588
+and the moral courage to use it.
+
+222
+00:12:15,588 --> 00:12:19,348
+Openness isn't the end.
+
+223
+00:12:19,348 --> 00:12:21,990
+It's the beginning.
+
+224
+00:12:21,990 --> 00:12:33,469
+(Applause)

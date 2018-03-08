@@ -1,0 +1,327 @@
+1
+00:00:02,000 --> 00:00:08,000
+How a Smartphone Knows Up From Down EngineerGuy Series #4 ﻿
+
+2
+00:00:08,000 --> 00:00:11,000
+I think this is one of the coolest features of today’s smartphones.
+
+3
+00:00:11,000 --> 00:00:12,000
+It knows up from down.
+
+4
+00:00:12,000 --> 00:00:15,000
+Build into the circuitry is a tiny device that can
+
+5
+00:00:15,000 --> 00:00:19,000
+detect changes in orientation and tell the screen to rotate.
+
+6
+00:00:19,000 --> 00:00:25,000
+Let me show you what it looks like in an old iPhone.
+
+7
+00:00:25,000 --> 00:00:26,000
+There it is
+
+8
+00:00:26,000 --> 00:00:28,000
+It’s an accelerometer.
+
+9
+00:00:28,000 --> 00:00:30,000
+I’ll tell you how this kind of chip works and how its made
+
+10
+00:00:30,000 --> 00:00:32,000
+but first, some basics of accelerometers.
+
+11
+00:00:32,000 --> 00:00:34,000
+They have two fundamental parts
+
+12
+00:00:34,000 --> 00:00:38,000
+A housing attached to the object whose acceleration we want to measure
+
+13
+00:00:38,000 --> 00:00:41,000
+and a mass that, while tethered to the housing, can still move.
+
+14
+00:00:41,000 --> 00:00:43,000
+Here its a spring with a heavy metal ball.
+
+15
+00:00:43,000 --> 00:00:46,000
+If you move the housing up the ball lags behind
+
+16
+00:00:46,000 --> 00:00:47,000
+stretching the spring.
+
+17
+00:00:47,000 --> 00:00:49,000
+If we measure how much that spring stretches
+
+18
+00:00:49,000 --> 00:00:51,000
+we can calculate the force of gravity.
+
+19
+00:00:51,000 --> 00:00:54,000
+You can easily see that three of these could determine
+
+20
+00:00:54,000 --> 00:00:56,000
+the orientation of a 3-dimensional object.
+
+21
+00:00:56,000 --> 00:01:00,000
+While lying with the z-axis perpendicular to gravity only
+
+22
+00:01:00,000 --> 00:01:03,000
+the ball on the x-axis spring shows extension.
+
+23
+00:01:03,000 --> 00:01:06,000
+Turn this on it side so that z-axis point up and only
+
+24
+00:01:06,000 --> 00:01:10,000
+the accelerometer along the spring on that axis stretches.
+
+25
+00:01:10,000 --> 00:01:13,000
+So, how does this phone and this chip measure changes in gravity.
+
+26
+00:01:13,000 --> 00:01:17,000
+While more complex than the simple ball and spring model
+
+27
+00:01:17,000 --> 00:01:19,000
+it has the same fundamental elements.
+
+28
+00:01:19,000 --> 00:01:24,000
+Inside the chip engineers have created a tiny accelerometer out of silicon.
+
+29
+00:01:24,000 --> 00:01:26,000
+It has, of course, a housing that’s fixed to the phone
+
+30
+00:01:26,000 --> 00:01:30,000
+and a “comb-like” section can move back and forth.
+
+31
+00:01:30,000 --> 00:01:32,000
+That’s the seismic mass equivalent to the ball.
+
+32
+00:01:32,000 --> 00:01:34,000
+The spring in this case is the flexibility of the
+
+33
+00:01:34,000 --> 00:01:37,000
+thin silicon tethering it to the housing.
+
+34
+00:01:37,000 --> 00:01:40,000
+Clearly if we can measure the motion of this central section
+
+35
+00:01:40,000 --> 00:01:43,000
+we can detect changes in orientation.
+
+36
+00:01:43,000 --> 00:01:47,000
+To see how that’s done examine three of the fingers on the accelerometer.
+
+37
+00:01:47,000 --> 00:01:49,000
+The three fingers make up a differential capacitor.
+
+38
+00:01:49,000 --> 00:01:54,000
+That means that if the center section moves than current will flow.
+
+39
+00:01:54,000 --> 00:01:57,000
+Engineers correlate the amount of flowing current to acceleration.
+
+40
+00:01:57,000 --> 00:01:59,000
+This accelerometer fascinates me
+
+41
+00:01:59,000 --> 00:02:02,000
+but even more amazing is how they make such a thing.
+
+42
+00:02:02,000 --> 00:02:05,000
+It would seem nearly impossible to make such an intricate device
+
+43
+00:02:05,000 --> 00:02:08,000
+as the tiny smartphone accelerometer.
+
+44
+00:02:08,000 --> 00:02:12,000
+At only 500 microns across no tiny tools could craft such a thing.
+
+45
+00:02:12,000 --> 00:02:15,000
+Instead, engineers use some unique chemical properties of
+
+46
+00:02:15,000 --> 00:02:19,000
+silicon to etch the accelerometer's fingers and H-shaped section.
+
+47
+00:02:19,000 --> 00:02:21,000
+To get an idea of how they do this
+
+48
+00:02:21,000 --> 00:02:24,000
+let me show you how to make a single cantilevered beam
+
+49
+00:02:24,000 --> 00:02:25,000
+like a diving board
+
+50
+00:02:25,000 --> 00:02:27,000
+in a solid chunk of silicon.
+
+51
+00:02:27,000 --> 00:02:31,000
+Empirically, engineers noticed that if they pour potassium hydroxide
+
+52
+00:02:31,000 --> 00:02:33,000
+on a particular surface of crystalline silicon
+
+53
+00:02:33,000 --> 00:02:38,000
+it would eat away at the silicon until it forms a pyramidal-shaped hole.
+
+54
+00:02:38,000 --> 00:02:41,000
+This occurs because of the unique crystal structure of silicon.
+
+55
+00:02:41,000 --> 00:02:43,000
+To make a pyramidal hole in silicon engineers cover all but
+
+56
+00:02:43,000 --> 00:02:48,000
+a small square with a mask impervious to the KOH.
+
+57
+00:02:48,000 --> 00:02:52,000
+Now, it only etches within the square shape cordoned off by the mask.
+
+58
+00:02:52,000 --> 00:02:56,000
+The KOH dissolves silicon faster in the vertical
+
+59
+00:02:56,000 --> 00:02:57,000
+than in the horizontal direction.
+
+60
+00:02:57,000 --> 00:02:59,000
+This why it makes a pyramidal hole.
+
+61
+00:02:59,000 --> 00:03:02,000
+Now, to make a cantilevered beam engineers follow these steps.
+
+62
+00:03:02,000 --> 00:03:07,000
+First, mask the surface except for a u-shaped section.
+
+63
+00:03:07,000 --> 00:03:11,000
+At first the KOH will cut two inverse pyramids side-by-side.
+
+64
+00:03:11,000 --> 00:03:15,000
+As the etching continues the KOH begins to dissolve
+
+65
+00:03:15,000 --> 00:03:17,000
+the silicon between these holes.
+
+66
+00:03:17,000 --> 00:03:19,000
+If we wash it away at just the right point
+
+67
+00:03:19,000 --> 00:03:22,000
+before it dissolves the silicon just underneath the mask
+
+68
+00:03:22,000 --> 00:03:26,000
+it will leave a small cantilever beam hanging over a hole with a square bottom.
+
+69
+00:03:26,000 --> 00:03:30,000
+Engineers make smartphone accelerometer using these same methods
+
+70
+00:03:30,000 --> 00:03:34,000
+but as you can picture it takes a series of detailed masks
+
+71
+00:03:34,000 --> 00:03:37,000
+to create the intricate structure of a smartphone accelerometer.
+
+72
+00:03:37,000 --> 00:03:40,000
+While complex, a key point is that the whole process can be automated.
+
+73
+00:03:40,000 --> 00:03:44,000
+This is absolutely essential in the miniaturization of technology
+
+74
+00:03:44,000 --> 00:03:49,000
+engineers now make all sorts of amazing things at this tiny scale
+
+75
+00:03:49,000 --> 00:03:53,000
+microengines with gears that rotate 300,000 times a minute
+
+76
+00:03:53,000 --> 00:03:55,000
+nozzles in ink-jet printers, and my favorite
+
+77
+00:03:55,000 --> 00:03:59,000
+micromirrors that focus light in semiconductor lasers.
+
+78
+00:03:59,000 --> 00:04:01,000
+I’m Bill Hammack, the Engineer guy.
+
+79
+00:04:01,000 --> 00:04:03,000
+This video is based on a chapter in the book
+
+80
+00:04:03,000 --> 00:04:06,000
+Eight Amazing Engineering Stories
+
+81
+00:04:06,000 --> 00:04:08,000
+The chapters features more information about this subject.
+
+82
+00:04:08,000 --> 99:59:59,999
+Learn more about the book at the address below.

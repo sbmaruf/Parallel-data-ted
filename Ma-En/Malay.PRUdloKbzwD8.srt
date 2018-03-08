@@ -1,0 +1,632 @@
+1
+00:00:00,410 --> 00:00:03,670
+apa yang saya nak buat dalam video ini adalah
+
+2
+00:00:03,670 --> 00:00:05,470
+soalan soalan ketidaksamaan yang mudah
+
+3
+00:00:05,470 --> 00:00:07,710
+tujuan video ini adalah untuk membiasakan diri anda
+
+4
+00:00:07,710 --> 00:00:10,750
+dengan soalan soalan berkenaan ketidaksamaan ini
+
+5
+00:00:10,750 --> 00:00:12,390
+ok, mari kita mula dengan satu soalan
+
+6
+00:00:12,390 --> 00:00:19,590
+jadi kita ada X - 5 &lt; 35
+
+7
+00:00:19,590 --> 00:00:22,480
+mari kita lihat jika kita boleh cari semua nilai X untuk
+
+8
+00:00:22,480 --> 00:00:23,940
+menyelesaikan persamaan ini
+
+9
+00:00:23,940 --> 00:00:26,370
+Dan itulah salah satu perbezaan ketaksamaan
+
+10
+00:00:26,370 --> 00:00:30,000
+dalam sesuatu persamaan, anda biasa akan mempunyai satu penyelesaian, atau
+
+11
+00:00:30,000 --> 00:00:31,220
+satu yang kita selesaikan
+
+12
+00:00:31,220 --> 00:00:33,150
+nanti kita akan lihat persamaan di mana mereka ada lebih
+
+13
+00:00:33,150 --> 00:00:34,250
+dari satu penyelesaian
+
+14
+00:00:34,250 --> 00:00:36,150
+Tetapi soalan-soalan yang kita telah diselesaikan setakat ini,
+
+15
+00:00:36,150 --> 00:00:37,310
+anda mencari nilai X
+
+16
+00:00:37,310 --> 00:00:40,350
+dalam Ketidaksamaan, ada satu set X yang akan
+
+17
+00:00:40,350 --> 00:00:41,720
+memuaskan ketidaksamaan ini
+
+18
+00:00:41,720 --> 00:00:43,930
+jadi mereka kata, apakah nilai X, yang apabila anda tolak 5
+
+19
+00:00:43,930 --> 00:00:48,120
+daripada mereka, akan menjadi kurang dari 35 ?
+
+20
+00:00:48,120 --> 00:00:49,170
+kita sudah boleh fikirkan jawapannya
+
+21
+00:00:49,170 --> 00:00:50,690
+0-5
+
+22
+00:00:50,690 --> 00:00:52,290
+itu sudahpun kurang dari 35
+
+23
+00:00:52,290 --> 00:00:54,310
+-100 - 5
+
+24
+00:00:54,310 --> 00:00:55,750
+itu sudahpun kurang dari 35
+
+25
+00:00:55,750 --> 00:00:57,160
+5-5
+
+26
+00:00:57,160 --> 00:00:58,300
+itu kurang dari 35
+
+27
+00:00:58,300 --> 00:01:01,750
+jadi ada banyak X yang boleh menjadi jawapannya
+
+28
+00:01:01,750 --> 00:01:04,610
+tetapi apa yang kita hendak lakukan adalah dengan mencari jawapan yang
+
+29
+00:01:04,610 --> 00:01:07,060
+merangkumi semua X
+
+30
+00:01:07,060 --> 00:01:09,640
+cara untuk kita lakukan adalah sama degan cara kita buat
+
+31
+00:01:09,640 --> 00:01:10,960
+untuk selesaikan persamaan
+
+32
+00:01:10,960 --> 00:01:13,610
+kita hendak dapatkan terma X, dalam kes ini,
+
+33
+00:01:13,610 --> 00:01:14,720
+di sebelah kiri
+
+34
+00:01:14,720 --> 00:01:17,280
+saya hendak buang -5 ini, dan saya boleh
+
+35
+00:01:17,280 --> 00:01:20,400
+tambah 5 kepada kedua dua belah persamaan ini
+
+36
+00:01:24,350 --> 00:01:25,930
+ia tidak akan mengubah ketidaksamaan ini
+
+37
+00:01:25,930 --> 00:01:28,710
+ia tidak akan mengubah simbol kurang daripada ini
+
+38
+00:01:28,710 --> 00:01:31,470
+jika sesuatu kurang daripada sesuatu, sesuatu tambah
+
+39
+00:01:31,470 --> 00:01:35,720
+5 akan masih kurang daripada sesuatu yang lain tambah 5
+
+40
+00:01:35,720 --> 00:01:38,580
+di sebelah kiri, kita hanya ada satu X
+
+41
+00:01:38,580 --> 00:01:41,500
+-5 &amp; +5 ini akan terbatal
+
+42
+00:01:41,500 --> 00:01:45,730
+X kurang daripada 35 + 5, iaitu 40
+
+43
+00:01:45,730 --> 00:01:47,190
+jadi itu adalah penyelesaian kita
+
+44
+00:01:47,190 --> 00:01:50,010
+dan untuk memvisualisasikan kesemua nombor yang
+
+45
+00:01:50,010 --> 00:01:52,340
+diwakili, biar saya lukis garis nombor di sini
+
+46
+00:01:56,760 --> 00:02:01,280
+katakan lah itu adalah 40,
+
+47
+00:02:01,280 --> 00:02:05,250
+ini adalah 40, 41, 42
+
+48
+00:02:05,250 --> 00:02:06,730
+kemudian kita boleh pergi kurang dari 40
+
+49
+00:02:06,730 --> 00:02:09,390
+39, 38
+
+50
+00:02:09,389 --> 00:02:12,239
+anda boleh pergi bawah dari 40
+
+51
+00:02:12,240 --> 00:02:14,700
+ia akan pergi ke kedua dua arah
+
+52
+00:02:14,700 --> 00:02:18,610
+dan apa apa X yang kurang dari 40 akan memenuhi ketidaksamaan ini
+
+53
+00:02:18,610 --> 00:02:22,950
+jadi ia tidak sama dengan 40, kerana jika X = 40,
+
+54
+00:02:22,950 --> 00:02:25,010
+40 - 5 = 35
+
+55
+00:02:25,010 --> 00:02:27,130
+ia tidak kurang dari 35
+
+56
+00:02:27,130 --> 00:02:28,820
+jadi X harus kurang dari 40
+
+57
+00:02:28,820 --> 00:02:32,590
+dan untuk menunjukkan ini dalam garisan nombor, kita akan bulatkan 40
+
+58
+00:02:32,590 --> 00:02:34,620
+untuk menunjukkan kita tidak masukkan 40
+
+59
+00:02:34,620 --> 00:02:37,020
+tetapi kita akan lorek kesemua yang di bawah 40
+
+60
+00:02:37,020 --> 00:02:41,010
+jadi kesemua nombor kurang dari 40 termasuk ke dalam
+
+61
+00:02:41,010 --> 00:02:41,770
+set penyelesaian kita
+
+62
+00:02:41,770 --> 00:02:45,240
+kesemua nombor yang saya lorek dalam kuning termasuk dalam
+
+63
+00:02:45,240 --> 00:02:46,040
+set penyeselaian kita
+
+64
+00:02:46,040 --> 00:02:52,530
+jadi 39, 39.999999, ialah paling dekat dengan
+
+65
+00:02:52,530 --> 00:02:55,240
+40, itu berada dalam set penyelesaian kita
+
+66
+00:02:55,240 --> 00:02:56,370
+tetapi 40 tidak termasuk
+
+67
+00:02:56,370 --> 00:02:58,630
+sebab itu kita membulatkan ia
+
+68
+00:02:58,630 --> 00:03:00,850
+mari kita buat satu lagi
+
+69
+00:03:03,095 --> 00:03:06,865
+katakanlah kita ada X, biar saya buat di sudut atas
+
+70
+00:03:06,860 --> 00:03:08,360
+kanan
+
+71
+00:03:08,360 --> 00:03:16,320
+kita ada X + 15 lebih daripada atau bersamaan dengan
+
+72
+00:03:16,320 --> 00:03:17,570
+-60
+
+73
+00:03:17,570 --> 00:03:20,220
+lihat, kita ada lebih daripada atau bersamaan
+
+74
+00:03:20,220 --> 00:03:22,110
+mari kita selesaikan dengan cara yang sama kita selesaikan
+
+75
+00:03:22,110 --> 00:03:22,830
+soalan tadi
+
+76
+00:03:22,830 --> 00:03:25,360
+kita boleh tolak 15 dari kedua dua belah
+
+77
+00:03:26,800 --> 00:03:29,680
+saya tambah 5 pada garisan yang sama
+
+78
+00:03:29,680 --> 00:03:32,460
+anda boleh juga lakukan tambahan/tolakan di bawah
+
+79
+00:03:32,460 --> 00:03:33,480
+garisan, seperti ini
+
+80
+00:03:33,480 --> 00:03:37,130
+jika saya tolak 15 dari kedua dua belah, jadi saya akan buat
+
+81
+00:03:37,130 --> 00:03:40,170
+-15 di sini &amp; -15 di sini
+
+82
+00:03:40,170 --> 00:03:44,450
+kemudian di sebelah kiri akan hanya ada X
+
+83
+00:03:44,450 --> 00:03:46,110
+kerana anda ada 15-15
+
+84
+00:03:46,110 --> 00:03:47,420
+itu sudahpun terbatal
+
+85
+00:03:47,420 --> 00:03:51,850
+dan anda dapat X lebih daripada ataupun sama dengan -60 -
+
+86
+00:03:51,850 --> 00:03:56,000
+15 ialah 75
+
+87
+00:03:56,000 --> 00:03:59,050
+jika sesuatu lebih daripada atau bersamaan dengan sesuatu yang lain
+
+88
+00:03:59,050 --> 00:04:01,830
+jika saya ambil 15 daripada ini dan itu, simbol lebih daripada atau bersamaan
+
+89
+00:04:01,830 --> 00:04:03,760
+masih lagi digunakan
+
+90
+00:04:03,760 --> 00:04:06,320
+jadi penyelesaian kita ialah X lebih daripada atau bersamaan
+
+91
+00:04:06,320 --> 00:04:07,950
+dengan 75
+
+92
+00:04:07,950 --> 00:04:10,000
+mari kita grafkan ia di atas garisan nombor
+
+93
+00:04:09,995 --> 00:04:13,065
+biar saya lukiskan garisan nombor di sini
+
+94
+00:04:13,060 --> 00:04:18,310
+saya ada-- katakan ini adalah -75, itu -74
+
+95
+00:04:18,310 --> 00:04:24,310
+itu -73, itu -76
+
+96
+00:04:24,310 --> 00:04:25,450
+dan sebagainya
+
+97
+00:04:26,870 --> 00:04:31,280
+sekarang, X perlu lebih besar daripada atau bersamaan dengan -75
+
+98
+00:04:31,280 --> 00:04:34,590
+jadi X boleh bersamaan dengan -75
+
+99
+00:04:34,590 --> 00:04:38,470
+kita boleh masukkan titik ini, kerana kita ada simbol
+
+100
+00:04:38,470 --> 00:04:39,840
+lebih besar daripada atau bersamaan ini
+
+101
+00:04:39,840 --> 00:04:41,540
+lihat, kita tidak buatkan ia kosong seperti soalan lepas
+
+102
+00:04:41,540 --> 00:04:44,090
+kita akan isikan ia kerana ia boleh bersamaan dengan
+
+103
+00:04:44,090 --> 00:04:46,870
+-75 ataupun lebih
+
+104
+00:04:46,870 --> 00:04:48,020
+jadi lebih besar daripada atau bersamaan
+
+105
+00:04:48,015 --> 00:04:52,345
+kita akan lorekkan kesemua di atas -75
+
+106
+00:04:52,340 --> 00:04:55,160
+set penyelesaian berada dalam warna oren
+
+107
+00:04:55,160 --> 00:04:58,200
+dan ini akan pergi ke kanan
+
+108
+00:04:58,200 --> 00:04:59,970
+nilai X mungkin 1 million atau 1 billion
+
+109
+00:05:00,830 --> 00:05:03,220
+ia boleh menjadi nombor yang sangat besar selagi ia
+
+110
+00:05:03,220 --> 00:05:06,090
+lebih besar daripada atau bersamaan dengan -75
+
+111
+00:05:06,090 --> 00:05:08,080
+mari kita buat beberapa lagi soalan
+
+112
+00:05:08,080 --> 00:05:17,940
+X - 2 kurang daripada atau bersamaan 1
+
+113
+00:05:17,940 --> 00:05:19,650
+sekali lagi, kita hanya mahu X di
+
+114
+00:05:19,650 --> 00:05:20,440
+belah kiri kita
+
+115
+00:05:20,440 --> 00:05:21,830
+buangkan -2 ini
+
+116
+00:05:21,830 --> 00:05:24,400
+mari tambah 2 di kedua dua belah persamaan ini
+
+117
+00:05:24,400 --> 00:05:27,410
+tambah 2
+
+118
+00:05:27,410 --> 00:05:29,680
+belah kiri ini akan menjadi X
+
+119
+00:05:29,680 --> 00:05:31,400
+anda ada simbol kurang daripada atau bersamaan
+
+120
+00:05:31,400 --> 00:05:34,130
+simbol itu tidak akan berubah dengan tambah atau tolak benda yang sama
+
+121
+00:05:34,130 --> 00:05:36,140
+pada kedua dua belah ketidaksamaan ini
+
+122
+00:05:36,140 --> 00:05:37,740
+kemudian 1 + 2 = 3
+
+123
+00:05:37,740 --> 00:05:40,010
+jadi X perlu kurang daripada atau bersamaan dengan 3
+
+124
+00:05:40,010 --> 00:05:42,960
+apa apa nilai X yang kurang daripada atau bersamaan dengan 3 akan
+
+125
+00:05:42,960 --> 00:05:45,120
+memuaskan persamaan ini
+
+126
+00:05:45,120 --> 00:05:46,640
+mari kita plotkan ia
+
+127
+00:05:46,640 --> 00:05:49,180
+saya akan cuba apa apa X yang kurang daripada atau bersamaan dengan 3 dan
+
+128
+00:05:49,180 --> 00:05:52,160
+pastikan yang ia memuaskan ketidaksamaan ini
+
+129
+00:05:55,790 --> 00:05:59,520
+biar saya grafkan set penyelesaiaannya
+
+130
+00:05:59,520 --> 00:06:05,140
+katakan lah ini 0,1,2,3,4
+
+131
+00:06:05,140 --> 00:06:07,830
+itu adalah -1, -2
+
+132
+00:06:07,830 --> 00:06:10,020
+jadi X mesti kurang daripada atau bersamaan dengan 3
+
+133
+00:06:10,020 --> 00:06:13,480
+ia boleh menjadi = 3, jadi kita isikan ia
+
+134
+00:06:13,480 --> 00:06:14,920
+atau pun kurang daripada 3
+
+135
+00:06:14,920 --> 00:06:18,730
+jadi set penyelesaian untuk ini dalam warna pink
+
+136
+00:06:18,730 --> 00:06:20,290
+apa apa yang kurang daripada atau bersamaan dengan 3
+
+137
+00:06:21,640 --> 00:06:25,670
+jika X = 3, anda dapat 3-2 = 1
+
+138
+00:06:25,670 --> 00:06:29,170
+dan itu masuk akal kerana ia mungkin kurang daripada atau bersamaan.
+
+139
+00:06:29,170 --> 00:06:34,950
+jika 2.999999 - 2, anda dapat 0.999999 iaitu kurang
+
+140
+00:06:34,950 --> 00:06:35,920
+daripada 1
+
+141
+00:06:35,920 --> 00:06:38,500
+anda boleh terus cuba apa apa nombor dalam
+
+142
+00:06:38,500 --> 00:06:40,280
+penyelesaian pink di sini
+
+143
+00:06:40,280 --> 00:06:43,370
+mari kita buat satu lagi
+
+144
+00:06:43,370 --> 00:06:49,830
+kita ada X - 32 kurang daripada atau bersamaan dengan 0
+
+145
+00:06:49,830 --> 00:06:51,160
+sama juga seperti sebelumnya
+
+146
+00:06:51,160 --> 00:06:53,280
+mari kita tambah 32 pada kedua dua belah persamaan ini
+
+147
+00:06:57,360 --> 00:07:00,820
+belah kiri akan menjadi X dan kemudian
+
+148
+00:07:00,820 --> 00:07:04,650
+belah kanan ialah kurang daripada atau bersamaan dengan 32
+
+149
+00:07:09,110 --> 00:07:11,250
+kita lukis garisan nombor
+
+150
+00:07:11,250 --> 00:07:16,200
+jika ini adalah 32, ini adalah 33, ini adalh 31
+
+151
+00:07:16,200 --> 00:07:20,140
+saya boleh terus tambah nombor di atas dan bawah 32
+
+152
+00:07:20,140 --> 00:07:23,000
+untuk set penyelesaian ialah kesemua yang kurang daripada atau bersamaan,
+
+153
+00:07:23,000 --> 00:07:26,410
+ia akan bersamaan dengan 32, atau pun kurang
+
+154
+00:07:26,410 --> 00:07:30,580
+jadi kita isi kesemua yang di bawah itu
+
+155
+00:07:30,580 --> 00:07:32,790
+ingat, sebab kita isikan ini
+
+156
+00:07:36,960 --> 00:07:41,090
+adalah kerasan simbol kurang daripada atau bersamaan ini
+
+157
+00:07:41,090 --> 00:07:43,040
+di sini, anda tidak ada simbol kurang daripada atau bersamaan,
+
+158
+00:07:43,040 --> 00:07:45,890
+sebab itu 40 tidak berada dalam set penyelesaian
+

@@ -1,0 +1,36 @@
+1
+00:00:00,000 --> 00:00:03,000
+Suatu lagi soalan carian--
+
+2
+00:00:03,000 --> 00:00:08,000
+Timbangkan pokok carian berikut,
+
+3
+00:00:08,000 --> 00:00:12,000
+di mana ini ada noda permulaan.
+
+4
+00:00:12,000 --> 00:00:15,000
+Sekarang, anggapkan bahawa kita mencari dari kiri ke kanan
+
+5
+00:00:15,000 --> 00:00:19,000
+Saya ingin kamu memberitahu saya bilangan noda-noda yang diperkembangkan dengan carian lebar-dahulu
+
+6
+00:00:19,000 --> 00:00:22,000
+dan carian dalam-dahulu.
+
+7
+00:00:22,000 --> 00:00:25,000
+Tolong bilangkan juga noda permulaan dan noda matlamat,
+
+8
+00:00:25,000 --> 00:00:28,000
+dan sila berikan saya nombor-nombor bagi Carian Kanan-ke-Kiri.
+
+9
+00:00:28,000 --> 09:59:59,000
+bagi Lebar-Dahulu, dan Dalam-Dahulu.
+

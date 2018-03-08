@@ -1,0 +1,151 @@
+1
+00:00:01,867 --> 00:00:06,533
+Jumlahkan 3 1/8 + 3/4 + ( -2 1/6)
+
+2
+00:00:06,533 --> 00:00:12,067
+Kita ada dua nombor positif, biar saya lukiskan
+
+3
+00:00:12,067 --> 00:00:19,533
+garis nombor, kita mulakan dengan 3 1/8,
+
+4
+00:00:19,533 --> 00:00:28,600
+ni 0, kemudian kita ada 1, 2, 3, dan 4.
+
+5
+00:00:28,600 --> 00:00:35,933
+3 1/8 akan berada di sini.
+
+6
+00:00:35,933 --> 00:00:42,267
+3 1/8 akan berada 3 1/8 ruang ke kanan 0.
+
+7
+00:00:42,267 --> 00:00:49,400
+itu adalah jarak tepat antaranya dengan 0.
+
+8
+00:00:49,400 --> 00:00:51,800
+Panjang anak panah ini adalah 3 1/8.
+
+9
+00:00:51,800 --> 00:00:57,533
+Bila kita ada pecahan yang berlainan penyebut
+
+10
+00:00:57,533 --> 00:00:59,067
+saya suka selesaikan menggunakan pecahan tak wajar
+
+11
+00:00:59,067 --> 00:01:02,867
+yang lebih memudahkan pengiraan.
+
+12
+00:01:02,867 --> 00:01:09,133
+Jadi 3 1/8 adalah 25/8.
+
+13
+00:01:22,200 --> 00:01:26,133
+Kita akan tambahkan itu ke 3/4.
+
+14
+00:01:26,133 --> 00:01:30,200
+Kita akan bergerak 3/4 ruang
+
+15
+00:01:30,200 --> 00:01:42,400
+ke kanan, panjang ini adalah 3/4.
+
+16
+00:01:42,400 --> 00:01:46,867
+Kita perlu jumlahkan semua nombor ni.
+
+17
+00:01:46,867 --> 00:02:01,467
+Kita ada 25/8 +3/4. GSTK untuk 4 dan 8 adalah 8.
+
+18
+00:02:01,467 --> 00:02:15,800
+Jadi 3/4=6/8.
+
+19
+00:02:15,800 --> 00:02:25,200
+25/8+6/8=31/8
+
+20
+00:02:25,200 --> 00:02:34,600
+Nombor yang di sini adalah 31/8
+
+21
+00:02:34,600 --> 00:02:39,800
+32/8=4 jadi 31/8 adalah kurang sikit dari 4.
+
+22
+00:02:39,800 --> 00:02:52,533
+Panjang anak panah ini adalah 31/8.
+
+23
+00:02:52,533 --> 00:03:06,067
+Untuk menulis ia dalam bentuk nombor bercampur adalah 3 7/8.
+
+24
+00:03:06,067 --> 00:03:13,533
+Kemudian kita perlu menambah -2 1/6 ke dalam jumlah itu.
+
+25
+00:03:13,533 --> 00:03:20,600
+Mari fikirkan tentang -2 1/6.
+
+26
+00:03:20,600 --> 00:03:29,800
+kita akan tambahkan -2 kepada -1/6
+
+27
+00:03:29,800 --> 00:03:42,733
+Kita boleh lukiskan -2 1/6 macam ni.
+
+28
+00:03:45,533 --> 00:03:56,133
+Kita boleh fikirkan dalam beberapa cara, bila kita menambah
+
+29
+00:03:56,133 --> 00:04:04,267
+ia adalah sama seperti menolak 2 1/6
+
+30
+00:04:18,733 --> 00:04:30,267
+nilainya adalah perbezaan antara 31/8 dengan -2 1/6
+
+31
+00:04:30,267 --> 00:04:34,867
+Kita tolak 2 1/6 dari 31/8
+
+32
+00:04:34,867 --> 00:04:43,800
+31/8 - 2 1/6
+
+33
+00:04:43,800 --> 00:04:56,733
+2 1/6 = 13/6
+
+34
+00:04:56,733 --> 00:05:06,200
+GSTK untuk 8 dan 6 adalah 24.
+
+35
+00:05:06,200 --> 00:05:46,400
+31/8 = 93/24 , dan 13/6 = 52/24
+
+36
+00:05:56,733 --> 00:06:01,000
+Jadi 93/24 - 52/24 = 41/24
+
+37
+00:06:01,000 --> 00:06:13,133
+Ia adalah nilai positif; 41/24.
+
+38
+00:06:13,133 --> 99:59:59,999
+Nilainya akan kurang sedikit dari 2

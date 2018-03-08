@@ -1,0 +1,268 @@
+1
+00:00:00,631 --> 00:00:04,771
+jadi sekarang kita ada soalan yang agak menarik
+
+2
+00:00:04,771 --> 00:00:08,631
+pada skala di sebelah kiri, saya ada 2 jenis berat yang tak diketahui
+
+3
+00:00:08,628 --> 00:00:15,668
+satu daripada berat X &amp; kita tahu mereka mempunyai berat yang sama
+
+4
+00:00:15,665 --> 00:00:23,625
+kemudian kita ada benda biru ni yang ada berat Y, yang tak semestinya sama dengan berat X
+
+5
+00:00:23,627 --> 00:00:33,657
+kita ada dua X dan 1Y. jumlah berat mereka mengimbangkan skala yang ada berat 8kg di belah kanan
+
+6
+00:00:33,661 --> 00:00:41,041
+perkara pertama yang saya akan tanya anda, bolehkah anda wakilkan ia secara matematik ?
+
+7
+00:00:41,037 --> 00:00:45,827
+bolehkah anda mengekspresikan apa yang kita lihat di sini, di mana jumlah berat ini sama dgn jumlah berat ini
+
+8
+00:00:45,826 --> 00:00:49,236
+boleh kah anda mengekspresikannya secara matematik
+
+9
+00:00:51,247 --> 00:00:54,477
+mari kita fikir tentang jumlah berat di sebelah sini
+
+10
+00:00:54,815 --> 00:01:00,865
+kita ada dua berat X maka ia akan jadi 2X, &amp; anda ada berat Y
+
+11
+00:01:01,082 --> 00:01:07,972
+jadi anda akan ada satu lagi Y. jadi itulah jumlah berat pada belah kiri.. biar saya tuliskan semula
+
+12
+00:01:08,105 --> 00:01:13,985
+jadi pada belah kiri, saya ada 2X+Y. itulah jumlah beratnya
+
+13
+00:01:14,058 --> 00:01:24,788
+jumlah berat pada belah kiri ialah 2X+Y, jumlah berat pada belah kanan ialah 8. 1,2,3,4,5,6,7,8. sama dgn 8
+
+14
+00:01:25,168 --> 00:01:30,748
+kita nampak skala itu seimbang, jadi jumlah berat ini mesti sama dengan jumlah berat ini
+
+15
+00:01:30,750 --> 00:01:33,420
+kita boleh letak simbol sama dengan di sini
+
+16
+00:01:33,421 --> 00:01:45,621
+soalan saya ialah boleh tak kita buat apa apa dengan info yang kita ada untuk mencari berat X atau berat Y ?
+
+17
+00:01:45,625 --> 00:01:48,315
+bolehkah kita buat sesuatu ?
+
+18
+00:01:50,744 --> 00:01:54,584
+sebenarnya informasi yang mereka beri ini sangat sedikit
+
+19
+00:01:54,580 --> 00:01:58,250
+anda mungkin kata biar saya ambil Y dari kedua dua belah
+
+20
+00:01:58,245 --> 00:02:03,495
+tapi jika anda ambil Y ini anda harus buang Y dari belah ini dan anda takkan tahu apa nilai Y
+
+21
+00:02:03,491 --> 00:02:09,761
+&amp; jika anda fikirkan ia secara algebra anda mungkin akan buang Y. tolak Y dan anda kena tolak Y di belah sini juga
+
+22
+00:02:09,756 --> 00:02:11,926
+jadi anda tak boleh buang Y
+
+23
+00:02:11,921 --> 00:02:18,091
+sama juga dengan X, anda tak ada info yang mencukupi. Y bergantung kepada X dan sebaliknya
+
+24
+00:02:18,419 --> 00:02:25,919
+kita bernasib baik kerana kita masih ada beberapa blok di sini. apa kita buat ialah kita ambil satu daripada blok X ini
+
+25
+00:02:25,918 --> 00:02:32,578
+dan saya susunkan di sini &amp; saya juga ambil satu daripada blok Y dan saya susunkan di sini
+
+26
+00:02:32,749 --> 00:02:37,369
+dan saya akan tambahkan ini sampai saya dapat seimbangkan ia
+
+27
+00:02:37,366 --> 00:02:42,666
+jadi saya akan tambahkan ini. jika saya letak ini di sini, ini akan turun kebawah kerana tak ada apa apa di sisi
+
+28
+00:02:42,668 --> 00:02:56,748
+tapi jika saya tambah blok ini sampai ia seimbang &amp; saya tahu yang skala saya seimbang selepas saya ada 5 kg pada belah kanan
+
+29
+00:02:57,005 --> 00:03:03,635
+jadi sekali lagi, biar saya tanya anda info yang kita ada, X &amp; Y pada belah kiri &amp; 5kg pada belah kanan
+
+30
+00:03:03,633 --> 00:03:07,853
+dan mereka seimbang, bagaimana kita mewakili ia secara matematik ?
+
+31
+00:03:09,996 --> 00:03:21,596
+jumlah berat pada belah kiri ialah X+Y. jadi jumlah berat kita
+
+32
+00:03:21,808 --> 00:03:31,278
+ialah X+Y pada belah kiri dan pada belah kanan saya ada 5kg
+
+33
+00:03:32,895 --> 00:03:39,975
+saya ada 5kg pada belah kanan. dan kita tahu ia seimbangkan skala. jadi jumlah berat mesti sama dengan satu sama lain
+
+34
+00:03:40,564 --> 00:03:46,084
+saya tak boleh buat apa apa dengan info yang diberi, saya taktahu apa X &amp; Y
+
+35
+00:03:46,082 --> 00:03:51,752
+jika Y ialah 4 mungkin X ialah 1 atau mungkin X ialah 4, Y ialah 1. takde siapa pun tahu
+
+36
+00:03:51,919 --> 00:04:00,999
+yang menariknya ialah kita boleh guna keduadua info ini untuk mencari apakan X &amp; Y
+
+37
+00:04:01,168 --> 00:04:06,288
+dan saya akanberi anda beberapa saat untuk fikirkan bagaimana nak selesaikan ini
+
+38
+00:04:08,920 --> 00:04:13,220
+fikirkan macamni, kita tahu X+Y=5
+
+39
+00:04:13,572 --> 00:04:18,192
+jika kita buang X &amp; Y pada belah kiri
+
+40
+00:04:18,342 --> 00:04:24,482
+jika kita buang X&amp;Y pada belah kiri skala ini
+
+41
+00:04:24,640 --> 00:04:28,580
+apa yang perlu kita buang pada belah kanan untuk seimbangkan skala ?
+
+42
+00:04:29,007 --> 00:04:38,547
+jika kita ambil X&amp;Y pada belah kiri, kita tahu yang X+Y ialah 5kg, jadi kita harus buang 5kg pada belah kanan
+
+43
+00:04:38,758 --> 00:04:45,438
+mari kita fikir apa akan berlaki, saya akan ada X di sini, saya ada beberapa berat di sini, kemudian saya akan tau apakah X
+
+44
+00:04:45,763 --> 00:04:48,833
+sekarang mari kita wakilkan ia secara algebra
+
+45
+00:04:49,169 --> 00:04:54,909
+jika saya ambil X&amp;Y pada belah kiri
+
+46
+00:04:55,138 --> 00:05:09,758
+saya tolak satu X-- macamnilah, saya tolak X+Y. saya tolak X+Y pada belah kiri
+
+47
+00:05:09,896 --> 00:05:12,276
+tapi apa saya nak buat pada belah kanan ?
+
+48
+00:05:12,629 --> 00:05:17,689
+x&amp;y kita tahu mempunyai berat sebanyak 5kg. jadi kita boleh tolak 5 pada belah kanan
+
+49
+00:05:18,505 --> 00:05:22,425
+saya boleh buat ini berdasarkan info yang kita dapat pada skala kedua ini
+
+50
+00:05:22,675 --> 00:05:29,825
+jadi saya boleh buang 5. jadi ia akan sama dengan tolak 5. dgn membuang X&amp;Y sama dengan membuang 5
+
+51
+00:05:30,129 --> 00:05:37,389
+&amp; kita tahu itu kerana X&amp;Y sama dgn 5kg. jika kita buang X&amp;Y pada belah kiri, apa yang kita tinggal ?
+
+52
+00:05:37,729 --> 00:05:42,529
+ia akan jadi benda yang sama. biar saya tulis semula
+
+53
+00:05:43,342 --> 00:05:54,972
+buang X&amp;Y ialah sama juga jika anda mengedarkan simbol negatif dari X dan dari Y.
+
+54
+00:05:56,718 --> 00:06:05,738
+jadi pada belah kiri, kita akan tinggal dgn 2X &amp; kita telah ambil satu daripada X, kita hanya tinggal satu X
+
+55
+00:06:06,601 --> 00:06:09,601
+dan kita ada Y dan kita telah ambil satu Y, jadi kita tak ada Y
+
+56
+00:06:09,970 --> 00:06:12,230
+kita nampak ia secara visual, kita hanya tinggal satu X di sini
+
+57
+00:06:12,227 --> 00:06:14,137
+apa yang kita ada pada belah kanan ?
+
+58
+00:06:14,564 --> 00:06:26,104
+kita ada 8 dan kita tahu X&amp;Y sama dengan 5 jadi kita buang 5 untuk seimbangkan skala. jadi 8-5 akan jadi 3
+
+59
+00:06:26,453 --> 00:06:38,953
+8-5 sama dengan 3 dan dengan menggunakan info extra ini kita dapat tahu yang X sama dengan 3
+
+60
+00:06:39,242 --> 00:06:47,002
+sekarang, satu soalan lagi. kita sudah tahu berat X, kita boleh cari berat Y pula
+
+61
+00:06:48,648 --> 00:06:53,448
+kita boleh pergi ke mana mana skala. saya nak skala ini
+
+62
+00:06:53,766 --> 00:07:01,156
+kita tahu berat X+beratY ialah 5, jadi X sama dengan 3
+
+63
+00:07:01,480 --> 00:07:13,710
+kita tahu ini adalah 3kg. kita boleh tulis semula sebagai 3+Y=5
+
+64
+00:07:14,323 --> 00:07:17,553
+sekarang kita kata kita ambil 3 dari kedua dua belah
+
+65
+00:07:17,554 --> 00:07:24,104
+jika saya ambil 3 dari belah kiri saya perlu ambil 3 dari belah kanan untuk seimbangkannya
+
+66
+00:07:24,333 --> 00:07:30,283
+saya akan tinggal berat Y = 2
+
+67
+00:07:30,667 --> 00:07:43,487
+itu sahaja masa yang saya ada. sekian terima kasih!
+

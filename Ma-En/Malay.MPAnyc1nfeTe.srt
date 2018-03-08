@@ -1,0 +1,403 @@
+1
+00:00:00,560 --> 00:00:04,150
+Kita diminta untuk mengira 4,800, atau empat ribu lapan
+
+2
+00:00:04,150 --> 00:00:07,720
+ratus, dibahagi dengan 80, dan mereka mahu kita untuk menyemak jawapan
+
+3
+00:00:07,720 --> 00:00:09,780
+kita, atau mereka kata semak jawapan kamu.
+
+4
+00:00:09,780 --> 00:00:12,480
+Pertama sekali, saya akan buat dengan cara tradisional,
+
+5
+00:00:12,480 --> 00:00:14,500
+dan kemudian kita fikirkan cara yang lebih cepat
+
+6
+00:00:14,500 --> 00:00:16,920
+untuk menyelesaikannya atau jika kita boleh buatnya di dalam otak kita.
+
+7
+00:00:16,920 --> 00:00:19,380
+Mari kita buat cara tradisional dulu. Kita
+
+8
+00:00:19,380 --> 00:00:28,460
+ada 80 dan kita mahu bahagikannya dengan 4,800.
+
+9
+00:00:28,460 --> 00:00:31,980
+Empat ribu lapan ratus.
+
+10
+00:00:31,980 --> 00:00:35,100
+Atau, jika kita mahu tahu terminologinya, 80 ialah
+
+11
+00:00:35,100 --> 00:00:40,480
+pembahagi, 4,800 ialah dividen, dan nombor
+
+12
+00:00:40,480 --> 00:00:45,230
+yang kita dapat bila 80 dibahagi dengan 4,800,
+
+13
+00:00:45,230 --> 00:00:46,990
+ialah hasil bahagi.
+
+14
+00:00:46,990 --> 00:00:50,230
+Saya selalu keliru bila saya mula gunakan perkataan sebegini,
+
+15
+00:00:50,230 --> 00:00:54,430
+jadi kita hanya perlu fikirkan 80 dibahagikan ke 4,800.
+
+16
+00:00:54,430 --> 00:00:58,840
+Perkara pertama : Adakah 80 memenuhi 4?
+
+17
+00:00:58,840 --> 00:00:59,500
+Tidak.
+
+18
+00:00:59,500 --> 00:01:01,320
+Adakah 80 memenuhi 48?
+
+19
+00:01:01,320 --> 00:01:02,710
+Tidak. Ia lebih besar dari 48.
+
+20
+00:01:02,710 --> 00:01:06,040
+Adakah 80 memenuhi 480?
+
+21
+00:01:06,040 --> 00:01:07,260
+Ini nampaknya menarik.
+
+22
+00:01:07,260 --> 00:01:12,310
+Mari kita lihat, 6 darab 8 ialah 48, jadi 6 darab 80 ialah 480.
+
+23
+00:01:12,310 --> 00:01:14,315
+Kita boleh buatnya di sini.
+
+24
+00:01:14,315 --> 00:01:16,180
+80 darab 6.
+
+25
+00:01:16,180 --> 00:01:18,000
+6 darab 0 ialah 0.
+
+26
+00:01:18,000 --> 00:01:20,150
+6 darab 8 ialah 48.
+
+27
+00:01:20,150 --> 00:01:22,800
+Cara lain untuk fikirkan ialah 6 darab 8
+
+28
+00:01:22,800 --> 00:01:25,470
+ialah 48, dan kita ada satu sifar yang ekstra di disini, jadi kamu
+
+29
+00:01:25,470 --> 00:01:26,910
+boleh tambahkan 0 di sana.
+
+30
+00:01:26,910 --> 00:01:33,020
+80 memenuhi 480 sebanyak enam kali, sebab kami hanya
+
+31
+00:01:33,020 --> 00:01:34,820
+sedang mempertimbangkan 480.
+
+32
+00:01:34,820 --> 00:01:38,980
+Kita letakkan 6 di nilai tempat 'sa', yang sebenarnya
+
+33
+00:01:38,980 --> 00:01:41,750
+nilai tempat 'puluh', tapi jika kamu hanya fikirkan 480, ia
+
+34
+00:01:41,750 --> 00:01:43,360
+adalah tepat di atas sifar.
+
+35
+00:01:43,360 --> 00:01:50,520
+Sekarang 6 darab 80 ialah--kita sudah nampak--480, dan kemudian kita boleh
+
+36
+00:01:50,520 --> 00:01:53,830
+tolak, dan kita akan dapat sifar, dan kita bawa
+
+37
+00:01:53,830 --> 00:01:56,090
+turun satu sifar lagi.
+
+38
+00:01:56,090 --> 00:01:58,710
+80 memenuhi sifar berapa kali?
+
+39
+00:01:58,710 --> 00:02:00,530
+Ia memenuhi sifar kosong kali.
+
+40
+00:02:00,530 --> 00:02:03,140
+0 darab 80 ialah 0.
+
+41
+00:02:03,140 --> 00:02:03,960
+Kamu tolakkan.
+
+42
+00:02:03,960 --> 00:02:06,710
+Kamu dapat sifar, dan tiada apa-apa lagi untuk dibawa ke bawah, jadi
+
+43
+00:02:06,710 --> 00:02:07,630
+kita sudah selesai.
+
+44
+00:02:07,630 --> 00:02:11,100
+4,800 dibahagikan dengan 80 ialah 60.
+
+45
+00:02:11,100 --> 00:02:15,930
+Bila dividen ialah 4,800, dan pembahagi--biar saya tuliskan
+
+46
+00:02:15,930 --> 00:02:16,660
+perkataan-perkataan ini.
+
+47
+00:02:16,660 --> 00:02:18,090
+Ini ialah pembahagi,
+
+48
+00:02:21,020 --> 00:02:22,270
+Ini ialah dividen.
+
+49
+00:02:25,320 --> 00:02:30,200
+Hasil bahagi ialah 60.
+
+50
+00:02:30,200 --> 00:02:32,690
+Sekarang, mereka mahu kita menyemak jawapan, jadi kita hanya perlu
+
+51
+00:02:32,690 --> 00:02:37,520
+mengesahkan bahawa 60 darab 80 ialah 4,800. Mari kita buat.
+
+52
+00:02:37,520 --> 00:02:41,960
+60 darab 80--ada dua cara untuk melakukannya.
+
+53
+00:02:41,960 --> 00:02:45,190
+Kamu boleh darabkan 6 dengan 8 iaitu 48, dan kemudian
+
+54
+00:02:45,190 --> 00:02:47,320
+ia akan ada dua sifar di sini, satu, dua.
+
+55
+00:02:47,320 --> 00:02:48,900
+Itu ialah 4,800.
+
+56
+00:02:48,900 --> 00:02:50,120
+Atau kita boleh cuba buat.
+
+57
+00:02:50,120 --> 00:02:52,090
+0 darab 0 ialah 0.
+
+58
+00:02:52,090 --> 00:02:54,320
+0 darab 6 ialah 0.
+
+59
+00:02:54,320 --> 00:02:56,220
+Kita letakkan sifar di sini kerana kita
+
+60
+00:02:56,220 --> 00:02:58,340
+sedang berada di nilai tempat 'puluh'.
+
+61
+00:02:58,340 --> 00:02:59,320
+Letakkan sifar di sini.
+
+62
+00:02:59,320 --> 00:03:00,820
+8 darab 0 ialah 0.
+
+63
+00:03:00,820 --> 00:03:04,130
+8 darab 6 ialah 48.
+
+64
+00:03:04,130 --> 00:03:05,200
+Campurkan semua ini.
+
+65
+00:03:05,200 --> 00:03:08,570
+Kamu dapat 4,800. Jadi, ia berfungsi.
+
+66
+00:03:08,570 --> 00:03:13,170
+Cara yang lebih cepat ialah katakan 8 darab 6 ialah 48,
+
+67
+00:03:13,170 --> 00:03:16,640
+dan kamu ada satu, dua sifar di sini, jadi satu, dua
+
+68
+00:03:16,640 --> 00:03:18,430
+sifar di sana.
+
+69
+00:03:18,430 --> 00:03:23,720
+Sekarang, cara yang pantas untuk fikirkan tentang 4,800 dibahagi dengan 80 ialah
+
+70
+00:03:23,720 --> 00:03:28,050
+bahagikan kedua-dua nombor ini dengan 10 terlebih dahulu.
+
+71
+00:03:28,050 --> 00:03:31,090
+Dan untuk fikirkannya, ia boleh
+
+72
+00:03:31,090 --> 00:03:36,230
+ditulis sebagai 4,800/80.
+
+73
+00:03:36,230 --> 00:03:40,220
+Atau ia boleh ditulis sebagai--biar saya tuliskan di sini.
+
+74
+00:03:40,220 --> 00:03:52,130
+4,800/80 boleh ditulis sebagai 480 darab 10 per 8 darab 10.
+
+75
+00:03:52,130 --> 00:04:00,500
+4,800 ialah 480 darab 10, dan 80 ialah 8 darab 10.
+
+76
+00:04:00,500 --> 00:04:01,890
+Apa yang akan berlaku sekarang?
+
+77
+00:04:01,890 --> 00:04:13,940
+Kamu boleh lihatnya sebagai sama dengan 480/8 darab dengan
+
+78
+00:04:13,940 --> 00:04:16,769
+10/10
+
+79
+00:04:16,769 --> 00:04:18,200
+Apa itu 10 dibahagi dengan 10?
+
+80
+00:04:18,200 --> 00:04:21,829
+Apakah nombor bukan sifar bila dibahagikan dengan sendirinya?
+
+81
+00:04:21,829 --> 00:04:23,420
+Ini akan menjadi 1.
+
+82
+00:04:23,420 --> 00:04:26,900
+10 memenuhi 10 sebanyak satu kali, jadi kita ditinggalkan dengan
+
+83
+00:04:26,900 --> 00:04:28,670
+480 per 8.
+
+84
+00:04:28,670 --> 00:04:30,940
+Kamu boleh singkirkan.
+
+85
+00:04:30,940 --> 00:04:33,570
+Kamu boleh singkirkan nombor sifar yang sama dari
+
+86
+00:04:33,570 --> 00:04:35,620
+pembahagi dan divided.
+
+87
+00:04:35,620 --> 00:04:39,310
+Kita singkirkan satu sifar di sini, satu sifar di sana, ia menjadi 480
+
+88
+00:04:39,310 --> 00:04:41,960
+dibahagi dengan 8, dan ini menjadi soalan yang lebih mudah.
+
+89
+00:04:41,960 --> 00:04:47,000
+8 memenuhi 480, dan kamu boleh katakan sebagai 8 memenuhi--ia tidak memenuhi
+
+90
+00:04:47,000 --> 00:04:49,440
+4, jadi ia memenuhi 48 sebanyak enam kali.
+
+91
+00:04:49,440 --> 00:04:51,590
+6 darab 8 ialah 48.
+
+92
+00:04:51,590 --> 00:04:52,920
+Kamu tidak ada baki.
+
+93
+00:04:52,920 --> 00:04:54,260
+Bawa sifar ini ke bawah.
+
+94
+00:04:54,260 --> 00:04:56,770
+8 memenuhi 0 sebanyak kosong kali.
+
+95
+00:04:56,770 --> 00:04:58,190
+0 darab 8 ialah 0.
+
+96
+00:04:58,190 --> 00:04:59,710
+Tiada baki.
+
+97
+00:04:59,710 --> 00:05:02,230
+Kamu dapat 60 sekali lagi, jadi mana-mana cara yang digunakan akan berkesan.
+
+98
+00:05:02,230 --> 00:05:03,950
+Cara ini lebih cepat sedikit.
+
+99
+00:05:03,950 --> 00:05:05,960
+Kamu mungkin boleh buat ini dalam otak kamu, tetapi tak kira
+
+100
+00:05:05,960 --> 00:05:08,690
+cara apa yang kamu guna, kamu akan mendapat 60 sebagai jawapan kita, dan kita sudah mengesahkan
+
+101
+00:05:08,690 --> 00:05:10,390
+bahawa ini memang berkesan.

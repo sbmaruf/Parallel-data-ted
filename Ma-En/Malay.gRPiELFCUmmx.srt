@@ -1,0 +1,63 @@
+1
+00:00:01,500 --> 00:00:03,320
+[menambah pengguna baharu]
+
+2
+00:00:03,320 --> 00:00:05,270
+Ini Chrome.
+
+3
+00:00:05,270 --> 00:00:07,609
+Ini Chrome anda,
+
+4
+00:00:07,609 --> 00:00:09,000
+dan Chrome rakan anda,
+
+5
+00:00:09,000 --> 00:00:10,990
+dan Chrome rakan sebilik anda,
+
+6
+00:00:10,990 --> 00:00:16,820
+setiap satu dengan set penanda halaman, apl, pelanjutan dan tetapan lain yang berbeza.
+
+7
+00:00:16,820 --> 00:00:20,390
+Jika anda berkongsi komputer dengan orang lain,
+
+8
+00:00:20,390 --> 00:00:24,699
+anda mungkin tidak mahu bahan Chrome anda bercampur aduk dengan bahan orang lain.
+
+9
+00:00:24,699 --> 00:00:27,740
+Kini, anda boleh menambah pengguna baharu pada Chrome,
+
+10
+00:00:27,740 --> 00:00:30,210
+jadi anda boleh mengasingkan bahan setiap orang
+
+11
+00:00:30,210 --> 00:00:32,490
+pada komputer yang sama.
+
+12
+00:00:32,490 --> 00:00:37,360
+Lencana yang terletak di sudut akan memudahkan setiap orang membezakan tetingkap Chrome masing-masing,
+
+13
+00:00:37,360 --> 00:00:41,300
+dan pertukaran antara pengguna mudah dilakukan dengan mengklik lencana itu.
+
+14
+00:00:41,300 --> 00:00:47,390
+Setiap pengguna juga boleh log masuk ke Chrome untuk membawa bahan Chrome mereka pada semua peranti mereka yang lain.
+
+15
+00:00:47,390 --> 00:00:52,780
+Untuk menambah pengguna baharu pada Chrome, pergi ke Pilihan (atau Preferences pada Mac),
+
+16
+00:00:52,780 --> 99:59:59,999
+klik Bahan Peribadi dan pilih "Tambah pengguna baharu".

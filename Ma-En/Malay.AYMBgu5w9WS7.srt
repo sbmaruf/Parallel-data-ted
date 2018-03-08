@@ -1,0 +1,131 @@
+1
+00:00:00,000 --> 00:00:00,580
+.....
+
+2
+00:00:00,580 --> 00:00:04,170
+Be banyak auns dalam 6 paun?
+
+3
+00:00:04,170 --> 00:00:06,670
+Maka kita ada 6 paun dan kita perlu
+
+4
+00:00:06,670 --> 00:00:09,130
+tukarkannya kepada auns
+
+5
+00:00:09,130 --> 00:00:12,110
+Dan jika anda tidak tahu sebelum ini, anda akan tahu ia skeranag,
+
+6
+00:00:12,110 --> 00:00:15,530
+bahawa ada 16 auns per paun
+
+7
+00:00:15,530 --> 00:00:18,280
+Maka apa yang kita mahu lakukan ialah kita mahu paun dalam
+
+8
+00:00:18,280 --> 00:00:19,680
+penyebut
+
+9
+00:00:19,680 --> 00:00:21,250
+Ianya dalam pengangka sekarang
+
+10
+00:00:21,250 --> 00:00:29,980
+Jadi kita mahu bahagikan dengan paun dan darabkan dengan auns
+
+11
+00:00:29,980 --> 00:00:31,600
+Mungkin saya akan tuliskannya
+
+12
+00:00:31,600 --> 00:00:35,300
+...
+
+13
+00:00:35,300 --> 00:00:36,990
+Dan saya baru katakan bahawa itu ialah 16
+
+14
+00:00:36,990 --> 00:00:43,170
+auns untuk setiap 1 paun
+
+15
+00:00:43,170 --> 00:00:46,420
+Maka jika kita darabkan dua pernyataan, paun ini akan
+
+16
+00:00:46,420 --> 00:00:49,120
+terbatal dengan paun itu, dan kita akan ditinggalkan dengan
+
+17
+00:00:49,120 --> 00:00:52,040
+unit auns, iaitu apa yang kita mahu, dan kita cuma darabkan
+
+18
+00:00:52,040 --> 00:00:53,410
+6 darab 16
+
+19
+00:00:53,410 --> 00:00:56,120
+Oleh itu, ia berkesan sebagai unit yang baik, dan ia juga masuk akal
+
+20
+00:00:56,120 --> 00:01:00,880
+Jika kita ada 16 auns per paun, dan kita ada 6 paun,
+
+21
+00:01:00,880 --> 00:01:02,960
+kita hanya perlu darabkan 6 darab 16
+
+22
+00:01:02,960 --> 00:01:05,840
+Itu ialah jumlah nombor auns yang kita ada. Maka ini ialah
+
+23
+00:01:05,840 --> 00:01:09,270
+akan menjadi bersamaan dengan--- ap 6 darab 16?
+
+24
+00:01:09,270 --> 00:01:15,310
+Oleh itu, jika anda ambil 16 darab 6, 6 darab 6 ialah 36
+
+25
+00:01:15,310 --> 00:01:16,100
+bawa 3
+
+26
+00:01:16,100 --> 00:01:19,400
+6 darab 1 ialah 6, tambah 3 ialah 9
+
+27
+00:01:19,400 --> 00:01:22,550
+Maka 6 darab 16 ialah 96
+
+28
+00:01:22,550 --> 00:01:24,640
+Anda ada ini bahagikan dengan 1 di sini, tetapi itu tidak akan
+
+29
+00:01:24,640 --> 00:01:25,650
+mengubah apa-apa
+
+30
+00:01:25,650 --> 00:01:26,820
+Dan kemudian kita semua akan ditinggalkan dengan
+
+31
+00:01:26,820 --> 00:01:29,700
+dalam dimensi ialah auns
+
+32
+00:01:29,700 --> 00:01:33,190
+Jadi 6 auns ialah 96 auns
+
+33
+00:01:33,190 --> 00:01:33,934
+....

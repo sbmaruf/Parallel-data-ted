@@ -1,0 +1,131 @@
+1
+00:00:05,270 --> 00:00:08,790
+Gengo merupakan platform penterjemahan yang dilakukan oleh manusia
+
+2
+00:00:08,790 --> 00:00:16,850
+yang memecahkan sekatan-sekatan dalam bahasa.
+
+3
+00:00:16,850 --> 00:00:24,480
+Sebagai contoh, sekiranya anda ingin menghantar emel ke luar negara, anda boleh mendapatkan terjemahannya dalam 2 jam atau kurang!
+
+4
+00:00:24,480 --> 00:00:26,340
+Semua penterjemah kami adalah orang sebenar
+
+5
+00:00:26,340 --> 00:00:32,460
+maka anda tidak akan mendapat terjemahan teruk yang dilakukan oleh mesin.
+
+6
+00:00:32,460 --> 00:00:35,390
+Mereka semuanya merupakan penutur asli yang telah diuji terlebih dahulu
+
+7
+00:00:35,390 --> 00:00:42,390
+yang menyampaikan terjemahan yang semula jadi dan asli.
+
+8
+00:00:42,390 --> 00:00:49,730
+Pesanan ringkas atau paparan facebook boleh disiapkan dalam lingkungan 10 minit
+
+9
+00:00:49,730 --> 00:00:53,920
+dan kosnya hanya beberapa sen sahaja.
+
+10
+00:00:53,920 --> 00:00:58,510
+Anda boleh memesan jumlah terjemahan yang besar melalui API kami
+
+11
+00:00:58,510 --> 00:01:06,149
+Perubahan laman dan sebarang kemaskini akan dipesan secara automatik untuk anda.
+
+12
+00:01:06,149 --> 00:01:12,359
+Walaupun anda mempunyai beribu-ribu deskripsi produk
+
+13
+00:01:12,359 --> 00:01:17,329
+Rangkaian penterjemah asli kami seramai 5,000 orang di seluruh dunia
+
+14
+00:01:17,329 --> 00:01:23,279
+Mampu menangani apa-apa jumlah kerja yang diperlukan.
+
+15
+00:01:23,279 --> 00:01:27,009
+Internet telah mengikat seluruh dunia bersama tetapi
+
+16
+00:01:27,009 --> 00:01:30,990
+masih terdapat sekatan bahasa yang wujud.
+
+17
+00:01:30,990 --> 00:01:36,590
+Kami menggabungkan sumber terjemahan orang ramai dan API kami
+
+18
+00:01:36,590 --> 00:01:49,169
+untuk menghadapi sekatan bahasa tersebut dan memecahkannya.
+
+19
+00:01:49,169 --> 00:01:55,369
+Di Gengo, kami mempunyai pekerja-pekerja yang berbakat dari seluruh dunia.
+
+20
+00:01:55,369 --> 00:02:00,859
+Pejabat kecil kami mungkin tidak dapat memuatkan kesemua mereka, tetapi
+
+21
+00:02:00,859 --> 00:02:04,759
+kami mempunyai pereka UX dan visual yang menakjubkan yang
+
+22
+00:02:04,759 --> 00:02:10,709
+boleh menunjukkan kepada dunia dengan pantas apa yang telah anda reka.
+
+23
+00:02:10,709 --> 00:02:13,300
+Pelabur kami juga menyokong apa yang kami lakukan dan
+
+24
+00:02:13,300 --> 00:02:19,000
+Gengo merupakan persekitaran yang hebat untuk melakukan kerja-kerja berimpak tinggi dengan pekerja-pekerja yang berbakat
+
+25
+00:02:19,000 --> 00:02:26,450
+Saya menjangkakan perkara-perkara yang hebat dari Gengo!
+
+26
+00:02:26,450 --> 00:02:29,500
+Gengo bekerja dengan node.js, Postgres, dan Python
+
+27
+00:02:29,500 --> 00:02:33,360
+dan kami juga mencari jurutera-jurutera web yang berbakat yang mahu mereka paparan-paparan yang baru dan mengujakan.
+
+28
+00:02:33,360 --> 00:02:34,840
+Sekiranya anda berminat
+
+29
+00:02:34,840 --> 00:02:38,550
+sertai pasukan antarabangsa kami
+
+30
+00:02:38,550 --> 00:02:47,590
+dan mari kita memecahkan sekatan-sekatan bahasa bersama-sama!
+
+31
+00:02:47,590 --> 00:02:49,600
+Saya sendiri pun telah berputus asa untuk mempelajari bahasa Jepun
+
+32
+00:02:49,600 --> 00:02:55,600
+Tetapi saya mampu terus hidup di Jepun dengan adanya Gengo
+
+33
+00:02:55,600 --> 99:59:59,999
+Keterangan ini diterjemahkan oleh Gengo (tahap standard)

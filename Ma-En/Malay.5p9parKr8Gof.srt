@@ -1,0 +1,431 @@
+1
+00:00:00,610 --> 00:00:04,480
+Permudahkan 48/64 kepada sebutan terendah.
+
+2
+00:00:04,480 --> 00:00:06,440
+Mari kita lihat jika kita boleh menggambarkannya.
+
+3
+00:00:06,440 --> 00:00:08,180
+Jadi kita ada 64
+
+4
+00:00:08,180 --> 00:00:12,200
+Penyebutnya adalah 64, jadi seluruh 64 ini adalah satu benda.
+
+5
+00:00:12,200 --> 00:00:13,400
+Jadi kita anggapkan 64 sebagai satu benda.
+
+6
+00:00:13,400 --> 00:00:16,020
+Mungkin kita boleh anggapnya sebagai satu bar gula-gula
+
+7
+00:00:16,020 --> 00:00:17,910
+Biar saya lukiskan satu bar gula-gula.
+
+8
+00:00:17,910 --> 00:00:20,230
+Kita anggapkannya satu bar gula-gula.
+
+9
+00:00:20,230 --> 00:00:21,790
+Jadi jumlahnya adalah 64 kepingan kecil gula-gula.
+
+10
+00:00:21,790 --> 00:00:24,230
+Dan semuanya dikumpulkan menjadi satu bar gula-gula di sini.
+
+11
+00:00:24,230 --> 00:00:28,360
+Dan 48 daripada 64, kamu boleh bayangkan yang bar gula-gula ini terkumpul daripada
+
+12
+00:00:28,360 --> 00:00:29,930
+64 bahagian yang sangat kecil.
+
+13
+00:00:29,930 --> 00:00:33,180
+Kamu tidak boleh lihat apa yang saya lukis di sini, tetapi jika kita
+
+14
+00:00:33,180 --> 00:00:41,090
+ada 48 daripadanya,kita akan dapat sebanyak ini, jadi
+
+15
+00:00:41,090 --> 00:00:47,960
+ini adalah 48 daripada 64
+
+16
+00:00:47,960 --> 00:00:50,370
+Jadi seluruh kawasan biru ini adalah 64
+
+17
+00:00:50,370 --> 00:00:53,550
+48 ialah kawasan ungu di sini.
+
+18
+00:00:53,550 --> 00:00:54,360
+Jadi biarkan saya tulis di sini.
+
+19
+00:00:54,360 --> 00:01:00,700
+48/64, dan kita mahu tuliskannya dalam sebutan terendah, dan saya akan
+
+20
+00:01:00,700 --> 00:01:04,110
+menerangkan tentang apa sebenarnya yang dimaksudkan dengan terma terendah.
+
+21
+00:01:04,110 --> 00:01:08,820
+Sekarang, wujudkah cara untuk mengumpulkan 48 atau seluruh 64 ini kepada
+
+22
+00:01:08,820 --> 00:01:10,890
+suatu kumpulan nombor yang mungkin dapat memudahkan
+
+23
+00:01:10,890 --> 00:01:11,890
+ia sedikit?
+
+24
+00:01:11,890 --> 00:01:14,740
+Dan untuk memikirkan tentang ini, kamu harus fikirkan apakah
+
+25
+00:01:14,740 --> 00:01:20,100
+faktor terbesar yang sepunya antara 48 dan 64
+
+26
+00:01:20,100 --> 00:01:21,550
+Atau kamu boleh fikirkan apakah
+
+27
+00:01:21,550 --> 00:01:24,230
+pembahagi sepunya terbesar bagi dua nombor ini?
+
+28
+00:01:24,230 --> 00:01:26,640
+Baiklah, nombor terbesar yang dapat saya fikirkan untuk membahagi ke dalam
+
+29
+00:01:26,640 --> 00:01:30,650
+48-- kamu boleh lakukannya dengan cara berfikir atau kamu boleh
+
+30
+00:01:30,650 --> 00:01:32,200
+senaraikan semua faktornya
+
+31
+00:01:32,200 --> 00:01:34,310
+Tetapi jika kamu senaraikan semua faktor 48 dan semua
+
+32
+00:01:34,310 --> 00:01:37,630
+faktor 64, yang terlintas di fikiran saya sebagai terbesar yang
+
+33
+00:01:37,630 --> 00:01:39,930
+dapat membahagikan kedua-duanya ialah 16.
+
+34
+00:01:39,930 --> 00:01:43,860
+Jadi kita boleh katakan yang 48 adalah bersamaan dengan?
+
+35
+00:01:43,860 --> 00:01:53,770
+Ianya 3 kali 16, dan 64 adalah 4 kali 16
+
+36
+00:01:53,770 --> 00:01:55,080
+Sekarang ia dah jadi menarik.
+
+37
+00:01:55,080 --> 00:01:59,135
+Jadi 48 yang dalam warna ungu ini, kita boleh
+
+38
+00:01:59,135 --> 00:02:01,500
+lihat ia sebagai tiga kumpulan 16.
+
+39
+00:02:01,500 --> 00:02:05,190
+Jadi, ini satu, dua-- mari kita buatkan ia
+
+40
+00:02:05,190 --> 00:02:06,210
+lebih sekata
+
+41
+00:02:06,210 --> 00:02:12,730
+Jadi satu, dua, tiga kumpulan yang bernilai 16, jadi ini adalah 16, ini adalah 16
+
+42
+00:02:12,730 --> 00:02:14,140
+dan ini adalah 16
+
+43
+00:02:14,140 --> 00:02:15,170
+Ini akan menjadi 48
+
+44
+00:02:15,170 --> 00:02:17,830
+Saya boleh lukiskan 16 bar kecil di sini bagi mendapatkan 16 keping, tetapi
+
+45
+00:02:17,830 --> 00:02:21,040
+cukuplah kita tahu yang ini satu kumpulan bernilai 16, satu kumpulan bernilai 16 dan satu kumpulan bernilai 16
+
+46
+00:02:21,040 --> 00:02:22,790
+Ini adalah 48.
+
+47
+00:02:22,790 --> 00:02:25,960
+Sekarang, 64 terdiri daripada empat kumpulan yang bernilai 16.
+
+48
+00:02:25,960 --> 00:02:30,050
+Maka, kita boleh katakan, kalau kita perhatikan 64 ini, ini adalah 16,
+
+49
+00:02:30,050 --> 00:02:34,750
+ini adalah 16, ini adalah 16, dan ini satu lagi 16.
+
+50
+00:02:34,750 --> 00:02:36,585
+Semua ini sepatutnya sama panjangnya.
+
+51
+00:02:36,585 --> 00:02:38,300
+Saya terlukiskan ia terlalu panjang.
+
+52
+00:02:38,300 --> 00:02:42,750
+Jadi apakah 48/64 dalam sebutan terendah?
+
+53
+00:02:42,750 --> 00:02:45,590
+Kita ingin menuliskannya dalam pecahan yang termudah.
+
+54
+00:02:45,590 --> 00:02:49,390
+Kalau kita nak jadikan setiap kepingan ini bersamaan dengan 16 kepingan kecil,
+
+55
+00:02:49,390 --> 00:02:55,450
+dengan kata lain, kita kumpulkan 16 kepingan menjadi satu kepingan besar.
+
+56
+00:02:55,450 --> 00:02:59,790
+Maka, pengangkanya sekarang bukan lagi 48,
+
+57
+00:02:59,790 --> 00:03:03,310
+tetapi ianya hanya 3.
+
+58
+00:03:03,310 --> 00:03:07,920
+Sebab ini adalah satu kepingan, dua kepingan, tiga kepingan
+
+59
+00:03:07,920 --> 00:03:09,320
+daripada empat kepingan.
+
+60
+00:03:09,320 --> 00:03:13,840
+Maka, pecahan ini adalah bersamaan dengan 3/4.
+
+61
+00:03:13,840 --> 00:03:16,820
+Harap-harap kamu nampak cara matematiknya untuk
+
+62
+00:03:16,820 --> 00:03:17,890
+memikirkan masalah jenis ini.
+
+63
+00:03:17,890 --> 00:03:20,710
+Kalau kamu dapat cari faktor terbesar sepunya bagi
+
+64
+00:03:20,710 --> 00:03:26,510
+dua nombor tersebut, jadi 48 adalah 3 kali 16, 64 adalah
+
+65
+00:03:26,510 --> 00:03:29,930
+4 kali 16, dan dua-dua ini akan dibatalkan dengan sendiri.
+
+66
+00:03:29,930 --> 00:03:42,430
+Kamu boleh melihatnya sebagai 3/4 kali 16/16.
+
+67
+00:03:42,430 --> 00:03:43,810
+Ia adalah ungkapan yang sama.
+
+68
+00:03:43,810 --> 00:03:49,290
+Jadi 16/16 adalah 1, dan bakinya ialah 3/4.
+
+69
+00:03:49,290 --> 00:03:52,520
+Jika kamu tak dapat lihat sekali pandang yang 16 dapat dibahagikan
+
+70
+00:03:52,520 --> 00:03:57,300
+dengan dua-dua nombor nombor ini, kamu boleh lakukannya langkah demi langkah.
+
+71
+00:03:57,300 --> 00:04:02,440
+Katakanlah kita mula dengan 48/64.
+
+72
+00:04:02,440 --> 00:04:04,680
+Satu poin penting yang kamu perlu ingat dalam operasi yang melibatkan pecahan,
+
+73
+00:04:04,680 --> 00:04:07,780
+apa-apa yang kamu buat dengan pengangkanya, kamu juga harus membuat yang sama dengan penyebutnya.
+
+74
+00:04:07,780 --> 00:04:17,589
+Jadi katakanlah kita membahagikan pengangkanya dengan 2, kita juga harus
+
+75
+00:04:17,589 --> 00:04:21,470
+membahagikan penyebutnya dengan 2.
+
+76
+00:04:21,470 --> 00:04:23,010
+Kita tahu yang 2 nombor ini dapat dibahagikan dengan 2,
+
+77
+00:04:23,010 --> 00:04:23,800
+kerana dua-dua ini nombor genap.
+
+78
+00:04:23,800 --> 00:04:28,160
+Jadi kita akan dapat 24/32.
+
+79
+00:04:28,160 --> 00:04:30,780
+Dalam contoh ini, kamu boleh nampak yang
+
+80
+00:04:30,780 --> 00:04:32,020
+dua nombor ini dapat dibahagi dengan 2.
+
+81
+00:04:32,020 --> 00:04:33,240
+Baik, adakah nombor lebih besar yang dapat kita bahagikan dengannya.
+
+82
+00:04:33,240 --> 00:04:35,830
+Sebenarnya, ada juga. Dua nombor ini dapat
+
+83
+00:04:35,830 --> 00:04:38,180
+dibahagi dengan 4.
+
+84
+00:04:38,180 --> 00:04:39,770
+Katalah kita gunakan 4.
+
+85
+00:04:39,770 --> 00:04:42,800
+Jadi kita bahagikan pengangka dengan 4.
+
+86
+00:04:42,800 --> 00:04:44,580
+Bahagi 4.
+
+87
+00:04:44,580 --> 00:04:45,680
+Dapatlah kita 6.
+
+88
+00:04:45,680 --> 00:04:47,880
+Kamu perlu buat yang sama dengan penyebutnya,
+
+89
+00:04:47,880 --> 00:04:50,520
+Jadi bahagi 4, kamu dapat 8.
+
+90
+00:04:50,520 --> 00:04:53,880
+Maka 48/64 adalah bersamaan dengan 24/32, yang juga
+
+91
+00:04:53,880 --> 00:04:55,560
+bersamaan dengan 6/8.
+
+92
+00:04:55,560 --> 00:04:59,140
+Dan dua-dua ini dapat dibahagikan dengan 2, jadi bahagikan
+
+93
+00:04:59,140 --> 00:05:01,170
+pengangkanya dengan 2, kamu dapat 3.
+
+94
+00:05:01,170 --> 00:05:04,860
+Bahagikan penyebutnya dengan 2, kamu dapat 4.
+
+95
+00:05:04,860 --> 00:05:08,030
+Maka inilah sebutan termudahnya, kerana 3 dan 4
+
+96
+00:05:08,030 --> 00:05:13,400
+tiada faktor sepunya berkongsi yang lebih besar daripada 1, jadi
+
+97
+00:05:13,400 --> 00:05:14,920
+inilah sebutan terendahnya.
+
+98
+00:05:14,920 --> 00:05:15,800
+Jadi, tidak kira macam mana kamu lakukannya.
+
+99
+00:05:15,800 --> 00:05:18,520
+Cara yang paling mudah atau yang paling cepat adalah
+
+100
+00:05:18,520 --> 00:05:20,290
+kalau kita tahu yang 16 adalah nombor terbesar yang dapat membahagikan dua-dua nombor tersebut.
+
+101
+00:05:20,290 --> 00:05:22,120
+Maka, bahagikan dengan 16.
+
+102
+00:05:22,120 --> 00:05:23,400
+Kamu dapat 3/4.
+
+103
+00:05:23,400 --> 00:05:25,660
+Sebenarnya, apabila kamu membahagikan pengangka dan
+
+104
+00:05:25,660 --> 00:05:29,770
+penyebutnya dengan 16. kamu sebenarnya sedang mengumpulkan
+
+105
+00:05:29,770 --> 00:05:33,460
+16 kepingan kecil menjadi satu kepingan besar.
+
+106
+00:05:33,460 --> 00:05:34,480
+Kamu boleh bayangkan ia sebagai kepingan pai.
+
+107
+00:05:34,480 --> 00:05:37,310
+Maka 64 kepingan akan menjadi 4 kepingan.
+
+108
+00:05:37,310 --> 00:05:40,630
+Dan 48 kepingan akan menjadi 3 kepingan.

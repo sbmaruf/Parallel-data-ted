@@ -1,0 +1,683 @@
+1
+00:00:00,495 --> 00:00:03,916
+Dalam video terakhir kita melakukan beberapa masalah pendaraban kekisi
+
+2
+00:00:03,916 --> 00:00:05,409
+dan kami melihat ia adalah cukup jelas dan mudah
+
+3
+00:00:05,409 --> 00:00:07,385
+Anda dapat melakukan semua pendaraban anda dahulu
+
+4
+00:00:07,385 --> 00:00:09,080
+dan kemudian lakukan semua tambahan anda
+
+5
+00:00:09,080 --> 00:00:12,060
+Baik, mari kita cuba untuk memahami mengapa tepat berfungsi
+
+6
+00:00:12,060 --> 00:00:14,150
+Ia hampir kelihatan seperti magik
+
+7
+00:00:14,160 --> 00:00:16,530
+Dan untuk melihat mengapa ia bekerja saya akan buat semula masalah ini sehingga di sini
+
+8
+00:00:16,530 --> 00:00:19,802
+dan kemudian saya juga akan cuba untuk menerangkan apa yang kita lakukan dalam masalah yang lebih panjang
+
+9
+00:00:19,802 --> 00:00:22,849
+Maka apabila kita didarab dengan 27 -
+
+10
+00:00:22,849 --> 00:00:27,200
+jadi anda menulis 2 anda dan 7 anda begitu sahaja - 48 kali.
+
+11
+00:00:27,210 --> 00:00:29,670
+Saya hanya melakukan seperti apa yang kita lakukan dalam video sebelumnya
+
+12
+00:00:29,670 --> 00:00:34,550
+Kami membentuk kekisi, memberikan dua lajur dan tujuh lajur
+
+13
+00:00:34,560 --> 00:00:36,470
+begitu sahaja
+
+14
+00:00:36,470 --> 00:00:40,810
+Kami memberikan empat berturut-turut dan kami memberikan lapan berturut-turut
+
+15
+00:00:40,820 --> 00:00:42,960
+Dan kemudian kami lukis pepenjuru kami
+
+16
+00:00:42,960 --> 00:00:45,502
+Dan utama di sini ialah pepenjuru, seperti yang anda boleh bayangkan,
+
+17
+00:00:45,502 --> 00:00:47,780
+jika tidak, kita tidak akan menarik mereka
+
+18
+00:00:47,780 --> 00:00:49,120
+Jadi, anda mempunyai pepenjuru anda
+
+19
+00:00:49,130 --> 00:00:50,297
+Sekarang cara untuk berfikir tentang
+
+20
+00:00:50,297 --> 00:00:53,280
+ini setiap pepenjuru ini adalah tempat nombor
+
+21
+00:00:53,280 --> 00:00:59,970
+Jadi, sebagai contoh, pepenjuru di sini, yang merupakan tempat yang
+
+22
+00:01:00,001 --> 00:01:04,210
+Pepenjuru yang seterusnya, saya akan melakukannya dalam warna hijau muda ini
+
+23
+00:01:04,210 --> 00:01:07,350
+pepenjuru seterusnya di sini pada warna hijau muda,
+
+24
+00:01:07,350 --> 00:01:09,330
+yang adalah tempat puluhan
+
+25
+00:01:09,340 --> 00:01:13,578
+Sekarang pepenjuru ke kiri atau di atas bahawa, bergantung kepada bagaimana anda mahu melihatnya,
+
+26
+00:01:13,578 --> 00:01:16,950
+Saya akan melakukan sedikit warna merah jambu di sini
+
+27
+00:01:16,950 --> 00:01:21,709
+Anda boleh meneka, yang akan menjadi tempat beratus-ratus
+
+28
+00:01:21,709 --> 00:01:24,514
+Dan kemudian, akhirnya, kita mempunyai sedikit pepenjuru di sana,
+
+29
+00:01:24,514 --> 00:01:27,141
+dan saya akan melakukannya dalam warna biru muda ini.
+
+30
+00:01:27,141 --> 00:01:32,080
+Itu adalah tempat beribu-ribu.
+
+31
+00:01:32,080 --> 00:01:35,303
+Demikian apabila kita kali satu kali angka lain angka,
+
+32
+00:01:35,303 --> 00:01:38,610
+kita hanya pastikan kita memasukkannya ke dalam baldi yang betul
+
+33
+00:01:38,610 --> 00:01:39,650
+atau di tempat yang betul.
+
+34
+00:01:39,650 --> 00:01:41,780
+Dan anda akan melihat apa yang saya maksudkan dalam kedua.
+
+35
+00:01:41,790 --> 00:01:43,790
+Jadi kita melakukan 7 kali 4.
+
+36
+00:01:43,790 --> 00:01:46,150
+Baik, kami tahu bahawa 7 kali 4 sama dengan 28.
+
+37
+00:01:46,150 --> 00:01:50,460
+Kami hanya sekadar menulis 2 dan 8 begitu sahaja.
+
+38
+00:01:50,460 --> 00:01:51,630
+Tetapi apa yang kita benar-benar lakukan?
+
+39
+00:01:51,640 --> 00:01:53,460
+Dan saya rasa cara terbaik untuk berfikir tentang hal itu, ini 7 -
+
+40
+00:01:53,460 --> 00:01:55,330
+ini adalah 7 pada 27.
+
+41
+00:01:55,340 --> 00:01:58,310
+Jadi ia hanya tujuh . Betul?
+
+42
+00:01:58,310 --> 00:02:02,130
+Tetapi ini 4,4 pada 48.
+
+43
+00:02:02,140 --> 00:02:04,920
+Jadi ia bukan hanya empat yang , ia benar-benar 40.
+
+44
+00:02:04,920 --> 00:02:09,050
+48 boleh ditulis semula sebagai 40 campur 8
+
+45
+00:02:09,050 --> 00:02:13,520
+ini empat di sini sebenarnya mewakili 40
+
+46
+00:02:13,530 --> 00:02:16,520
+Jadi di sini kita sedang tidak benar-benar mendarabkan 7 kali 4,
+
+47
+00:02:16,520 --> 00:02:19,810
+kita sebenarnya menggandakan 7 kali 40
+
+48
+00:02:19,810 --> 00:02:27,360
+Dan 7 kali 40 bukan hanya 28, 280
+
+49
+00:02:27,370 --> 00:02:29,440
+Dan 280, bagaimana kita boleh berfikir tentang itu?
+
+50
+00:02:29,440 --> 00:02:37,320
+Kita boleh mengatakan bahawa dua beratus-ratus campur 8 puluhan.
+
+51
+00:02:37,330 --> 00:02:39,620
+Dan itulah sebenarnya yang telah kami tulis di sini
+
+52
+00:02:39,620 --> 00:02:44,820
+Notis: ruangan ini - Saya minta maaf, ini pepenjuru di sini,
+
+53
+00:02:44,830 --> 00:02:48,110
+Saya sudah memberitahu anda, ia adalah puluhan pepenjuru.
+
+54
+00:02:48,110 --> 00:02:50,810
+Dan kami darab 7 kali 40
+
+55
+00:02:50,810 --> 00:02:54,520
+Kita meletakkan 8 di sini dalam puluhan pepenjuru.
+
+56
+00:02:54,530 --> 00:02:56,580
+Ini bermakna 8 puluhan.
+
+57
+00:02:56,590 --> 00:02:59,240
+7 kali 40 adalah dua beratus-ratus.
+
+58
+00:02:59,250 --> 00:03:01,590
+Kami menulis dua dalam ratusan pepenjuru.
+
+59
+00:03:01,590 --> 00:03:03,310
+Dan lapan puluhan.
+
+60
+00:03:03,310 --> 00:03:04,600
+Bahawa ini 8 dan 2 di sini adalah
+
+61
+00:03:04,610 --> 00:03:06,810
+Kami sebenarnya menulis 280.
+
+62
+00:03:06,810 --> 00:03:07,920
+Mari teruskan
+
+63
+00:03:07,930 --> 00:03:10,500
+Apabila saya berganda 2 kali 4.
+
+64
+00:03:10,500 --> 00:03:12,295
+Anda mungkin berkata, oh, 2 kali 4, itulah 8.
+
+65
+00:03:12,311 --> 00:03:13,325
+Tetapi apa yang saya benar-benar melakukan?
+
+66
+00:03:13,325 --> 00:03:15,300
+Ini adalah dua di dalam 27.
+
+67
+00:03:15,310 --> 00:03:18,520
+Ini adalah benar - benar 20 dan ini adalah benar-benar 40.
+
+68
+00:03:18,520 --> 00:03:26,120
+Jadi dua puluh kali 40 adalah sama dengan hanya lapan dengan dua sifar.
+
+69
+00:03:26,120 --> 00:03:27,300
+Apakah sama dengan 800.
+
+70
+00:03:27,310 --> 00:03:28,290
+Dan apa yang kita lakukan?
+
+71
+00:03:28,300 --> 00:03:31,630
+Kami digandakan dua kali empat dan kita berkata, oh, 2 kali 4 adalah lapan.
+
+72
+00:03:31,630 --> 00:03:35,079
+Kami menulis sifar dan lapan begitu sahaja.
+
+73
+00:03:35,079 --> 00:03:37,072
+Tetapi notis di mana kita menulis lapan.
+
+74
+00:03:37,072 --> 00:03:41,387
+Kami menulis lapan dalam ratusan pepenjuru.
+
+75
+00:03:41,387 --> 00:03:42,864
+Izinkan saya membuat ini warna yang berbeza.
+
+76
+00:03:42,864 --> 00:03:44,740
+Kita menulis dalam satu beratus-ratus pepenjuru.
+
+77
+00:03:44,750 --> 00:03:46,159
+Jadi kita menulis secara literal
+
+78
+00:03:46,159 --> 00:03:48,796
+walaupun ia kelihatan seperti kami digandakan dua kali 4 dan berkata ia lapan,
+
+79
+00:03:48,796 --> 00:03:50,146
+cara kita menyumbang,
+
+80
+00:03:50,146 --> 00:03:54,572
+kita benar-benar buat dua puluh kali 40 adalah sama lapan beratus-ratus.
+
+81
+00:03:54,572 --> 00:03:56,380
+Ingat, ini adalah beratus-ratus pepenjuru,
+
+82
+00:03:56,380 --> 00:03:57,900
+ini semuanya di sana.
+
+83
+00:03:57,900 --> 00:04:00,180
+Dan kita boleh terus.
+
+84
+00:04:00,180 --> 00:04:02,270
+Apabila anda berganda sebanyak tujuh kali 8.
+
+85
+00:04:02,270 --> 00:04:06,090
+Ingat, ini adalah benar-benar tujuh baik, ini adalah tujuh pada 27,
+
+86
+00:04:06,090 --> 00:04:07,090
+jadi ia hanya tujuh kerap.
+
+87
+00:04:07,090 --> 00:04:09,870
+Ini adalah 8 dalam 48, jadi ia hanya 8
+
+88
+00:04:09,880 --> 00:04:11,850
+7 kali 8 sama dengan 56
+
+89
+00:04:11,860 --> 00:04:14,170
+Anda menulis enam di tempat yang.
+
+90
+00:04:14,180 --> 00:04:17,800
+Lima puluh enam adalah hanya lima puluhan dan satu 6.
+
+91
+00:04:17,810 --> 00:04:23,920
+Jadi ia lima puluhan dalam puluhan pepenjuru dan 1 6. Lima puluh enam.
+
+92
+00:04:23,920 --> 00:04:26,195
+Kemudian apabila anda mendarab dua kali ganda 8,
+
+93
+00:04:26,195 --> 00:04:28,210
+notis, yang bukan hanya dua kali 8.
+
+94
+00:04:28,220 --> 00:04:31,625
+Maksud saya, kami tidak menulis ia hanya 16 apabila kita melakukan masalah di sini,
+
+95
+00:04:31,625 --> 00:04:33,630
+tetapi kita sebenarnya mendarabkan dua puluh.
+
+96
+00:04:33,630 --> 00:04:35,500
+20 kali 8
+
+97
+00:04:35,510 --> 00:04:39,810
+Dua puluh kali 8 adalah sama dengan 160.
+
+98
+00:04:39,810 --> 00:04:41,942
+Atau anda boleh mengatakan ia adalah 100 -
+
+99
+00:04:41,942 --> 00:04:45,820
+notis dalam satu beratus-ratus pepenjuru dan enam puluhan.
+
+100
+00:04:45,842 --> 00:04:48,114
+Itulah yang 160.
+
+101
+00:04:48,114 --> 00:04:51,635
+Jadi apa yang kita lakukan dengan melakukan ini pendaraban kekisi,
+
+102
+00:04:51,635 --> 00:04:54,991
+kami mewakili semua digit. Digit yang betul di tempat yang betul.
+
+103
+00:04:54,991 --> 00:04:56,830
+Kita meletakkan enam di tempat yang.
+
+104
+00:04:56,830 --> 00:04:59,590
+Kita meletakkan enam, lima, dan lapan di tempat puluhan.
+
+105
+00:04:59,600 --> 00:05:02,080
+Kami meletakkan satu, lapan, dan dua di tempat beratus-ratus.
+
+106
+00:05:02,080 --> 00:05:04,930
+Dan kita meletakkan apa-apa sekarang di tempat beribu-ribu.
+
+107
+00:05:04,930 --> 00:05:07,087
+Kemudian, sekarang kita dilakukan dengan semua pendaraban,
+
+108
+00:05:07,087 --> 00:05:09,720
+kita sebenarnya boleh lakukan kami menambah.
+
+109
+00:05:09,730 --> 00:05:11,196
+Dan kemudian anda hanya perlu menambah,
+
+110
+00:05:11,196 --> 00:05:13,445
+dan jika ada sesuatu yang pergi ke tempat seterusnya,
+
+111
+00:05:13,445 --> 00:05:14,699
+anda hanya membawa jumlah itu.
+
+112
+00:05:14,699 --> 00:05:18,230
+Jadi 6 di tempat yang baik, itulah hanya enam.
+
+113
+00:05:18,240 --> 00:05:19,610
+Kemudian anda pergi ke tempat puluhan.
+
+114
+00:05:19,610 --> 00:05:22,640
+8 campur 5 campur 6 ialah apa?
+
+115
+00:05:22,640 --> 00:05:24,150
+8 campur 5 adalah 13.
+
+116
+00:05:24,160 --> 00:05:26,570
+tambah 6 sama dengan 19
+
+117
+00:05:26,570 --> 00:05:28,050
+tetapi notis, kita berada di tempat puluhan.
+
+118
+00:05:28,060 --> 00:05:34,620
+19 puluhan atau kita boleh mengatakan ia adalah sembilan puluhan dan 100.
+
+119
+00:05:34,620 --> 00:05:38,902
+Kami membawa satu di sini, jika anda boleh lihat ia ke tempat beratus-ratus.
+
+120
+00:05:38,902 --> 00:05:40,500
+Sekarang kita menambah semua ratusan.
+
+121
+00:05:40,500 --> 00:05:43,850
+Seratus tambah 200 campur 800 plus 100.
+
+122
+00:05:43,860 --> 00:05:45,110
+Atau, apakah ini?
+
+123
+00:05:45,120 --> 00:05:46,740
+1200
+
+124
+00:05:46,750 --> 00:05:49,180
+Jadi anda menulis dua di tempat beratus-ratus.
+
+125
+00:05:49,180 --> 00:05:53,180
+Satu ribu dua ratus adalah perkara yang sama sebagai dua beratus-ratus campur 1000.
+
+126
+00:05:53,180 --> 00:05:57,110
+Dan sekarang anda hanya mempunyai 1000 dalam beribu-ribu anda pepenjuru.
+
+127
+00:05:57,120 --> 00:05:59,000
+Dan supaya anda menulis bahawa satu di sana.
+
+128
+00:05:59,000 --> 00:06:01,120
+Itulah tepat bagaimana kita melakukannya.
+
+129
+00:06:01,130 --> 00:06:05,750
+Hujah yang sama terpakai kepada masalah yang lebih kompleks.
+
+130
+00:06:05,760 --> 00:06:07,010
+Kita boleh melabelkan tempat kita.
+
+131
+00:06:07,020 --> 00:06:10,690
+Ini yang meletakkan di sana.
+
+132
+00:06:10,690 --> 00:06:11,490
+Dan ia masuk akal.
+
+133
+00:06:11,500 --> 00:06:14,224
+Apabila kita didarab 9 kali 7,
+
+134
+00:06:14,224 --> 00:06:17,510
+itu cuma 9 dan 7 berpasangan. Ia adalah 63.
+
+135
+00:06:17,520 --> 00:06:19,770
+Enam puluhan dan tiga orang.
+
+136
+00:06:19,770 --> 00:06:22,610
+Ini buat di sini adalah puluhan pepenjuru.
+
+137
+00:06:22,620 --> 00:06:25,120
+Kemudian kami mendapat enam puluhan dan tiga orang.
+
+138
+00:06:25,120 --> 00:06:30,085
+Apabila kita didarab sembilan kali 80 - ingat, 787,
+
+139
+00:06:30,085 --> 00:06:36,368
+itulah perkara yang sama seperti 7 beratus-ratus ditambah lapan puluhan ditambah 7, hanya kerap 7 yang.
+
+140
+00:06:36,370 --> 00:06:39,050
+Jadi ini 9 kali 8 adalah benar-benar sembilan kali 80.
+
+141
+00:06:39,060 --> 00:06:42,870
+Sembilan kali 80 adalah 720.
+
+142
+00:06:42,870 --> 00:06:46,360
+Tujuh beratus-ratus - ini adalah tempat beratus-ratus.
+
+143
+00:06:46,360 --> 00:06:52,810
+Tujuh beratus-ratus dan 22 puluhan di sana.
+
+144
+00:06:52,810 --> 00:06:53,850
+Dan anda boleh terus.
+
+145
+00:06:53,860 --> 00:06:56,390
+ini di sini, ini adalah tempat beribu-ribu.
+
+146
+00:06:56,390 --> 00:06:58,680
+ini adalah sepuluh ribu.
+
+147
+00:06:58,680 --> 00:07:00,000
+Saya akan menulis seperti itu.
+
+148
+00:07:00,010 --> 00:07:04,040
+ini adalah tempat ratusan ribu.
+
+149
+00:07:04,050 --> 00:07:08,773
+Dan maka ini adalah tempat berjuta-juta.
+
+150
+00:07:08,773 --> 00:07:10,796
+Jadi kami lakukan semua pendaraban kami di sekali,
+
+151
+00:07:10,796 --> 00:07:15,172
+dan menyumbang untuk perkara-perkara di tempat yang betul mereka berdasarkan nombor-nombor tersebut betul-betul.
+
+152
+00:07:15,187 --> 00:07:17,339
+mula di sini,
+
+153
+00:07:17,339 --> 00:07:20,975
+ia kelihatan seperti kita hanya didarab empat kali lapan dan mendapat 32,
+
+154
+00:07:20,975 --> 00:07:27,170
+tetapi kita sebenarnya telah mendarabkan 400 - ini adalah 400 - kali 80.
+
+155
+00:07:27,180 --> 00:07:35,610
+Dan 400 kali 80 adalah sama dengan tiga dua dan tiga sifar.
+
+156
+00:07:35,610 --> 00:07:37,270
+Ia sama dengan 32000.
+
+157
+00:07:37,270 --> 00:07:41,870
+Dan cara kita dikira bagi notis, kita meletakkan kedua-dua hak di sana,
+
+158
+00:07:41,870 --> 00:07:43,150
+dan apa pepenjuru ialah?
+
+159
+00:07:43,160 --> 00:07:45,820
+Yang beribu-ribu pepenjuru.
+
+160
+00:07:45,820 --> 00:07:49,500
+Jadi, kita katakan ia 2003 sepuluh ribu.
+
+161
+00:07:49,510 --> 00:07:51,500
+Jadi tiga sepuluh ribu dan dua ribu
+
+162
+00:07:51,500 --> 00:07:53,375
+Itulah 32000.
+
+163
+00:07:53,375 --> 00:07:54,867
+Jadi diharapkan yang memberikan anda kefahaman.
+
+164
+00:07:54,867 --> 00:07:59,141
+Maksud saya ia menyeronokkan mungkin melakukan pendaraban kekisi dan mendapatkan amalan.
+
+165
+00:07:59,141 --> 00:08:01,865
+Tetapi anda tahu kadang-kadang ia kelihatan seperti ini benda ajaib pelik.
+
+166
+00:08:01,865 --> 00:08:03,830
+Tetapi diharapkan dari video ini anda memahami bahawa semua itu adalah
+
+167
+00:08:03,830 --> 00:08:08,246
+hanya cara yang berbeza memantau di mana yang, berpuluh-puluh dan beratus-ratus tempat.
+
+168
+00:08:08,250 --> 00:08:09,765
+Dengan kelebihan yang jenis daripada bagus
+
+169
+00:08:09,765 --> 00:08:12,310
+dan menjimatkan ruang, ia tidak mengambil banyak ruang.
+
+170
+00:08:12,310 --> 00:08:15,723
+Dan, ia membolehkan anda untuk melakukan semua pendaraban anda sekali gus,
+
+171
+00:08:15,723 --> 00:08:20,750
+dan kemudian, hidupkan otak anda ke tambahan dan mod dibawa.

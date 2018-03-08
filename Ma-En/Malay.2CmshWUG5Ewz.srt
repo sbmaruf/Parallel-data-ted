@@ -1,0 +1,211 @@
+1
+00:00:00,000 --> 00:00:00,760
+....
+
+2
+00:00:00,760 --> 00:00:06,570
+Kita diberitahu, menyelesaiakn nilai mutlak 3x tolak 9 ialah bersamaan
+
+3
+00:00:06,570 --> 00:00:10,490
+dengan 0, dan grafkan jawapan pada garis nombor
+
+4
+00:00:10,490 --> 00:00:13,460
+Maka mari kita tuliskan semula persamaan nilai mutlak
+
+5
+00:00:13,460 --> 00:00:16,880
+Mereka memberitahu kita nilai mutlak 3x tolak
+
+6
+00:00:16,880 --> 00:00:20,950
+9 ialah bersamaan dengan 0
+
+7
+00:00:20,950 --> 00:00:23,010
+Maka kita diberitahu bahawa nilai mutlak
+
+8
+00:00:23,010 --> 00:00:26,730
+sesuatu--dalam kes ini, sesuatu itu ialah 3x tolak 9 ialah
+
+9
+00:00:26,730 --> 00:00:27,840
+bersamaan dengan 0
+
+10
+00:00:27,840 --> 00:00:29,660
+Jika saya beritahu anda bahawa nilai mutlak sesuatu ialah
+
+11
+00:00:29,660 --> 00:00:32,580
+bersamaan dengan 0, saya beritahu anda bahawa sesuatu harus menjadi
+
+12
+00:00:32,580 --> 00:00:36,900
+betul-betul 0 jauh daripada 0, atau 0 jauh daripada asal pada
+
+13
+00:00:36,900 --> 00:00:37,750
+garis nombor
+
+14
+00:00:37,750 --> 00:00:40,850
+Maka sesuatu itu boleh jadi 0
+
+15
+00:00:40,850 --> 00:00:44,040
+Jika saya beritahu anda nilai mutlak x ialah bersamaan dengan 0,
+
+16
+00:00:44,040 --> 00:00:46,800
+anda tahu bahawa x haruslah bersamaan dengan 0
+
+17
+00:00:46,800 --> 00:00:50,720
+Itu adalah satu-satunya nilai dimana nilai mutlak ialah 0
+
+18
+00:00:50,720 --> 00:00:53,480
+Maka jika saya beritahu anda nilai mutlak 3x tolak 9
+
+19
+00:00:53,480 --> 00:00:59,820
+ialah 0, kemudian kita tahu bahawa 3x tolak 9 haruslah bersamaan dengan 0
+
+20
+00:00:59,820 --> 00:01:02,810
+dan itu agak unik tentang 0 itu,
+
+21
+00:01:02,810 --> 00:01:06,060
+ianya satu-satunya nombor yang unik, itu adalah
+
+22
+00:01:06,060 --> 00:01:07,800
+nilai mutlak 0
+
+23
+00:01:07,800 --> 00:01:09,980
+Jika anda ada, katakan, 1 di sini, anda boleh katakan, baiklah, kemudian ini
+
+24
+00:01:09,980 --> 00:01:12,420
+boleh jadi 1 atau negatif 1
+
+25
+00:01:12,420 --> 00:01:16,130
+Tetapi di sini, jika anda ada 0, ini hanya boleh menjadi 0
+
+26
+00:01:16,130 --> 00:01:18,632
+Maka penyelesaian persamaan ini agak jelas
+
+27
+00:01:18,632 --> 00:01:22,330
+Jika kita mahu asingkan 3x, buangkan negatif 9
+
+28
+00:01:22,330 --> 00:01:27,180
+pda bahagian sebelah kiri, kita tambahkan 9 pada kedua-dua bahagian persamaan
+
+29
+00:01:27,180 --> 00:01:30,140
+Tambahkan 9 kepada kedua-dua bahagian persamaan,
+
+30
+00:01:30,140 --> 00:01:31,460
+9 ini dibatalkan
+
+31
+00:01:31,460 --> 00:01:32,560
+Itu adalah tujuannya.
+
+32
+00:01:32,560 --> 00:01:36,460
+Pada bahagian tangan kiri, anda ditinggalkan dengan 3x, dan pada
+
+33
+00:01:36,460 --> 00:01:40,350
+bahagian tangan kanan, anda ditinggalkan dengan 9
+
+34
+00:01:40,350 --> 00:01:44,230
+Sekarang kita mahu selesaikan x, kita ada 3 darab x.
+
+35
+00:01:44,230 --> 00:01:47,390
+Mari bahagikannya dengan 3, kerana 3 darab x bahagi 3 ialah
+
+36
+00:01:47,390 --> 00:01:48,450
+akan menjadi x.
+
+37
+00:01:48,450 --> 00:01:50,990
+Tetapi jika kita bahagikan bahagian kiri dengan 3, kita harus bahagikan
+
+38
+00:01:50,990 --> 00:01:52,600
+bahagian kanan dengan 3.
+
+39
+00:01:52,600 --> 00:01:56,232
+Maka, kita ditinggalkan dengan--- ini dibatalkan
+
+40
+00:01:56,232 --> 00:02:00,355
+x ialah bersamaan dengan 9 per 3, iaitu 3
+
+41
+00:02:00,355 --> 00:02:02,210
+Dan itu ialah penyelesaian kita
+
+42
+00:02:02,210 --> 00:02:02,920
+Mari kita cuba
+
+43
+00:02:02,920 --> 00:02:04,760
+Mari pastikan ini benar-benar berkesan
+
+44
+00:02:04,760 --> 00:02:07,870
+Mari gantikan ia kembali kepada persamaan yang asal
+
+45
+00:02:07,870 --> 00:02:11,490
+Maka kita ada nilai mutlak 3 darab x.
+
+46
+00:02:11,490 --> 00:02:14,490
+Selain dari x, saya akan letakkan jawapan sebenar kita yang kita dapat,
+
+47
+00:02:14,490 --> 00:02:21,670
+3 darab 3 tolak 9 harus menjadi bersamaan dengan 0
+
+48
+00:02:21,670 --> 00:02:22,860
+Maka, apa yang akan jadi bersamaan dengan?
+
+49
+00:02:22,860 --> 00:02:24,390
+3 darab 3 ialah 9
+
+50
+00:02:24,390 --> 00:02:28,020
+Maka nilai mutlak 9 tolak 9, iaitu
+
+51
+00:02:28,020 --> 00:02:31,130
+nilai mutlak 0, ialah 0
+
+52
+00:02:31,130 --> 00:02:35,730
+Maka, bersamaan dengan 0 dan kita telah selesai.
+
+53
+00:02:35,730 --> 00:02:36,066
+....

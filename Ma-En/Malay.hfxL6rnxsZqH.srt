@@ -1,0 +1,139 @@
+1
+00:00:01,140 --> 00:00:05,000
+Magnet boleh boleh terhasil apabila kita
+mengalirkan arus eletrik melalui wayar,
+
+2
+00:00:05,015 --> 00:00:09,915
+mencari bahan yg menghasilkan medan magnet
+secara semulajadi, atau memaksa atom di dlm medan
+
+3
+00:00:09,910 --> 00:00:11,040
+magnet untuk disusun secara sejajar.
+
+4
+00:00:11,040 --> 00:00:15,400
+Selain itu kita mempunyai sejenis sifat
+kemagnetan yg dimiliki oleh semua bahan.
+
+5
+00:00:15,407 --> 00:00:20,457
+Walaupun bahan itu sebenarnya tidak magnetik,
+sifat kemagnetan yg sangat lemah ini selalunya
+
+6
+00:00:20,460 --> 00:00:25,280
+diatasi oleh sifat kemagnetan yg lain. Ringkasnya
+medan magnetik luaran menyebabkan elektron di sekeliling
+
+7
+00:00:25,279 --> 00:00:30,039
+atom berubah arah orbit mereka dan perubahan ini
+menjana medan magnet yg berlawanan. Medan magnet
+
+8
+00:00:30,039 --> 00:00:33,899
+yg lemah ini menyebabkan bahan itu tertolak
+keluar dari medan magnet tersebut.
+
+9
+00:00:33,899 --> 00:00:38,409
+Sebagai contoh, jika anda meletakkan pencungkil gigi
+ke dlm medan magnet, hujung pencungkil gigi akan tertolak
+
+10
+00:00:38,410 --> 00:00:42,290
+dan seterusnya menjajarkan dirinya
+merentangi medan magnet. Cara yg mudah untuk
+
+11
+00:00:42,289 --> 00:00:47,149
+ingat sifat kemagnetan ini (diamagnetism) ialah dgn
+mengingati perkataan "dia" yg bermaksud "lintang"
+
+12
+00:00:47,149 --> 00:00:52,109
+seperti pada perkataan "diameter" yg bermaksud
+"garis pusat bulatan". Bahan yg bersifat diamagnetik
+
+13
+00:00:52,109 --> 00:00:55,899
+akan menolak magnet manakala kompas 'diamagnetik'
+pula menunjuk ke arah melintang diantara
+
+14
+00:00:55,913 --> 00:00:57,733
+utara-selatan yakni ia akan menunjukkan arah
+timur-barat.
+
+15
+00:00:57,730 --> 00:01:02,740
+Walaupun ianya lemah, sifat diamagnetik sebenarnya
+sangat menarik disebabkan sifat tolakannya:
+
+16
+00:01:02,739 --> 00:01:07,169
+sebarang bahan yg bersifat diamagnetik akan terapung
+apabila medan magnet yg cukup kuat dikenakan kepadanya
+
+17
+00:01:07,170 --> 00:01:11,970
+Lihatlah ketulan graphene ini, dan air juga bersifat
+diamagnetik, maka katak ini juga boleh terapung.
+
+18
+00:01:11,979 --> 00:01:15,919
+Secara prinsipnya kita juga boleh terapung, tetapi
+kita memerlukan medan magnet yg sgt kuat utk terapung.
+
+19
+00:01:15,920 --> 00:01:20,050
+Ramai org salah faham dgn konsep ini, cthnya umum
+mengetahui nitrogen adalah bersifat diamagnetik
+
+20
+00:01:20,049 --> 00:01:23,829
+walaupun atom nitrogen mempunyai elektron tak berpasangan
+-yg membuatkan org fikir nitrogen ini bersifat
+
+21
+00:01:23,829 --> 00:01:28,939
+paramagnetik yg lemah. Sebaliknya, atom nitrogen
+membuat ikatan untuk menghasilkan molekul N2 yg
+
+22
+00:01:28,939 --> 00:01:34,139
+mempunyai petala elektron luar yg penuh, yakni
+diamagnetik. Dlm cth yg lain, MOLEKUL oksigen mempunyai
+
+23
+00:01:34,140 --> 00:01:37,800
+elektron tak berpasangan (di petala elektron luar)
+maka, molekul oksigen adalah bersifat paramagnetik.
+
+24
+00:01:37,799 --> 00:01:41,899
+Anda mungkin pernah tengok macam mana superkonduktor
+boleh terapung didalam medan magnet.
+
+25
+00:01:41,899 --> 00:01:46,039
+Ini merupakan cth yg terbaik utk sifat diakemagnetan.
+Superkonduktor itu bkn sahaja menghasilkan medan
+
+26
+00:01:46,039 --> 00:01:50,479
+magnet yg berlawanan, tetapi ia juga dapat
+menolak keluar keseluruhan medan magnet.
+
+27
+00:01:50,479 --> 00:01:57,479
+Tetapi ini masalah lain pulak
+dan itu cerita untuk hari esok!
+
+28
+00:01:57,729 --> 00:02:04,999
+Diterjemah oleh: @TweetSains
+Follow me on twitter @TweetSains
+

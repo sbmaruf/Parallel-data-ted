@@ -1,0 +1,355 @@
+1
+00:00:00,000 --> 00:00:00,740
+...
+
+2
+00:00:00,740 --> 00:00:06,190
+Tukarkan 51.8 desimeter kepada kilometer
+
+3
+00:00:06,190 --> 00:00:08,740
+Maka mari fikiran tentang apa maksud desimeter dalam terma
+
+4
+00:00:08,740 --> 00:00:11,440
+meter, dan kemudian kita boleh fikirkan tentang apa maksud kilometer dalam
+
+5
+00:00:11,440 --> 00:00:12,770
+terma meter, dan kemudian tukarkannya.
+
+6
+00:00:12,770 --> 00:00:21,210
+Oleh itu, kita akan mulakan dengan 51.8 desimeter
+
+7
+00:00:21,210 --> 00:00:23,600
+Searang, sebagai permulaan, hanya perlu pastikan ianya mudah, kita
+
+8
+00:00:23,600 --> 00:00:26,360
+akan menukarkannya kepada meter, kerana prefix ini
+
+9
+00:00:26,360 --> 00:00:28,710
+memberitahu kita banyak tentang berapa jumlah meter ini
+
+10
+00:00:28,710 --> 00:00:31,390
+Maka jika kita mahu menukarkannya kepada meter, unit kita ialah
+
+11
+00:00:31,390 --> 00:00:35,640
+akan menjadi meter per desimeter
+
+12
+00:00:35,640 --> 00:00:41,010
+.....
+
+13
+00:00:41,010 --> 00:00:44,260
+Dan kita perlukan ini kerana desimeter ini dan desimeter itu
+
+14
+00:00:44,260 --> 00:00:46,820
+akan dibatalkan, dan kita akan di tinggalkan
+
+15
+00:00:46,820 --> 00:00:47,700
+dengan meter
+
+16
+00:00:47,700 --> 00:00:50,830
+Sekarang 1 meter ialah berapa banyak desimeter?
+
+17
+00:00:50,830 --> 00:00:57,130
+Baiklah, awalan desi bermaksud 1/10
+
+18
+00:00:57,130 --> 00:01:00,880
+Maka 1 desimeter ialah 1/10 daripada 1 meter
+
+19
+00:01:00,880 --> 00:01:03,410
+Atau cara yang lain untuk berfikir tentangnya ialah ada 10
+
+20
+00:01:03,410 --> 00:01:05,630
+desimeter untuk setiap meter.
+
+21
+00:01:05,630 --> 00:01:07,110
+Ini ialah unit yang terkecil
+
+22
+00:01:07,110 --> 00:01:12,100
+10 daripada ini menjadikan 1 daripada ini, atau 1/10 daripada 1 meter per
+
+23
+00:01:12,100 --> 00:01:14,540
+desimeter, yang mana ia memberitahu anda dengan tepat
+
+24
+00:01:14,540 --> 00:01:16,550
+1/10 daripada satu meter
+
+25
+00:01:16,550 --> 00:01:19,850
+Sekarang jika anda darabkan dua benda ini, apa kita dapat?
+
+26
+00:01:19,850 --> 00:01:25,140
+Baiklah, batalkan desimeter, dan kita bahagikan 51.8 dengan 10
+
+27
+00:01:25,140 --> 00:01:28,800
+Darabkan dengan 1/10 ialah sama dengan bahagikan dengan 10
+
+28
+00:01:28,800 --> 00:01:32,300
+Maka ini akan menjadi bersamaan dengan 51.8 bahagi 10
+
+29
+00:01:32,300 --> 00:01:33,840
+Perpuluhan akan bergerak ke kiri
+
+30
+00:01:33,840 --> 00:01:35,840
+Ia akan menjadi 5.18
+
+31
+00:01:35,840 --> 00:01:40,970
+Jadi ini akan menjadi 5.18 meter.
+
+32
+00:01:40,970 --> 00:01:42,360
+Dan anda patut selalu melakukan pemeriksaan sebenar
+
+33
+00:01:42,360 --> 00:01:43,490
+Adakah ia masuk akal?
+
+34
+00:01:43,490 --> 00:01:46,740
+Adakah ia masuk akal apabila 51 desimeter
+
+35
+00:01:46,740 --> 00:01:48,940
+ialah bersamaan dengan 5 meter?
+
+36
+00:01:48,940 --> 00:01:49,650
+Baiklah, pasti.
+
+37
+00:01:49,650 --> 00:01:50,490
+Ia patut turun ke bawah.
+
+38
+00:01:50,490 --> 00:01:53,520
+Kita akan pergi dari unit lebih kecil kepada unit yang lebih besar, maka kita
+
+39
+00:01:53,520 --> 00:01:57,420
+patut ada beberapa unit yang lebih besar untuk melakukan
+
+40
+00:01:57,420 --> 00:01:58,370
+jarak yang sama, dalam permasalahan ini
+
+41
+00:01:58,370 --> 00:02:00,260
+Satu meter ialah satu unit panjang
+
+42
+00:02:00,260 --> 00:02:07,290
+Sekarang, kita pada 5.18 meter, dan kita mahu tukarkan ia kepada
+
+43
+00:02:07,290 --> 00:02:08,540
+kilometer
+
+44
+00:02:08,540 --> 00:02:10,580
+..
+
+45
+00:02:10,580 --> 00:02:15,030
+Maka kita akan mahukan meter dalam penyebut
+
+46
+00:02:15,030 --> 00:02:19,100
+kilometer dalam pengangka
+
+47
+00:02:19,100 --> 00:02:19,960
+Kenapa?
+
+48
+00:02:19,960 --> 00:02:23,450
+Kerana meter ini dan meter itu akan dibatalkan
+
+49
+00:02:23,450 --> 00:02:27,570
+Sekarang, berapa banyak meter diperlukan untuk satu kilometer?
+
+50
+00:02:27,570 --> 00:02:29,900
+Kilo itu memberitahu kita 1,000
+
+51
+00:02:29,900 --> 00:02:32,010
+Itu ialah 1,000 meter
+
+52
+00:02:32,010 --> 00:02:36,770
+Maka 1,000 meter ialah bersamaan dengan 1 kilometer
+
+53
+00:02:36,770 --> 00:02:39,170
+Maka jika kita akan darabkan ini, meter akan dibatalkan
+
+54
+00:02:39,170 --> 00:02:40,910
+dan kita hanya ditinggalkan dengan kilometer
+
+55
+00:02:40,910 --> 00:02:44,590
+Dan darabkan sesuatu dengan 1/1,000 ialah sama
+
+56
+00:02:44,590 --> 00:02:47,840
+dengan membahagikan dengan 1,000 dan itu masuk akal
+
+57
+00:02:47,840 --> 00:02:51,190
+Kita patut dapat satu nombor yang kecil di sini kerana kita akan pergi dari
+
+58
+00:02:51,190 --> 00:02:53,020
+satu nombor yang lebih kecil kepada satu nombor yang lebih besar
+
+59
+00:02:53,020 --> 00:02:55,670
+Maka kita akan perlukan satu nombor yang lebih kecil
+
+60
+00:02:55,670 --> 00:02:57,190
+daripada unit yang lebih besar
+
+61
+00:02:57,190 --> 00:03:05,940
+Oleh itu, ini akan menjadi bersamaan dengan 5.18/1,000 kilometer
+
+62
+00:03:05,940 --> 00:03:15,890
+Sekarang, cara yang mudah untuk melakukan ini, jika kita ambil 5.18/10 ialah bersamaan
+
+63
+00:03:15,890 --> 00:03:17,880
+dengan--- kita hanya gerakkan perpuluhan 1 ke kiri
+
+64
+00:03:17,880 --> 00:03:22,080
+Ia akan menjadi bersamaan dengan 0.518
+
+65
+00:03:22,080 --> 00:03:26,950
+Jika kita ambil 5.18 dan bahagikannya dengan 100, kita akan ambil
+
+66
+00:03:26,950 --> 00:03:28,130
+perpuluhan 2 ke kiri
+
+67
+00:03:28,130 --> 00:03:31,100
+Maka satu, dua, kita akan perlu menambahkan 0 di sini
+
+68
+00:03:31,100 --> 00:03:36,090
+Oleh itu, ia aka menjadi 0.0518
+
+69
+00:03:36,090 --> 00:03:44,356
+Dan jika kita ambil 5.18 dan kita bahagikan dengan 1,000, kita akan
+
+70
+00:03:44,356 --> 00:03:47,230
+menggerakkan perpuluhan 3 ke kiri
+
+71
+00:03:47,230 --> 00:03:48,200
+Maka kita akan lakukannya.
+
+72
+00:03:48,200 --> 00:03:52,610
+Jadi, jika kita mulakan dengan 5.18--- perpuluhan akan dimulakan di sini--- kita
+
+73
+00:03:52,610 --> 00:03:55,470
+akan pergi satu, dua, maka itu satu
+
+74
+00:03:55,470 --> 00:03:57,470
+kosong, dan kemudian tiga
+
+75
+00:03:57,470 --> 00:03:59,380
+Dan itu di mana perpuluhan akan duduk di sini
+
+76
+00:03:59,380 --> 00:04:06,170
+Maka ini inilah caranya atau cara yang lain, ini akan menjadi sedikit lebih 5/1,000
+
+77
+00:04:06,170 --> 00:04:08,030
+Di sini ialah 5/1,000
+
+78
+00:04:08,030 --> 00:04:09,620
+Ianya sedikit lebih daripada itu
+
+79
+00:04:09,620 --> 00:04:22,930
+Maka jawapan terakhir kita: 51.8 desimeter ialah bersamaan dengan 0.00518
+
+80
+00:04:22,930 --> 00:04:24,220
+kilometer
+
+81
+00:04:24,220 --> 00:04:25,800
+Dan kita perlu sentiasa lakukan pemeriksaan sebenar
+
+82
+00:04:25,800 --> 00:04:27,310
+Adakah ia masuk akal?
+
+83
+00:04:27,310 --> 00:04:28,070
+Baiklah, pasti.
+
+84
+00:04:28,070 --> 00:04:30,800
+Kita akan pergi dari unit yang sangat kecil di sini, satu gagasan
+
+85
+00:04:30,800 --> 00:04:33,950
+unit kecil, kepada jumlah yang sangat kecil daripada unit yang besar.
+
+86
+00:04:33,950 --> 00:04:34,940
+Ianya masuk akal
+
+87
+00:04:34,940 --> 00:04:38,960
+Ia masuk akal dan nombor ini turun ke bawah manakala
+
+88
+00:04:38,960 --> 00:04:41,790
+nombor sebenar menjad lebih besar
+
+89
+00:04:41,790 --> 00:04:41,999
+...

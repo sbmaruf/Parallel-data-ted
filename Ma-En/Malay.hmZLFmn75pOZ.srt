@@ -1,0 +1,39 @@
+1
+00:00:00,000 --> 00:00:05,000
+Mari kita bercakap tentang masalah mencari laluan melalui maze.
+
+2
+00:00:05,000 --> 00:00:10,000
+Izinkan saya melukis satu maze.
+
+3
+00:00:10,000 --> 00:00:15,000
+Andai kata anda ingin mencari jalan dari permulaan ke matlamat anda.
+
+4
+00:00:15,000 --> 00:00:19,000
+Saya tidak mahu anda menyelesaikan masalah ini.
+
+5
+00:00:19,000 --> 00:00:23,000
+Sebaliknya, saya mahu anda beritahu saya sama ada ia adalah boleh diperhatikan separuh.
+
+6
+00:00:23,000 --> 00:00:25,000
+Ya atau tidak.
+
+7
+00:00:25,000 --> 00:00:27,000
+Adakah ia stokastik?
+
+8
+00:00:27,000 --> 00:00:29,000
+Ya atau tidak?
+
+9
+00:00:29,000 --> 00:00:31,000
+Adakah ia berterusan?
+
+10
+00:00:31,000 --> 99:59:59,999
+Ya atau tidak.

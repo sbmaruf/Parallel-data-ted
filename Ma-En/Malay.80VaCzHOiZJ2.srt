@@ -1,0 +1,696 @@
+1
+00:00:00,780 --> 00:00:05,030
+Apabila kita bandingkan segitiga ABC dengan segitiga XYZ,
+
+2
+00:00:05,040 --> 00:00:07,500
+ia cukup jelas ia bukan kongruen,
+
+3
+00:00:07,510 --> 00:00:11,360
+ia mempunyai panjang yang sangat berbeza daripada sisi masing masing
+
+4
+00:00:11,370 --> 00:00:14,130
+Tetapi, ada sesuatu yang menarik tentang
+
+5
+00:00:14,140 --> 00:00:17,300
+kedua segi tiga ini
+
+6
+00:00:17,310 --> 00:00:20,670
+Satu, emua sudut sama mereka adalah sama
+
+7
+00:00:20,680 --> 00:00:25,870
+Jadi, sudut di sini, sudut BAC adalah kongruen dengan XYZ
+
+8
+00:00:25,880 --> 00:00:29,830
+Sudut BCA adalah kongruen dengan YZX,
+
+9
+00:00:29,840 --> 00:00:34,290
+Dan sudut ABC adalah kongruen dengan XYZ
+
+10
+00:00:34,300 --> 00:00:37,850
+Jadi semua sudut, sudut sepadan adalah sama
+
+11
+00:00:37,860 --> 00:00:40,990
+dan kita boleh lihat, kita dapat lihat yang sisi ini
+
+12
+00:00:41,000 --> 00:00:43,800
+ialah versi yang dipanjangkan antara satu sama lain
+
+13
+00:00:43,810 --> 00:00:47,260
+Jadi matlamat dari panjang XZ untuk AC,
+
+14
+00:00:47,270 --> 00:00:52,570
+kita boleh, kita boleh mendarab dengan 3, kita darab dengan 3 di sana,
+
+15
+00:00:52,580 --> 00:00:56,440
+dan dari XY, panjang XY
+
+16
+00:00:56,450 --> 00:00:59,700
+kepada panjang AB yang mana adalah sisi sepadan
+
+17
+00:00:59,710 --> 00:01:04,060
+Kita darabkan dengan 3, kita kena darab dengan 3
+
+18
+00:01:04,070 --> 00:01:08,450
+kemudian, dari panjang YZ kepada BC,
+
+19
+00:01:08,460 --> 00:01:11,480
+kita juga perlu darabkan
+
+20
+00:01:11,490 --> 00:01:13,860
+kita darabkan dengan 3.
+
+21
+00:01:13,870 --> 00:01:18,690
+Jadi, segi tiga ABC adalah versi yang dipanjangkan
+
+22
+00:01:18,700 --> 00:01:20,550
+daripada segi tiga XYZ
+
+23
+00:01:20,560 --> 00:01:21,730
+jika ianya skala yang sama,
+
+24
+00:01:21,740 --> 00:01:23,390
+ia akan menjadi segi tiga yang sama tetapi,
+
+25
+00:01:23,400 --> 00:01:26,270
+satu ini lebih besar dan yang ini lebih besar dari yang satu lagi, atau
+
+26
+00:01:26,280 --> 00:01:28,970
+ini ialah versia kecil daripada yang satu lagi.
+
+27
+00:01:28,980 --> 00:01:32,710
+Kalau kita darabkan sahaja semua sisi dengan 3, kita akan dapat segi tiga ini
+
+28
+00:01:32,720 --> 00:01:35,010
+Dan, kita tak boleh panggia ia kongrues tetapi ia adalah
+
+29
+00:01:35,020 --> 00:01:37,530
+seolah-olah ada sedikit hubungan yang istimewa di sini
+
+30
+00:01:37,540 --> 00:01:40,810
+Jadi kita panggil hubungan istimewa ini sebagai "persamaan"
+
+31
+00:01:40,820 --> 00:01:46,600
+Jadi kita boleh menulis segitiga, segi tiga ABC
+
+32
+00:01:46,610 --> 00:01:50,300
+adalah sama, sama seperti segi tiga,
+
+33
+00:01:50,310 --> 00:01:52,660
+dan kita mahu memastikan kita mendapat dua sisi sepadan,
+
+34
+00:01:52,670 --> 00:01:56,540
+ABC akan menjadi serupa dengan XYZ
+
+35
+00:01:56,550 --> 00:02:00,060
+dengan XYZ
+
+36
+00:02:00,070 --> 00:02:01,670
+Dan sebagainya, berdasarkan apa yang kita lihat,
+
+37
+00:02:01,680 --> 00:02:03,840
+ada sebenarnya jenis 3 idea-idea di sini,
+
+38
+00:02:03,850 --> 00:02:07,060
+dan ada banyak cara yang sama untuk persamaan ini.
+
+39
+00:02:07,070 --> 00:02:09,070
+Salah satu cara tentang itu ialah
+
+40
+00:02:09,080 --> 00:02:11,470
+satu ialah versi skala besar daripada yang lain
+
+41
+00:02:11,480 --> 00:02:16,000
+Jadi, skala, skala besar, skala kecil satu sama lain
+
+42
+00:02:16,010 --> 00:02:18,070
+versi kecil
+
+43
+00:02:18,080 --> 00:02:20,860
+Bila kita bercakap tentang kongruen, ia perlu sama
+
+44
+00:02:20,870 --> 00:02:23,500
+Anda boleh pusing, boleh tukar, boleh terbalikkan,
+
+45
+00:02:23,510 --> 00:02:24,950
+tapi bila anda lakukan itu semua,
+
+46
+00:02:24,960 --> 00:02:26,950
+ia tetap akan jadi sama
+
+47
+00:02:26,960 --> 00:02:30,620
+dengan persamaan, anda boleh pusing, boleh tukar, boleh terbalikkan
+
+48
+00:02:30,630 --> 00:02:33,170
+dan boleh besarkan juga kecilkan skala
+
+49
+00:02:33,180 --> 00:02:35,280
+untuk mendapat sesuatu yang sama
+
+50
+00:02:35,290 --> 00:02:38,630
+Sebagai conto, kalau kita katakan ia kongruen.
+
+51
+00:02:38,640 --> 00:02:44,500
+kalau, kalau, katakan segi tigia, segi tiga CDE,
+
+52
+00:02:44,510 --> 00:02:50,390
+kalau kita tahu segi tiga CDE ialah kongruen kepada segi tiga FGH,
+
+53
+00:02:50,400 --> 00:02:52,640
+baru lah kita yang ia adalah sama
+
+54
+00:02:52,650 --> 00:02:54,660
+Ia telah dibesarkan sakalanya dengan faktor satu
+
+55
+00:02:54,670 --> 00:02:57,310
+Kemudian, kita tahu yang CDE
+
+56
+00:02:57,320 --> 00:03:01,010
+adalah sama dengan FGH,
+
+57
+00:03:01,020 --> 00:03:02,840
+tetapi kita tidak boleh mengatakan sebaliknya
+
+58
+00:03:02,850 --> 00:03:05,710
+Jika, jika segi tiga ABC adalah sama dengan XYZ,
+
+59
+00:03:05,720 --> 00:03:07,700
+kita tidak boleh mengatakan bahawa ia adalah semestinya kongruen,
+
+60
+00:03:07,710 --> 00:03:09,560
+dan kita lihat ini sebagai contoh khusus,
+
+61
+00:03:09,840 --> 00:03:11,920
+ia pasti bukan kongruen
+
+62
+00:03:11,930 --> 00:03:14,500
+Jadi ini adalah satu cara untuk berfikir tentang persamaan
+
+63
+00:03:14,510 --> 00:03:16,530
+Cara lain tentang persamaan adalah,
+
+64
+00:03:16,540 --> 00:03:18,950
+semua sudut sepadan akan sama
+
+65
+00:03:18,960 --> 00:03:22,700
+Jadi, jika ada sesuatu yang serupa, maka semua sudut sepadan
+
+66
+00:03:22,710 --> 00:03:25,110
+akan menjadi kongruen
+
+67
+00:03:25,120 --> 00:03:30,140
+sepandan, sudut sepadan
+
+68
+00:03:30,150 --> 00:03:32,240
+saya selalu ada masalah mengeja
+
+69
+00:03:32,250 --> 00:03:35,110
+Ia adalah dua R, satu S
+
+70
+00:03:35,120 --> 00:03:41,300
+sepadan, sudut sepadan, sudut sepadan
+
+71
+00:03:41,310 --> 00:03:43,000
+adalah kongruen
+
+72
+00:03:43,010 --> 00:03:44,570
+adalah kongruen
+
+73
+00:03:44,580 --> 00:03:46,910
+Jadi, jika kita katakan segi tiga ABC adalah,
+
+74
+00:03:46,920 --> 00:03:50,540
+segi tiga ABC sama dengan segi tiga XYZ,
+
+75
+00:03:50,550 --> 00:03:55,070
+itu sama dengan mengatakan bahawa sudut, sudut ABC,
+
+76
+00:03:55,080 --> 00:03:58,850
+sudut ABC adalah kongruen,
+
+77
+00:03:58,860 --> 00:04:02,470
+atau kita boleh mengatakan ukuran mereka adalah sama dengan sudut XYZ,
+
+78
+00:04:02,480 --> 00:04:05,930
+sudut XYZ
+
+79
+00:04:05,940 --> 00:04:09,200
+sudut ini, sudut BAC,
+
+80
+00:04:09,210 --> 00:04:18,230
+BAC akan menjadi kongruen kepada sudut YXZ, sudut YXZ
+
+81
+00:04:18,240 --> 00:04:26,320
+kemudian akan menjadi sudut ACB, ACB akan menjadi kongruen kepada
+
+82
+00:04:26,330 --> 00:04:31,210
+sudut, susut XZY
+
+83
+00:04:31,220 --> 00:04:33,010
+XZY
+
+84
+00:04:33,020 --> 00:04:35,300
+sudut XZY
+
+85
+00:04:35,310 --> 00:04:38,450
+Jadi kalau kita ada dua segi tiga, semua sudut akan sama
+
+86
+00:04:38,460 --> 00:04:39,750
+kemudian anda boleh katakan yang ia sama
+
+87
+00:04:39,760 --> 00:04:41,170
+atau jika ada dua segi tiga,
+
+88
+00:04:41,180 --> 00:04:43,690
+dan and diberitahu ia adalah segitiga yang sama
+
+89
+00:04:43,700 --> 00:04:46,650
+anda akan tahu yang sudut sepadan adalah sama
+
+90
+00:04:46,660 --> 00:04:50,050
+Dan akhir sekali, saya rasa cara anda fikirkan ini,
+
+91
+00:04:50,060 --> 00:04:53,220
+semua sisi cuma dibesarkan skalanya setiap satu
+
+92
+00:04:53,230 --> 00:04:59,240
+Jadi, sisi, sisi, diskala besarkan dengan faktor yang sama,
+
+93
+00:04:59,250 --> 00:05:03,050
+diskala besarkan dengan faktor yang sama
+
+94
+00:05:03,060 --> 00:05:05,620
+Dan contoh yang kita buat di sini, faktor skala ialah 3,
+
+95
+00:05:05,630 --> 00:05:06,570
+ia tak perlu menjadi 3
+
+96
+00:05:06,580 --> 00:05:09,700
+ia boleh menpunyai skala sama untuk setiap sisi
+
+97
+00:05:09,710 --> 00:05:12,770
+Untuk sisi ini, kita skala kan dengan 3,
+
+98
+00:05:12,780 --> 00:05:14,630
+dan kita boleh skala kan ini dengan 2 kemudian,
+
+99
+00:05:14,640 --> 00:05:17,150
+kita tidak akan mendapat segi tiga yang sama
+
+100
+00:05:17,160 --> 00:05:19,480
+Tetapi, jika kita skala kan ini dengan 7,
+
+101
+00:05:19,490 --> 00:05:20,680
+iu masih sama
+
+102
+00:05:20,690 --> 00:05:22,610
+Selagi anda besarkan skala
+
+103
+00:05:22,620 --> 00:05:25,460
+atau kecilkan skala dengan faktor yang sama
+
+104
+00:05:25,470 --> 00:05:28,690
+ia adalah satu cara untuk difikirkan, saya nak, nak
+
+105
+00:05:28,700 --> 00:05:30,860
+saya nak bayangkan segitiga itu
+
+106
+00:05:30,870 --> 00:05:33,310
+Izinkan saya melukis di sini, kita buat yang mudah
+
+107
+00:05:33,320 --> 00:05:35,060
+Jadi, sekarang saya ingin bincang secara menyeluruh
+
+108
+00:05:35,070 --> 00:05:36,680
+bukan merujuk kepada yang spesifik
+
+109
+00:05:36,690 --> 00:05:42,220
+Jadi, jika kita katakan ini ialah A, B dan C
+
+110
+00:05:42,230 --> 00:05:48,730
+dan ini ialah, X, XYZ
+
+111
+00:05:48,740 --> 00:05:52,190
+Saya akan melukis semula supaya saya boleh merujuk bila nak melukis
+
+112
+00:05:52,200 --> 00:05:55,720
+Jika kita katakan kedua ini adalah sama
+
+113
+00:05:55,730 --> 00:05:57,800
+ia bermakna sisi sepadan
+
+114
+00:05:57,810 --> 00:05:59,730
+telah diskala besarkan satu sama lain.
+
+115
+00:05:59,740 --> 00:06:03,110
+Jadi kita boleh katakan panjang AB,
+
+116
+00:06:03,120 --> 00:06:05,040
+katakan panjang AB,
+
+117
+00:06:05,730 --> 00:06:08,550
+AB, sama dengan faktor skala,
+
+118
+00:06:08,560 --> 00:06:10,200
+dan ini akan menjadi kurang dari satu
+
+119
+00:06:10,210 --> 00:06:14,920
+faktor skala darab panjang XY, sisi sepadan
+
+120
+00:06:14,930 --> 00:06:16,900
+Dan saya tahu yang AB sepadan dengan Xy
+
+121
+00:06:16,910 --> 00:06:19,870
+kerana mengikut urutan yang saya tulis mengenai persamaan
+
+122
+00:06:19,880 --> 00:06:24,530
+Jadi faktor skala darab Xy,
+
+123
+00:06:24,540 --> 00:06:28,330
+kita tahu ini BC, panjang BC
+
+124
+00:06:28,340 --> 00:06:32,450
+kita tahu yang panjang BC perlu sama dengan faktor skala
+
+125
+00:06:32,460 --> 00:06:38,070
+Faktor sakala yang sama darab panjang YZ,
+
+126
+00:06:39,040 --> 00:06:44,370
+darab dengan panjang YZ, supaya faktor skala sama
+
+127
+00:06:44,380 --> 00:06:49,470
+Kemudian, kita tahu panjang AC, panjang Ac
+
+128
+00:06:49,480 --> 00:06:53,180
+akan sama dengan faktor skala XZ
+
+129
+00:06:53,190 --> 00:06:56,490
+Jadi ini XZ dan ini menjadi faktor skala
+
+130
+00:06:56,500 --> 00:07:01,640
+Jika AB besar, jika ABC besar daripada XYZ,
+
+131
+00:07:01,650 --> 00:07:03,740
+K ini akan menjadi lebih besar dari satu,
+
+132
+00:07:03,750 --> 00:07:05,300
+jika ia mempunyai saiz sama,
+
+133
+00:07:05,310 --> 00:07:07,100
+jika ianya adalah segitiga kongruen,
+
+134
+00:07:07,110 --> 00:07:08,680
+K akan menjadi satu
+
+135
+00:07:08,690 --> 00:07:12,410
+Dan jika XYZ lebih besar daripada ABC,
+
+136
+00:07:12,420 --> 00:07:15,690
+faktor skala akan menjadi lebih dari satu
+
+137
+00:07:15,700 --> 00:07:17,390
+Tapi cara lain untuk menulis benda yang sama,
+
+138
+00:07:17,400 --> 00:07:19,360
+apa yang saya katakan ialah sisi sepadan
+
+139
+00:07:19,370 --> 00:07:21,080
+versi skala besar antara satu sama lain
+
+140
+00:07:21,090 --> 00:07:24,830
+Penyataan yang pertama ini jika anda bahagikan dengan kedua belah dengan XY,
+
+141
+00:07:24,840 --> 00:07:31,850
+anda mendapat AB per XY, sama dengan, faktor skala kita
+
+142
+00:07:31,860 --> 00:07:34,120
+Kemudian penyataan kedua di sini,
+
+143
+00:07:34,130 --> 00:07:39,210
+jika anda bahagi dengan kedua belah YZ, anda dapat B, biar saya lakukan dengan warna sama
+
+144
+00:07:39,220 --> 00:07:47,080
+Anda akan dapat BC bahagi YZ sama dengan faktor skala,
+
+145
+00:07:47,090 --> 00:07:48,550
+sama dengan faktor skala
+
+146
+00:07:48,560 --> 00:07:51,730
+Contoh yang kamu tunjukkan faktor skala ialah
+
+147
+00:07:51,740 --> 00:07:53,720
+faktor skala ialah 3, tapi sekarang kita katakan
+
+148
+00:07:53,730 --> 00:07:55,240
+dalam istilah umum, persamaan,
+
+149
+00:07:55,250 --> 00:07:57,310
+selagi anda mempunyai faktor skala yang sama
+
+150
+00:07:57,320 --> 00:07:59,700
+kemudian, anda bahagi dengan kedua belah di sini
+
+151
+00:07:59,710 --> 00:08:04,330
+dengan panjang antara x, XZ atau panjang segmen XZ.
+
+152
+00:08:04,340 --> 00:08:10,210
+anda akan dapat AC per XZ sama dengan K juga
+
+153
+00:08:10,220 --> 00:08:11,620
+sama dengan K juga
+
+154
+00:08:11,630 --> 00:08:12,950
+Atau cara lain untuk selesaikan,
+
+155
+00:08:12,960 --> 00:08:15,210
+nisbah antara sisi sepadan,
+
+156
+00:08:15,220 --> 00:08:17,510
+ini ialah nisbah antara AB dan XY
+
+157
+00:08:17,520 --> 00:08:19,100
+AB dan XY
+
+158
+00:08:19,110 --> 00:08:23,080
+nisbah antara BC dan YZ , BC dan YZ
+
+159
+00:08:23,090 --> 00:08:27,790
+nisbah antara AC dan XZ, AC dan XZ
+
+160
+00:08:27,800 --> 00:08:29,840
+Nisbah ini anta sisi sepadan
+
+161
+00:08:29,850 --> 00:08:32,160
+yang akan memberi kita sama berterusan
+
+162
+00:08:32,170 --> 00:08:42,450
+Atau anda boleh menulis seperti ini, AB per XY sama dengan BC per YZ
+
+163
+00:08:42,460 --> 00:08:47,790
+sama dengan, sama dengan AC per XZ,
+
+164
+00:08:47,800 --> 00:08:50,330
+yang akan menjadi sama dengan faktor skala,
+
+165
+00:08:50,340 --> 00:08:51,440
+yang sama dengan K
+
+166
+00:08:51,450 --> 00:08:52,810
+Jadi kalai anda mempunyai segitiga sama,
+
+167
+00:08:52,820 --> 00:08:54,860
+izinkan saya melukis satu anak panah di sini,
+
+168
+00:08:54,870 --> 00:08:57,710
+segi tiga sama bermaksud ia telah versi skala dibesarkan dan,
+
+169
+00:08:57,720 --> 00:09:00,300
+anda boleh terbalikkan dan pusing atau apa sahaja kepada kongruen,
+
+170
+00:09:00,310 --> 00:09:03,100
+anda boleh skala besar dan kecilkan, yang bermaksud
+
+171
+00:09:03,110 --> 00:09:05,340
+semua sudut sepadan adalah kongruen,
+
+172
+00:09:05,350 --> 00:09:08,760
+yang juga bermaksud nisbah antara sisi sepadan
+
+173
+00:09:08,770 --> 00:09:11,900
+akan menjadi seperti konsep untuk semua sisi sepadan,
+
+174
+00:09:11,910 --> 00:09:16,020
+atau nisbah antara sisi sepadan akan tetap.
+

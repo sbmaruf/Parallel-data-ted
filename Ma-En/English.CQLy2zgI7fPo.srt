@@ -1,0 +1,31 @@
+1
+00:00:00,000 --> 00:00:03,000
+[Male narrator] I would argue poker is partially observable
+
+2
+00:00:03,000 --> 00:00:08,000
+because it can't be seen what is in your opponent's hands.
+
+3
+00:00:08,000 --> 00:00:13,000
+It is stochastic because you're being dealt cards that are kind of coming at random.
+
+4
+00:00:13,000 --> 00:00:16,000
+It is not continuous; it's just finding many cards
+
+5
+00:00:16,000 --> 00:00:20,000
+and finding many actions you can do, even though you might argue
+
+6
+00:00:20,000 --> 00:00:24,000
+that there's a huge number of different monies you can bet.
+
+7
+00:00:24,000 --> 00:00:27,000
+It's still finite, and it is clearly adversarial.
+
+8
+00:00:27,000 --> 99:59:59,999
+If you've ever played poker before, you know how brutal it can be.

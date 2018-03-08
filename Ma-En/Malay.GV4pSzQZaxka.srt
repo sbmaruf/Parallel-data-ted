@@ -1,0 +1,532 @@
+1
+00:00:00,600 --> 00:00:05,990
+Adakah hubungan yang diberi oleh set pasangan bertertib di bawah merupakan satu fungsi?
+
+2
+00:00:05,990 --> 00:00:09,020
+Oleh itu, sebelum kita mencuba untuk menyelesaikan masalah ini, mari kita
+
+3
+00:00:09,581 --> 00:00:14,731
+mengingatkan diri kita apa itu hubungan, dan apakah jenis hubungan yang boleh menjadi fungsi
+
+4
+00:00:14,730 --> 00:00:18,050
+Jadi, dalam sesuatu fungsi,kamu mempunyai satu set nombor yang
+
+5
+00:00:18,050 --> 00:00:20,810
+kamu boleh lihat sebagai input kepada hubungan tersebut.
+
+6
+00:00:20,810 --> 00:00:22,450
+kita kenali sebagai domain.
+
+7
+00:00:22,450 --> 00:00:26,500
+Kamu boleh melihatnya sebagai satu set nombor bagi hubungan yang ditakrifkan.
+
+8
+00:00:26,500 --> 00:00:31,220
+Kemudian kamu mempunyai satu set nombor yang kamu boleh melihatnya sebagai output kepada
+
+9
+00:00:31,220 --> 00:00:33,160
+hubungan tersebut, atau nombor-nombor yang boleh dikaitkan
+
+10
+00:00:33,160 --> 00:00:36,260
+dengan apa sahaja di dalam domain, dan kita memanggilnya sebagai julat.
+
+11
+00:00:36,260 --> 00:00:38,140
+dan ia adalah idea yang jelas dan mudah.
+
+12
+00:00:38,140 --> 00:00:43,470
+oleh itu, sebagai contoh, katakan nombor 1 berada dalam domain tersebut, dan kita kaitkan
+
+13
+00:00:43,470 --> 00:00:48,890
+nombor 1 dengan nombor 2 dalam julat tersebut.
+
+14
+00:00:48,890 --> 00:00:54,240
+Jadi, notasi jenis ini, kamu boleh katakan bahawa hubugan itu mempunyai 1 koma
+
+15
+00:00:54,240 --> 00:00:59,350
+dua, 1 koma 2, dalam setnya bagi pasangan bertertib.
+
+16
+00:00:59,350 --> 00:01:02,460
+Ini merupakan dua cara untuk menyatakan satu perkara yang sama.
+
+17
+00:01:02,460 --> 00:01:04,910
+Sekarang, hubungan tersebut juga boleh, katakan, mungkin sekiranya saya
+
+18
+00:01:04,909 --> 00:01:09,309
+ada nombor dua, yang mungkin berkait dengan nombor dua juga.
+
+19
+00:01:09,310 --> 00:01:13,680
+Jadi, 2 juga berkait dengan nombor dua.
+
+20
+00:01:13,680 --> 00:01:15,780
+Jika anda perasan, saya sedang membina beberapa kaitan.
+
+21
+00:01:15,780 --> 00:01:17,580
+Saya lukiskan kaitan tersebut secara visual di sini.
+
+22
+00:01:17,580 --> 00:01:20,650
+Di sini, saya lakukannya sebagai pasangan bertertib.
+
+23
+00:01:20,650 --> 00:01:22,720
+Kita boleh katakan bahawa kita ada nombor tiga.
+
+24
+00:01:22,720 --> 00:01:23,720
+Tiga berada di dalam domain kita.
+
+25
+00:01:23,720 --> 00:01:26,410
+Hubungan kita ditakrifkan bagi nombor tiga.
+
+26
+00:01:26,410 --> 00:01:31,590
+Dan 3 berkait dengan, saya ingin katakan negatif, negatif 7.
+
+27
+00:01:31,590 --> 00:01:35,110
+Maka, Ini adalah 3 dan negatif 7.
+
+28
+00:01:35,110 --> 00:01:38,160
+Sekarang, hubungan jenis ini, dimana jika
+
+29
+00:01:38,163 --> 00:01:41,143
+kamu berikan saya apa saja ahli bagi domain tersebut, dan saya boleh
+
+30
+00:01:41,145 --> 00:01:43,955
+nyatakan secara tepat ahli julat yang manakah yang
+
+31
+00:01:43,954 --> 00:01:48,344
+berkait dengannya. Ini juga dirujuk sebagai fungsi.
+
+32
+00:01:48,340 --> 00:01:50,140
+Dan dalam beberapa saat, saya akan
+
+33
+00:01:50,138 --> 00:01:52,808
+tunjukkan kepada kamu apakah hubungan yang bukan fungsi.
+
+34
+00:01:52,810 --> 00:01:55,440
+Kerana, di sini anda pilih apa sahaja ahli daripada
+
+35
+00:01:55,438 --> 00:01:58,858
+domain, dan fungsi tersebut hanyalaha satu hubungan.
+
+36
+00:01:58,860 --> 00:02:02,270
+Ini sememangnya hanya satu kaitan yang kadang-kadang dikenali sebagai pemetaan antara
+
+37
+00:02:02,270 --> 00:02:05,280
+Ahli-ahli domain dan ahli-ahli khas pada julat.
+
+38
+00:02:05,282 --> 00:02:08,212
+Oleh itu, anda beri saya apa sahaja ahli bagi domain tersebut, saya akan
+
+39
+00:02:08,216 --> 00:02:11,246
+beritahu pada kamu secara tepat ahli julat manakah yang padan dengan nombor tersebut
+
+40
+00:02:11,250 --> 00:02:13,400
+Kalau anda beri saya nombor satu, saya katakan hei, sudah pasti ia akan dipetakan kepada nombor dua.
+
+41
+00:02:13,400 --> 00:02:15,020
+Kalau anda beri saya dua, sudah tentu ia dipetakan kepada dua juga.
+
+42
+00:02:15,020 --> 00:02:19,280
+Jika anda beri saya tiga, sudah pasti ia dikaitkan dengan negatif tujuh juga
+
+43
+00:02:19,280 --> 00:02:23,770
+Oleh itu, hubungan ini, dengan jelasnya bukan sahaja merupakan satu hubungan tapi ia juga merupakan fungsi.
+
+44
+00:02:23,770 --> 00:02:27,780
+sekarang, untuk menunjukkan kepada kamu satu hubungan yang bukan fungsi, bayangkan seperti ini.
+
+45
+00:02:27,780 --> 00:02:29,930
+Oleh itu, sekali lagi, saya akan lukis satu domain di sini.
+
+46
+00:02:29,925 --> 00:02:31,965
+dan saya lukis satu awan yang besar di sini untuk
+
+47
+00:02:31,960 --> 00:02:34,160
+menunjukkan kepada anda bahawa saya tidak menunjukkan kepada kamu semua
+
+48
+00:02:34,155 --> 00:02:37,275
+Perkara di dalam domain. Saya hanya memilih contoh-contoh tertentu.
+
+49
+00:02:37,270 --> 00:02:41,830
+Dan katakan awan yang besar ini adalah julat.
+
+50
+00:02:41,830 --> 00:02:44,240
+Dan katakan dalam hubungan ini, dan saya akan bina
+
+51
+00:02:44,240 --> 00:02:46,830
+Ia sama seperti yang kita telah bina di sini.
+
+52
+00:02:46,830 --> 00:02:50,270
+Katakan dalam Hubungan ini, satu berkait dengan
+
+53
+00:02:50,270 --> 00:02:53,430
+Dua,oleh itu, mari kita bina set pasangan yang bertertib.
+
+54
+00:02:53,430 --> 00:02:56,020
+Jadi, satu berkait dengan dua.
+
+55
+00:02:56,020 --> 00:03:03,150
+Katakan 2 berkait dengan, katakan yang 2 berkaitan dengan negatif tiga.
+
+56
+00:03:03,150 --> 00:03:06,350
+Jadi anda ada 2, negatif 3 disana
+
+57
+00:03:06,350 --> 00:03:09,580
+dan katakan, kita juga
+
+58
+00:03:09,584 --> 00:03:14,034
+mengaitkan, kita juga mengaitkan 1 dengan nombor 4.
+
+59
+00:03:14,030 --> 00:03:17,620
+Oleh itu, kita juga mencipta kaitan di antara 1 dengan nombor 4.
+
+60
+00:03:17,620 --> 00:03:20,110
+Jadi kita ada pasangan bertertib 1,4.
+
+61
+00:03:20,110 --> 00:03:24,290
+Sekarang, ini adalah hubungan yang kita ada.
+
+62
+00:03:24,290 --> 00:03:28,290
+Ia diijelaskan dengan pasti, jikalau ini adalah satu hubungan keseluruhan, maka seluruh
+
+63
+00:03:28,292 --> 00:03:31,472
+domain hanyalah nombor kerana 1,2 sebenarnya hanya nombor 1 dan 2.
+
+64
+00:03:31,470 --> 00:03:34,030
+Ia semestinya merupakan satu hubungan tetapi ia bukan lagi satu
+
+65
+00:03:34,032 --> 00:03:37,142
+fungsi, dan sebab kenapa ia bukan lagi satu fungsi adalah
+
+66
+00:03:37,143 --> 00:03:39,403
+jika anda beritahu saya, ok, saya beri anda satu di dalam
+
+67
+00:03:39,400 --> 00:03:42,640
+domain tersebut, apakah ahli dalam julat yang boleh dikaitkan dengan satu.
+
+68
+00:03:42,640 --> 00:03:44,530
+Di sini anda katakan, saya tidak tahu samada
+
+69
+00:03:44,530 --> 00:03:46,900
+1 berkait dengan dua ataupun adakah ia berkait dengan 4?
+
+70
+00:03:46,900 --> 00:03:48,660
+Ia mungkin 1.
+
+71
+00:03:48,660 --> 00:03:50,450
+Jadi, kamu tidak mempunyai perkaitan yang jelas.
+
+72
+00:03:50,450 --> 00:03:53,550
+Jika saya beri kamu 1, kamu akan katakan… saya tidak tahu samada saya akan bagi kamu 2 atau 4?
+
+73
+00:03:53,550 --> 00:03:54,980
+Itu bukanlh apa yag dilakukan oleh sesuatu fungsi
+
+74
+00:03:54,980 --> 00:03:58,240
+Fungsi adalah, jika kamu berikan saya 1, saya tahu saya akan beri anda 2.
+
+75
+00:03:58,240 --> 00:04:00,280
+Jika anda beri saya dua, saya akan beri anda nombor dua juga.
+
+76
+00:04:00,280 --> 00:04:04,190
+Sekarang, mari kita sama-sama mencuba untuk menyelesaikan masalah ini.
+
+77
+00:04:04,190 --> 00:04:07,360
+Jadi, mari kita fikirkan tentang domain dan julat nya.
+
+78
+00:04:07,360 --> 00:04:11,290
+Maka, Domain di sini, kemungkinan, kemungkinan yang anda boleh lihat
+
+79
+00:04:11,287 --> 00:04:14,757
+mereka sebagai nilai-nilai X ataupun input-input dalam perkara ini yang mungkin merupakan
+
+80
+00:04:14,752 --> 00:04:19,372
+satu fungsi, ia pastinya adalah satu hubungan, anda boleh memperolehi negatif
+
+81
+00:04:19,372 --> 00:04:23,272
+3, kamu boleh memperolehi negatif 2, kamu boleh memperolehi kosong.
+
+82
+00:04:23,270 --> 00:04:27,180
+Anda boleh memperolehi, kita telah menyenaraikan negatif 2, di sini.
+
+83
+00:04:27,180 --> 00:04:31,540
+Atau kamu boleh memperolehi positif 3 atau kamu boleh memperolehi positif 3.
+
+84
+00:04:31,540 --> 00:04:35,100
+Kesemua itu adalah nilai-nilai yang mungkin bagi hubungan yang ditakrifkan
+
+85
+00:04:35,100 --> 00:04:38,920
+Yang anda boleh letakkan sebagai input di dalam hubungan ini dan mengenal pasti apakah output nya
+
+86
+00:04:38,920 --> 00:04:41,790
+Sekarang bagi julat ini, ini adalah kemungkinan output, atau
+
+87
+00:04:41,787 --> 00:04:45,087
+nombor-nombor yang berkait dengan nombor-nombor pada domain.
+
+88
+00:04:45,088 --> 00:04:50,628
+Julat merangkumi 2,4,5,
+
+89
+00:04:50,632 --> 00:04:55,992
+2, 4, 5, 6, 6, dan 8.
+
+90
+00:04:55,989 --> 00:04:57,279
+2, 4, 5, 6, 6, dan 8.
+
+91
+00:04:57,277 --> 00:04:59,607
+Saya boleh lukiskan ini dengan menggunakan awan yang besar
+
+92
+00:04:59,609 --> 00:05:02,379
+Seperti ini, dan saya boleh lakukannya dengan melukis awan seperti ini.
+
+93
+00:05:02,380 --> 00:05:05,000
+Tetapi di sini, kita menunjukkan nombor-nombor yang tepat pada domain dan julat.
+
+94
+00:05:05,000 --> 00:05:07,930
+Dan sekarang, mari kita lukis kaitan sebenar.
+
+95
+00:05:07,930 --> 00:05:11,990
+Maka, negatif 3 berkaitan dengan 2, atau ia dipetakan kepada 2.
+
+96
+00:05:11,990 --> 00:05:17,440
+Oleh itu, negatif 3 dipetakan kepada 2 berdasarkan pasangan bertertib di sini.
+
+97
+00:05:17,440 --> 00:05:20,410
+Kemudian, kita ada negatif 2 yang berkait dengan 4.
+
+98
+00:05:20,410 --> 00:05:25,200
+Oleh itu, negatif 2 berkait dengan 4 berdasarkan pasangan bertertib di sini.
+
+99
+00:05:25,200 --> 00:05:27,640
+Jadi, pasangan bertertib yang pertama, biar saya… pasangan bertertib
+
+100
+00:05:27,644 --> 00:05:30,334
+pertama, saya sepatutnya, saya tidak mahu anda menjadi keliru.
+
+101
+00:05:30,330 --> 00:05:32,950
+Ia sepatutnya hanya pasangan bertertib ini di sini.
+
+102
+00:05:32,950 --> 00:05:35,350
+Negatif 3 berkait dengan 2.
+
+103
+00:05:35,350 --> 00:05:36,950
+Kemudian, kita ada negatif 2.
+
+104
+00:05:36,950 --> 00:05:38,710
+Kita akan lakukannya menggunakan warna yang berbeza.
+
+105
+00:05:38,709 --> 00:05:41,709
+Kita ada negatif 2 berkait dengan 4.
+
+106
+00:05:41,709 --> 00:05:43,779
+negatif 2 berkait dengan 4.
+
+107
+00:05:43,775 --> 00:05:47,115
+Kita ada 0 berkait dengan 5.
+
+108
+00:05:47,110 --> 00:05:51,730
+0 berkait dengan 5 ataupun kadang-kadang dikatakan dipetakan kepada 5.
+
+109
+00:05:51,730 --> 00:05:54,610
+Kita ada, negatif 2 dipetakan kepada 6.
+
+110
+00:05:54,610 --> 00:05:56,130
+Sekarang, ini menarik .
+
+111
+00:05:56,130 --> 00:05:57,580
+Negatif 2 sudah dipetakan kepada sesuatu.
+
+112
+00:05:57,580 --> 00:06:01,030
+Dan sekarang, ini….pasangan bertertib ini juga menyatakan bahawa ianya juga dipetakan.
+
+113
+00:06:01,030 --> 00:06:02,510
+Ia juga dipetakan kepada 6.
+
+114
+00:06:02,510 --> 00:06:06,760
+Dan kemudian, akhir sekali, akhir sekali, saya akan menggunakan warna yang saya belum gunakan.
+
+115
+00:06:06,760 --> 00:06:08,800
+walaupun, saya sudah menggunakan hampir semua warna.
+
+116
+00:06:08,796 --> 00:06:11,796
+Kita ada 3 yang dipetakan kepada 8.
+
+117
+00:06:11,793 --> 00:06:13,703
+3 dipetakan kepada 8.
+
+118
+00:06:13,700 --> 00:06:16,230
+Soalannya di sini ialah, adakah ini satu fungsi?
+
+119
+00:06:16,230 --> 00:06:18,330
+Dan untuk menjadikannya satu fungsi kepada mana-mana ahli
+
+120
+00:06:18,330 --> 00:06:21,200
+bagi domain tersebut, kamu harus mengetahui kepada nombor apakah ia akaan dipetakan
+
+121
+00:06:21,200 --> 00:06:24,190
+Ia hanya boleh dipetakan kepada satu ahli julat tersebut.
+
+122
+00:06:24,190 --> 00:06:26,730
+Jadi negatif 3, kalau anda letakkan, kalau anda letakkan negatif 3
+
+123
+00:06:26,734 --> 00:06:29,584
+Sebagai input pada fungsi, anda tahu ia akan pergi kepada output 2.
+
+124
+00:06:29,580 --> 00:06:32,270
+Jika anda letakkan negatif 2 kedalam input bagi
+
+125
+00:06:32,270 --> 00:06:34,360
+Fungsi tersebut, tiba-tiba anda akan menjadi keliru.
+
+126
+00:06:34,360 --> 00:06:35,790
+Adakah saya meletakkan empat sebagai output?
+
+127
+00:06:35,790 --> 00:06:36,770
+Atau adakaha saya meletakkan 6 sebagai output?
+
+128
+00:06:36,770 --> 00:06:40,520
+Oleh itu, anda tidak tahu sama ada kamu sepatutnya memberikan output 4 atau 6.
+
+129
+00:06:40,520 --> 00:06:44,470
+Dan kerana adanya kekeliruaan di sini, ia bukanlah satu fungsi.
+
+130
+00:06:44,470 --> 00:06:45,970
+Anda mempunyai, anda mempunyai ahli pada
+
+131
+00:06:45,970 --> 00:06:49,040
+Domain yang dipetakan kepada pelbagai ahli kepada julat tersebut.
+
+132
+00:06:49,040 --> 00:06:53,730
+Jadi, ini bukanlah fungsi.
+
+133
+00:06:53,726 --> 00:06:56,606
+Bukan satu fungsi.
+
