@@ -1,0 +1,43 @@
+1
+00:00:01,000 --> 00:00:04,000
+Jawapannya ialah "ayam" terdapat di sini,
+
+2
+00:00:04,000 --> 00:00:10,000
+di sini, di sini, dan di sini.
+
+3
+00:00:10,000 --> 00:00:14,000
+Kini, saya tidak pasti 100%, sama ada itu adalah aksara "ayam" dalam bahasa Cina,
+
+4
+00:00:14,000 --> 00:00:17,000
+tetapi saya tahu bahawa terdapat padanan yang baik.
+
+5
+00:00:17,000 --> 00:00:20,000
+Setiap tempat terdapat perkataan "ayam" dalam bahasa Inggeris,
+
+6
+00:00:20,000 --> 00:00:24,000
+aksara ini muncul dalam bahasa Cina, dan di tiada tempat lain.
+
+7
+00:00:24,000 --> 00:00:27,000
+Mari kita ambil satu langkah seterusnya.
+
+8
+00:00:27,000 --> 00:00:30,000
+Mari kita lihat sama ada kita boleh mengaji suatu frasa Cina
+
+9
+00:00:30,000 --> 00:00:33,000
+dan memadankannya dengan frasa Inggeris.
+
+10
+00:00:33,000 --> 00:00:38,000
+Ini frasanya: "krim jagung"
+
+11
+00:00:38,000 --> 99:59:59,999
+Klikkan aksara-aksara Cina yang sepadan dengan "krim jagung".

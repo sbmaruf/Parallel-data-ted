@@ -1,0 +1,243 @@
+1
+00:00:00,000 --> 00:00:03,000
+Now we've had an introduction to AI.
+
+2
+00:00:03,000 --> 00:00:06,000
+We've heard about some of the properties of environments,
+
+3
+00:00:06,000 --> 00:00:10,000
+and we've seen some possible architecture for agents.
+
+4
+00:00:10,000 --> 00:00:13,000
+I'd like next to show you some examples of AI in practice.
+
+5
+00:00:13,000 --> 00:00:18,000
+And Sebastian and I have some experience personally in things we have done
+
+6
+00:00:18,000 --> 00:00:21,000
+at Google, at NASA, and at Stanford.
+
+7
+00:00:21,000 --> 00:00:25,000
+And I want to tell you a little bit about some of those.
+
+8
+00:00:25,000 --> 00:00:28,000
+One of the best successes of AI technology at Google
+
+9
+00:00:28,000 --> 00:00:31,000
+has been the machine translation system.
+
+10
+00:00:31,000 --> 00:00:37,000
+Here we see an example of an article in Italian automatically translated into English.
+
+11
+00:00:37,000 --> 00:00:41,000
+Now, these systems are built for 50 different languages,
+
+12
+00:00:41,000 --> 00:00:46,000
+and we can translate from any of the languages into any of the other languages.
+
+13
+00:00:46,000 --> 00:00:51,000
+So, that's over 2,500 different systems, and we've done this all
+
+14
+00:00:51,000 --> 00:00:55,000
+using machine learning techniques, using AI techniques,
+
+15
+00:00:55,000 --> 00:00:58,000
+rather than trying to build them by hand.
+
+16
+00:00:58,000 --> 00:01:03,000
+And the way it works is that we go out and collect examples of text
+
+17
+00:01:03,000 --> 00:01:06,000
+that's a line between the 2 languages.
+
+18
+00:01:06,000 --> 00:01:11,000
+So we find, say, a newspaper that publishes 2 editions,
+
+19
+00:01:11,000 --> 00:01:16,000
+an Italian edition and an English edition, and now we have examples of translations.
+
+20
+00:01:16,000 --> 00:01:22,000
+And if anybody ever asked us for exactly the translation of this one particular article,
+
+21
+00:01:22,000 --> 00:01:25,000
+then we could just look it up and say "We already know that."
+
+22
+00:01:25,000 --> 00:01:27,000
+But of course, we aren't often going to be asked that.
+
+23
+00:01:27,000 --> 00:01:30,000
+Rather, we're going to be asked parts of this.
+
+24
+00:01:30,000 --> 00:01:34,000
+Here are some words that we've seen before, and we have to figure out
+
+25
+00:01:34,000 --> 00:01:40,000
+which words in this article correspond to which words in the translation article.
+
+26
+00:01:40,000 --> 00:01:45,000
+And when we do that by examining many, many millions of words of text
+
+27
+00:01:45,000 --> 00:01:49,000
+in the 2 languages and making the correspondence,
+
+28
+00:01:49,000 --> 00:01:51,000
+and then we can put that all together.
+
+29
+00:01:51,000 --> 00:01:54,000
+And then when we see a new example of text that we haven't seen before,
+
+30
+00:01:54,000 --> 00:01:58,000
+we can just look up what we've seen in the past for that correspondence.
+
+31
+00:01:58,000 --> 00:02:01,000
+So, the task is really two parts.
+
+32
+00:02:01,000 --> 00:02:05,000
+Off-line, before we see an example of text we want to translate,
+
+33
+00:02:05,000 --> 00:02:07,000
+we first build our translation model.
+
+34
+00:02:07,000 --> 00:02:10,000
+We do that by examining all of the different examples
+
+35
+00:02:10,000 --> 00:02:14,000
+and figuring out which part aligns to which.
+
+36
+00:02:14,000 --> 00:02:18,000
+Now, when we're given a text to translate, we use that model,
+
+37
+00:02:18,000 --> 00:02:22,000
+and we go through and find the most probable translation.
+
+38
+00:02:22,000 --> 00:02:24,000
+So, what does it look like?
+
+39
+00:02:24,000 --> 00:02:26,000
+Well, let's look at it in some example text.
+
+40
+00:02:26,000 --> 00:02:29,000
+And rather than look at news articles, I'm going to look at something simpler.
+
+41
+00:02:29,000 --> 00:02:35,000
+I'm going to switch from Italian to Chinese.
+
+42
+00:02:35,000 --> 00:02:37,000
+Here's a bilingual text.
+
+43
+00:02:37,000 --> 00:02:41,000
+Now, for a large-scale machine translation, examples are found on the Web.
+
+44
+00:02:41,000 --> 00:02:46,000
+This example was found in a Chinese restaurant by Adam Lopez.
+
+45
+00:02:46,000 --> 00:02:49,000
+Now, it's given, for a text of this form,
+
+46
+00:02:49,000 --> 00:02:55,000
+that a line in Chinese corresponds to a line in English,
+
+47
+00:02:55,000 --> 00:02:59,000
+and that's true for each of the individual lines.
+
+48
+00:02:59,000 --> 00:03:02,000
+But to learn from this text, what we really want to discover
+
+49
+00:03:02,000 --> 00:03:07,000
+is what individual words in Chinese correspond to individual words
+
+50
+00:03:07,000 --> 00:03:09,000
+or small phrases in English.
+
+51
+00:03:09,000 --> 00:03:16,000
+I've started that process by highlighting the word "wonton" in English.
+
+52
+00:03:16,000 --> 00:03:18,000
+It appears 3 times throughout the text.
+
+53
+00:03:18,000 --> 00:03:23,000
+Now, in each of those lines, there's a character that appears,
+
+54
+00:03:23,000 --> 00:03:27,000
+and that's the only place in the Chinese text where that character appears.
+
+55
+00:03:27,000 --> 00:03:33,000
+So, that seems like it's a high probability that this character in Chinese
+
+56
+00:03:33,000 --> 00:03:36,000
+corresponds to the word "wonton" in English.
+
+57
+00:03:36,000 --> 00:03:38,000
+Let's see if we can go farther.
+
+58
+00:03:38,000 --> 00:03:44,000
+My question for you is what word or what character or characters in Chinese
+
+59
+00:03:44,000 --> 00:03:47,000
+correspond to the word "chicken" in English?
+
+60
+00:03:47,000 --> 00:03:54,000
+And here we see "chicken" appears in these locations.
+
+61
+00:03:54,000 --> 99:59:59,999
+Click on the character or characters in Chinese that corresponds to "chicken."

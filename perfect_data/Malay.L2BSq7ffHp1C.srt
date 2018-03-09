@@ -1,0 +1,724 @@
+1
+00:00:00,560 --> 00:00:03,580
+dalam video sebelum ini kita belajar tentang 3 keadaan jirim
+
+2
+00:00:03,580 --> 00:00:06,990
+yang sering berlaku dlam kehidupan seharian kita
+
+3
+00:00:06,990 --> 00:00:12,410
+pepejal,cecair dan gas
+
+4
+00:00:12,410 --> 00:00:14,910
+dan saya pernah katakan terdapat juga keadaan yang keempat
+
+5
+00:00:14,910 --> 00:00:17,310
+yang saya tidak bincangkan lagi kerana ia bukan perkara utama dalam
+
+6
+00:00:17,310 --> 00:00:18,560
+pengenalan kimia
+
+7
+00:00:18,560 --> 00:00:20,750
+Tetapi terdapat sedikit perbincangan yang telah berlaku
+
+8
+00:00:20,750 --> 00:00:22,340
+untuk video tersebut
+
+9
+00:00:22,340 --> 00:00:24,910
+jadi saya rasa kita patut bincangkan sedikit mengenai tahap keempat
+
+10
+00:00:24,910 --> 00:00:26,580
+dan ia ialah plasma
+
+11
+00:00:26,580 --> 00:00:30,970
+saya akan buat dalam warna terang
+
+12
+00:00:30,970 --> 00:00:32,040
+Plasma
+
+13
+00:00:32,040 --> 00:00:34,110
+orang ramai menganggap ia ialah tahap keempat kerana ia mempunyai
+
+14
+00:00:34,110 --> 00:00:36,480
+sedikit ciri2 gas
+
+15
+00:00:36,480 --> 00:00:39,430
+Dalam beberapa cara ia hampir menjadi subset kepada gas.
+
+16
+00:00:39,430 --> 00:00:42,880
+tetapi ia juga mempunyai ciri2 konduktiviti yang anda selalunya
+
+17
+00:00:42,880 --> 00:00:46,350
+tidak akan kaitkan dengan gas
+
+18
+00:00:46,350 --> 00:00:50,100
+Dan untuk pengetahuan anda, apabila anda pertama kali mendengarnya anda berfikir, oh
+
+19
+00:00:50,100 --> 00:00:52,990
+plasma merupakan bendaa eksotik
+
+20
+00:00:52,990 --> 00:00:55,450
+dalam video pertama saya berkata, ia hanya sesuatu yang
+
+21
+00:00:55,450 --> 00:00:56,690
+berlaku pada suhu yang tinggi dimana ia bukanlah
+
+22
+00:00:56,690 --> 00:00:58,370
+100% betul
+
+23
+00:00:58,370 --> 00:01:00,120
+Ia tidak perlu berada pada suhu yang tinggi.
+
+24
+00:01:00,120 --> 00:01:02,730
+saya seharusnya katakan bahawa pada keadaan tertentu
+
+25
+00:01:02,730 --> 00:01:04,670
+dimana anda mempunyai medan elektromagnetik
+
+26
+00:01:04,670 --> 00:01:06,040
+yang kuat
+
+27
+00:01:06,040 --> 00:01:10,550
+ataupun sesuatu seharusnya berlaku untuk melanggar elektron
+
+28
+00:01:10,550 --> 00:01:14,580
+atau menggerakkan elektron keluar dari gas yang
+
+29
+00:01:14,580 --> 00:01:16,410
+pada dasarnya ia suka menyimpan elektron mereka.
+
+30
+00:01:16,410 --> 00:01:18,540
+Jadi ia adalah seakan apa yang berlaku dalam logam.
+
+31
+00:01:18,540 --> 00:01:21,170
+apabila kita bercakap tentang ikatan logam,kita bercakap tentang
+
+32
+00:01:21,170 --> 00:01:23,470
+konsep lautan elektron
+
+33
+00:01:23,470 --> 00:01:26,150
+katakan jika kita bercakap tentang besi/iron
+
+34
+00:01:26,150 --> 00:01:30,130
+apa yang berlaku dengan kebanyakkan logam ialah mereka mempunyai
+
+35
+00:01:30,130 --> 00:01:33,220
+elektron yang sangat banyak dan mereka bersedia untuk memberikan elektron mereka jadi
+
+36
+00:01:33,220 --> 00:01:37,990
+elektron seakan2 terapung diluar atom dan
+
+37
+00:01:37,990 --> 00:01:41,250
+mencipta luatan elektron yang sangat luas
+
+38
+00:01:41,250 --> 00:01:43,760
+dan atom ini akan menjadi
+
+39
+00:01:43,760 --> 00:01:47,110
+ion bercaj positif
+
+40
+00:01:47,110 --> 00:01:49,020
+kerana mereka pada dasarnya menderma sebahagian
+
+41
+00:01:49,020 --> 00:01:49,870
+elektron kepada lautan
+
+42
+00:01:49,870 --> 00:01:52,220
+jadi mereka akan tertarik kepada lautan dan itu yang menjadikan mereka
+
+43
+00:01:52,220 --> 00:01:54,480
+mudah dibentuk/ditempa dan yang penting ia membenarkan
+
+44
+00:01:54,480 --> 00:01:55,510
+mereka untuk mengalirkan arus elektrik
+
+45
+00:01:55,510 --> 00:01:58,300
+tetapi mereka sangat rapat sesama mereka dan merupakan
+
+46
+00:01:58,300 --> 00:01:59,710
+struktur yang amat padat
+
+47
+00:01:59,710 --> 00:02:03,320
+plasma ialah situasi dimana jika anda ambil gas,dan ingat
+
+48
+00:02:03,320 --> 00:02:05,640
+dalam gas mereka berada amat jauh antara satu sama lain
+
+49
+00:02:05,640 --> 00:02:07,700
+maka jika anda ambil sekumpulan gas dan mereka mempunyai
+
+50
+00:02:07,700 --> 00:02:08,700
+tenaga kinetik yang tinggi.
+
+51
+00:02:08,699 --> 00:02:12,339
+Walaupun, mereka tidak perlu, ia boleh berada di bawah
+
+52
+00:02:12,340 --> 00:02:12,970
+tekanan rendah yang sangat rendah
+
+53
+00:02:12,970 --> 00:02:14,950
+tetapi mereka bergerak disekeliling dan berlanggar satu sama lain
+
+54
+00:02:14,950 --> 00:02:16,740
+mereka tidak berada berdekatan
+
+55
+00:02:16,740 --> 00:02:19,450
+mereka tidak mempunyai struktur tetap
+
+56
+00:02:19,450 --> 00:02:21,140
+atau mereka tidak bergesel sesama mereka seperti
+
+57
+00:02:21,140 --> 00:02:22,430
+dalam kes cecair.
+
+58
+00:02:22,430 --> 00:02:26,160
+tetapi apa yang berlaku dalam plasma ialah anda akan
+
+59
+00:02:26,160 --> 00:02:29,770
+menggunakan medan elektromagnetik yang kuat yang menyebabkan
+
+60
+00:02:29,770 --> 00:02:32,460
+elektron mahu berpisah
+
+61
+00:02:32,460 --> 00:02:34,130
+maka katakan elektron ini mula
+
+62
+00:02:34,130 --> 00:02:37,220
+menghentam keluar dari plasma.
+
+63
+00:02:37,220 --> 00:02:40,530
+ok katakan pepejal mempunyai bentuk sendiri.
+
+64
+00:02:40,530 --> 00:02:43,300
+plasma akan mengambil bentuk bekasnya seperti gas
+
+65
+00:02:43,300 --> 00:02:46,350
+kadangkala ia dikenali sebagai gas berion
+
+66
+00:02:46,350 --> 00:02:47,810
+ia dikenali sebagai gas berion kerana
+
+67
+00:02:47,810 --> 00:02:49,850
+elektron telah keluar
+
+68
+00:02:49,850 --> 00:02:52,320
+dan apabila elektron telah keluar,neutral atom yang lain
+
+69
+00:02:52,320 --> 00:02:57,310
+sekarang mempunyai caj positif
+
+70
+00:02:57,310 --> 00:02:59,830
+dan ini yang membolehkan pengaliran arus
+
+71
+00:02:59,830 --> 00:03:00,450
+elektrik
+
+72
+00:03:00,450 --> 00:03:02,960
+kerana sekarang elektrn2 ini bebas untuk bergerak
+
+73
+00:03:02,960 --> 00:03:06,460
+Anda mungkin rasa ia kedengaran seperti perkara yang ganjil
+
+74
+00:03:06,460 --> 00:03:07,550
+bagaimana ia boleh wujud?
+
+75
+00:03:07,550 --> 00:03:10,930
+Well, mungkin yang paling dekat dengan rumah, ia wujud dalam kilat.
+
+76
+00:03:13,940 --> 00:03:16,580
+ia contoh yang paling mudah
+
+77
+00:03:16,580 --> 00:03:19,300
+ideanya ialah anda mula untuk mempunyai perbezaan keupayaan
+
+78
+00:03:19,300 --> 00:03:22,770
+yang sangat besar antara awan dan tanah.
+
+79
+00:03:26,150 --> 00:03:28,480
+disebabkan anda mempunyai perbezaan voltan yang sangat besar
+
+80
+00:03:28,480 --> 00:03:31,710
+antara 2 ini,anda mempunyai elektron yang pada dasarnya
+
+81
+00:03:31,710 --> 00:03:35,090
+ingin untuk pergi kepermukaan tanah
+
+82
+00:03:35,090 --> 00:03:42,400
+anda telah membina elektron disini yang mahu
+
+83
+00:03:42,400 --> 00:03:44,270
+pergi kepermukaan tanah
+
+84
+00:03:44,270 --> 00:03:46,870
+mereka tidak mampu melakukan itu kerana udara
+
+85
+00:03:46,870 --> 00:03:50,390
+merupakan pengalir yang tidak bagus
+
+86
+00:03:50,390 --> 00:03:51,250
+udara ialah penebat.
+
+87
+00:03:51,250 --> 00:03:53,490
+tapi apa yang berlaku ialah disebabkan tidak banyak
+
+88
+00:03:53,490 --> 00:03:56,540
+daya elektik disini,elektron2 yang dekat dengan
+
+89
+00:03:56,540 --> 00:04:01,100
+molekul diatas ini,ok ini ialah bagaimana saya membayangkan ia,
+
+90
+00:04:01,100 --> 00:04:04,890
+elektron2 ini mahu bebas dari awan ini.
+
+91
+00:04:04,890 --> 00:04:06,980
+jadi elektron ini akan mula bergerak
+
+92
+00:04:06,980 --> 00:04:09,300
+dalam molekul udara.
+
+93
+00:04:09,300 --> 00:04:11,130
+udara merupakan sebatian
+
+94
+00:04:11,130 --> 00:04:13,750
+oksigen,nitrogen dan korbon dioksida.
+
+95
+00:04:13,750 --> 00:04:15,780
+mereka mula untuk melepaskan diri daripada awan.
+
+96
+00:04:15,780 --> 00:04:19,080
+jadi mereka mula berpisah dan mula membentuk
+
+97
+00:04:19,079 --> 00:04:20,949
+udara berion ini
+
+98
+00:04:20,950 --> 00:04:24,520
+dan akhirnya pada satu tahap,
+
+99
+00:04:24,520 --> 00:04:28,210
+anda akan mendapat pengaliran dari awan ke
+
+100
+00:04:28,210 --> 00:04:29,610
+tanah
+
+101
+00:04:29,610 --> 00:04:35,850
+dan pengaliran ialah apabila udara berada dalam keadaan plasma.
+
+102
+00:04:35,850 --> 00:04:38,550
+pengaliran/conduction membolehkan suhu yang amat tinggi
+
+103
+00:04:38,550 --> 00:04:41,620
+dan elektron untuk mengalir ke tanah.
+
+104
+00:04:41,620 --> 00:04:44,750
+contoh biasa yang lain,yang anda mungkin pernah dalam
+
+105
+00:04:44,750 --> 00:04:47,410
+keadaan plasma ialah
+
+106
+00:04:47,410 --> 00:04:48,360
+bintang
+
+107
+00:04:48,360 --> 00:04:50,390
+dan ini disebabkan anda mempunyai medan elektromagnetik
+
+108
+00:04:50,390 --> 00:04:54,400
+yang sangat kuat,tekanan yang sangat kuat dan
+
+109
+00:04:54,400 --> 00:04:58,480
+dalam keadaan persekitaran begitu,sekali lagi
+
+110
+00:04:58,480 --> 00:05:00,870
+anda boleh sampai ditahap dimana elektron
+
+111
+00:05:00,870 --> 00:05:04,580
+boleh berpisah dari benda tersebut yang mana kebiasaannya ia
+
+112
+00:05:04,580 --> 00:05:05,620
+tidak mahu melepaskan elektron mereka.
+
+113
+00:05:05,620 --> 00:05:07,410
+Saya fikir saya akan menyentuh mengenai perkara tersebut kerana ia merupakan
+
+114
+00:05:07,410 --> 00:05:08,470
+perkara yang menarik.
+
+115
+00:05:08,470 --> 00:05:11,820
+dan ia wujud dalam alam semesta
+
+116
+00:05:11,820 --> 00:05:14,760
+pada peringkat semesta,kerana bintang kebanyakkannya
+
+117
+00:05:14,760 --> 00:05:18,300
+ialah plasma, ia sebenarnya adalah keadaan yang paling biasa
+
+118
+00:05:18,295 --> 00:05:19,005
+di alam semesta.
+
+119
+00:05:19,000 --> 00:05:22,410
+walaupun dalam kehidupan seharian kita kita banyak bertemu dengan pepejal
+
+120
+00:05:22,410 --> 00:05:24,420
+cecair dan juga gas.
+
+121
+00:05:24,420 --> 00:05:27,590
+dan perkara lain yang mahu saya jelaskan ialah
+
+122
+00:05:27,590 --> 00:05:29,300
+mengenai ikatan
+
+123
+00:05:29,300 --> 00:05:32,350
+antara molekul air.
+
+124
+00:05:32,350 --> 00:05:34,180
+katakan kita bercakap dalam keadaan pepejal.
+
+125
+00:05:34,180 --> 00:05:38,660
+jadi saya ada oksigen,hidrogen,hidrogen.
+
+126
+00:05:38,660 --> 00:05:41,720
+dan saya mempunyai beberapa elektron disini,beberapa elektron disini.
+
+127
+00:05:41,720 --> 00:05:46,870
+katakan terdapat hidrogen lain disini, oksigen dan
+
+128
+00:05:46,866 --> 00:05:48,066
+hidrogen.
+
+129
+00:05:48,070 --> 00:05:50,840
+mungkin disini ada oksigen.
+
+130
+00:05:50,840 --> 00:05:52,130
+yang ini mempunyai hidrogen.
+
+131
+00:05:58,710 --> 00:06:00,130
+dan ini mempunyai hidrogen.
+
+132
+00:06:00,130 --> 00:06:03,370
+dan ia ada 2 elektron,2 pasang elektron.
+
+133
+00:06:03,370 --> 00:06:07,140
+jadi saya cakap tentang konsep dan kita telah bercakap mengenai ia
+
+134
+00:06:07,140 --> 00:06:07,620
+banyak kali sebelum ini.
+
+135
+00:06:07,620 --> 00:06:10,140
+oksigen mempunyai lebih elektronegativiti yang akan
+
+136
+00:06:10,140 --> 00:06:11,350
+mengambil elektron.
+
+137
+00:06:11,350 --> 00:06:13,100
+maka bahagian oksigen akan mempunyai
+
+138
+00:06:13,100 --> 00:06:15,060
+separa caj negatif.
+
+139
+00:06:15,060 --> 00:06:16,900
+sementara bahagian hidrogen akan mempunyai
+
+140
+00:06:16,900 --> 00:06:17,950
+separa caj positif.
+
+141
+00:06:17,950 --> 00:06:19,420
+disebabkan hidrogen,pada dasarnya, semua elektronnya
+
+142
+00:06:19,420 --> 00:06:23,730
+akan berada lebih dekat dengan oksigen, dan hidrogen
+
+143
+00:06:23,730 --> 00:06:25,590
+akhirnya akan menjadi seperti proton ini yang
+
+144
+00:06:25,590 --> 00:06:26,130
+terapung disini.
+
+145
+00:06:26,130 --> 00:06:27,310
+kerana kita katakan ia tidak mempunyai
+
+146
+00:06:27,310 --> 00:06:29,180
+neutron dalam kebanyakkan kes.
+
+147
+00:06:29,180 --> 00:06:30,620
+jadi ia mempunyai sedikit caj positif.
+
+148
+00:06:30,620 --> 00:06:32,400
+yang ini mempunyai caj positif.
+
+149
+00:06:32,400 --> 00:06:38,560
+dan kutub positif dihujung molekul air ini akan
+
+150
+00:06:38,560 --> 00:06:40,290
+tertarik pada hujung kutub negatif.
+
+151
+00:06:40,290 --> 00:06:45,730
+dan ikatan kutub atau polar yang saya sebut sebelum ini
+
+152
+00:06:45,730 --> 00:06:48,750
+sebenarnya ia lebih dikenali sebagai
+
+153
+00:06:48,745 --> 00:06:52,285
+ikatan hidrogen.
+
+154
+00:06:52,280 --> 00:06:56,010
+maka ini merupakan ikatan hidrogen dan ini juga ikatan hidrogen
+
+155
+00:06:56,010 --> 00:06:58,810
+tidak kisah anda mahu panggil apa.
+
+156
+00:06:58,810 --> 00:07:00,780
+saya hanya mahu tegaskan kerana ia
+
+157
+00:07:00,780 --> 00:07:02,480
+ialah apa yang kita biasa gunakan dalam kelas kimia.
+
+158
+00:07:02,480 --> 00:07:03,620
+saya tidak mahu kelirukan anda.
+
+159
+00:07:03,620 --> 00:07:08,680
+dan ia merupakan ikatan yang wujud dari hidrogen atom
+
+160
+00:07:08,680 --> 00:07:10,530
+separa positif.
+
+161
+00:07:10,530 --> 00:07:14,400
+kerana elektronnya berada berdekatan dengan oksigen.
+
+162
+00:07:14,400 --> 00:07:18,980
+dan atom oksigen separa negatif
+
+163
+00:07:18,980 --> 00:07:20,200
+dalam molekul air.
+
+164
+00:07:20,200 --> 00:07:22,920
+kerana ia telah mengambil semua elektron ini
+
+165
+00:07:22,920 --> 00:07:24,580
+dari hidrogen.
+
+166
+00:07:24,580 --> 00:07:26,680
+anda lukis ia seperti ini.ia dipanggil ikatan hidrogen.
+
+167
+00:07:26,680 --> 00:07:31,960
+ikatan hidrogen cenderung terbentuk antara hidrogen atau
+
+168
+00:07:31,960 --> 00:07:35,740
+atom yang elektronegativitinya tinggi. dan ia ialah
+
+169
+00:07:35,740 --> 00:07:40,500
+nitrogen,fluorine dam oksigen.
+
+170
+00:07:40,500 --> 00:07:44,230
+3 atom ini mempunyai elektronegativity yang paling kuat.
+
+171
+00:07:44,230 --> 00:07:54,680
+jadi nitrogen,NH3,apabila ia membemtuk ikatan dengan hidrogen,
+
+172
+00:07:54,680 --> 00:07:56,940
+ia pada dasarnya sangat electronegatif yang mana
+
+173
+00:07:56,940 --> 00:07:58,210
+anda akan mengalami situasi yang sama.
+
+174
+00:07:58,210 --> 00:08:00,410
+semua elektron2 ini akan berada diluar ini,jadi anda ada separa
+
+175
+00:08:00,410 --> 00:08:04,770
+caj negatif,separa positif pada hujung hidrogen.
+
+176
+00:08:04,770 --> 00:08:08,840
+perkara sama berlaku pada hidrogen fluorine.
+
+177
+00:08:08,840 --> 00:08:11,410
+anda akan ada HF.
+
+178
+00:08:11,410 --> 00:08:13,740
+anda akan ada ikatan hidrogen yang sama.
+
+179
+00:08:13,740 --> 00:08:17,280
+jadi dalam kes ini,yang ini akan tertarik pada
+
+180
+00:08:17,280 --> 00:08:19,190
+bahagian nitrogen molekul lain dan akan membentuk
+
+181
+00:08:19,190 --> 00:08:19,820
+ikatan hidrogen.
+

@@ -1,0 +1,900 @@
+1
+00:00:00,560 --> 00:00:02,840
+sekarang kita memperoleh peralatan am
+
+2
+00:00:02,859 --> 00:00:05,379
+untuk menguasai semua jenis masalah pendaraban
+
+3
+00:00:05,380 --> 00:00:08,380
+di dalam video ini saya akan menunjuk pelbagai contoh
+
+4
+00:00:08,390 --> 00:00:12,660
+jadi mari kita mulakan dengan--dan saya mulakan dalam kuning
+
+5
+00:00:12,670 --> 00:00:20,440
+mari mulakan dengan 32 darab 18
+
+6
+00:00:20,439 --> 00:00:24,249
+sebutkan 8 darab 2 sama dengan 16
+
+7
+00:00:24,260 --> 00:00:25,750
+baiklah,saya akan menggambarkan dalam fikiran masing-masing
+
+8
+00:00:25,747 --> 00:00:28,497
+kerana anda tidak selalu memperoleh semua ruang untuk melaksanakannya
+
+9
+00:00:28,510 --> 00:00:33,680
+jadi 8 darab 2 sama dengan 16
+
+10
+00:00:33,680 --> 00:00:34,800
+letakkan 1 diatas
+
+11
+00:00:34,810 --> 00:00:37,490
+8 darab 3 sama dengan 24
+
+12
+00:00:37,500 --> 00:00:42,540
+24 tambah 1 sama dengan 25
+
+13
+00:00:42,535 --> 00:00:46,285
+jadi 8 darab 32 sama dengan 256
+
+14
+00:00:46,284 --> 00:00:48,124
+sekarang kita akan mendarabkan dengan 1
+
+15
+00:00:48,128 --> 00:00:51,208
+dimana ia merupakan sepuluh darab 32
+
+16
+00:00:51,220 --> 00:00:53,210
+saya akan menggariskannya dengan menggunakan warna oren
+
+17
+00:00:53,210 --> 00:00:56,420
+1 darab 2--ohh,kita perlu berhatu-hati pada bahagian ini
+
+18
+00:00:56,420 --> 00:00:58,760
+1 darab 2 sama dengan 2
+
+19
+00:00:58,770 --> 00:01:01,070
+maka anda akan berkata heyy,biar saya kekalkan 2 dibawah
+
+20
+00:01:01,070 --> 00:01:02,630
+ingat,ini bukan 1
+
+21
+00:01:02,640 --> 00:01:05,460
+ini adalah 10,jadi kita harus mengekalkan 0 disana
+
+22
+00:01:05,460 --> 00:01:06,610
+untuk mengingatkan perkara itu
+
+23
+00:01:06,620 --> 00:01:10,730
+jadi 10 darab 2 sama dengan 20
+
+24
+00:01:10,727 --> 00:01:12,207
+atau anda kata 1 darab 2 sama dengan 2
+
+25
+00:01:12,202 --> 00:01:15,012
+tapi anda sedang meletakkan nombor tersebut dalam kedudukan kesepuluh,jadi anda masih mendapat 20
+
+26
+00:01:15,010 --> 00:01:16,650
+jadi 10 darab 2 sama dengan 20
+
+27
+00:01:16,654 --> 00:01:17,654
+ia akan menjadi
+
+28
+00:01:17,650 --> 00:01:19,500
+kemudian 1 darab 3
+
+29
+00:01:19,510 --> 00:01:20,740
+dan kita perlulah berhati-hati
+
+30
+00:01:20,750 --> 00:01:22,780
+buangkan apa yang kita dapat sebelum ini
+
+31
+00:01:22,780 --> 00:01:25,590
+1 darab 3 sama dengan 3
+
+32
+00:01:25,590 --> 00:01:29,380
+tiada apa yang perlu di tambahkan disini, jadi anda hanya perlu dapatkan 3
+
+33
+00:01:29,390 --> 00:01:34,530
+dan anda mendapat 10 darab 32 sama dengan 320
+
+34
+00:01:34,530 --> 00:01:36,200
+disini,itu merupakan 10
+
+35
+00:01:36,200 --> 00:01:38,820
+10 tambah 8 sama dengan 18
+
+36
+00:01:38,820 --> 00:01:41,810
+jadi sekarang kita hanya perlu menambahkan dua nombor
+
+37
+00:01:41,821 --> 00:01:42,501
+anda perlu tambahkan semua
+
+38
+00:01:42,510 --> 00:01:44,400
+6 tambah 0 sama dengan 6
+
+39
+00:01:44,400 --> 00:01:46,170
+5 tambah 2 sama dengan 7
+
+40
+00:01:46,180 --> 00:01:49,230
+2 tambah 3 sama dengan 5
+
+41
+00:01:49,230 --> 00:01:50,830
+mari teruskan
+
+42
+00:01:50,840 --> 00:01:56,570
+mari buat 99 darab 88
+
+43
+00:01:56,574 --> 00:01:58,444
+itu akan memberi nombor yang besar
+
+44
+00:01:58,450 --> 00:02:03,050
+8 darab 9 sama dengan 72
+
+45
+00:02:03,060 --> 00:02:06,680
+kekalkan 7 diatas
+
+46
+00:02:06,680 --> 00:02:08,430
+dan kemudian anda memperoleh 8 darab 9 sekali lagi
+
+47
+00:02:08,430 --> 00:02:11,330
+8 darab 9 sama dengan 72 tetapi sekarang anda mempunyai 7 diatas
+
+48
+00:02:11,340 --> 00:02:16,270
+jadi 72 tambah 7 sama dengan 79
+
+49
+00:02:16,280 --> 00:02:17,080
+cukup baik
+
+50
+00:02:17,080 --> 00:02:18,240
+sekarang kita telah menyelesaikannya
+
+51
+00:02:18,250 --> 00:02:19,130
+padamkan sahaja
+
+52
+00:02:19,141 --> 00:02:22,151
+supaya kita tidak terkeliru dengan langkah yang seterusnya
+
+53
+00:02:22,150 --> 00:02:25,230
+dalam langkah yang seterusnya,kita akan mendarabkan 8 darab 99
+
+54
+00:02:25,240 --> 00:02:26,800
+Tetapi lapan ini adalah 1 lapan puluh
+
+55
+00:02:26,800 --> 00:02:28,410
+jadi,kekalkan 0 dibawah
+
+56
+00:02:28,410 --> 00:02:31,000
+8 darab 9 sama dengan 72
+
+57
+00:02:31,000 --> 00:02:32,650
+kekalkan 7 diatas
+
+58
+00:02:32,650 --> 00:02:34,580
+kemudian 8 darab 9 sama dengan 72
+
+59
+00:02:34,590 --> 00:02:38,280
+tambah 7 sama dengan 79
+
+60
+00:02:38,297 --> 00:02:40,327
+2 tambah 0 sama dengan 2
+
+61
+00:02:40,330 --> 00:02:42,460
+biar saya tukarkan warna
+
+62
+00:02:42,460 --> 00:02:44,550
+9 tambah 2 sama dengan 11
+
+63
+00:02:44,560 --> 00:02:45,810
+teruskan dengan 1
+
+64
+00:02:45,810 --> 00:02:47,870
+1 tambah 7 sama dengan 8
+
+65
+00:02:47,880 --> 00:02:50,140
+8 tambah 9 sama dengan 17
+
+66
+00:02:50,150 --> 00:02:51,090
+teruskan dengan 1
+
+67
+00:02:51,090 --> 00:02:53,520
+1 tambah 7 sama dengan 8
+
+68
+00:02:53,530 --> 00:02:56,380
+8712
+
+69
+00:02:56,380 --> 00:02:58,950
+mari teruskan
+
+70
+00:02:58,960 --> 00:03:01,110
+tidak cukup dengan ini
+
+71
+00:03:01,120 --> 00:03:09,370
+baiklah,53 darab 78
+
+72
+00:03:09,368 --> 00:03:11,138
+saya rasa anda dapat memahaminya
+
+73
+00:03:11,150 --> 00:03:13,400
+mendarabkan 8 darab 53 dahulu
+
+74
+00:03:13,400 --> 00:03:17,320
+jadi 8 darab 3 sama dengan 24
+
+75
+00:03:17,330 --> 00:03:18,880
+kekalkan 2 diatas
+
+76
+00:03:18,880 --> 00:03:21,970
+8 darab 5 sama dengan 40
+
+77
+00:03:21,970 --> 00:03:26,850
+40 tambah 2 smam dengan 42
+
+78
+00:03:26,846 --> 00:03:29,506
+sekarang kita perlu selesaikan 7
+
+79
+00:03:29,510 --> 00:03:31,970
+7 disitu merupakan 70
+
+80
+00:03:31,970 --> 00:03:34,300
+jadi kita harus ingat supaya meletakkan 0
+
+81
+00:03:34,310 --> 00:03:37,190
+7 darab 3 dan buangkan semua ini
+
+82
+00:03:37,190 --> 00:03:38,440
+supaya tidak keliru
+
+83
+00:03:38,440 --> 00:03:41,040
+7 darab 3 sma dengan 21
+
+84
+00:03:41,050 --> 00:03:43,460
+letakkan 1 disana dan letakkan 2 diatas
+
+85
+00:03:43,460 --> 00:03:46,830
+7 darab 5 sama dengan 35
+
+86
+00:03:46,840 --> 00:03:50,270
+tambah 2 sama dengan 37
+
+87
+00:03:50,280 --> 00:03:53,040
+sekarang kita bersedia untuk tambah
+
+88
+00:03:53,040 --> 00:03:54,950
+4 tambah 0 sama dengan 4
+
+89
+00:03:54,960 --> 00:03:56,930
+2 tambah 1 sama dengan 3
+
+90
+00:03:56,930 --> 00:04:00,210
+4 tambah 7 sama dengan 11
+
+91
+00:04:00,210 --> 00:04:00,950
+teruskan dengan 1
+
+92
+00:04:00,960 --> 00:04:03,140
+1 tambah 3 sama dengan 4
+
+93
+00:04:03,150 --> 00:04:06,970
+4134
+
+94
+00:04:06,970 --> 00:04:12,130
+tumpukan lebih
+
+95
+00:04:12,131 --> 00:04:27,231
+jadi katakan saya mempunyai 796 darab dengan 58
+
+96
+00:04:27,228 --> 00:04:28,848
+campurkan ia
+
+97
+00:04:28,850 --> 00:04:33,080
+baiklah,pertama,kita perlu mendarabkan 8 darab 796
+
+98
+00:04:33,080 --> 00:04:35,400
+untuk pengetahuan anda,saya telah menambahkan digit disini
+
+99
+00:04:35,410 --> 00:04:39,870
+8 darab 6 sma dengan 48
+
+100
+00:04:39,870 --> 00:04:41,940
+letakkan 4 diatas
+
+101
+00:04:41,940 --> 00:04:45,440
+8 darab 9 sama dengan 72
+
+102
+00:04:45,450 --> 00:04:50,680
+tambah 4 sama dengan 76
+
+103
+00:04:50,676 --> 00:04:54,626
+dan 8 darab 7 sama dengan 56
+
+104
+00:04:54,622 --> 00:05:01,392
+56 tambah 7 sama dengan 63
+
+105
+00:05:01,392 --> 00:05:02,932
+saya yakin saya telah melakukan kesalahan
+
+106
+00:05:02,936 --> 00:05:04,066
+pada suatu titik di dalam video ini
+
+107
+00:05:04,070 --> 00:05:07,560
+dan sasaran adalah untuk mengenalpasti sekiranya saya lakukan
+
+108
+00:05:07,560 --> 00:05:08,630
+baiklah,anda telah bersedia
+
+109
+00:05:08,625 --> 00:05:10,485
+jadi kita perlu buangkan nombor-nombor ini
+
+110
+00:05:10,485 --> 00:05:14,435
+sekarang kita boleh mendarabkan 5 dimana tempat yang kesepuluh
+
+111
+00:05:14,430 --> 00:05:15,720
+itu sememangnya 50
+
+112
+00:05:15,730 --> 00:05:16,770
+masa telah tamat
+
+113
+00:05:16,770 --> 00:05:20,160
+kerana 50 sifar dikekalkan
+
+114
+00:05:20,170 --> 00:05:24,230
+5 darab 6 sama dengan 30
+
+115
+00:05:24,230 --> 00:05:26,980
+letakkan 0 disana,letakkan 3 diatas
+
+116
+00:05:26,990 --> 00:05:29,860
+5 darab 9 sama dengan 45
+
+117
+00:05:29,860 --> 00:05:34,220
+tambah 3 sama dengan 48
+
+118
+00:05:34,220 --> 00:05:36,920
+5 darab 7 sama dengan 35
+
+119
+00:05:36,920 --> 00:05:40,770
+tambah 4 sama dengan 39
+
+120
+00:05:40,769 --> 00:05:43,409
+sekarang kita telah bersedia untuk ditambahkan
+
+121
+00:05:43,420 --> 00:05:45,620
+8 tambah 0 sama dengan 8
+
+122
+00:05:45,620 --> 00:05:47,510
+6 tambah 0 sama dengan 6
+
+123
+00:05:47,510 --> 00:05:52,640
+3 tambah 8 sama dengan 11
+
+124
+00:05:52,640 --> 00:05:54,060
+1 tambah 6 sama dengan 7
+
+125
+00:05:54,060 --> 00:05:57,110
+7 tambah 9 sama dengan 16
+
+126
+00:05:57,120 --> 00:05:59,480
+1 tambah 3 sama dengan 4
+
+127
+00:05:59,480 --> 00:06:05,180
+796 darab 58 sama dengan 46168
+
+128
+00:06:05,180 --> 00:06:06,930
+dan jawapannya betul
+
+129
+00:06:06,928 --> 00:06:10,398
+kerana 796--hampir 800
+
+130
+00:06:10,400 --> 00:06:12,180
+anda tahu dimana hampir 1000
+
+131
+00:06:12,180 --> 00:06:16,310
+jadi sekiranya didarabkan 1000 darab 58,kita akan memperoleh 58000
+
+132
+00:06:16,311 --> 00:06:18,541
+tapi kita mendarabkan sesuatu yang lebih kecil
+
+133
+00:06:18,545 --> 00:06:19,645
+kemudian 1000 darab 58
+
+134
+00:06:19,648 --> 00:06:22,158
+jadi kita mendapat sesuatu yang sedikit yang lebih kecil daripada 58000
+
+135
+00:06:22,160 --> 00:06:26,810
+Jadi nombor dalam ballpark yang betul
+
+136
+00:06:26,805 --> 00:06:29,905
+sekarang,mari lakukan lagi satu
+
+137
+00:06:29,902 --> 00:06:33,312
+di mana saya benar-benar pergi kepada langkah yang penting
+
+138
+00:06:33,310 --> 00:06:39,390
+mari lakukan 523 darab
+
+139
+00:06:39,387 --> 00:06:41,727
+saya akan melakukan nombor tiga digit
+
+140
+00:06:41,725 --> 00:06:45,175
+darab 798
+
+141
+00:06:45,180 --> 00:06:47,930
+ia merupakan nombor tiga digit
+
+142
+00:06:47,930 --> 00:06:50,570
+tapi ia merupakan proses yang sama
+
+143
+00:06:50,580 --> 00:06:52,400
+dan sekali anda dapat melihat lakarannya
+
+144
+00:06:52,395 --> 00:06:55,915
+anda akan berkata,ia akan mengaplikasikan sebarang bilangan digit darab dengan sebarang bilangan digit
+
+145
+00:06:55,920 --> 00:06:57,750
+ia akan memakan masa yang lama
+
+146
+00:06:57,748 --> 00:07:00,568
+dan peluang untuk melakukan kesalahan adalah besar
+
+147
+00:07:00,564 --> 00:07:02,564
+tapi ia merupakan idea yang sama
+
+148
+00:07:02,560 --> 00:07:06,060
+jadi kita mulakan dengan 8 darab 523
+
+149
+00:07:06,060 --> 00:07:09,730
+8 darab 3 sama dengan 24
+
+150
+00:07:09,740 --> 00:07:13,050
+kekalkan 2 diatas
+
+151
+00:07:13,060 --> 00:07:16,330
+sekarang 8 darab 2 sama dengan 16
+
+152
+00:07:16,330 --> 00:07:18,830
+16 tambah 2 sama dengan 18
+
+153
+00:07:18,840 --> 00:07:20,570
+letakkan 1 diatas
+
+154
+00:07:20,570 --> 00:07:22,380
+8 darab 5 sama dengan 40
+
+155
+00:07:22,380 --> 00:07:24,540
+tambah 1 sama dengan 41
+
+156
+00:07:24,550 --> 00:07:29,230
+jadi 8 darab 523 sama dengan 40184
+
+157
+00:07:29,240 --> 00:07:30,050
+kita masih belum selesai
+
+158
+00:07:30,050 --> 00:07:34,250
+Kita perlu berganda kali sembilan puluh dan 700
+
+159
+00:07:34,250 --> 00:07:37,180
+jadi tuliskan 90 disitu
+
+160
+00:07:37,180 --> 00:07:39,230
+jadi ia adala 90,kita akan mengekalkan 0 disitu
+
+161
+00:07:39,240 --> 00:07:40,850
+ia bukan 9
+
+162
+00:07:40,850 --> 00:07:43,100
+dan buangkan nombor-nombor ini
+
+163
+00:07:43,095 --> 00:07:49,855
+9 darab 3 sama dengan 27
+
+164
+00:07:49,851 --> 00:07:54,031
+9 darab 2 sama dengan 18
+
+165
+00:07:54,033 --> 00:07:59,093
+18 tambah 2 sama dengan 20
+
+166
+00:07:59,093 --> 00:08:03,913
+dan kemudian kita mempunyai 9 darab 5 sama dengan 45
+
+167
+00:08:03,916 --> 00:08:09,616
+45 tambah 2 sama dengan 47
+
+168
+00:08:09,620 --> 00:08:12,450
+saya tidak menulisnya dengan pekat
+
+169
+00:08:12,450 --> 00:08:13,420
+47
+
+170
+00:08:13,416 --> 00:08:14,866
+biar saya pastikan bahawa apa yang saya lakukan betul
+
+171
+00:08:14,869 --> 00:08:16,449
+dan mari kita mengkaji semula ia sedikit
+
+172
+00:08:16,450 --> 00:08:19,530
+9 darab 3 sama dengan 27
+
+173
+00:08:19,540 --> 00:08:22,170
+kita tulis 7 dibawah dan letakkan 2 diatas
+
+174
+00:08:22,180 --> 00:08:24,490
+9 darab 2 sama dengan 18
+
+175
+00:08:24,490 --> 00:08:27,110
+kita tambahkan 2 ,jadi kita tuliskan 20
+
+176
+00:08:27,110 --> 00:08:29,310
+tulis 0 dibawah dan 2 diatas
+
+177
+00:08:29,310 --> 00:08:31,610
+9 darab 5 sama dengan 45
+
+178
+00:08:31,620 --> 00:08:33,620
+tambah 2 sama dengan 47
+
+179
+00:08:33,620 --> 00:08:34,610
+anda perlu memastikan jawapannya
+
+180
+00:08:34,605 --> 00:08:37,355
+supaya anda tidak melakukan kesalahan
+
+181
+00:08:37,360 --> 00:08:38,970
+akhir sekali,kita harus darabkan 7
+
+182
+00:08:38,970 --> 00:08:43,760
+dimana 700 darab 523
+
+183
+00:08:43,770 --> 00:08:45,980
+Apabila ia hanya lapan kita hanya mula mendarabkan di sini
+
+184
+00:08:45,982 --> 00:08:48,192
+apabila ia 90,ia berada di tempat yang kesepuluh
+
+185
+00:08:48,190 --> 00:08:49,710
+letakkan 0 disitu
+
+186
+00:08:49,720 --> 00:08:51,630
+Sekarang kita sedang berhadapan dengan sesuatu yang dalam beratus-ratus
+
+187
+00:08:51,628 --> 00:08:56,848
+kami akan meletakkan dua sifar di sana
+
+188
+00:08:56,851 --> 00:09:00,601
+Dan supaya anda mempunyai tujuh - dan mari kita menghilangkan barangan ini
+
+189
+00:09:00,610 --> 00:09:04,990
+7 darab 3 sama dengan 21
+
+190
+00:09:04,993 --> 00:09:06,423
+letakkan 1 disitu
+
+191
+00:09:06,420 --> 00:09:08,460
+kekalkan 2 diatas
+
+192
+00:09:08,470 --> 00:09:11,070
+7 darab 2 sama dengan 14
+
+193
+00:09:11,070 --> 00:09:16,120
+14 tambah 2 sama dengan 16
+
+194
+00:09:16,120 --> 00:09:17,620
+letakkan 1 diatas
+
+195
+00:09:17,630 --> 00:09:20,390
+7 darab 5 sama dengan 35
+
+196
+00:09:20,400 --> 00:09:24,540
+tambah 1 sama dengan 36
+
+197
+00:09:24,542 --> 00:09:26,812
+dan sekarang kita bersedia untuk ditambahkan
+
+198
+00:09:26,820 --> 00:09:29,440
+dan saya berharap kita tidak melakukan kesalahan
+
+199
+00:09:29,440 --> 00:09:30,940
+4 tambah 0 tambah 0
+
+200
+00:09:30,940 --> 00:09:31,540
+mudah
+
+201
+00:09:31,540 --> 00:09:32,470
+itu adalah 4
+
+202
+00:09:32,480 --> 00:09:34,100
+8 tambah 7 tambah 0
+
+203
+00:09:34,100 --> 00:09:36,020
+itu adalah 15
+
+204
+00:09:36,020 --> 00:09:36,750
+bawa 1
+
+205
+00:09:36,750 --> 00:09:39,510
+1 tambah 1 tambah 1 sama dengan 3
+
+206
+00:09:39,520 --> 00:09:41,540
+4+7+6
+
+207
+00:09:41,550 --> 00:09:42,070
+apakah itu?
+
+208
+00:09:42,080 --> 00:09:43,020
+4+6=10
+
+209
+00:09:43,020 --> 00:09:46,570
+itu adalah 17
+
+210
+00:09:46,571 --> 00:09:48,901
+kita ada 1+4=5
+
+211
+00:09:48,910 --> 00:09:51,200
+5+6=11
+
+212
+00:09:51,210 --> 00:09:52,220
+bawa 1
+
+213
+00:09:52,230 --> 00:09:54,350
+1+3=4
+
+214
+00:09:54,350 --> 00:09:58,260
+523 darab 798
+
+215
+00:09:58,262 --> 00:10:03,572
+sama dengan 417354
+
+216
+00:10:03,568 --> 00:10:05,718
+kita boleh semak semula
+
+217
+00:10:05,730 --> 00:10:07,230
+inilah masanya
+
+218
+00:10:07,240 --> 00:10:08,610
+mari kita lihat
+
+219
+00:10:08,620 --> 00:10:15,550
+523 darab 798
+
+220
+00:10:15,550 --> 00:10:16,420
+itulah dia
+
+221
+00:10:16,420 --> 00:10:17,140
+saat kebenaran
+
+222
+00:10:17,140 --> 00:10:19,210
+saya tidak perlu merakam semula video ini
+
+223
+00:10:19,220 --> 00:10:22,000
+417354
+
+224
+00:10:22,000 --> 00:10:23,960
+tapi kita telah melakukannya tanpa menggunakan kalkulator
+
+225
+00:10:23,962 --> 00:10:26,372
+merupakan sesuatu yang penting
+

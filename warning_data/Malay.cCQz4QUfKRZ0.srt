@@ -1,0 +1,1059 @@
+1
+00:00:00,450 --> 00:00:03,570
+Dalam video ini, saya akan membuat beberapa contoh untuk mencari
+
+2
+00:00:03,570 --> 00:00:07,170
+persamaan garis lurus dalam bentuk kecerunan-pintasan
+
+3
+00:00:07,170 --> 00:00:09,610
+Ini bermaksud persamaan garis lurus
+
+4
+00:00:09,610 --> 00:00:17,050
+dalam bentuk y bersamaan dengan mx tambah b, di mana m ialah kecerunan
+
+5
+00:00:17,050 --> 00:00:21,200
+dan b adalah pintasan-y.
+
+6
+00:00:21,200 --> 00:00:24,870
+Oleh itu, mari kita mencuba beberapa soalan begini. Di sini, dinyatakan bahawa
+
+7
+00:00:24,870 --> 00:00:28,900
+satu garis lurus mempunyai kecerunan negatif 5. Oleh itu, m
+
+8
+00:00:28,900 --> 00:00:30,740
+bersamaan dengan negatif 5.
+
+9
+00:00:30,740 --> 00:00:34,290
+dan dinyatakan juga bahawa pintasan-y bersamaan dengan 6.
+
+10
+00:00:34,290 --> 00:00:36,300
+Oleh itu, b bersamaan dengan 6.
+
+11
+00:00:36,300 --> 00:00:37,985
+Ini agak mudah.
+
+12
+00:00:37,985 --> 00:00:41,530
+Persamaan untuk garis lurus ini adalah y bersamaan dengan
+
+13
+00:00:41,530 --> 00:00:47,550
+negatif 5x tambah 6.
+
+14
+00:00:47,550 --> 00:00:49,570
+Mari kita cuba pula
+
+15
+00:00:49,570 --> 00:00:51,570
+soalan yang seterusnya.
+
+16
+00:00:51,570 --> 00:00:54,300
+Garis lurus ini mempunyai kecerunan bersamaan dengan negatif 1 dan
+
+17
+00:00:54,300 --> 00:00:57,320
+melalui titik (4/5,0).
+
+18
+00:00:57,320 --> 00:01:00,600
+Di sini, dinyatakan kecerunannya yang bersamaan dengan negatif 1.
+
+19
+00:01:00,600 --> 00:01:05,230
+Oleh itu, kita tahu bahawa m bersamaan dengan negatif 1. Walau bagaimanapun, kita tidak 100%
+
+20
+00:01:05,230 --> 00:01:09,190
+pasti di mana pintasan-y berada.
+
+21
+00:01:09,190 --> 00:01:12,510
+Kita tahu bahawa persamaan ini adalah dalam bentuk y
+
+22
+00:01:12,510 --> 00:01:19,300
+bersamaan dengan kecerunan negatif 1x tambah b, di mana b bersamaan dengan
+
+23
+00:01:19,300 --> 00:01:20,460
+pintasan-y.
+
+24
+00:01:20,460 --> 00:01:23,650
+Sekarang, kita boleh menggunakan koordinat titik yang
+
+25
+00:01:23,650 --> 00:01:25,870
+dinyatakan. Kita boleh menggunakan maklumat ini
+
+26
+00:01:25,870 --> 00:01:28,590
+untuk mandapat nilai b.
+
+27
+00:01:28,590 --> 00:01:31,530
+Garis lurus ini melalui titik tersebut bermakna
+
+28
+00:01:31,530 --> 00:01:37,690
+nilai x bersamaan dengan 4/5 dan y bersamaan dengan 0 harus memenuhi
+
+29
+00:01:37,690 --> 00:01:38,265
+persamaan tersebut.
+
+30
+00:01:38,265 --> 00:01:43,120
+Oleh itu, kita harus menggantikan nilai-nilai yang diberi. y bersamaan dengan 0 apabila x
+
+31
+00:01:43,120 --> 00:01:44,090
+bersamaan dengan 4/5.
+
+32
+00:01:44,090 --> 00:01:50,170
+Oleh itu, 0 bersamaan dengan negatif 1 darab 4/5 tambah b.
+
+33
+00:01:50,170 --> 00:01:52,810
+Kita mendapat persamaan
+
+34
+00:01:52,810 --> 00:01:58,110
+0 bersamaan dengan negatif 4/5 tambah b.
+
+35
+00:01:58,110 --> 00:02:02,040
+Kita boleh menambah 4/5 ke kedua-dua belah persamaan ini.
+
+36
+00:02:02,040 --> 00:02:04,250
+Kita menambah 4/5 di sebelah kanan,
+
+37
+00:02:04,250 --> 00:02:07,320
+dan menambah 4/5 di sebelah kiri juga.
+
+38
+00:02:07,320 --> 00:02:10,100
+Ini dilakukan untuk menghapuskan negatif 4/5 di sebelah kanan.
+
+39
+00:02:10,100 --> 00:02:12,130
+Kami akan mendapat b bersamaan dengan 4/5.
+
+40
+00:02:16,250 --> 00:02:19,180
+Sekarang, kita telah mendapat persamaan garis lurus ini.
+
+41
+00:02:19,180 --> 00:02:23,040
+y bersamaan dengan negatif 1 darab x, di mana kita menulisnya sebagai
+
+42
+00:02:23,040 --> 00:02:32,500
+negatif x, tambah b yang bersamaan dengan 4/5.
+
+43
+00:02:32,500 --> 00:02:34,480
+Soalan seterusnya,
+
+44
+00:02:34,480 --> 00:02:39,580
+Garis lurus ini melalui titik (2,6) dan (5,0).
+
+45
+00:02:39,580 --> 00:02:42,540
+Tidak dinyatakan kecerunan dan pintasan-y dalam
+
+46
+00:02:42,540 --> 00:02:43,030
+soalan ini.
+
+47
+00:02:43,030 --> 00:02:45,350
+Walau bagaimanapun, kita boleh mencari kedua-duanya dari koordinat titik-titik
+
+48
+00:02:45,350 --> 00:02:45,650
+yang diberi.
+
+49
+00:02:45,650 --> 00:02:48,270
+Perkara pertama yang perlu dibuat adalah untuk mencari kecerunannya.
+
+50
+00:02:48,270 --> 00:02:53,750
+Kita tahu bahawa kecerunan, m, bersamaan dengan nisbah perubahan nilai y
+
+51
+00:02:53,750 --> 00:02:58,100
+dengan perubahan nilai x. Jadi apakah perubahan nilai y?
+
+52
+00:02:58,100 --> 00:02:59,490
+Kita mulakan dengan ini.
+
+53
+00:02:59,490 --> 00:03:00,985
+Jadi, 6 tolak 0.
+
+54
+00:03:04,210 --> 00:03:05,070
+Jadi jarak mencancang bersamaan dengan 6,
+
+55
+00:03:05,070 --> 00:03:10,410
+biar saya menukar warnanya-- tolak 0.
+
+56
+00:03:10,410 --> 00:03:14,340
+Jadi perubahan nilai y bersamaan dengan 6 tolak 0.
+
+57
+00:03:14,340 --> 00:03:24,190
+Perubahan nilai x pula bersamaan dengan 2 tolak 5.
+
+58
+00:03:24,190 --> 00:03:26,320
+Saya menggunakan warna yang berbeza kerana saya ingin menunjukkan
+
+59
+00:03:26,320 --> 00:03:30,890
+bahawa jika saya menggunakan sebutan y ini dahulu, saya menggunakan 6 di sini,
+
+60
+00:03:30,890 --> 00:03:33,380
+saya perlu menggunakan sebutan x ini dahulu juga.
+
+61
+00:03:33,380 --> 00:03:36,730
+Jadi saya ingin mennunjukkan bahawa ini adalah koordinat (2,6)
+
+62
+00:03:36,730 --> 00:03:38,590
+dan ini adalah koordinat (5,0).
+
+63
+00:03:38,590 --> 00:03:41,650
+Saya tidak boleh menukar urutan 2 dan 5 di sini.
+
+64
+00:03:41,650 --> 00:03:45,030
+Jika tidak, saya akan mendapat jawapan yang bertentangan tandanya.
+
+65
+00:03:45,030 --> 00:03:46,080
+Jadi apakah jawapannya?
+
+66
+00:03:46,080 --> 00:03:51,210
+6 tolak 0 adalah bersamaan dengan 6.
+
+67
+00:03:51,210 --> 00:03:54,770
+2 tolak 5 bersamaan dengan negatif 3.
+
+68
+00:03:54,770 --> 00:03:58,910
+Jadi ini adalah negatif 6 dibahagikan dengan 3, yang bersamaan
+
+69
+00:03:58,910 --> 00:04:01,310
+dengan negatif 2.
+
+70
+00:04:01,310 --> 00:04:02,250
+Jadi itulah kecerunannya.
+
+71
+00:04:02,250 --> 00:04:06,920
+Jadi kita tahu bahawa garis lurus ini adalah, y bersamaan dengan
+
+72
+00:04:06,920 --> 00:04:12,580
+kecerunannya iaitu negatif 2 darab x,
+
+73
+00:04:12,580 --> 00:04:15,160
+tambah pintasan-y.
+
+74
+00:04:15,160 --> 00:04:17,779
+Sekarang, kita boleh melakukan perkara yang sama dengan soalan terdahulu.
+
+75
+00:04:17,779 --> 00:04:20,579
+Kita boleh menggunakan koordinat untuk satu titik untuk mencari b.
+
+76
+00:04:20,579 --> 00:04:22,029
+Kita boleh menggunakan mana-mana satu.
+
+77
+00:04:22,029 --> 00:04:25,920
+Garis lurus ini melalui kedua-dua titik. oleh itu, kedua-duanya perlu memenuhi
+
+78
+00:04:25,920 --> 00:04:26,900
+persamaan ini.
+
+79
+00:04:26,900 --> 00:04:29,800
+Saya akan menggunakan koordinat (5,0) kerana ia lebih mudah
+
+80
+00:04:29,800 --> 00:04:31,020
+jika mempunyai angka 0.
+
+81
+00:04:31,020 --> 00:04:32,820
+Pengiraannya lebih mudah.
+
+82
+00:04:32,820 --> 00:04:34,510
+Jadi kita gantikan persamaan tersebut dengan (5,0).
+
+83
+00:04:34,510 --> 00:04:38,900
+Jadi y bersamaan dengan 0 apabila x bersamaan dengan 5.
+
+84
+00:04:38,900 --> 00:04:43,820
+Jadi kita akan mendapat 0 bersamaan dengan negatif 2 darab 5
+
+85
+00:04:43,820 --> 00:04:47,700
+tambah b.
+
+86
+00:04:47,700 --> 00:04:52,650
+Seterusnya, kita mendapat 0 bersamaan dengan -10 tambah b.
+
+87
+00:04:52,650 --> 00:04:57,820
+Jadi kita menambah 10 ke kedua-dua belah persamaan ini
+
+88
+00:04:57,820 --> 00:05:00,680
+untuk menghapuskan -10 di sebelah kanan.
+
+89
+00:05:00,680 --> 00:05:03,970
+Kita akan mendapat b bersamaan
+
+90
+00:05:03,970 --> 00:05:06,420
+dengan 10.
+
+91
+00:05:06,420 --> 00:05:07,935
+Kita telah mendapat persamaan garis lurus ini.
+
+92
+00:05:07,935 --> 00:05:14,110
+Persamaannya ialah y bersamaan dengan
+
+93
+00:05:14,110 --> 00:05:22,280
+negatif 2x tambah 10.
+
+94
+00:05:22,280 --> 00:05:23,470
+Kita telah menyelesaikannya.
+
+95
+00:05:23,470 --> 00:05:24,720
+Soalan seterusnya.
+
+96
+00:05:28,180 --> 00:05:31,270
+Dinyatakan bahawa garis lurus ini melalui titik (3,5) dan
+
+97
+00:05:31,270 --> 00:05:32,890
+(-3,0).
+
+98
+00:05:32,890 --> 00:05:36,380
+Seperti soalan tadi, kita mulakan dengan mengira
+
+99
+00:05:36,380 --> 00:05:40,380
+kecerunannya iaitu m.
+
+100
+00:05:40,380 --> 00:05:44,830
+Ini bersamaan dengan jarak mencancang dibahagikan dengan jarak mengufuk.
+
+101
+00:05:44,830 --> 00:05:48,190
+Ini juga bersamaan dengan perubahan nilah y dibahagikan dengan perubahan nilai x.
+
+102
+00:05:48,190 --> 00:05:50,070
+Saya hanya ingin
+
+103
+00:05:50,070 --> 00:05:50,870
+menunjukkan bahawa
+
+104
+00:05:50,870 --> 00:05:52,920
+kedua-dua ini adalah benda
+
+105
+00:05:52,920 --> 00:05:55,150
+yang sama.
+
+106
+00:05:55,150 --> 00:05:58,520
+Jadi apakah nisbah perubahan nilai y dengan perubahan nilai x?
+
+107
+00:05:58,520 --> 00:06:02,280
+Mari saya mulakan dengan titik di sebelah kanan dahulu supaya
+
+108
+00:06:02,280 --> 00:06:03,980
+saya dapat menunjukkan bahawa mana-mana satu titik boleh digunakan dahulu.
+
+109
+00:06:03,980 --> 00:06:14,050
+Jadi, 0 tolak 5.
+
+110
+00:06:14,050 --> 00:06:17,000
+Saya menggunakan koordinat ini
+
+111
+00:06:17,000 --> 00:06:19,770
+dahulu.
+
+112
+00:06:19,770 --> 00:06:22,420
+Saya ingat bahawa saya selalu melakukan kesilapan dengan
+
+113
+00:06:22,420 --> 00:06:24,160
+menggunakan koordinat x di pengangka.
+
+114
+00:06:24,160 --> 00:06:25,990
+Kita harus menggunakan koordinat y di pengangka.
+
+115
+00:06:25,990 --> 00:06:28,470
+Ini ialah nombor kedua dalam koordinat titik.
+
+116
+00:06:28,470 --> 00:06:38,435
+Jadi ini akan dibahagikan dengan negatif 3 tolak 3.
+
+117
+00:06:41,250 --> 00:06:44,370
+Ini adalah koordinat (-3,0)
+
+118
+00:06:44,370 --> 00:06:46,420
+Ini pula adalah koordinat (3,5).
+
+119
+00:06:46,420 --> 00:06:47,980
+Kita harus menolak koordinatnya.
+
+120
+00:06:47,980 --> 00:06:49,310
+Jadi kita akan mendapat
+
+121
+00:06:49,310 --> 00:06:52,570
+jawapannya yang bersamaan
+
+122
+00:06:52,570 --> 00:06:56,210
+dengan, pengangkanya iaitu
+
+123
+00:06:56,210 --> 00:07:02,010
+negatif 5, dibahagikan dengan negatif 3 tolak 3 iaitu negatif 6.
+
+124
+00:07:02,010 --> 00:07:03,650
+Jadi kedua-dua negatif boleh dihapuskan.
+
+125
+00:07:03,650 --> 00:07:05,930
+Jawapannya 5/6.
+
+126
+00:07:05,930 --> 00:07:08,700
+Jadi persamaannya adalah dalam bentuk
+
+127
+00:07:08,700 --> 00:07:15,560
+y bersamaan dengan 5/6 x tambah b.
+
+128
+00:07:15,560 --> 00:07:18,600
+Sekarang, kita boleh manggantikan salah satu koordinat titik untuk mencari b.
+
+129
+00:07:18,600 --> 00:07:19,440
+Mari kita lakukannya.
+
+130
+00:07:19,440 --> 00:07:21,310
+Saya selalu menggunakan koordinat yang mempunyai angka 0.
+
+131
+00:07:21,310 --> 00:07:33,270
+Jadi y bersamaan dengan 0 apabila x bersamaan
+
+132
+00:07:33,270 --> 00:07:37,810
+dengan negatif 3.
+
+133
+00:07:37,810 --> 00:07:40,860
+Ini boleh dibuat kerana garis lurus melalui titik ini.
+
+134
+00:07:40,860 --> 00:07:44,040
+Ini perlu memenuhi persamaan garis lurus tersebut.
+
+135
+00:07:44,040 --> 00:07:45,600
+Mari kita mencari nilai b.
+
+136
+00:07:45,600 --> 00:07:49,990
+negatif 3 dibahagikan dengan 3 bersamaan
+
+137
+00:07:49,990 --> 00:07:51,830
+dengan negatif 1.
+
+138
+00:07:51,830 --> 00:07:54,890
+Jadi jika kita bahagikan 6 dengan 3, kita akan mendapat 2.
+
+139
+00:07:54,890 --> 00:08:02,380
+Jadi 0 bersamaan dengan negatif 5/2 tambah b.
+
+140
+00:08:02,380 --> 00:08:05,280
+Kita boleh menambah 5/2 ke kedua-dua
+
+141
+00:08:05,280 --> 00:08:08,630
+belah persamaan ini.
+
+142
+00:08:08,630 --> 00:08:10,850
+/
+
+143
+00:08:10,850 --> 00:08:12,520
+/
+
+144
+00:08:12,520 --> 00:08:17,800
+Jadi persamaan ini menjadi 5/2 bersamaan
+
+145
+00:08:17,800 --> 00:08:19,600
+dengan b.
+
+146
+00:08:19,600 --> 00:08:22,090
+b adalah 5/2.
+
+147
+00:08:22,090 --> 00:08:31,940
+Jadi persamaan garis lurus kita adalah y bersamaan dengan 5/6x tambah b
+
+148
+00:08:31,940 --> 00:08:37,820
+yang telah kita cari iaitu 5/2.
+
+149
+00:08:37,820 --> 00:08:38,710
+Kita telah selesaikannya.
+
+150
+00:08:38,710 --> 00:08:41,280
+Soalan seterusnya.
+
+151
+00:08:41,280 --> 00:08:43,500
+Kita mempunyai sebuah graf di sini.
+
+152
+00:08:43,500 --> 00:08:45,300
+Mari kita menentukan persamaan graf ini.
+
+153
+00:08:45,300 --> 00:08:46,900
+Sebenarnya ini lebih mudah.
+
+154
+00:08:46,900 --> 00:08:47,740
+Apakah kecerunannya?
+
+155
+00:08:47,740 --> 00:08:52,250
+Kecerunannya adalah nisbah perubahan nilai y dengan perubahan nilai x.
+
+156
+00:08:52,250 --> 00:08:53,310
+Mari kita lihat.
+
+157
+00:08:53,310 --> 00:08:57,900
+Apabila kita bergerak dalam arah x, preubahan nilai x
+
+158
+00:08:57,900 --> 00:08:58,940
+ditentukan untuk bersamaan
+
+159
+00:08:58,940 --> 00:09:00,850
+dengan 1.
+
+160
+00:09:00,850 --> 00:09:04,130
+Saya hanya menambah nilai x pada magnitud 1.
+
+161
+00:09:04,130 --> 00:09:05,900
+Apakah pula perubahan nilai y?
+
+162
+00:09:05,900 --> 00:09:10,390
+Nampaknya, nilai y meningkat sebanyak 4
+
+163
+00:09:10,390 --> 00:09:14,980
+Perubahan nilai y bersamaan dengan 4
+
+164
+00:09:14,980 --> 00:09:20,690
+apabila perubahan nilai x bersamaan dengan 1.
+
+165
+00:09:20,690 --> 00:09:24,340
+Jadi nisbah perubahan nilai y dengan perubahan nilai x
+
+166
+00:09:24,340 --> 00:09:26,220
+bersamaan dengan 4 bahagi 1.
+
+167
+00:09:26,220 --> 00:09:30,380
+Jadi kecerunannya bersamaan dengan 4.
+
+168
+00:09:30,380 --> 00:09:32,190
+Apakah pula nilai pintasan-y?
+
+169
+00:09:32,190 --> 00:09:33,720
+Di sini, kita hanya perlu melihat graf ini.
+
+170
+00:09:33,720 --> 00:09:38,260
+Nampaknya, garis ini memintas paksi y di
+
+171
+00:09:38,260 --> 00:09:41,600
+nilai y bersamaan dengan negatif 6, atau (0,-6).
+
+172
+00:09:41,600 --> 00:09:44,180
+Jadi kita tahu bahawa b bersamaan dengan negatif 6.
+
+173
+00:09:46,950 --> 00:09:48,875
+Jadi, persamaan garis lurus ini telah diketahui.
+
+174
+00:09:48,875 --> 00:09:56,630
+Persamaan garis lurus ini adalah y bersamaan dengan kecerunan darab x
+
+175
+00:09:56,630 --> 00:09:59,030
+iaitu 4x, tambah
+
+176
+00:09:59,030 --> 00:10:01,850
+pintasan-y,
+
+177
+00:10:01,850 --> 00:10:07,840
+iaitu negatif 6. Jadi persamaan garis ini
+
+178
+00:10:07,840 --> 00:10:09,800
+ialah 4x tolak 6.
+
+179
+00:10:09,800 --> 00:10:12,980
+Soalan seterusnya.
+
+180
+00:10:12,980 --> 00:10:17,170
+Dinyatakan bahawa negatif 3 adalah imej bagi 1.5 di bawah fungsi f,
+
+181
+00:10:17,170 --> 00:10:18,750
+dan fungsi f juga memetakan negatif 1 kepada 2.
+
+182
+00:10:18,750 --> 00:10:19,970
+Apakah maksudnya?
+
+183
+00:10:19,970 --> 00:10:23,830
+Soalan ini sebenarnya memberi koordinat titik dalam cara yang lain.
+
+184
+00:10:23,830 --> 00:10:30,530
+Apabila x bersamaan dengan 1.5, iaitu apabila 1.5 digantikan ke dalam fungsi f,
+
+185
+00:10:30,530 --> 00:10:33,490
+fungsi f memetakannya kepada negatif 3.
+
+186
+00:10:33,490 --> 00:10:36,750
+Ini memberitahu kita bahawa titik (1.5,-3) dilalui oleh
+
+187
+00:10:36,750 --> 00:10:38,270
+garis lurus ini.
+
+188
+00:10:38,270 --> 00:10:41,960
+Kemudian, dinyatakan juga apabila x bersamaan dengan negatif 1,
+
+189
+00:10:41,960 --> 00:10:44,420
+imej fungsi f bersamaan dengan 2.
+
+190
+00:10:44,420 --> 00:10:47,540
+Ini hanyalah cara lain bagi memberitahu bahawa garis lurus yang ingin dicari
+
+191
+00:10:47,540 --> 00:10:51,400
+melalui kedua-dua titik yang diberi.
+
+192
+00:10:51,400 --> 00:10:54,380
+Tujuan utama soalan ini adalah untuk membiasakan anda dengan
+
+193
+00:10:54,380 --> 00:10:56,870
+tatatanda fungsi dan tidak takut ketika mencuba soalan
+
+194
+00:10:56,870 --> 00:10:57,970
+seperti ini.
+
+195
+00:10:57,970 --> 00:11:01,540
+Jadi fungsi g memetakan 1.5 kepada negatif 3.
+
+196
+00:11:01,540 --> 00:11:04,440
+Itulah koordinat bagi suatu titik jika y bersamaan dengan
+
+197
+00:11:04,440 --> 00:11:06,020
+fungsi f bagi suatu objek x.
+
+198
+00:11:06,020 --> 00:11:06,950
+Jadi ini adalah koordinat-y.
+
+199
+00:11:06,950 --> 00:11:09,250
+Titik ini mempunyai koordinat (1.5,-3).
+
+200
+00:11:09,250 --> 00:11:10,840
+Ini telahpun diulang beberapa kali
+
+201
+00:11:10,840 --> 00:11:13,280
+Mari kita mencari kecerunan garis ini pula.
+
+202
+00:11:13,280 --> 00:11:20,020
+Kecerunan, iaitu nisbah perubahan nilai y dengan perubahan nilai x
+
+203
+00:11:20,020 --> 00:11:27,460
+bersamaan dengan 2 tolak negatif 3 -- kedua-dua ini adalah
+
+204
+00:11:27,460 --> 00:11:32,880
+nilai y-- dibahagikan dengan negatif
+
+205
+00:11:32,880 --> 00:11:40,140
+1 tolak 1.5.
+
+206
+00:11:40,140 --> 00:11:43,330
+Perubahan nilai x bersamaan dengan negatif 1
+
+207
+00:11:43,330 --> 00:11:48,440
+tolak 1.5.
+
+208
+00:11:48,440 --> 00:11:50,340
+Saya menggunakan warna yang berlainan untuk menunjukkan bahawa
+
+209
+00:11:50,340 --> 00:11:54,060
+negatif 1, dan 2 datang dari titik ini. Jadi
+
+210
+00:11:54,060 --> 00:11:57,500
+saya meletakkan kedua-duanya di hadapan. Jika saya menggunakan titik yang lain dahulu,
+
+211
+00:11:57,500 --> 00:12:00,495
+saya perlu meletakkan kedua-dua koordinatnya di hadapan pula. Jika saya menggunakan 2 dahulu,
+
+212
+00:12:00,495 --> 00:12:02,080
+saya perlu menggunakan negatif 1 dahulu. Itulah sebabnya saya
+
+213
+00:12:02,080 --> 00:12:03,390
+menggunakan warna yang berlainan.
+
+214
+00:12:03,390 --> 00:12:08,360
+Jadi pengangkanya bersamaan dengan 2 tolak negatif 3,
+
+215
+00:12:08,360 --> 00:12:10,370
+yang juga bersamaan dengan 2 tambah 3.
+
+216
+00:12:10,370 --> 00:12:11,620
+Ini bersamaan dengan 5.
+
+217
+00:12:16,480 --> 00:12:20,040
+Negatif 1 tolak 1.5 pula bersamaan dengan 2.5.
+
+218
+00:12:23,830 --> 00:12:27,770
+5 bahagi 2.5 bersamaan dengan 2.
+
+219
+00:12:27,770 --> 00:12:30,250
+Jadi kecerunan garis lurus ini bersama dengan negatif 2.
+
+220
+00:12:30,250 --> 00:12:32,130
+Di sini, saya ingin menunjukkan bahawa mana-mana satu koordinat
+
+221
+00:12:32,130 --> 00:12:34,480
+boleh digunakan dahulu.
+
+222
+00:12:34,480 --> 00:12:36,180
+Jika saya gunakan koordinat ini dahulu, koordinat itu
+
+223
+00:12:36,180 --> 00:12:38,140
+juga perlu di hadapan. Mari kita lakukannya.
+
+224
+00:12:38,140 --> 00:12:54,180
+Jika pengangka ialah negatif 3 tolak 2, pembahagi pula menjadi 1.5 tolak
+
+225
+00:12:54,180 --> 00:12:59,810
+negatif 1. Ini akan menjadi negatif 3 tolak 2 bahagi 1.5 tolak
+
+226
+00:12:59,810 --> 00:13:01,060
+negatif 1.
+
+227
+00:13:03,300 --> 00:13:04,780
+Ini akan memberikan jawapan yang sama.
+
+228
+00:13:04,780 --> 00:13:06,130
+Apakah jawapannya?
+
+229
+00:13:06,130 --> 00:13:12,860
+negatif 3 tolak 2 bersamaan dengan 5, bahagi 1.5 tolak negatif 1.
+
+230
+00:13:12,860 --> 00:13:14,520
+yang menjadi 1.5 tambah 1
+
+231
+00:13:14,520 --> 00:13:16,610
+bersamaan dengan 2.5.
+
+232
+00:13:16,610 --> 00:13:18,840
+Jadi sekali lagi, jawapannya adalah negatif 2.
+
+233
+00:13:18,840 --> 00:13:20,340
+Saya hanya ingin menunjukkan bahawa mana-mana satu koordinat
+
+234
+00:13:20,340 --> 00:13:23,090
+boleh digunakan sebagai titik mula jika kita
+
+235
+00:13:23,090 --> 00:13:23,980
+konsisten.
+
+236
+00:13:23,980 --> 00:13:26,650
+Jika koordinat y ini digunakan dahulu, koordinat x ini perlu digunakan dahulu.
+
+237
+00:13:26,650 --> 00:13:28,370
+Jika koordinat y ini digunakan di akhir, koordinat x ini pula
+
+238
+00:13:28,370 --> 00:13:29,500
+perlu digunakan akhir.
+
+239
+00:13:29,500 --> 00:13:33,100
+Jadi kita tahu bahawa kecerunannya ialah negatif 2.
+
+240
+00:13:33,100 --> 00:13:36,540
+Jadi persamaan ini adalah y bersamaan dengan negatif 2x tambah
+
+241
+00:13:36,540 --> 00:13:39,170
+suatu pintasan-y.
+
+242
+00:13:39,170 --> 00:13:40,720
+Mari kita gunakan salah satu koordinat ini.
+
+243
+00:13:40,720 --> 00:13:43,430
+Saya akan menggunakan koordinat ini kerana ia tidak mempunyai titik perpuluhan.
+
+244
+00:13:43,430 --> 00:13:47,450
+Jadi y bersamaan dengan 2
+
+245
+00:13:47,450 --> 00:13:52,630
+apabila x bersamaan dengan negatif 1.
+
+246
+00:13:55,140 --> 00:13:57,290
+dan kemudiannya tambah b.
+
+247
+00:13:57,290 --> 00:14:02,710
+Jadi 2 bersamaan dengan negatif 2 darab negatif 1 tambah b.
+
+248
+00:14:02,710 --> 00:14:06,390
+Jika kita menolak 2 dari kedua-dua belah persamaan ini,
+
+249
+00:14:06,390 --> 00:14:10,370
+tolak 2 di sini, dan di sini,
+
+250
+00:14:10,370 --> 00:14:12,480
+kita akan mendapat persamaan berikut, 0
+
+251
+00:14:12,480 --> 00:14:14,520
+bersamaan dengan b.
+
+252
+00:14:14,520 --> 00:14:15,670
+Jadi b adalah 0.
+
+253
+00:14:15,670 --> 00:14:18,430
+Jadi persamaan garis lurus ini hanyalah y
+
+254
+00:14:18,430 --> 00:14:19,680
+bersamaan dengan negatif 2x.
+
+255
+00:14:22,040 --> 00:14:23,870
+Jika ini ditulis dalam tatatanda fungsi,
+
+256
+00:14:23,870 --> 00:14:28,190
+ia akan menjadi fungsi f memetakan x kepada negatif 2x.
+
+257
+00:14:28,190 --> 00:14:30,810
+Saya hanya menganggap y bersamaan dengan fungsi f bagi objek x.
+
+258
+00:14:30,810 --> 00:14:32,420
+Tetapi persamaan ini adalah betul.
+
+259
+00:14:32,420 --> 00:14:33,990
+Tidak dinyatakan tentang y dalam soalan.
+
+260
+00:14:33,990 --> 00:14:37,890
+Jadi kita boleh menulis 2x sebagai imej bagi objek x di bawah fungsi f.
+
+261
+00:14:37,890 --> 00:14:40,190
+Setiap koordinat yang dinyatakan dalam soalan adalah
+
+262
+00:14:40,190 --> 00:14:42,610
+koordinat x dan imej bagi objek x di bawah fungsi f.
+
+263
+00:14:46,960 --> 00:14:49,960
+Jadi, definisi kecerunan juga boleh dikatakan sebagai nisbah
+
+264
+00:14:49,960 --> 00:14:53,320
+perubahan nilai imej bagi x di bawah fungsi f dengan perubahan nilai x.
+
+265
+00:14:53,320 --> 00:14:57,090
+Kedua-duanya adalah sama.

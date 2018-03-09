@@ -1,0 +1,1675 @@
+1
+00:00:00,500 --> 00:00:03,940
+Dalam keadaan yang biasa, apabila orang bercakap tentang
+
+2
+00:00:03,940 --> 00:00:08,310
+mitosis, mereka merujuk kepada sel diploid.
+
+3
+00:00:08,310 --> 00:00:10,670
+Diploid bermakna ia mempunyai kesemua kromosom,
+
+4
+00:00:10,670 --> 00:00:13,780
+iaitu 2N kromosom.
+
+5
+00:00:13,780 --> 00:00:15,950
+Jadi, ini ialah nukleus.
+
+6
+00:00:15,950 --> 00:00:17,410
+Inil ialah sel.
+
+7
+00:00:17,410 --> 00:00:19,960
+Sel ini akan
+
+8
+00:00:19,960 --> 00:00:23,590
+mereplikasi menjadi 2 sel diploid.
+
+9
+00:00:23,590 --> 00:00:29,710
+Setiap satu daripadanya mempunyai kesemua kromosom,
+
+10
+00:00:29,710 --> 00:00:30,640
+iaitu 2N kromosom.
+
+11
+00:00:30,640 --> 00:00:33,400
+Jadi, apabila sesuatu sel mengalami mitosis,
+
+12
+00:00:33,400 --> 00:00:34,580
+inilah maksudnya.
+
+13
+00:00:34,580 --> 00:00:37,850
+Tapi, saya mahu buat penjelasan, secara formal,
+
+14
+00:00:37,850 --> 00:00:42,120
+mitosis hanya merujuk kepada replikasi
+
+15
+00:00:42,120 --> 00:00:45,350
+bahan genetik dan nukleus.
+
+16
+00:00:45,350 --> 00:00:50,180
+Contohnya, jika saya melukis-- Biar saya lukiskan sel,
+
+17
+00:00:50,180 --> 00:00:54,300
+ia mempunyai 2 nukleus, setiap satu daripadanya
+
+18
+00:00:54,300 --> 00:00:57,770
+mempunyai kromosom diploid,
+
+19
+00:00:57,770 --> 00:00:59,040
+sel ini telah mengalami mitosis.
+
+20
+00:00:59,040 --> 00:01:01,870
+Mitosis.
+
+21
+00:01:01,870 --> 00:01:05,030
+Ia belum mengalami sitokinesis, saya akan bercakap
+
+22
+00:01:05,030 --> 00:01:07,730
+tentangnya nanti, tapi itulah proses
+
+23
+00:01:07,730 --> 00:01:12,430
+sitoplasma sel membahagi menjadi
+
+24
+00:01:12,430 --> 00:01:13,490
+2 sel yang berasingan.
+
+25
+00:01:13,490 --> 00:01:17,160
+Sitoplasma ialah semua bahan
+
+26
+00:01:17,160 --> 00:01:21,630
+yang terdapat di luar nukleus.
+
+27
+00:01:21,630 --> 00:01:23,590
+Saya akan bercakap tentangnya, tapi ingatlah,
+
+28
+00:01:23,590 --> 00:01:25,680
+biasanya inilah yang dimaksudkan apabila orang bercakap
+
+29
+00:01:25,680 --> 00:01:26,670
+tentang mitosis.
+
+30
+00:01:26,670 --> 00:01:28,860
+Tapi, jika cikgu anda mahu anda tahu tentang
+
+31
+00:01:28,860 --> 00:01:31,730
+keteknikannya, inilah yang dimaksudkan dengan mitosis.
+
+32
+00:01:31,730 --> 00:01:35,030
+Mitosis ialah pembahagian nukleus atau replikasi
+
+33
+00:01:35,030 --> 00:01:37,460
+nukleus menjadi 2 nukleus yang berasingan.
+
+34
+00:01:37,460 --> 00:01:42,820
+Biasanya, sitokinesis berlaku di mana
+
+35
+00:01:42,820 --> 00:01:45,930
+sitoplasma sel membahagi.
+
+36
+00:01:45,930 --> 00:01:51,250
+Dengan itu, mari kita mengkaji mitosis.
+
+37
+00:01:51,250 --> 00:01:55,150
+Aktiviti pertama
+
+38
+00:01:55,150 --> 00:01:58,920
+berlaku sebelum mitosis bermula, iaitu apabila sel melakukan
+
+39
+00:01:58,920 --> 00:02:02,883
+aktiviti sehariannya semasa interfasa.
+
+40
+00:02:02,883 --> 00:02:07,570
+Interfasa.
+
+41
+00:02:07,570 --> 00:02:10,449
+Interfasa bukannya fasa mitosis.
+
+42
+00:02:10,449 --> 00:02:14,810
+Sel berada dalam keadaan normal.
+
+43
+00:02:14,810 --> 00:02:17,730
+Katakan, terdapatnya sel baru.
+
+44
+00:02:17,730 --> 00:02:20,460
+Biar saya gunakan hijau.
+
+45
+00:02:20,460 --> 00:02:22,430
+Ini sel baru.
+
+46
+00:02:22,430 --> 00:02:24,780
+Ini nukleus.
+
+47
+00:02:24,780 --> 00:02:29,630
+Ia mempunyai 2N kromosom, kemudian ia membesar.
+
+48
+00:02:29,630 --> 00:02:32,790
+Ia membawa masuk nutrien dari luar dan menghasilkan
+
+49
+00:02:32,790 --> 00:02:37,660
+protein and sebagainya, jadi ia menjadi lebih besar.
+
+50
+00:02:37,660 --> 00:02:42,610
+Ia mempunyai semua kromosomnya.
+
+51
+00:02:42,610 --> 00:02:46,080
+Pada suatu seketika dalam kitaran hidupnya,
+
+52
+00:02:46,080 --> 00:02:49,220
+semasa interfasa,
+
+53
+00:02:49,220 --> 00:02:52,460
+mungkin ia tidak diliputi dalam kelas biologi,
+
+54
+00:02:52,460 --> 00:02:53,070
+ia diberikan nama,
+
+55
+00:02:53,070 --> 00:02:56,650
+Ia dipanggil G1, iaitu
+
+56
+00:02:56,650 --> 00:02:58,380
+apabila sel sedang membesar.
+
+57
+00:02:58,380 --> 00:03:00,840
+Ia membesar, mengumpul bahan dan
+
+58
+00:03:00,840 --> 00:03:05,990
+membesasr, kemudian ia mereplikasi
+
+59
+00:03:05,990 --> 00:03:06,770
+kromosom.
+
+60
+00:03:06,770 --> 00:03:09,760
+Jadi, masih terdapatnya kromosom diploid.
+
+61
+00:03:09,760 --> 00:03:11,390
+Biar saya zum masuk.
+
+62
+00:03:11,390 --> 00:03:12,160
+Biar saya lukisnya.
+
+63
+00:03:12,160 --> 00:03:16,490
+Ini ialah fasa S semasa interfasa.
+
+64
+00:03:16,490 --> 00:03:19,190
+Semasa fasa S, berlakunya replikasi
+
+65
+00:03:19,190 --> 00:03:19,430
+kromosom.
+
+66
+00:03:19,430 --> 00:03:22,340
+Mitosis belum berlaku.
+
+67
+00:03:22,340 --> 00:03:28,910
+Semasa fasa S, berlakunya replikasi kromosom.
+
+68
+00:03:28,910 --> 00:03:34,770
+Jika saya zum masuk nukleus semasa fasa S--
+
+69
+00:03:34,770 --> 00:03:38,230
+Biar saya mulakan dengan organisma
+
+70
+00:03:38,230 --> 00:03:40,940
+yang mempunyai 2 kromosom.
+
+71
+00:03:40,940 --> 00:03:45,210
+Katakan, semasa permulaan fasa S,
+
+72
+00:03:45,210 --> 00:03:48,060
+saya akan melukis kromosom agar adalah jelas
+
+73
+00:03:48,060 --> 00:03:49,300
+ia mereplikasi.
+
+74
+00:03:49,300 --> 00:03:54,010
+Katakan, kromosom ini berada di sini dan
+
+75
+00:03:54,010 --> 00:03:57,400
+kromosom ini berada di sini.
+
+76
+00:03:57,400 --> 00:04:01,180
+Semasa fasa S, kromosom ini mereplikasi.
+
+77
+00:04:01,180 --> 00:04:02,430
+Saya hanya melukis nukleus di sini.
+
+78
+00:04:02,430 --> 00:04:05,740
+Saya zum masuk bahagian ini, N ialah 1,
+
+79
+00:04:05,740 --> 00:04:10,050
+iaitu apabila terdapatnya 2 kromosom diploid.
+
+80
+00:04:10,050 --> 00:04:16,010
+Semasa fasa S, kromosom akan mereplikasi dan--
+
+81
+00:04:16,010 --> 00:04:21,269
+kromosom hijau akan mereplikasi dan
+
+82
+00:04:21,269 --> 00:04:24,220
+menghasilkan salinannya, kita telah belajar sedikit tentangnya,
+
+83
+00:04:24,220 --> 00:04:26,380
+kedua-duanya terikat pada sentromer.
+
+84
+00:04:26,380 --> 00:04:30,360
+Setiap satu salinan ini dipanggil kromatid.
+
+85
+00:04:30,360 --> 00:04:33,350
+Begitu juga dengan kromosom magenta.
+
+86
+00:04:33,350 --> 00:04:38,260
+Walaupun terdapatnya 2 kromatid, 1 untuk setiap
+
+87
+00:04:38,260 --> 00:04:41,170
+kromosom, sekarang terdapatnya 4 kromatid, 2 untuk setiap
+
+88
+00:04:41,170 --> 00:04:45,120
+kromosom, kita masih kata hanya terdapatnya 2 kromosom.
+
+89
+00:04:45,120 --> 00:04:47,000
+Ini ialah sentromer.
+
+90
+00:04:47,000 --> 00:04:52,410
+Ini berlaku semasa fasa S, sel ini akan terus
+
+91
+00:04:52,410 --> 00:04:53,710
+membesar.
+
+92
+00:04:53,710 --> 00:04:59,160
+Sel menjadi besar-- Saya akan memfokuskan kepada sel.
+
+93
+00:04:59,160 --> 00:05:02,720
+Sel menjadi besar and ia terus membesar.
+
+94
+00:05:02,720 --> 00:05:05,930
+Ia berlaku semasa fasa G2,
+
+95
+00:05:05,930 --> 00:05:09,380
+ia terus membesar.
+
+96
+00:05:09,380 --> 00:05:12,400
+Terdapat sebahagian sel yang belum dibincangkan,
+
+97
+00:05:12,400 --> 00:05:13,900
+tapi saya akan bercakap sedikit
+
+98
+00:05:13,900 --> 00:05:14,800
+tentangnya.
+
+99
+00:05:14,800 --> 00:05:17,580
+Ia bukannya sangat penting, tapi adalah tentang
+
+100
+00:05:17,580 --> 00:05:19,010
+sentrosom.
+
+101
+00:05:19,010 --> 00:05:21,530
+Ia akan menjadi sangat penting kemudian apabila
+
+102
+00:05:21,530 --> 00:05:25,170
+sel membahagi, ia juga menghasilkan salinan.
+
+103
+00:05:25,170 --> 00:05:27,270
+Biar saya masukkan sentrosom di sini.
+
+104
+00:05:27,270 --> 00:05:29,860
+.
+
+105
+00:05:29,860 --> 00:05:31,940
+Terdapat sentriol di dalam.
+
+106
+00:05:31,940 --> 00:05:33,820
+Jangan bimbang tentangnya,
+
+107
+00:05:33,820 --> 00:05:36,370
+ia berbentuk silinder.
+
+108
+00:05:36,370 --> 00:05:38,560
+Jangan berasa keliru jika anda nampak
+
+109
+00:05:38,560 --> 00:05:41,710
+perkataan sentriol dan sentrosom, jangan kelirukannya
+
+110
+00:05:41,710 --> 00:05:44,690
+dengan sentromer, iaitu tempat
+
+111
+00:05:44,690 --> 00:05:46,760
+di mana 2 kromatid terikat.
+
+112
+00:05:46,760 --> 00:05:51,640
+Malangnya, nama-nama dalam proses ini
+
+113
+00:05:51,640 --> 00:05:53,520
+sangat serupa, atau banyak bahagian
+
+114
+00:05:53,520 --> 00:05:55,590
+dalam sel adalah sangat serupa.
+
+115
+00:05:55,590 --> 00:05:57,320
+Anda akan lihat sentrosom nanti
+
+116
+00:05:57,320 --> 00:05:59,720
+ia berada
+
+117
+00:05:59,720 --> 00:06:05,260
+di luar nukleus, ia juga mereplikasi.
+
+118
+00:06:05,260 --> 00:06:08,280
+Ia juga mereplikasi semasa interfasa.
+
+119
+00:06:08,280 --> 00:06:11,100
+Tadi 1, sekarang ia menjadi 2.
+
+120
+00:06:11,100 --> 00:06:13,530
+Ia mempunyai 2 sentriol
+
+121
+00:06:13,530 --> 00:06:15,930
+di dalam, tapi kita tidak akan memfokuskan
+
+122
+00:06:15,930 --> 00:06:17,020
+kepadanya sekararng.
+
+123
+00:06:17,020 --> 00:06:20,460
+Jadi, itulah yang berlaku semasa interfasa.
+
+124
+00:06:20,460 --> 00:06:23,280
+Ia berlaku sepanjang hayat sel, ia membesar
+
+125
+00:06:23,280 --> 00:06:24,420
+dan melakukan apa yang disukainya.
+
+126
+00:06:24,420 --> 00:06:26,200
+Saya mahu jelaskan sesuatu.
+
+127
+00:06:26,200 --> 00:06:29,310
+Semasa melukis DNA, saya melukisnya sebagai kromosom.
+
+128
+00:06:29,310 --> 00:06:32,140
+Sebenarnya, semasa interfasa,
+
+129
+00:06:32,140 --> 00:06:34,760
+DNA tidak kelihatan seperti ini.
+
+130
+00:06:34,760 --> 00:06:37,930
+Hakikatnya, DNA berada dalam
+
+131
+00:06:37,930 --> 00:06:40,580
+bentuk kromatin.
+
+132
+00:06:40,580 --> 00:06:43,670
+Ia tidak kelihatan seperti ini.
+
+133
+00:06:43,670 --> 00:06:46,050
+Saya melukisnya begini agar anda dapat melihatnya
+
+134
+00:06:46,050 --> 00:06:51,920
+mereplikasi, sebenarnya kromosom hijau ini
+
+135
+00:06:51,920 --> 00:06:53,980
+berbelit-belit, jika anda menggunakan
+
+136
+00:06:53,980 --> 00:06:56,330
+mikroskop, adalah sukar untuk melihatnya.
+
+137
+00:06:56,330 --> 00:06:59,470
+Ini ialah bentuk kromatinnya.
+
+138
+00:06:59,470 --> 00:07:02,370
+Saya akan bercakap sedikit tentang bagaimana ia
+
+139
+00:07:02,370 --> 00:07:06,050
+berubah menjadi kromosom, tapi dalam bentuk kromatin,
+
+140
+00:07:06,050 --> 00:07:09,270
+ia hanyalah sekelompok DNA dan protein,
+
+141
+00:07:09,270 --> 00:07:11,610
+DNA berbelit-belit, jadi mungkin terdapatnya
+
+142
+00:07:11,610 --> 00:07:14,990
+protein di sini dan DNA berbelit-belit di sini.
+
+143
+00:07:14,990 --> 00:07:16,560
+Jika anda menggunakan mikroskop,
+
+144
+00:07:16,560 --> 00:07:19,210
+DNA dan protein kelihatan kabur.
+
+145
+00:07:19,210 --> 00:07:22,090
+Begitu juga dengan molekul magenta.
+
+146
+00:07:22,090 --> 00:07:24,010
+DNA
+
+147
+00:07:24,010 --> 00:07:25,080
+kelihatan seperti ini.
+
+148
+00:07:25,080 --> 00:07:29,150
+Ia perlu berada dalam keadaan ini agar
+
+149
+00:07:29,150 --> 00:07:33,960
+mRNA dan pelbagai protein
+
+150
+00:07:33,960 --> 00:07:34,790
+dapat berfungsi bersamanya.
+
+151
+00:07:34,790 --> 00:07:37,260
+Untuk membolehkannya mereplikasi, ia perlu
+
+152
+00:07:37,260 --> 00:07:39,360
+berbelit-belit seperti ini agar ia dapat berfungsi.
+
+153
+00:07:39,360 --> 00:07:41,600
+Ia hanya akan kelihatan seperti ini kemudian.
+
+154
+00:07:41,600 --> 00:07:44,630
+Saya melukisnya begini, yang berwarna hijau ini,
+
+155
+00:07:44,630 --> 00:07:47,080
+ia akan mereplikasi dan menghasilkan salinannya,
+
+156
+00:07:47,080 --> 00:07:49,010
+kedua-duanya akan terikat pada suatu titik.
+
+157
+00:07:49,010 --> 00:07:51,260
+Yang berwarna magenta akan mereplikasi untuk menghasilkan
+
+158
+00:07:51,260 --> 00:07:53,440
+salinannya, kedua-duanya akan terikat pada suatu titik,
+
+159
+00:07:53,440 --> 00:07:54,680
+tapi ia tidak akan kelihatan jelas.
+
+160
+00:07:54,680 --> 00:07:57,060
+Saya melukisnya begini untuk menunjukkan ia telah berlaku.
+
+161
+00:07:57,060 --> 00:07:58,320
+Ini hakikatnya.
+
+162
+00:07:58,320 --> 00:07:59,870
+Ia berada dalam bentuk kromatin.
+
+163
+00:07:59,870 --> 00:08:03,070
+.
+
+164
+00:08:03,070 --> 00:08:06,930
+Kita melihat mitosis.
+
+165
+00:08:06,930 --> 00:08:09,060
+Peringkat pertama mitosis ialah-
+
+166
+00:08:09,060 --> 00:08:12,420
+Biar saya lukis ini.
+
+167
+00:08:12,420 --> 00:08:17,200
+Saya akan melukis sel dengan warna hijau.
+
+168
+00:08:17,200 --> 00:08:20,790
+Saya akan membesarkan nukleus
+
+169
+00:08:20,790 --> 00:08:23,470
+kerana pada masa ini
+
+170
+00:08:23,470 --> 00:08:25,820
+banyak aktiviti yang berlaku di dalam nukleus.
+
+171
+00:08:25,820 --> 00:08:28,890
+Peringkat pertama mitosis ialah profasa.
+
+172
+00:08:28,890 --> 00:08:37,559
+Profasa.
+
+173
+00:08:37,559 --> 00:08:40,809
+Nama-nama ini diberikan secara sembarangan.
+
+174
+00:08:40,809 --> 00:08:41,890
+Orang melihat dengan mikroskop
+
+175
+00:08:41,890 --> 00:08:45,380
+dan katakan ini peringkat yang selalu dilihat apabila
+
+176
+00:08:45,380 --> 00:08:48,100
+nukleus sedang membahagi, jadi ia dinamakan profasa.
+
+177
+00:08:48,100 --> 00:08:55,210
+Semasa profasa,
+
+178
+00:08:55,210 --> 00:08:58,050
+kromatin berubah menjadi bentuk ini.
+
+179
+00:08:58,050 --> 00:09:02,330
+Saya telah kata, semasa interfasa,
+
+180
+00:09:02,330 --> 00:09:04,750
+DNA berada di merata-rata tempat dan berbelit-belit.
+
+181
+00:09:04,750 --> 00:09:08,220
+Ia mula menebal.
+
+182
+00:09:08,220 --> 00:09:09,940
+Ingat, ia telah
+
+183
+00:09:09,940 --> 00:09:10,480
+mereplikasi.
+
+184
+00:09:10,480 --> 00:09:13,990
+Replikasi berlaku sebelum mitosis bermula.
+
+185
+00:09:13,990 --> 00:09:16,840
+Jadi, 1 kromosom di situ,
+
+186
+00:09:16,840 --> 00:09:18,400
+satu lagi di sini.
+
+187
+00:09:18,400 --> 00:09:21,740
+Ia mempunyai 2 kromatid beradik
+
+188
+00:09:21,740 --> 00:09:24,270
+yang akan ditarik dan dipisahkan.
+
+189
+00:09:24,270 --> 00:09:30,000
+Semasa profasa,
+
+190
+00:09:30,000 --> 00:09:35,060
+sentrosom ini akan muncul.
+
+191
+00:09:35,060 --> 00:09:40,380
+Ia akan membantu
+
+192
+00:09:40,380 --> 00:09:44,060
+penghasilan mikrotubul,
+
+193
+00:09:44,060 --> 00:09:46,770
+ia kelihatan seperti tiub atau tali
+
+194
+00:09:46,770 --> 00:09:50,890
+yang menarik bahan lain apabila sel membahagi.
+
+195
+00:09:50,890 --> 00:09:52,160
+Semua ini agak menarik.
+
+196
+00:09:52,160 --> 00:09:54,630
+Apabila kita memikirkan sel,
+
+197
+00:09:54,630 --> 00:09:56,090
+ia kelihatan tidak rumit.
+
+198
+00:09:56,090 --> 00:10:01,940
+Ia struktur yang paling asas dalam kita atau kehidupan.
+
+199
+00:10:01,940 --> 00:10:05,750
+Tapi di sini, proses yang rumit berlaku,
+
+200
+00:10:05,750 --> 00:10:07,360
+dan kebanyakannya belum diketahui.
+
+201
+00:10:07,360 --> 00:10:09,820
+Kita boleh memperhatikannya, tapi kita tidak tahu
+
+202
+00:10:09,820 --> 00:10:14,140
+apa yang berlaku di peringkat atom atau peringkat protein
+
+203
+00:10:14,140 --> 00:10:17,720
+yang membolehkan semua ini bergerak
+
+204
+00:10:17,720 --> 00:10:18,760
+dalam keadaan begini.
+
+205
+00:10:18,760 --> 00:10:21,480
+Ia masih dikaji.
+
+206
+00:10:21,480 --> 00:10:23,520
+Sebahagiannya diketahui, sebahagiannya tidak.
+
+207
+00:10:23,520 --> 00:10:26,910
+Kedua-dua sentrosom ini
+
+208
+00:10:26,910 --> 00:10:30,970
+membantu perkembangan mikrotubul ini
+
+209
+00:10:30,970 --> 00:10:32,740
+yang kelihatan seperti mikrostruktur ini.
+
+210
+00:10:32,740 --> 00:10:40,310
+Anda boleh menganggapnya tiub atau tali.
+
+211
+00:10:40,310 --> 00:10:44,230
+Profasa akan berterusan, akhirnya ia akan sampai
+
+212
+00:10:44,230 --> 00:10:45,720
+ke peringkat--
+
+213
+00:10:45,720 --> 00:10:47,955
+Saya tidak mahu biarkan perkataan "replikasi" di sini.
+
+214
+00:10:47,955 --> 00:10:49,030
+Ia akan mengelirukan keadaan.
+
+215
+00:10:49,030 --> 00:10:49,950
+Biar saya padamkannya.
+
+216
+00:10:49,950 --> 00:10:51,775
+Biar saya padamkan "replikasi".
+
+217
+00:10:51,775 --> 00:10:54,460
+.
+
+218
+00:10:54,460 --> 00:10:58,690
+Profasa akan berterusan, selubung nukleus
+
+219
+00:10:58,690 --> 00:10:59,430
+akan menghilang.
+
+220
+00:10:59,430 --> 00:11:01,435
+Biar saya lukis semula.
+
+221
+00:11:01,435 --> 00:11:03,855
+Biar saya salin dan tampal apa yang saya lakukan tadi.
+
+222
+00:11:03,855 --> 00:11:06,820
+.
+
+223
+00:11:06,820 --> 00:11:08,536
+Letakkannya di sini.
+
+224
+00:11:08,536 --> 00:11:15,760
+Profasa akan berterusan, selubung nukleus
+
+225
+00:11:15,760 --> 00:11:18,790
+akan mula menghilang.
+
+226
+00:11:18,790 --> 00:11:24,400
+Jadi, ia mula menghilang.
+
+227
+00:11:24,400 --> 00:11:29,330
+Bahagian ini mula membesar dan terikat pada
+
+228
+00:11:29,330 --> 00:11:29,840
+sentromer.
+
+229
+00:11:29,840 --> 00:11:31,290
+Biar saya lakukannya.
+
+230
+00:11:31,290 --> 00:11:34,230
+Semua ini berlaku semasa profasa.
+
+231
+00:11:34,230 --> 00:11:37,790
+.
+
+232
+00:11:37,790 --> 00:11:40,430
+Oleh sebab semua ini berlaku semasa profasa,
+
+233
+00:11:40,430 --> 00:11:43,390
+kadangkala peringkat ini dipanggil profasa akhir,
+
+234
+00:11:43,390 --> 00:11:44,820
+kadangkala ia dipanggil prometafasa.
+
+235
+00:11:44,820 --> 00:11:52,070
+Prometafasa.
+
+236
+00:11:52,070 --> 00:11:54,140
+Tidak ada tanda sempang
+
+237
+00:11:54,140 --> 00:11:55,390
+di sini.
+
+238
+00:11:55,390 --> 00:11:57,745
+Prometafasa.
+
+239
+00:11:57,745 --> 00:12:00,890
+Kadangkala ia dianggap fasa mitosis
+
+240
+00:12:00,890 --> 00:12:02,700
+yang berasingan. Semasa saya belajarnya di sekolah,
+
+241
+00:12:02,700 --> 00:12:04,180
+mereka tidak menggunakan prometafasa.
+
+242
+00:12:04,180 --> 00:12:06,620
+Mereka hanya memanggilnya profasa.
+
+243
+00:12:06,620 --> 00:12:09,620
+Di peringkat akhir profasa,
+
+244
+00:12:09,620 --> 00:12:13,220
+atau peringkat akhir prometafasa,
+
+245
+00:12:13,220 --> 00:12:15,510
+ini keadaannya.
+
+246
+00:12:15,510 --> 00:12:17,390
+Terdapatnya sel.
+
+247
+00:12:17,390 --> 00:12:20,460
+Selubung nukleus telah hilang,
+
+248
+00:12:20,460 --> 00:12:21,980
+ia tidak lagi kelihatan.
+
+249
+00:12:21,980 --> 00:12:24,380
+Walaupun protein yang membentuknya masih di situ,
+
+250
+00:12:24,380 --> 00:12:26,350
+ia akan digunakan kemudian.
+
+251
+00:12:26,350 --> 00:12:29,840
+Dalam kes ini, terdapat 2 kromosom.
+
+252
+00:12:29,840 --> 00:12:32,800
+Dalam kes manusia, terdapatnya 46 kromosom.
+
+253
+00:12:32,800 --> 00:12:35,320
+Terdapatnya 2 kromosom,
+
+254
+00:12:35,320 --> 00:12:41,050
+setiap kromosom mempunyai 2 kromatid beradik,
+
+255
+00:12:41,050 --> 00:12:42,190
+2 kromosom.
+
+256
+00:12:42,190 --> 00:12:46,900
+Sentromer ada di situ.
+
+257
+00:12:46,900 --> 00:12:55,160
+Sentrosom ini akan bergerak ke arah yang bertentangan.
+
+258
+00:12:55,160 --> 00:12:59,930
+Tadi, selubung nukleus berada di sini.
+
+259
+00:12:59,930 --> 00:13:03,370
+Mikrotubul ini akan memanjang.
+
+260
+00:13:03,370 --> 00:13:06,740
+Jadi, ia mempunyai 2 fungsi.
+
+261
+00:13:06,740 --> 00:13:08,270
+Ia akan memanjangkan
+
+262
+00:13:08,270 --> 00:13:10,470
+2 sentrosom ini.
+
+263
+00:13:10,470 --> 00:13:12,370
+Semua ini berada di sini.
+
+264
+00:13:12,370 --> 00:13:13,880
+Sebahagiannya berasal daripada
+
+265
+00:13:13,880 --> 00:13:15,760
+sentrosom ini, sebahagiannya berasal daripada sentrosom ini,
+
+266
+00:13:15,760 --> 00:13:17,120
+sebahagiannya menyambungkan kedua-duanya.
+
+267
+00:13:17,120 --> 00:13:20,900
+Sebahagian mikrotubul ini,
+
+268
+00:13:20,900 --> 00:13:23,210
+tiub atau tali ini,
+
+269
+00:13:23,210 --> 00:13:31,340
+akan terikat pada sentromer kromosom.
+
+270
+00:13:31,340 --> 00:13:34,610
+Struktur protein yang mengikatnya dipanggil
+
+271
+00:13:34,610 --> 00:13:36,570
+kinetokor.
+
+272
+00:13:36,570 --> 00:13:39,160
+Jadi, kinetokor ada di situ.
+
+273
+00:13:39,160 --> 00:13:41,040
+Kinetokor.
+
+274
+00:13:41,040 --> 00:13:42,430
+Ia ialah struktur protein.
+
+275
+00:13:42,430 --> 00:13:43,940
+Ia sangat menarik.
+
+276
+00:13:43,940 --> 00:13:46,980
+Ia masih dalam kajian, iaitu bagaimana
+
+277
+00:13:46,980 --> 00:13:49,350
+mikrotubul mengikat pada kinetokor, kita akan lihat
+
+278
+00:13:49,350 --> 00:13:53,740
+nanti, kinetokor ialah tempat di mana
+
+279
+00:13:53,740 --> 00:13:58,400
+mikrotubul mula menarik 2 kromatid beradik
+
+280
+00:13:58,400 --> 00:14:02,670
+yang berasingan dan memisahkannya.
+
+281
+00:14:02,670 --> 00:14:03,530
+Bagaimana ia berlaku
+
+282
+00:14:03,530 --> 00:14:04,720
+masih belum diketahui.
+
+283
+00:14:04,720 --> 00:14:09,080
+Tapi, melalui pemerhatian, ia telah berlaku.
+
+284
+00:14:09,080 --> 00:14:14,020
+Setelah berakhirnya profasa, sel akan
+
+285
+00:14:14,020 --> 00:14:17,190
+memastikan bahawa kromosom akan tersusun.
+
+286
+00:14:17,190 --> 00:14:19,270
+Saya melukisnya secara tersusun,
+
+287
+00:14:19,270 --> 00:14:22,760
+tapi ia berlaku semasa metafasa,
+
+288
+00:14:22,760 --> 00:14:24,090
+iaitu fasa seterusnya.
+
+289
+00:14:24,090 --> 00:14:26,040
+Fasa pertama ialah profasa.
+
+290
+00:14:26,040 --> 00:14:29,280
+Sekarang ialah metafasa.
+
+291
+00:14:29,280 --> 00:14:32,680
+Kromosom akan tersusun. Semua kromosom
+
+292
+00:14:32,680 --> 00:14:35,300
+akan tersusun di bahagian tengah sel.
+
+293
+00:14:35,300 --> 00:14:42,430
+Jadi, 1 kromosom magenta di sini,
+
+294
+00:14:42,430 --> 00:14:45,660
+1 kromosom hijau di situ.
+
+295
+00:14:45,660 --> 00:14:49,960
+Begitu juga dengan sentrosom,
+
+296
+00:14:49,960 --> 00:14:51,570
+iaitu yang mengeluarkan gelendong.
+
+297
+00:14:51,570 --> 00:14:54,250
+Sebahagiannya ialah gelendong kinetokor yang
+
+298
+00:14:54,250 --> 00:14:59,200
+mengikat pada sentromer
+
+299
+00:14:59,200 --> 00:15:00,470
+kromosom.
+
+300
+00:15:00,470 --> 00:15:01,910
+Ia sangat mengelirukan.
+
+301
+00:15:01,910 --> 00:15:05,850
+Sentrosom ialah struktur ini yang membantu mengarahkan
+
+302
+00:15:05,850 --> 00:15:08,070
+apa yang berlaku kepada mikrotubul ini.
+
+303
+00:15:08,070 --> 00:15:11,880
+Sentriol ialah struktur kecil ini, iaitu
+
+304
+00:15:11,880 --> 00:15:14,850
+struktur berbentuk tin ini di dalam sentrosom.
+
+305
+00:15:14,850 --> 00:15:19,050
+Sentromer ialah titik tengah di mana
+
+306
+00:15:19,050 --> 00:15:22,170
+2 kromatid saling terikat di dalam kromosom.
+
+307
+00:15:22,170 --> 00:15:25,850
+Ini ialah kromatid beradik, satu lagi
+
+308
+00:15:25,850 --> 00:15:28,250
+di situ, kedua-duanya terikat pada sentromer.
+
+309
+00:15:28,250 --> 00:15:30,180
+Ini ialah metafasa.
+
+310
+00:15:30,180 --> 00:15:33,100
+Ia agak mudah.
+
+311
+00:15:33,100 --> 00:15:36,310
+Semasa metafasa, sel-sel akan tersusun.
+
+312
+00:15:36,310 --> 00:15:38,220
+Bagaimana sel
+
+313
+00:15:38,220 --> 00:15:39,770
+berkembang sehingga peringkat ini?
+
+314
+00:15:39,770 --> 00:15:40,740
+Bagaimana ia tahu bahawa semuanya
+
+315
+00:15:40,740 --> 00:15:42,240
+telah tersusun dan terikat?
+
+316
+00:15:42,240 --> 00:15:46,000
+Terdapatnya teori yang menyatakan tentang
+
+317
+00:15:46,000 --> 00:15:48,970
+mekanisme isyarat, iaitu jika salah satu protein kinetokor
+
+318
+00:15:48,970 --> 00:15:52,110
+ini tidak terikat pada salah satu
+
+319
+00:15:52,110 --> 00:15:56,130
+tali ini, maka isyarat akan dikeluarkan bahawa mitosis
+
+320
+00:15:56,130 --> 00:15:56,950
+tidak patut diteruskan.
+
+321
+00:15:56,950 --> 00:15:59,200
+Jadi, ini ialah proses yang sangat rumit.
+
+322
+00:15:59,200 --> 00:16:01,540
+Bayangkan jika anda mempunyai 46 kromosom dan semua ini
+
+323
+00:16:01,540 --> 00:16:05,630
+berlaku di dalam sel.
+
+324
+00:16:05,630 --> 00:16:08,080
+Tiada penolakan atau
+
+325
+00:16:08,080 --> 00:16:08,800
+program di sini.
+
+326
+00:16:08,800 --> 00:16:14,360
+Ia diarahkan proses kimia
+
+327
+00:16:14,360 --> 00:16:15,910
+dan proses termodinamik.
+
+328
+00:16:15,910 --> 00:16:23,130
+Kesemua kerumitan ini
+
+329
+00:16:23,130 --> 00:16:26,690
+berlaku secara spontan dan melalui
+
+330
+00:16:26,690 --> 00:16:29,780
+semakan imbang, jadi kebanyakan masanya, ia
+
+331
+00:16:29,780 --> 00:16:32,210
+berjalan lancar, ini agak menakjubkan.
+
+332
+00:16:32,210 --> 00:16:36,270
+Selepas metafasa, semua ini bersedia untuk ditarik dan dipisahkan.
+
+333
+00:16:36,270 --> 00:16:37,520
+Ia berlaku semasa anafasa.
+
+334
+00:16:37,520 --> 00:16:42,570
+Anafasa.
+
+335
+00:16:42,570 --> 00:16:45,760
+Semasa anafasa-- Biar saya tuliskannya.
+
+336
+00:16:45,760 --> 00:16:48,250
+Saya telah tukar warna sel.
+
+337
+00:16:48,250 --> 00:16:50,280
+Semua ini akan ditarik dan dipisahkan.
+
+338
+00:16:50,280 --> 00:16:53,490
+Selepas ditarik dan dipisahkan--
+
+339
+00:16:53,490 --> 00:16:54,520
+Yang ini ditarik.
+
+340
+00:16:54,520 --> 00:16:57,150
+Biar saya gunakan hijau.
+
+341
+00:16:57,150 --> 00:17:00,540
+Salah satu--
+
+342
+00:17:00,540 --> 00:17:03,410
+Salah satu kromatid beradik ditarik ke arah itu.
+
+343
+00:17:03,410 --> 00:17:05,660
+Satu lagi ditarik ke arah itu.
+
+344
+00:17:05,660 --> 00:17:08,520
+Begitu juga dengan kromotid magenta.
+
+345
+00:17:08,520 --> 00:17:10,000
+Ditarik ke arah itu, satu lagi ditarik
+
+346
+00:17:10,000 --> 00:17:11,780
+ke arah itu.
+
+347
+00:17:11,780 --> 00:17:15,630
+Sentrosom berada di sini dan
+
+348
+00:17:15,630 --> 00:17:19,040
+ia disambungkan ke kinetokor
+
+349
+00:17:19,040 --> 00:17:21,119
+di situ dan ditarik ke situ.
+
+350
+00:17:21,119 --> 00:17:23,890
+Terdapat juga struktur mikrotubul yang
+
+351
+00:17:23,890 --> 00:17:25,650
+tidak disambungkan ke kromosom, tapi
+
+352
+00:17:25,650 --> 00:17:29,260
+ia membantu memanjangkan kedua-dua sentrosom ini
+
+353
+00:17:29,260 --> 00:17:32,570
+agar semuanya bergerak ke arah bertentangan di dalam sel.
+
+354
+00:17:32,570 --> 00:17:37,960
+Setelah kedua-dua kromatid ini dipisahkan,
+
+355
+00:17:37,960 --> 00:17:40,140
+saya telah bercakap sedikit tentangnya semasa saya
+
+356
+00:17:40,140 --> 00:17:44,120
+bincangkan perkataan tentang DNA, setelah kedua-dua kromatid ini dipisahkan,
+
+357
+00:17:44,120 --> 00:17:47,030
+setiap satu kromatid ini dirujuk sebagai kromosom.
+
+358
+00:17:47,030 --> 00:17:49,960
+Sekarang, sel ini mempunyai
+
+359
+00:17:49,960 --> 00:17:50,750
+apa yang pernah berada di sini.
+
+360
+00:17:50,750 --> 00:17:51,770
+Tadi, ia mempunyai 2 kromosom.
+
+361
+00:17:51,770 --> 00:17:53,900
+Sekarang, ia mempunyai 4 kromosom.
+
+362
+00:17:53,900 --> 00:17:56,210
+Ini kerana sebaik kromatid tidak lagi terikat pada
+
+363
+00:17:56,210 --> 00:17:59,590
+kromatid beradiknya, ia akan dianggap sebagai kromosom beradik.
+
+364
+00:17:59,590 --> 00:18:01,100
+Ia cuma kebiasaan penamaan.
+
+365
+00:18:01,100 --> 00:18:02,740
+Tadi, ia berada di situ.Kemudian, ia kembali ke situ.
+
+366
+00:18:02,740 --> 00:18:04,510
+Tadi, ia terikat di situ.
+
+367
+00:18:04,510 --> 00:18:06,390
+Sekarang, ia tidak lagi terikat, jadi anda boleh menganggapnya
+
+368
+00:18:06,390 --> 00:18:08,930
+entiti yang berasingan.
+
+369
+00:18:08,930 --> 00:18:10,590
+Kita hampir sampai ke penghujungnya.
+
+370
+00:18:10,590 --> 00:18:11,960
+Peringkat terakhir ialah telofasa.
+
+371
+00:18:11,960 --> 00:18:16,350
+Peringkat terakhir ialah telofasa.
+
+372
+00:18:16,350 --> 00:18:19,900
+Saya akan lukiskan sel yang sedikit berbeza
+
+373
+00:18:19,900 --> 00:18:22,650
+kerana sesuatu berlaku serentak semasa telofasa
+
+374
+00:18:22,650 --> 00:18:24,720
+pada kebanyakan masanya.
+
+375
+00:18:24,720 --> 00:18:26,910
+Saya akan
+
+376
+00:18:26,910 --> 00:18:28,520
+memutarkan sel sebanyak 90 darjah.
+
+377
+00:18:28,520 --> 00:18:30,800
+Katakan, ini ialah sentromer.
+
+378
+00:18:30,800 --> 00:18:32,930
+Satu lagi sentromer di sini.
+
+379
+00:18:32,930 --> 00:18:34,640
+Pada masa ini,
+
+380
+00:18:34,640 --> 00:18:37,670
+ia menarik DNA ke arahnya.
+
+381
+00:18:37,670 --> 00:18:43,000
+Jadi, ini menarik 1 salinan kromosom
+
+382
+00:18:43,000 --> 00:18:45,130
+dan 1 salinan kromosom ini.
+
+383
+00:18:45,130 --> 00:18:46,730
+Begitu juga dengan yang ini.
+
+384
+00:18:46,730 --> 00:18:50,370
+Ia menarik 1 salinan
+
+385
+00:18:50,370 --> 00:18:54,060
+kromosom yang berbeza ke arahnya.
+
+386
+00:18:54,060 --> 00:18:57,190
+Biar saya lukisnya di situ.
+
+387
+00:18:57,190 --> 00:19:01,200
+Sekarang, membran nukleus mula terbentuk di sekitar
+
+388
+00:19:01,200 --> 00:19:01,980
+penghujungnya.
+
+389
+00:19:01,980 --> 00:19:04,660
+Jadi, membran nukleus mula terbentuk di sekitar
+
+390
+00:19:04,660 --> 00:19:06,760
+setiap satu penghujung di sini.
+
+391
+00:19:06,760 --> 00:19:09,310
+Di peringkat akhir telofasa,
+
+392
+00:19:09,310 --> 00:19:13,880
+proses mitosis telah selesai.
+
+393
+00:19:13,880 --> 00:19:17,110
+2 nukleus yang asal dan kandungan genetiknya
+
+394
+00:19:17,110 --> 00:19:21,300
+telah direplikasi.
+
+395
+00:19:21,300 --> 00:19:24,430
+Serentak dengan telofasa,
+
+396
+00:19:24,430 --> 00:19:27,440
+biasanya sitokinesis akan berlaku, iaitu
+
+397
+00:19:27,440 --> 00:19:31,260
+lekukan ini terbentuk.
+
+398
+00:19:31,260 --> 00:19:33,570
+Semasa telofasa, bahagian ini ditolak dan
+
+399
+00:19:33,570 --> 00:19:37,720
+semakin dipisahkan oleh mikrotubul agar ia
+
+400
+00:19:37,720 --> 00:19:42,166
+berada di bahagian hujung sitoplasma sel.
+
+401
+00:19:42,166 --> 00:19:45,270
+Anda boleh anggapnya menolak di kedua-dua bahagian
+
+402
+00:19:45,270 --> 00:19:46,860
+untuk memanjangkan sel.
+
+403
+00:19:46,860 --> 00:19:49,440
+Apabila ini berlaku, lekukan ini akan terbentuk,
+
+404
+00:19:49,440 --> 00:19:51,310
+iaitu lekukan ini.
+
+405
+00:19:51,310 --> 00:19:54,520
+Di peringkat akhir telofasa mitosis,
+
+406
+00:19:54,520 --> 00:19:58,340
+proses sitokinesis juga berlaku, di mana lekukan ini terbentuk
+
+407
+00:19:58,340 --> 00:20:01,900
+dan ia semakin ke dalam sehingga sitoplasma
+
+408
+00:20:01,900 --> 00:20:04,730
+terbahagi kepada 2 sel yang berasingan.
+
+409
+00:20:04,730 --> 00:20:08,560
+Jadi, inilah sitokinesis, secara formal ia bukan sebahagian daripada
+
+410
+00:20:08,560 --> 00:20:13,450
+mitosis, tapi biasanya ia berlaku serentak dengan telofasa.
+
+411
+00:20:13,450 --> 00:20:16,950
+Jadi di peringkat akhir mitosis, biasanya terbentuknya
+
+412
+00:20:16,950 --> 00:20:18,770
+2 sel yang serupa.
+
+413
+00:20:18,770 --> 00:20:22,800
+Selepas itu,
+
+414
+00:20:22,800 --> 00:20:25,140
+kedua-duanya akan memasuki interfasa masing-masing.
+
+415
+00:20:25,140 --> 00:20:27,840
+Jika kita lihat sel ini,
+
+416
+00:20:27,840 --> 00:20:30,780
+ia akan berada di fasa G1.
+
+417
+00:20:30,780 --> 00:20:34,650
+Pada suatu masa, kedua-dua ini akan mereplikasi.
+
+418
+00:20:34,650 --> 00:20:36,500
+Itu ialah fasa S, kemudian ke fasa G2.
+
+419
+00:20:36,500 --> 00:20:41,280
+Kemudian, sel ini akan mengalami mitosis sekali lagi.

@@ -1,0 +1,180 @@
+1
+00:00:00,369 --> 00:00:07,599
+Apa itu gandaan sepunya, atau singkatannya GSTK, untuk 15, 6 dan 10?
+
+2
+00:00:07,602 --> 00:00:13,982
+Jadi GSTK adalah gandaan yang paling kecil bagi nombor-nombor ini.
+
+3
+00:00:13,984 --> 00:00:17,454
+Saya tahu ini tak membantu sangat tapi jom kita cuba selesaikan soalan ni.
+
+4
+00:00:17,453 --> 00:00:22,273
+Jadi untuk selesaikan ni, kita kena fikir apakah gandaan bagi 15, 6 dan 10.
+
+5
+00:00:22,275 --> 00:00:26,455
+dan cari persamaan gandaan terkecil, gandaan sepunya untuk nombor-nombor ni.
+
+6
+00:00:26,453 --> 00:00:34,393
+Jadi jom cari gandaan untuk 15. Kita ada 1 darab 15 sama dengan 15, 2 darab 15 sama dengan 30,
+
+7
+00:00:34,396 --> 00:00:41,376
+lepas tu kalau tambah 15 lagi dapat 45, tambah lagi 15 dapat 60, tambah 15 lagi,
+
+8
+00:00:41,373 --> 00:00:49,013
+dapat 75, tambah 15 dapat 90, tambah 15 lagi dapat 105.
+
+9
+00:00:49,012 --> 00:00:53,812
+dan kalau masih lagi tak ada gandaan sepunya dengan nombor-nombor ni
+
+10
+00:00:54,098 --> 00:00:56,908
+baru kita tambah lagi tapi kita berhenti sini buat masa ni.
+
+11
+00:00:57,090 --> 00:01:07,120
+Sekarang ini gandaan 15 sampai 105. Jelas sekali kita boleh teruskan dari sini. Sekarang kita buat gandaan 6.
+
+12
+00:01:07,119 --> 00:01:17,479
+Jom buat gandaan 6: 1 darab 6 sama dengan 6, 2 darab 6 dapat 12, 3 darab 6 dapat 18, 4 darab 6 dapat 24,
+
+13
+00:01:17,480 --> 00:01:27,350
+5 darab 6 dapat 30, 6 darab 6 dapat 36, 7 darab 6 dapat 42, 8 darab 6 dapat 48,
+
+14
+00:01:27,345 --> 00:01:39,735
+9 darab 6 dapat 54, 10 darab 6 dapat 60. 60 dah nampak cukup menarik sebab ia adalah gandaan sepunya untuk 15 dan 6. Walaupun kita ada dua kat sini.
+
+15
+00:01:39,734 --> 00:01:44,684
+Kita ada 30 dan 30, kita ada 60 dan 60. Jadi GSTK yang paling kecil
+
+16
+00:01:44,684 --> 00:01:47,694
+kalau kita tengah cari gandaan sepunya terkecil untuk 15 dan 6.
+
+17
+00:01:47,797 --> 00:01:57,357
+Kita akan jawab 30. Jom tuliskan sebagai pengantaraan: GSTK untuk 15 dan 6. Jadi gandaan sepunya terkecil
+
+18
+00:01:57,356 --> 00:02:06,526
+yang mereka ada persamaan ada di sini. 15 darab 2 dan 6 darab 5 sama dengan 30.
+
+19
+00:02:06,605 --> 00:02:10,805
+Jadi ini semestinya adalah gandaan sepunya yang terkecil di antara semua gandaan sepunya yang mereka ada.
+
+20
+00:02:10,896 --> 00:02:16,326
+60 pun gandaan sepunya tapi lebih besar. Ini adalah gandaan sepunya yang paling kecil . Jadi jawapannya 30.
+
+21
+00:02:16,617 --> 00:02:22,867
+Kita belum lagi kira gandaan 10. Jadi jom kira. Saya rasa awak dah nampak dah jawapannya.
+
+22
+00:02:22,923 --> 00:02:30,593
+Jom kira gandaan 10. Ada 10, 20, 30, 40... Ok, rasanya ini dah cukup jauh sebab kita dah pun cecah 30,
+
+23
+00:02:30,592 --> 00:02:38,972
+dan 30 adalah gandaan sepunya untuk 15 dan 6 dan ia juga adalah gandaan sepunya terkecil untuk ketiga-tiga nombor.
+
+24
+00:02:39,158 --> 00:02:47,408
+Jadi ternyata bahawa gandaan sepunya terkecil bagi 15, 6 dan 10 adalah bersamaan dengan 30.
+
+25
+00:02:47,489 --> 00:02:52,919
+Sekarang, ini adalah satu cara untuk dapatkan gandaan sepunya terkecil. Kita cuma cari gandaan untuk setiap nombor...
+
+26
+00:02:52,982 --> 00:02:57,332
+kemudian lihat gandaan mana yang terkecil yang sama.
+
+27
+00:02:57,333 --> 00:03:01,973
+Cara lain untuk lakukan itu adalah dengan melihat pemfaktoran perdana kesemua nombor ni
+
+28
+00:03:02,044 --> 00:03:08,654
+dan GSTK adalah nombor yang ada kesemua elemen pemfaktoran perdana ini sahaja.
+
+29
+00:03:08,750 --> 00:03:14,420
+Jadi biar saya tunjukkan apa yang saya maksudkan. Awak boleh guna cara ini atau awak boleh kata yang 15 adalah
+
+30
+00:03:14,422 --> 00:03:23,542
+sama dengan 3 darab 5. Itu sahaja. Itulah pemfaktor perdana, 15 adalah 3 darab 5 memandangkan kedua-dua nombor 3 dan 5 adalah nombor perdana.
+
+31
+00:03:23,614 --> 00:03:30,784
+Kita boleh kata yang 6 adalah sama dengan 2 darab 3. Itu sahaja, itulah pemfaktoran perdana memandangkan kedua-dua nombor 2 dan 3 adalah nombor perdana.
+
+32
+00:03:30,783 --> 00:03:40,253
+Dan kita boleh kata yang 10 adalah sama dengan 2 darab 5. 2 dan 5 adalah nombor perdana, jadi kita dah selesai.
+
+33
+00:03:40,249 --> 00:03:50,929
+Untuk GSTK 15, 6 dan 10, kita cuma perlukan kesemua faktor perdana ini.
+
+34
+00:03:50,930 --> 00:03:55,600
+dan maksud saya, untuk lebih jelas, untuk dibahagikan dengan 15
+
+35
+00:03:55,599 --> 00:04:03,669
+ia harus ada sekurang-kurangnya satu 3 dan satu 5 dalam pemfaktoran perdana.
+
+36
+00:04:03,765 --> 00:04:09,595
+Dengan adanya 3 darab 5 dalam pemfaktoran perdana, ia memastikan yang nombor ini boleh dibahagikan dengan 15.
+
+37
+00:04:09,661 --> 00:04:18,451
+Untuk dibahagikan dengan 6, ia mesti ada sekurang-kurangnya satu 2 dan satu 3. Jadi kita kena ada sekurang-kurangnya satu 2 dan kita dah ada 3 di sini.
+
+38
+00:04:18,574 --> 00:04:28,344
+Kita cuma perlukan satu 3. Jadi satu 2 dan satu 3. Jadi ia 2 darab 3 dan pastikan yang ia boleh dibahagikan dengan 6. Biar saya jelaskan, di sini adalah 15.
+
+39
+00:04:28,946 --> 00:04:41,886
+Untuk memastikan yang ia boleh dibahagikan dengan 10, kita kena ada sekurang-kurangnya satu 2 dan satu 5. Dua nombor ni yang memastikan ia boleh dibahagi dengan 10.
+
+40
+00:04:42,083 --> 00:04:47,653
+Jadi kita dah ada semua. 2x3x5 ada kesemua faktor perdana untuk 10, 6 atau 15, jadi ianya adalah GSTK.
+
+41
+00:04:52,922 --> 00:04:52,923
+Kalau kita darab semua nombor ini, kita akan dapat 2x3 sama dengan 6, 6x5 sama dengan 30.
+
+42
+00:04:55,969 --> 00:05:05,469
+Jadi mana-mana pun boleh. Saya harap cara ni sesuai dengan awak dan awak dapat lihat kenapa ianya logik.
+
+43
+00:05:05,594 --> 00:05:13,194
+Cara kedua ini adalah lebih bagus jika awak gunakannya untuk nombor yang lebih kompleks..
+
+44
+00:05:13,193 --> 00:05:16,063
+nombor yang mungkin perlukan pendaraban yang lebih panjang.
+
+45
+00:05:16,062 --> 00:05:21,832
+Mana-mana cara pun adalah cara yang sah untuk mencari gandaan sepunya terkecil.
+

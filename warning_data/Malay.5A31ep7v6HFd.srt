@@ -1,0 +1,319 @@
+1
+00:00:00,729 --> 00:00:05,038
+Internet adalah salah satu industri yang paling kukuh dan sentiasa membesar di Amerika Syarikat.
+
+2
+00:00:05,038 --> 00:00:07,922
+Ia membenarkan komunikasi bebas dan terbuka antara berbillion orang,
+
+3
+00:00:07,922 --> 00:00:10,918
+dan ia adalah tulang belakang bagi pemberontakan di seluruh dunia.
+
+4
+00:00:11,103 --> 00:00:14,189
+Tetapi undang-undang baharu melamar untuk memberi kuasa untuk penapisan Internet
+
+5
+00:00:14,189 --> 00:00:16,852
+kepada industri hiburan.
+
+6
+00:00:16,852 --> 00:00:20,130
+Ia dinamakan "PROTECT IP", dan inilah bagaimana ia befungsi.
+
+7
+00:00:21,438 --> 00:00:25,359
+Syarikat persendirian mahukan kuasa untuk menutup laman web yang tidak dibenarkan
+
+8
+00:00:25,359 --> 00:00:28,528
+di mana orang memuat turun filem, program TV dan musik.
+
+9
+00:00:28,528 --> 00:00:31,634
+Kerana kebanyakan laman web ini di luar kawalan Amerika Syarikat,
+
+10
+00:00:31,634 --> 00:00:35,822
+"PROTECT IP" menggunakan beberapa taktik tanpa keluar daripada sempadannya.
+
+11
+00:00:35,822 --> 00:00:38,045
+Pertama, ia memberi kerajaan kuasa untuk
+
+12
+00:00:38,045 --> 00:00:42,560
+syarikat Internet Amerika Syarikat menghalang penggunaan kepada nama domain yang melanggar undang-undang.
+
+13
+00:00:42,560 --> 00:00:45,140
+Mereka juga boleh mendakwa enjin pencarian Amerika Syarikat,
+
+14
+00:00:45,140 --> 00:00:47,438
+direktori, dan juga blogs serta forums,
+
+15
+00:00:47,438 --> 00:00:50,071
+supaya links ke laman web tersebut dihapuskan.
+
+16
+00:00:50,071 --> 00:00:52,060
+Kedua, "PROTECT IP" memberi syarikat dan
+
+17
+00:00:52,060 --> 00:00:54,474
+kerajaan kuasa untuk menghentikan dermaan kepada
+
+18
+00:00:54,474 --> 00:00:57,934
+laman web yang melanggar undang-undang dengan memaksa pengiklan Amerika Syarikat
+
+19
+00:00:57,934 --> 00:01:00,674
+dan servis pembayaran membatalkan akaun-akaun tersebut.
+
+20
+00:01:00,674 --> 00:01:04,356
+Secara umumnya, itulah apa "PROTECT IP" akan cuba laksanakan.
+
+21
+00:01:04,356 --> 00:01:07,828
+Ia akan cuba membuat sesuatu yang sangat berlainan jika diberi peluang.
+
+22
+00:01:09,213 --> 00:01:12,236
+Sebagai permulaan, ia tidak akan menghentikan pemuat turun.
+
+23
+00:01:12,236 --> 00:01:14,324
+Kamu masih boleh menggunakan laman web yang dihalang
+
+24
+00:01:14,324 --> 00:01:18,245
+dengan memasukkan IP address dan bukan namanya sahaja.
+
+25
+00:01:18,245 --> 00:01:21,456
+Apa yang "PROTECT IP" akan melakukan ialah memusnahkan startups yang baru
+
+26
+00:01:21,456 --> 00:01:24,042
+kerana ia juga membenarkan syarikat mendakwa apa-apa laman web
+
+27
+00:01:24,042 --> 00:01:26,795
+yang meraka rasa tidak cukup bagus dalam menapis konten laman itu.
+
+28
+00:01:26,795 --> 00:01:29,590
+Aksi ini boleh membankrupkan enjin pencarian baharu dengan mudah
+
+29
+00:01:29,590 --> 00:01:31,508
+dan laman web media sosial.
+
+30
+00:01:31,508 --> 00:01:34,136
+Dan ayat-ayat "PROTECT IP" cukup samar-samar
+
+31
+00:01:34,136 --> 00:01:36,734
+sehingga laman media sosial yang penting boleh menjadi
+
+32
+00:01:36,734 --> 00:01:37,556
+mangsa.
+
+33
+00:01:37,556 --> 00:01:39,875
+Dan banyak laman web boleh menyerupai
+
+34
+00:01:39,875 --> 00:01:42,456
+syurga pencetak rompak kepada orang-orang yang salah.
+
+35
+00:01:42,456 --> 00:01:45,265
+Tumblr, SoundCloud, sebuah Youtube awal,
+
+36
+00:01:45,265 --> 00:01:47,274
+dimana orang mengekspresi dirinya, membuat seni,
+
+37
+00:01:47,274 --> 00:01:50,027
+menyampaikan berita ataupun mengaturkan pemberontakan,
+
+38
+00:01:50,027 --> 00:01:52,477
+dimana cukup banyak potongan TV, klip filem,
+
+39
+00:01:52,477 --> 00:01:54,903
+dan lagu-lagu yang dihak cipta dicampur masuk.
+
+40
+00:01:54,903 --> 00:01:56,518
+Walaupun kamu mempercayai kerajaan Amerika Syarikat
+
+41
+00:01:56,518 --> 00:01:58,905
+untuk tidak menyalahgunakan kuasanya bagi menapis Internet,
+
+42
+00:01:58,905 --> 00:02:01,054
+apakah pula dengan negara yang mengikut jejak langkah kita
+
+43
+00:02:01,054 --> 00:02:02,664
+dan menggunakan undang-undang yang serupa?
+
+44
+00:02:02,664 --> 00:02:04,470
+Orang di merata dunia akan mempunyai perbezaan
+
+45
+00:02:04,470 --> 00:02:07,122
+Internet, dan kerajaan yang tidak bertanggungjawab akan memunyai
+
+46
+00:02:07,122 --> 00:02:09,463
+alat-alat yang berkuasa bagi menghalang kebebasan ekspresi.
+
+47
+00:02:09,463 --> 00:02:12,865
+Yang mungkin paling bahaya, "PROTECT IP" akan
+
+48
+00:02:12,865 --> 00:02:15,477
+mengubah susunan dalaman Internet.
+
+49
+00:02:15,477 --> 00:02:18,085
+Pakar mempercayai bahawa dengan menyentuh nama domain
+
+50
+00:02:18,085 --> 00:02:20,724
+di dalam registry sesawang, hasilnya adalah berkurangnya keselamatan,
+
+51
+00:02:20,724 --> 00:02:22,225
+dan berkurangnya stabiliti.
+
+52
+00:02:22,225 --> 00:02:25,515
+Secara umumnya, "PROTECT IP" tidak akan menghentikan pencetak-rompakan, tetapi ia akan
+
+53
+00:02:25,515 --> 00:02:28,515
+memperkenalkan potensi yang besar bagi penapisan dan penyalahgunaan,
+
+54
+00:02:28,515 --> 00:02:31,696
+sambil menjadikan Internet kurang selamat dan kurang dipercayai.
+
+55
+00:02:31,696 --> 00:02:33,943
+Ini adalah Internet yang kita sedang bercakap tentang!
+
+56
+00:02:33,943 --> 00:02:36,281
+Ia adalah perantara yang penting dan berguna.
+
+57
+00:02:36,281 --> 00:02:38,075
+Dan kerajaan kita sedang mengubah
+
+58
+00:02:38,075 --> 00:02:41,462
+struktur asasnya, supaya orang mungkin akan membeli lebih banyak
+
+59
+00:02:41,462 --> 00:02:43,163
+filem Hollywood.
+
+60
+00:02:43,163 --> 00:02:45,957
+Tetapi filem Hollywood tidak memilih calon
+
+61
+00:02:45,957 --> 00:02:48,623
+biasa. Mereka tidak menjatuhkan rejim-rejim yang korup,
+
+62
+00:02:48,623 --> 00:02:51,363
+dan seluruh industri Hiburan tidak
+
+63
+00:02:51,363 --> 00:02:53,523
+menyumbangkan banyak kepada ekonomi kita.
+
+64
+00:02:53,523 --> 00:02:56,551
+Internet membuatkan semua ini, dan banyak lagi.
+
+65
+00:02:56,551 --> 00:03:00,347
+Syarikat-syarikat sudah mempunya alat-alat bagi menentang pencetak-rompakan.
+
+66
+00:03:00,347 --> 00:03:02,766
+Mereka mempunyai kuasa untuk menghapuskan isi tertentu,
+
+67
+00:03:02,766 --> 00:03:05,894
+bagi mendakwa syarikat software peer-to-peer sehingga ia tiada,
+
+68
+00:03:05,894 --> 00:03:08,885
+dan juga mendakwa journalis hanya kerana birbincang tentang bagaimana
+
+69
+00:03:08,885 --> 00:03:10,397
+untuk menyalin DVD.
+
+70
+00:03:10,397 --> 00:03:12,901
+Mereka mempunyai sejarah untuk melebarkan dan menyalahgunakan
+
+71
+00:03:12,901 --> 00:03:15,343
+kuasa mereka. Mereka pernah cuba menghapuskan video bayi
+
+72
+00:03:15,343 --> 00:03:17,489
+daripada YouTube, hanya kerana music yang bermain di dalam
+
+73
+00:03:17,489 --> 00:03:19,825
+latar belakang. Mereka menggunakan hukuman undang-undang
+
+74
+00:03:19,825 --> 00:03:22,269
+dutulis untuk pencetak-rompakan besar-besaran
+
+75
+00:03:22,269 --> 00:03:24,663
+untuk mengejar keluarga dan juga kanak-kank.
+
+76
+00:03:24,663 --> 00:03:27,124
+Mereka juga mendakwa supaya VCR dan alat MP3 pertama
+
+77
+00:03:27,124 --> 00:03:28,747
+supaya diharamkan.
+
+78
+00:03:28,747 --> 00:03:33,090
+Soalannya adalah, "Berapa jauh akan mereka pergi?"
+
+79
+00:03:33,090 --> 00:03:35,924
+Jawapan ia sangat terang sekarang.
+
+80
+00:03:35,924 --> 00:03:38,712
+Sejauh mana kita membenarkan mereka.

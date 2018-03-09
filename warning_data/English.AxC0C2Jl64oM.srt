@@ -1,0 +1,223 @@
+1
+00:00:00,800 --> 00:00:04,990
+Consider the numbers one third, seven, and negative fifteen.
+
+2
+00:00:04,990 --> 00:00:10,600
+To which sets of numbers, listed below does each of these numbers belong?
+
+3
+00:00:10,600 --> 00:00:17,754
+So let's think about the sets first and then that'll make it pretty straightforward to think about what sets these guys are members of.
+
+4
+00:00:17,754 --> 00:00:21,267
+So natural numbers - you can kind of view these as the counting numbers.
+
+5
+00:00:21,267 --> 00:00:23,600
+This is one, two, three, four, five, six.
+
+6
+00:00:23,600 --> 00:00:26,867
+Or another way to think about it - it's the whole numbers except for zero.
+
+7
+00:00:26,867 --> 00:00:29,200
+So zero is not in the natural numbers.
+
+8
+00:00:29,200 --> 00:00:32,733
+It starts at one. One, two, three, four, so on and so forth.
+
+9
+00:00:32,733 --> 00:00:38,600
+Whole numbers, is the natural numbers, plus zero - plus zero.
+
+10
+00:00:38,600 --> 00:00:45,600
+Integers are the whole numbers plus the negative versions of the natural numbers.
+
+11
+00:00:45,600 --> 00:00:50,400
+Then rational numbers - these are any number that can be represented by a fraction.
+
+12
+00:00:50,400 --> 00:00:54,000
+Irrational numbers cannot be represented by a fraction.
+
+13
+00:00:54,000 --> 00:00:56,600
+And then real numbers are essentially all of these.
+
+14
+00:00:56,600 --> 00:00:58,600
+Let's think about the numbers that they gave us.
+
+15
+00:00:58,600 --> 00:01:00,267
+So let's first think about one third.
+
+16
+00:01:00,267 --> 00:01:04,800
+One third is not a counting number. It's not a whole number - it's a fraction.
+
+17
+00:01:04,800 --> 00:01:07,333
+It's not an integer (it's a fraction.)
+
+18
+00:01:07,333 --> 00:01:10,467
+It is a rational number - it can clearly be represented as a fraction.
+
+19
+00:01:10,467 --> 00:01:11,467
+So I'll write it over here.
+
+20
+00:01:11,467 --> 00:01:13,733
+One third is a rational number.
+
+21
+00:01:13,733 --> 00:01:15,467
+It's not an irrational number.
+
+22
+00:01:15,467 --> 00:01:18,733
+There's nothing that's part of both the rational and irrational.
+
+23
+00:01:18,733 --> 00:01:20,467
+You have to pick between one of those two.
+
+24
+00:01:20,467 --> 00:01:22,867
+But it's clearly a real number.
+
+25
+00:01:22,867 --> 00:01:26,200
+So one third is rational and it is real.
+
+26
+00:01:26,200 --> 00:01:28,533
+So let's do seven here.
+
+27
+00:01:28,533 --> 00:01:30,600
+So seven is a natural number.
+
+28
+00:01:30,600 --> 00:01:33,533
+When you count things, you can count up to seven.
+
+29
+00:01:33,533 --> 00:01:39,200
+it's definately a whole number. In fact anything that's a natural number is also going to be a whole number.
+
+30
+00:01:39,200 --> 00:01:43,400
+And anything that's a natural number or a whole number is also going to be an integer.
+
+31
+00:01:43,400 --> 00:01:51,867
+Anything that is a natural number, a whole number or integer is also going to be a rational number.
+
+32
+00:01:51,867 --> 00:01:55,133
+Cuz you can represent this as seven over one.
+
+33
+00:01:55,133 --> 00:01:58,200
+Seven is equal to seven over one.
+
+34
+00:01:58,200 --> 00:02:00,933
+And you can do this with any integer.
+
+35
+00:02:00,933 --> 00:02:02,600
+You can just say it's the same thing as that over one.
+
+36
+00:02:02,600 --> 00:02:04,867
+So you can represent it as a fraction.
+
+37
+00:02:04,867 --> 00:02:06,800
+So it's clearly not irrational.
+
+38
+00:02:06,800 --> 00:02:11,271
+But it's going to be real. It's going to be real.
+
+39
+00:02:11,271 --> 00:02:14,533
+And then finally you might be saying "Hey, why do we even care about real numbers?"
+
+40
+00:02:14,533 --> 00:02:18,933
+In the future we'll be introduced to things called imaginary and complex numbers.
+
+41
+00:02:18,933 --> 00:02:21,067
+And those aren't real.
+
+42
+00:02:21,067 --> 00:02:24,467
+But most of the numbers that you've dealt with so far, they're going to be real numbers.
+
+43
+00:02:24,467 --> 00:02:27,733
+So let's just finish up with negative fifteen over here.
+
+44
+00:02:27,733 --> 00:02:33,133
+Negative fifteen is not a counting number, it's not a natural number - it's not one two three and so on and so forth.
+
+45
+00:02:33,133 --> 00:02:37,400
+It's not a whole number, because that would just be zero plus one two three four five.
+
+46
+00:02:37,400 --> 00:02:38,933
+It is an integer though.
+
+47
+00:02:38,933 --> 00:02:43,800
+It is an integer - so it is negative fifteen is right over here.
+
+48
+00:02:43,800 --> 00:02:47,800
+You can view natural numbers as all positive integers.
+
+49
+00:02:47,800 --> 00:02:51,733
+You can view whole numbers as all non negative integers.
+
+50
+00:02:51,733 --> 00:02:55,800
+And of course integers will include negative and nonnegative integers.
+
+51
+00:02:55,800 --> 00:02:57,467
+And that's where negative fifteen's going to sit.
+
+52
+00:02:57,467 --> 00:03:01,133
+Negative fifteen can be represented as a rational number.
+
+53
+00:03:01,133 --> 00:03:02,867
+It can be negative fifteen over one.
+
+54
+00:03:02,867 --> 00:03:05,133
+So we're going to put negative fifteen over here.
+
+55
+00:03:05,133 --> 00:03:11,600
+If it's rational it can't be irrational, and it's gonna be a real number.
+
+56
+00:03:11,600 --> 99:59:59,000
+And we are done.

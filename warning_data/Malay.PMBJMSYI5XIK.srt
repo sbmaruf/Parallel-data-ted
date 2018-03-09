@@ -1,0 +1,891 @@
+1
+00:00:00,000 --> 00:00:00,720
+...
+
+2
+00:00:00,720 --> 00:00:02,540
+Saya terima masalah daripada Bradley
+
+3
+00:00:02,540 --> 00:00:04,220
+Saya tidak tahu nama akhir dia
+
+4
+00:00:04,220 --> 00:00:05,300
+Saya andaikan sebagai dia
+
+5
+00:00:05,300 --> 00:00:06,050
+Sya tidak tahu di mana dia tinggal
+
+6
+00:00:06,050 --> 00:00:07,670
+Tetapi masalah yang diberi agak menarik
+
+7
+00:00:07,670 --> 00:00:08,980
+Dan tidak fikir saya telah selesaikannya sebelum ini
+
+8
+00:00:08,980 --> 00:00:10,090
+Maka saya fikir ianya berbaloi untuk diselesaikan
+
+9
+00:00:10,090 --> 00:00:13,730
+masalah yang diberi, jika saya baca betul-betul,
+
+10
+00:00:13,730 --> 00:00:25,310
+ianya: 2 sinus kuasa dua x ialah sama dengan 1 tambah kosinus x
+
+11
+00:00:25,310 --> 00:00:27,730
+Maka mulanya, ini kelihatan seperti masalah yang susah
+
+12
+00:00:27,730 --> 00:00:29,270
+Bagaimana saya-- anda tidak boleh selesaikan untuk x
+
+13
+00:00:29,270 --> 00:00:31,350
+Anda akan ada lengkung sinus dan punca kuasa
+
+14
+00:00:31,350 --> 00:00:32,950
+dan kosinus dan lain-lain
+
+15
+00:00:32,950 --> 00:00:33,500
+Dan lain-lain
+
+16
+00:00:33,500 --> 00:00:36,070
+Maka cara saya mendekati ini ialah-- bila-bila masa saya lihat
+
+17
+00:00:36,070 --> 00:00:39,880
+kosinus x di sini tetapi kemudian saya lihat sinus kuasa dua di sini,
+
+18
+00:00:39,880 --> 00:00:42,860
+saya mula fikirkan apa identiti trig pada pelupusan saya
+
+19
+00:00:42,860 --> 00:00:45,970
+Dan apa indentiti trig yang melibatkan sinus kuasa dua x?
+
+20
+00:00:45,970 --> 00:00:48,280
+Baiklah asas utama identiti trig, dan ini keluar
+
+21
+00:00:48,280 --> 00:00:51,420
+dari unit bulatan definisi fungsi trig, adakah
+
+22
+00:00:51,420 --> 00:00:58,530
+sinus kuasa dua x tambah kosinus kuasa dua x ialah sama dengan 1
+
+23
+00:00:58,530 --> 00:01:01,510
+dan keluar fakta persamaan bulatan
+
+24
+00:01:01,510 --> 00:01:04,500
+ialah x kuasa dua y kuasa dua ialah sama dengan radius kuasa dua
+
+25
+00:01:04,500 --> 00:01:05,100
+tetapi ianya unit bulatan
+
+26
+00:01:05,100 --> 00:01:06,650
+Ia sama dengan 1 kuasa dua
+
+27
+00:01:06,650 --> 00:01:07,170
+tetapi
+
+28
+00:01:07,170 --> 00:01:09,200
+Diharapkan anda dapat hafal sekiranya anda telah
+
+29
+00:01:09,200 --> 00:01:11,410
+lihat video tentang trig
+
+30
+00:01:11,410 --> 00:01:13,070
+Maka apakah sinus kuasa dua x bersamaan dengan?
+
+31
+00:01:13,070 --> 00:01:14,280
+Baiklah, mari kita selesaikannya
+
+32
+00:01:14,280 --> 00:01:23,270
+Maka sinus kuasa dua x ialah sama dengan 1 tolak kosinus kuasa dua x, bukan?
+
+33
+00:01:23,270 --> 00:01:27,700
+Kita boleh gantikan terma ini dengan ini
+
+34
+00:01:27,700 --> 00:01:28,630
+Dan apa ia beri kita?
+
+35
+00:01:28,630 --> 00:01:30,880
+Baiklah kita hanya bermain pada titik ini, tetapi sekurang-kurangnya
+
+36
+00:01:30,880 --> 00:01:34,620
+cara itu, semuanya dalam terma kosinus x
+
+37
+00:01:34,620 --> 00:01:35,310
+Maka mari lakukan itu
+
+38
+00:01:35,310 --> 00:01:35,860
+Mari gantikan
+
+39
+00:01:35,860 --> 00:01:39,680
+Maka kita dapat 3 darab sinus kuasa dua x
+
+40
+00:01:39,680 --> 00:01:41,520
+Kita baru tunjukkan bahawa sinus kuasa dua x ialah sama dengan
+
+41
+00:01:41,520 --> 00:01:43,075
+1 tolak kosinus kuasa dua x
+
+42
+00:01:43,075 --> 00:01:49,120
+..
+
+43
+00:01:49,120 --> 00:01:53,730
+ialah sama dengan 1 tambah kosinus x
+
+44
+00:01:53,730 --> 00:01:55,560
+Kita boleh permudahkannya
+
+45
+00:01:55,560 --> 00:02:05,480
+3 tolak 3 kosinus kuasa dua x ialah sama dengan 1 tambah kosinus x
+
+46
+00:02:05,480 --> 00:02:05,910
+Saya tidak tahu
+
+47
+00:02:05,910 --> 00:02:07,990
+Untuk keseronokan, mari letakkan semuanya ke kanan
+
+48
+00:02:07,990 --> 00:02:09,550
+persamaan
+
+49
+00:02:09,550 --> 00:02:11,620
+dan anda akan lihat ianya bukan hanya keseronokan
+
+50
+00:02:11,620 --> 00:02:12,870
+0-- bukan?
+
+51
+00:02:12,870 --> 00:02:15,230
+Saya akan--- ialah sama dengan-- mari letakkan ini
+
+52
+00:02:15,230 --> 00:02:20,150
+pada bahagian kanan-- 3 kosinus kuasa dua x
+
+53
+00:02:20,150 --> 00:02:21,810
+dan--mari lihat
+
+54
+00:02:21,810 --> 00:02:23,940
+Kita perlu tolakkan 3 dari bahagian ini
+
+55
+00:02:23,940 --> 00:02:25,570
+Baiklah mari tuliskan kosinus x
+
+56
+00:02:25,570 --> 00:02:27,260
+Tambah kosinus x
+
+57
+00:02:27,260 --> 00:02:30,400
+dan 1 tolak 3 ialah -2
+
+58
+00:02:30,400 --> 00:02:31,910
+Mari pastikan saya tdak melakukan kesalahan tidak wajar
+
+59
+00:02:31,910 --> 00:02:32,870
+Kita ada -3 di sini
+
+60
+00:02:32,870 --> 00:02:35,493
+Kita tambahkan 3 kosinus x-- 3 kosinus x kuasa dua x
+
+61
+00:02:35,493 --> 00:02:36,960
+kepada kedua-dua bahagian, bukan?
+
+62
+00:02:36,960 --> 00:02:38,500
+Kita tolakkan 3 daripada kedua-dua bahagian
+
+63
+00:02:38,500 --> 00:02:41,360
+Tolak 2 dan kosinus x ini ialah kosinus x
+
+64
+00:02:41,360 --> 00:02:43,950
+Sekarang apa yang kita boleh buat?
+
+65
+00:02:43,950 --> 00:02:46,410
+Baiklah, di sini dimana ia jadi menarik
+
+66
+00:02:46,410 --> 00:02:50,740
+Kerana ini kelihatan seperti persamaan kuadratik
+
+67
+00:02:50,740 --> 00:02:57,920
+kecuali fakta selain dari ada ax kuasa dua
+
+68
+00:02:57,920 --> 00:03:02,400
+tambah bx tambah c, kita ada kosinus kuasa dua x
+
+69
+00:03:02,400 --> 00:03:04,360
+Maka selain dari ada x kuasa dua, kita ada keseluruhan
+
+70
+00:03:04,360 --> 00:03:05,940
+kosinus x kuasa dua
+
+71
+00:03:05,940 --> 00:03:07,470
+Maka apa yang saya maksudkan dengan itu?
+
+72
+00:03:07,470 --> 00:03:08,720
+Mari lakukan penolakan
+
+73
+00:03:08,720 --> 00:03:12,760
+Dan saya fikir ia akan jadi lebih jelas kepada anda
+
+74
+00:03:12,760 --> 00:03:16,030
+Mari lakukan penolakan-- saya hanya pilih
+
+75
+00:03:16,030 --> 00:03:21,430
+huruf secara rawak-- ialah sama dengan kosinus x
+
+76
+00:03:21,430 --> 00:03:23,836
+Maka jika kita ambil kosinus x daripada ini dan gantikan
+
+77
+00:03:23,836 --> 00:03:25,450
+mereka dengan a, apa kita dapat?
+
+78
+00:03:25,450 --> 00:03:26,760
+Saya akan tukarkannya
+
+79
+00:03:26,760 --> 00:03:28,790
+Maka i mahu letakkan 0 pada bahagian itu
+
+80
+00:03:28,790 --> 00:03:30,340
+sama dengan 0
+
+81
+00:03:30,340 --> 00:03:32,875
+Maka kita dapat 3-- baiklah kosinus kuasa dua x
+
+82
+00:03:32,875 --> 00:03:36,040
+Itu adalah sama dengan kosinus x kuasa dua, bukan?
+
+83
+00:03:36,040 --> 00:03:47,840
+Maka kita dapat 3a kuasa dua tambah a tolak 2 ialah sama dengan 0
+
+84
+00:03:47,840 --> 00:03:49,870
+Sekarang kita ada persamaan tulen
+
+85
+00:03:49,870 --> 00:03:54,500
+Dan kita boleh selsaikan menggunakan persamaan kuadratik
+
+86
+00:03:54,500 --> 00:03:56,690
+Maka apa persamaan kuadratik?
+
+87
+00:03:56,690 --> 00:03:58,760
+Mari saya tuliskan di sini
+
+88
+00:03:58,760 --> 00:04:02,080
+-b tambah atau tolak punca kuasa b
+
+89
+00:04:02,080 --> 00:04:04,700
+kuasa dua tolak 4ac
+
+90
+00:04:04,700 --> 00:04:06,560
+Semuanya per 2a
+
+91
+00:04:06,560 --> 00:04:08,550
+Maka apa punca persamaan ini?
+
+92
+00:04:08,550 --> 00:04:10,400
+Baiklah apa tolak--- dan saya ingat a ini ialah
+
+93
+00:04:10,400 --> 00:04:11,440
+berlainan dengan a ini
+
+94
+00:04:11,440 --> 00:04:13,040
+Mungkin saya tidak patut gunakan a sebagai huruf
+
+95
+00:04:13,040 --> 00:04:15,410
+tetapi ini--- a, b dan c dalam persamaan kuadratik
+
+96
+00:04:15,410 --> 00:04:16,460
+yang mewakili pekali
+
+97
+00:04:16,460 --> 00:04:19,360
+Maka ini ialah a
+
+98
+00:04:19,360 --> 00:04:21,500
+b ialah 1
+
+99
+00:04:21,500 --> 00:04:23,340
+dan c hanya tolak 2
+
+100
+00:04:23,340 --> 00:04:26,080
+Maka apa punca ini?
+
+101
+00:04:26,080 --> 00:04:29,780
+a yang selesaikan ini, a boleh sama dengan--
+
+102
+00:04:29,780 --> 00:04:30,780
+saya tahu saya mengelirukan anda
+
+103
+00:04:30,780 --> 00:04:32,190
+Saya boleh-- mari saya lukiskan ia berlainan
+
+104
+00:04:32,190 --> 00:04:35,630
+Mari lakukan ini, selain dari a sama dengan kosinus x, mari
+
+105
+00:04:35,630 --> 00:04:37,610
+saya katakan itu-- saya tidak tahu
+
+106
+00:04:37,610 --> 00:04:39,540
+mari saya pilih satu huruf yang tidak berkaitan
+
+107
+00:04:39,540 --> 00:04:41,540
+mari saya katakan d
+
+108
+00:04:41,540 --> 00:04:45,920
+Maka 3d kausa dua tambah d tolak ialah 2
+
+109
+00:04:45,920 --> 00:04:49,250
+Sekarang a, b dan c pastinya pekali
+
+110
+00:04:49,250 --> 00:04:53,390
+Maka jawapan kepada ini ialah d-- kerana saya tidak mahu
+
+111
+00:04:53,390 --> 00:04:57,060
+gunakan a, b atau c-- d sama dengan -b
+
+112
+00:04:57,060 --> 00:04:58,350
+Baiklah, b ialah 1
+
+113
+00:04:58,350 --> 00:04:59,730
+tolak 1
+
+114
+00:04:59,730 --> 00:05:01,600
+dan ini sepenuhnya janggal kepada anda, anda patut
+
+115
+00:05:01,600 --> 00:05:05,010
+melihat semula video persamaan kuadratik
+
+116
+00:05:05,010 --> 00:05:07,560
+-b kuasa dua
+
+117
+00:05:07,560 --> 00:05:09,690
+Baiklah, itu 1 kuasa dua
+
+118
+00:05:09,690 --> 00:05:12,030
+tolak 4ac
+
+119
+00:05:12,030 --> 00:05:18,220
+Maka tolak 4 darab a, darab 3, darab c
+
+120
+00:05:18,220 --> 00:05:20,590
+c ialah tolak 2, bukan?
+
+121
+00:05:20,590 --> 00:05:22,630
+Maka kita dapat a--- tolak itu dibatalkan
+
+122
+00:05:22,630 --> 00:05:23,780
+dan kita ada 2 di sini
+
+123
+00:05:23,780 --> 00:05:28,550
+semuanya per 2 darab a. a ialah 3 maka kita ada ia per 6
+
+124
+00:05:28,550 --> 00:05:31,700
+Maka ini sama dengan tolak 1 tambah atau tolak punca kuasa
+
+125
+00:05:31,700 --> 00:05:32,250
+Apakah ini?
+
+126
+00:05:32,250 --> 00:05:33,480
+4 darab 3 darab 2
+
+127
+00:05:33,480 --> 00:05:35,240
+24 tambah 1
+
+128
+00:05:35,240 --> 00:05:35,900
+25
+
+129
+00:05:35,900 --> 00:05:35,950
+Oh
+
+130
+00:05:35,950 --> 00:05:37,820
+Ia berkesan
+
+131
+00:05:37,820 --> 00:05:39,290
+per 6
+
+132
+00:05:39,290 --> 00:05:46,160
+Maka itu sama dengan tolak 1 tambah atau tolak 5 per 6
+
+133
+00:05:46,160 --> 00:05:47,480
+Dan apakah puncanya?
+
+134
+00:05:47,480 --> 00:05:51,760
+Puncanya ialah--- Apakah tolak 1 tolak 5?
+
+135
+00:05:51,760 --> 00:05:53,670
+Itu tolak 6 per 6
+
+136
+00:05:53,670 --> 00:05:55,510
+Maka ianya tolak 1
+
+137
+00:05:55,510 --> 00:05:57,420
+Apakah yang satu lagi?
+
+138
+00:05:57,420 --> 00:05:59,850
+Tolak 1 tambah 5 ialah 4
+
+139
+00:05:59,850 --> 00:06:03,840
+4 per 6 ialah 2/3
+
+140
+00:06:03,840 --> 00:06:05,260
+Maka penyelesaian kepada persamaan
+
+141
+00:06:05,260 --> 00:06:06,490
+mari saya padamkan ruang ini
+
+142
+00:06:06,490 --> 00:06:12,210
+Mari saya lakukannya
+
+143
+00:06:12,210 --> 00:06:15,150
+..
+
+144
+00:06:15,150 --> 00:06:15,600
+Mari saya lihat
+
+145
+00:06:15,600 --> 00:06:18,170
+Apa yang say lakukan?
+
+146
+00:06:18,170 --> 00:06:18,580
+Oh
+
+147
+00:06:18,580 --> 00:06:21,780
+Mungkin saya mahu pergi-- saya boleh buangkan ini
+
+148
+00:06:21,780 --> 00:06:24,210
+Anda tahu identitinya
+
+149
+00:06:24,210 --> 00:06:28,380
+Dan anda juga tahu persamaan kuadratik
+
+150
+00:06:28,380 --> 00:06:28,840
+Mari lihat
+
+151
+00:06:28,840 --> 00:06:30,310
+Sebenarnya, mari saya buangkan ini juga
+
+152
+00:06:30,310 --> 00:06:33,860
+Padamkan ruang ini
+
+153
+00:06:33,860 --> 00:06:36,410
+Saya mahu tinggalkan ini kerana ini menunjukkan bagaimana ini
+
+154
+00:06:36,410 --> 00:06:39,380
+akan bertukar kepada kuadratik, tetapi selain dari punyainya dalam terma
+
+155
+00:06:39,380 --> 00:06:43,560
+pebolehubah, kita ada ia dalam terma kosinus x
+
+156
+00:06:43,560 --> 00:06:45,550
+dan kemudian kita buat d ini sama dengan kosinus x
+
+157
+00:06:45,550 --> 00:06:47,030
+Baiklah
+
+158
+00:06:47,030 --> 00:06:50,970
+Maka jawapan kepada persamaan ini ialah kuadratik itu
+
+159
+00:06:50,970 --> 00:06:57,080
+Adakah d sama dengan tolak 1 atau 2/3, bukan?
+
+160
+00:06:57,080 --> 00:06:59,700
+Tetapi, pasti, kita buat penolakan sebelum ini
+
+161
+00:06:59,700 --> 00:07:01,500
+d ialah sama dengan kosinus x
+
+162
+00:07:01,500 --> 00:07:06,240
+Maka jawapan kepada persamaan ini, dalam terma x,
+
+163
+00:07:06,240 --> 00:07:07,840
+ialah jawapan kepada persamaan ini
+
+164
+00:07:07,840 --> 00:07:17,500
+Kosinus x ialah sama dengan tolak 1 atau kosinus x ialah sama dengan 2/3
+
+165
+00:07:17,500 --> 00:07:18,850
+Ini senang, bukan?
+
+166
+00:07:18,850 --> 00:07:23,590
+x ialah sama dengan lengkung kosinus tolak 1
+
+167
+00:07:23,590 --> 00:07:25,690
+Saya selalu lupa jika ada 2 c apabila anda buat lengkung kosinus
+
+168
+00:07:25,690 --> 00:07:30,330
+Baiklah, pada darjah apa atau nilai radian
+
+169
+00:07:30,330 --> 00:07:33,020
+kosinus x sama dengan tolak 1?
+
+170
+00:07:33,020 --> 00:07:35,040
+Baiklah ianya pi, bukan?
+
+171
+00:07:35,040 --> 00:07:39,895
+Maka x boleh jadi sama dengan pi, iaitu juga 180 darjah
+
+172
+00:07:39,895 --> 00:07:42,650
+...
+
+173
+00:07:42,650 --> 00:07:44,390
+Ini tidak mudah
+
+174
+00:07:44,390 --> 00:07:47,010
+Saya rasa saya perlu gunakan kalkulator untuk ini
+
+175
+00:07:47,010 --> 00:07:49,330
+Melainkan saya--- whoopss
+
+176
+00:07:49,330 --> 00:07:52,520
+Anda mungkin tidak sedar, tetapi Google sebenarnya
+
+177
+00:07:52,520 --> 00:07:55,110
+adalah kalkulator
+
+178
+00:07:55,110 --> 00:07:59,540
+dan lebih maju daripada kalkulator yang lain
+
+179
+00:07:59,540 --> 00:08:01,555
+Maka kita boleh gunakan Google untuk cari
+
+180
+00:08:01,555 --> 00:08:03,660
+lengkung kosinus 2/3
+
+181
+00:08:03,660 --> 00:08:05,790
+Mari lakukan itu
+
+182
+00:08:05,790 --> 00:08:08,090
+Lengkung kosinus-- saya tidak tahu jika saya ejanya betul
+
+183
+00:08:08,090 --> 00:08:11,230
+2 per 3
+
+184
+00:08:11,230 --> 00:08:21,370
+Google beritahu kita bahawa 0.841 dan banyak nombor
+
+185
+00:08:21,370 --> 00:08:27,160
+Maka x ialah sama dengan lengkung kosinus 2/3
+
+186
+00:08:27,160 --> 00:08:35,070
+Maka x ialah sama dengan 0.84106
+
+187
+00:08:35,070 --> 00:08:35,950
+Mari lihat jika ia berkesan
+
+188
+00:08:35,950 --> 00:08:38,660
+Mari, hanya untuk keseronokan, mari lihat jika ia berkesan
+
+189
+00:08:38,660 --> 00:08:42,180
+Mari lihat jika saya gantikan pi kepada persamaan ini
+
+190
+00:08:42,180 --> 00:08:44,320
+kita boleh dapat jawapan yang betul
+
+191
+00:08:44,320 --> 00:08:46,810
+Baiklah apa sinus untuk pi?
+
+192
+00:08:46,810 --> 00:08:49,240
+Mari saya padamkan semua ini supaya kita boleh periksanya
+
+193
+00:08:49,240 --> 00:08:50,140
+Saya hanya akan periksa pi
+
+194
+00:08:50,140 --> 00:08:51,680
+0.84
+
+195
+00:08:51,680 --> 00:08:52,220
+Dan saya tidak tahu
+
+196
+00:08:52,220 --> 00:08:52,800
+Ianya tidak kemas
+
+197
+00:08:52,800 --> 00:08:54,870
+Tetapi anda boleh lakukan itu dalam masa anda
+
+198
+00:08:54,870 --> 00:08:58,318
+Maka mari periksa pi
+
+199
+00:08:58,318 --> 00:08:59,480
+x sama dengan--- tidak
+
+200
+00:08:59,480 --> 00:09:00,680
+Itu bukan apa yang saya mahu lakukan
+
+201
+00:09:00,680 --> 00:09:06,590
+...
+
+202
+00:09:06,590 --> 00:09:09,030
+Maka apa ini-- mari pastikan ini berkesan dengan pi
+
+203
+00:09:09,030 --> 00:09:17,510
+3 sinus kuasa dua pi ialah sama dengan 1 tambah kosinus pi
+
+204
+00:09:17,510 --> 00:09:18,900
+Baiklah apa sinus pi?
+
+205
+00:09:18,900 --> 00:09:24,570
+Ini ialah sama dengan 3 sinus pi kuasa dua
+
+206
+00:09:24,570 --> 00:09:27,760
+Ini ialah sama dengan 1 tambah kosinus pi
+
+207
+00:09:27,760 --> 00:09:29,940
+Baiklah, sinus pi ialah 0, bukan?
+
+208
+00:09:29,940 --> 00:09:32,320
+Nilai y apabila anda pergi 180 darjah ialah 0
+
+209
+00:09:32,320 --> 00:09:34,180
+Maka ini ialah 0
+
+210
+00:09:34,180 --> 00:09:36,360
+Dan apa kosinus pi?
+
+211
+00:09:36,360 --> 00:09:37,890
+Kosinus pi ialah -1
+
+212
+00:09:37,890 --> 00:09:39,100
+Maka 1 tambah tolak 1
+
+213
+00:09:39,100 --> 00:09:40,400
+Baiklah ini benar
+
+214
+00:09:40,400 --> 00:09:41,790
+Maka pi berkesan dalam persamaan itu
+
+215
+00:09:41,790 --> 00:09:46,600
+Saya rasa jika anda gantikan 0841068 apa-apa pun,
+
+216
+00:09:46,600 --> 00:09:47,990
+anda juga akan dapati ia berkesan
+
+217
+00:09:47,990 --> 00:09:49,550
+Maka terima kasih Bradley kerana hantar ini
+
+218
+00:09:49,550 --> 00:09:51,430
+Saya rasa ini masalah yang kemas kerana ia kelihatan
+
+219
+00:09:51,430 --> 00:09:52,660
+seperti trigonometri
+
+220
+00:09:52,660 --> 00:09:54,190
+Dan ianya trigonometri tetapi anda perlu tahu sedikit
+
+221
+00:09:54,190 --> 00:09:54,840
+identiti
+
+222
+00:09:54,840 --> 00:09:58,020
+Dan kemudian anda perlu kenalpasti ia sebagai persamaan kuadratik
+
+223
+00:09:58,020 --> 00:10:00,590
+Jumpa anda di video akan datang

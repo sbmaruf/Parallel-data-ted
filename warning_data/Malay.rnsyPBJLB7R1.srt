@@ -1,0 +1,219 @@
+1
+00:00:00,670 --> 00:00:10,380
+Anggarkan penyelesaian hasil tambah 582,205 dan 610,859
+
+2
+00:00:10,380 --> 00:00:13,660
+dengan membundarkannya ke 'ribu' yang terdekat terlebih dahulu.
+
+3
+00:00:13,660 --> 00:00:15,430
+Jadi kita akan bundarkan setiap nombor ini ke ribu yang terdekat
+
+4
+00:00:15,430 --> 00:00:17,980
+dan kemudian kita campurkan, dan itu akan memberi kita
+
+5
+00:00:17,980 --> 00:00:19,440
+satu anggaran untuk penyelesaian ini.
+
+6
+00:00:19,440 --> 00:00:21,310
+Mari kita buat untuk setiap nombor ini.
+
+7
+00:00:21,310 --> 00:00:31,760
+Jika kita mulakan dengan 582,205, dan kita mahu bundarkan ke
+
+8
+00:00:31,760 --> 00:00:32,795
+'ribu' yang terdekat,
+
+9
+00:00:32,795 --> 00:00:35,860
+Kamu pergi ke nilai tempat 'ribu', dan kamu pergi ke satu tempat
+
+10
+00:00:35,860 --> 00:00:36,740
+sebelumnya.
+
+11
+00:00:36,740 --> 00:00:39,310
+Jika ia 5 atau lebih, bundar ke atas.
+
+12
+00:00:39,310 --> 00:00:41,240
+Jika ia kurang daripada 5, bundar ke bawah.
+
+13
+00:00:41,240 --> 00:00:42,620
+Ini kurang daripada 5.
+
+14
+00:00:42,620 --> 00:00:47,010
+2 di sini kurang daripada 5, jadi kita bundar ke bawah.
+
+15
+00:00:47,010 --> 00:00:52,860
+Kita akan bundarkan ke bawah, jadi ia akan menjadi 582,000.
+
+16
+00:00:52,860 --> 00:00:54,560
+Kita hanya akan bundarkannya ke 2,000.
+
+17
+00:00:54,560 --> 00:00:57,100
+Kita akan buang 205 ini.
+
+18
+00:00:57,100 --> 00:01:02,910
+582,000 bila kita bundarkan ke 'ribu' yang terdekat.
+
+19
+00:01:02,910 --> 00:01:10,910
+Sekarang, kita ada 610,859.
+
+20
+00:01:10,910 --> 00:01:12,090
+Cara yang sama.
+
+21
+00:01:12,090 --> 00:01:13,670
+Pergi nilai tempat 'ribu'.
+
+22
+00:01:13,670 --> 00:01:15,560
+Itu 0 di sini.
+
+23
+00:01:15,560 --> 00:01:18,300
+Lihat satu nombor sebelumnya.
+
+24
+00:01:18,300 --> 00:01:20,080
+Itu 8 di sini.
+
+25
+00:01:20,080 --> 00:01:22,850
+Jika ini ialah 5 atau lebih, kamu bundar ke atas.
+
+26
+00:01:22,850 --> 00:01:24,310
+Kurang daripada 5, bundar ke bawah.
+
+27
+00:01:24,310 --> 00:01:25,460
+Ia ialah 5 atau lebih.
+
+28
+00:01:25,460 --> 00:01:27,160
+8 ialah lebih daripada 5.
+
+29
+00:01:27,160 --> 00:01:29,950
+Kita masih bundarkan ke atas jika ianya 5, jadi
+
+30
+00:01:29,950 --> 00:01:32,240
+kita akan bundarkan ke atas untuk penyelesaian ini.
+
+31
+00:01:32,240 --> 00:01:36,680
+Kita akan bundar ke atas, jadi kita berakhir dengan 600, dan
+
+32
+00:01:36,680 --> 00:01:43,570
+kita bundarkan ke 611,000 dan bukan 610,000.
+
+33
+00:01:43,570 --> 00:01:45,790
+Kita sudah bundarkan kedua-dua nombor ke 'ribu' yang terdekat.
+
+34
+00:01:45,790 --> 00:01:46,796
+Sekarang kita sudah bersedia untuk campurkan.
+
+35
+00:01:46,796 --> 00:01:49,490
+Jadi, mari kita campurkan nombor-nombor ini.
+
+36
+00:01:49,490 --> 00:01:51,330
+Mari kita campurkan dua nombor ini.
+
+37
+00:01:51,330 --> 00:01:52,800
+0 campur 0 ialah 0.
+
+38
+00:01:52,800 --> 00:01:54,400
+0 campur 0 ialah 0.
+
+39
+00:01:54,400 --> 00:01:56,860
+0 campur 0 ialah 0.
+
+40
+00:01:56,860 --> 00:02:00,230
+2 campur 1 ialah 3.
+
+41
+00:02:00,230 --> 00:02:02,440
+8 campur 1 ialah 9.
+
+42
+00:02:02,440 --> 00:02:04,230
+5 campur 6 ialah 11.
+
+43
+00:02:04,230 --> 00:02:09,130
+Jika terdapat lebih nombor di sini, kita akan bawa 1 ini
+
+44
+00:02:09,130 --> 00:02:10,030
+ke sini.
+
+45
+00:02:10,030 --> 00:02:13,230
+Tetapi tiada, jadi kamu boleh tulis 11 di sini.
+
+46
+00:02:13,230 --> 00:02:16,380
+Jadi kita ada---letak koma di setiap 3 digit---
+
+47
+00:02:16,380 --> 00:02:20,200
+1,193,000 ialah anggaran kita.
+
+48
+00:02:20,200 --> 00:02:22,790
+Sebab mengapa ini penting ialah jikalau seseorang
+
+49
+00:02:22,790 --> 00:02:24,740
+memberikan nombor-nombor ini kepada kamu dan kamu dikehendaki mengiranya di
+
+50
+00:02:24,740 --> 00:02:28,080
+otak kamu, ia adalah sukar untuk campurkan semua nombor bulat ini, tetapi kamu mungkin
+
+51
+00:02:28,080 --> 00:02:31,240
+dapat lakukan 582 campur 611 dengan mengetahui
+
+52
+00:02:31,240 --> 00:02:32,830
+semua ini ialah dalam 'ribu'.
+
+53
+00:02:32,830 --> 00:02:34,780
+Jadi ia boleh membenarkan kamu melakukan pengiraan dengan lebih cepat
+
+54
+00:02:34,780 --> 00:02:38,550
+dan lebih mudah, dan untuk kamu menganggarkan hasil tambah
+
+55
+00:02:38,550 --> 00:02:40,570
+nombor-nombor yang sudah dibundarkan.

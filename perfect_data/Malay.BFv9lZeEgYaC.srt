@@ -1,0 +1,164 @@
+1
+00:00:00,876 --> 00:00:06,476
+Satu garisan mempunyai cerun yang bernilai tujuh dan melepasi titik (-4,-11)
+
+2
+00:00:06,664 --> 00:00:10,484
+Apakah persamaan garisan ini, dalam bentuk pintasan cerun?
+
+3
+00:00:10,481 --> 00:00:18,121
+Jadi, bentuk persamaan untuk apa-apa pintasan-cerun ialah y=mx+b
+
+4
+00:00:18,118 --> 00:00:23,898
+Di mana "m" ialah cerun dan "b" ialah pintasan-y
+
+5
+00:00:23,901 --> 00:00:27,291
+Di sini masalahnya sekarang. Ia memberitahu nilai cerun.
+
+6
+00:00:27,287 --> 00:00:30,947
+Ia memberitahu bahawa garisan tersebut mempunyai cerun bernilai 7.
+
+7
+00:00:30,943 --> 00:00:34,743
+Jadi, di sini kita tahu bahawa m=7
+
+8
+00:00:35,327 --> 00:00:54,007
+Jadi kita tahu persamaan garisan ini dalam bentuk pintasan-cerun ialah y=7x+b
+
+9
+00:00:54,006 --> 00:00:55,866
+Sekarang apa yang akan kita buat ialah kita akan mencari nilai b
+
+10
+00:00:55,865 --> 00:00:59,145
+Dan soalan ini memberi kita satu lagi informasi
+
+11
+00:00:59,140 --> 00:01:04,830
+Ia menyatakan garisan tersebut melepas titik (-4,-11)
+
+12
+00:01:04,834 --> 00:01:13,364
+Jadi ini memberitahu kita apabila x=-4, y=-11
+
+13
+00:01:13,367 --> 00:01:19,897
+Kita boleh menggunakan informasi ini di dalam persamaan yang telah dikenalpasti
+
+14
+00:01:19,893 --> 00:01:27,453
+Kita tahu x bersamaan dengan -4 dan "y" bersamaan dengan -11
+
+15
+00:01:27,451 --> 00:01:31,751
+Apakah nilai "b"? Mari kita cuba.
+
+16
+00:01:31,755 --> 00:01:35,935
+"y" ialah -11 apabila "x" bersamaan dengan -4.
+
+17
+00:01:35,936 --> 00:01:41,076
+Jadi "y" ialah -11 bersamaan dengan 7 didarab dengan "x"
+
+18
+00:01:41,071 --> 00:01:47,471
+Dalam kes ini "x" ialah -4 tambah "b"
+
+19
+00:01:47,612 --> 00:01:49,472
+Sekarang kita boleh menyelesaikan "b"
+
+20
+00:01:49,474 --> 00:01:54,944
+'b' membuat persamaan ini atau memenuhi persamaan ini apabila
+
+21
+00:01:54,939 --> 00:01:57,209
+"x" bersamaan dengan -4 dan "y" bersamaan dengan -11
+
+22
+00:01:57,209 --> 00:02:04,849
+Jadi -11 sama dengan 7 darab -4 ialah -28 tambah "b"
+
+23
+00:02:05,592 --> 00:02:09,302
+Jadi kita boleh tambah 28 di kedua-dua belah dalam persamaan ini
+
+24
+00:02:09,297 --> 00:02:20,207
+Jadi di bahagian kiri ialah -11 ditambah dengan 28 akan menjadi 17
+
+25
+00:02:21,195 --> 00:02:25,105
+-28 dan 28 boleh dipotong dan saya hanya menulis "b" di bahagian kanan
+
+26
+00:02:25,101 --> 00:02:27,161
+dan "b" bersamaan dengan 17
+
+27
+00:02:33,585 --> 00:02:36,935
+"b" ialah bersamaan dengan 17
+
+28
+00:02:36,985 --> 00:02:42,355
+Jadi kita tahu "m" ialah 7 seperti yang diberitahu pada permulaan tadi dan "b" ialah 17
+
+29
+00:02:42,417 --> 00:02:57,407
+Jadi persamaan untuk garisan ini ialah y=7x+17
+
+30
+00:02:57,408 --> 00:02:59,888
+Kalau kita ingin membuat graf, ia akan berbentuk seperti ini
+
+31
+00:03:00,075 --> 00:03:02,625
+Saya akan membuat graf secara kasar
+
+32
+00:03:03,347 --> 00:03:10,487
+Ini adalah paksi-x dan ini ialah paksi-y
+
+33
+00:03:10,490 --> 00:03:18,040
+Pintasan-y ialah 17, Jadi titik 0 dan 17 berada di garisan ini (paksi-y)
+
+34
+00:03:18,163 --> 00:03:22,523
+Jadi titik di sini akan menjadi (0,17)
+
+35
+00:03:22,749 --> 00:03:24,779
+Nilai cerun kita ialah 7
+
+36
+00:03:24,828 --> 00:03:31,198
+Ini bermaksud apabila ia bergerak ke kanan, ia akan bergerak di atas 7
+
+37
+00:03:31,291 --> 00:03:35,921
+Apabila bergerak ke belakang, ia akan bergerak di bawah 7
+
+38
+00:03:36,013 --> 00:03:42,613
+Graf akan dilihat secara kasar seperti ini
+
+39
+00:03:42,611 --> 00:03:47,121
+Ia akan mempunyai cerun yang curam dan bergerak ke atas
+
+40
+00:03:47,116 --> 00:03:50,546
+Ia mempunyai cerun yang tinggi dan nilai cerun ialah 7
+
+41
+00:03:50,547 --> 00:03:56,187
+Dan pintasan-y ialah 17 dimana "x" ialah 0 dan "y" ialah 17
+

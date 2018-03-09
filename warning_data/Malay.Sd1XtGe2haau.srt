@@ -1,0 +1,364 @@
+1
+00:00:00,000 --> 00:00:04,380
+kita diminta untuk permudahkan log asas 3 dari 27x
+
+2
+00:00:04,384 --> 00:00:06,434
+sebenarnya ia amat senang
+
+3
+00:00:06,435 --> 00:00:08,265
+tetapi saya rasa mereka nak kita..
+
+4
+00:00:08,353 --> 00:00:11,113
+..gunakan prinsip logaritma &amp; tukarkan ia sedikit..
+
+5
+00:00:11,110 --> 00:00:13,350
+..dengan membuatkan ia lebih susah..
+
+6
+00:00:13,346 --> 00:00:15,326
+..dan mari kita cuba yang terbaik
+
+7
+00:00:15,323 --> 00:00:17,943
+jadi prinsip logaritma yang saya ingat..
+
+8
+00:00:17,946 --> 00:00:19,736
+..kerana ini, disini mengatakan..
+
+9
+00:00:19,731 --> 00:00:23,061
+..berapa kuasa yang kita perlu naikkan pada 3 untuk dapatkan 27x
+
+10
+00:00:23,061 --> 00:00:26,311
+27x ni sama dengan 27 darab x
+
+11
+00:00:26,314 --> 00:00:30,464
+dan prinsip logaritma yang mereka hendak kita gunakan..
+
+12
+00:00:30,462 --> 00:00:40,112
+..ialah log asas 3 dari a darab c
+
+13
+00:00:40,110 --> 00:00:41,560
+ini akan sama dengan
+
+14
+00:00:41,556 --> 00:00:48,076
+logaritma asas B daripada A tambah logaritma asas B daripada C
+
+15
+00:00:48,079 --> 00:00:50,979
+kita dapat ni daripada prinsip eksponen
+
+16
+00:00:50,982 --> 00:00:54,702
+yang jika anda nak 2 eksponen dengan asas yang sama
+
+17
+00:00:54,705 --> 00:00:56,425
+anda boleh tambah eksponennya.
+
+18
+00:00:56,421 --> 00:00:58,121
+biar saya jelaskan lagi pada anda
+
+19
+00:00:58,121 --> 00:01:00,911
+jika bahagian ini membingungkan anda, perkara penting dalam contoh ini ialah..
+
+20
+00:01:00,910 --> 00:01:02,660
+..anda tahu bagaimana hendak mengapplikasikan ia
+
+21
+00:01:02,656 --> 00:01:04,476
+tetapi lebih baik jika anda tahu prinsipnya
+
+22
+00:01:04,479 --> 00:01:10,569
+jadi katakan log ini, log asas B daripada A darab C sama dengan x
+
+23
+00:01:10,571 --> 00:01:13,781
+log ini disini sama dengan x
+
+24
+00:01:13,777 --> 00:01:17,587
+katakan yang log ini sama dengan y
+
+25
+00:01:17,587 --> 00:01:22,077
+jika log asas B daripada A sama dengan Y
+
+26
+00:01:22,079 --> 00:01:26,439
+dan katakan yang ini disini sama dengan z
+
+27
+00:01:26,438 --> 00:01:32,278
+jadi log asas B daripada C sama dengan z
+
+28
+00:01:32,279 --> 00:01:34,719
+apa yang kita tahu sekarang ialah..
+
+29
+00:01:34,715 --> 00:01:37,715
+..benda ini disini
+
+30
+00:01:37,715 --> 00:01:39,715
+memberitahu kita
+
+31
+00:01:39,715 --> 00:01:46,825
+yang b, kuasa x sama dengan A darab C
+
+32
+00:01:46,829 --> 00:01:49,819
+sekarang, benda ini pula kata yang..
+
+33
+00:01:49,823 --> 00:01:54,183
+..b kuasa y sama dengan a
+
+34
+00:01:54,187 --> 00:01:56,857
+yang ini pula kata
+
+35
+00:01:56,859 --> 00:01:59,819
+b kuasa z sama dengan c
+
+36
+00:01:59,823 --> 00:02:02,033
+biar saya tulis semula dalam warna hijau
+
+37
+00:02:02,029 --> 00:02:04,199
+supaya semua sama
+
+38
+00:02:04,198 --> 00:02:06,448
+saya tuliskan ia sebagai fungsi eksponen
+
+39
+00:02:06,448 --> 00:02:08,028
+atau persamaan eksponen
+
+40
+00:02:08,025 --> 00:02:08,525
+dan bukan persamaan logaritma
+
+41
+00:02:09,818 --> 00:02:13,688
+jadi b kuasa z sama dengan c
+
+42
+00:02:13,685 --> 00:02:16,285
+mereka semua ini pernyataan yang sama
+
+43
+00:02:16,285 --> 00:02:18,015
+pernyataan yang sama
+
+44
+00:02:18,015 --> 00:02:20,355
+atau mereka semua ni betul tetapi dalam bentuk yang lain
+
+45
+00:02:20,352 --> 00:02:23,382
+dan ini pun betul tetapi dalam bentuk yang lain
+
+46
+00:02:23,377 --> 00:02:25,497
+jika kita tahu yang..
+
+47
+00:02:25,500 --> 00:02:28,530
+..a sama dengan ini, sama dengan b
+
+48
+00:02:28,531 --> 00:02:33,811
+dan c sama dengan b-z,
+
+49
+00:02:33,813 --> 00:02:36,443
+maka kita boleh tulis
+
+50
+00:02:36,438 --> 00:02:41,808
+b kuasa x sama dengan b kuasa y
+
+51
+00:02:41,808 --> 00:02:43,958
+itu adalah a, kita sudahpun tahu
+
+52
+00:02:43,962 --> 00:02:47,272
+darab dengan b kuasa z
+
+53
+00:02:47,275 --> 00:02:49,475
+...darab dengan b kuasa z
+
+54
+00:02:49,479 --> 00:02:52,289
+dan kita tahu, dari prinsip eksponen kita
+
+55
+00:02:52,290 --> 00:02:54,210
+kita tahu dari prinsip eksponen kita
+
+56
+00:02:54,208 --> 00:02:56,938
+jika kita ambik b kuasa y darab b kuasa z
+
+57
+00:02:56,936 --> 00:02:58,746
+ia sama dengan
+
+58
+00:02:58,744 --> 00:03:04,574
+biar saya buat dalam warna lain, b kuasa y tambah z
+
+59
+00:03:04,571 --> 00:03:06,771
+kita dapat ni dari prinsip eksponen kita
+
+60
+00:03:06,771 --> 00:03:09,901
+jika b kuasa y tambah z adalah sama dengan
+
+61
+00:03:09,905 --> 00:03:15,495
+b kuasa x-- ia memberitahu kita yang x mesti sama dengan y tambah z
+
+62
+00:03:15,490 --> 00:03:19,020
+x mesti sama dengan y tambah z
+
+63
+00:03:19,023 --> 00:03:21,693
+jika anda keliru-- jangan risau
+
+64
+00:03:21,695 --> 00:03:24,265
+yang paling penting,
+
+65
+00:03:24,264 --> 00:03:26,534
+anda tahu bagaimana hendak mengaplikasikan ia
+
+66
+00:03:26,536 --> 00:03:28,456
+dan selepas itu anda boleh fikirkan ia dan bereksperimentasi
+
+67
+00:03:28,459 --> 00:03:31,559
+anda perlu sedar bahawa logaritma hanya eksponen
+
+68
+00:03:31,562 --> 00:03:34,672
+orang biasa tanya saya: apa maksud awak ?
+
+69
+00:03:34,675 --> 00:03:38,265
+tetapi apabila anda menyelesaikan logaritma- anda akan dapat eksponen
+
+70
+00:03:38,269 --> 00:03:41,609
+yang anda akan naikkan b untuk dapatkan a darab c
+
+71
+00:03:41,608 --> 00:03:45,138
+tapi mari kita aplikasikan prinsip ini disini
+
+72
+00:03:45,141 --> 00:03:47,221
+jika kita aplikasikan kepada ini kita tahu yang
+
+73
+00:03:47,223 --> 00:03:51,673
+log asas 3 daripada 27 darab x-- saya tulis sebegini--
+
+74
+00:03:51,669 --> 00:04:02,329
+sama dengan log asas 3 daripada 27 tambah log asas 3 daripada x
+
+75
+00:04:02,325 --> 00:04:05,775
+yang ini kita boleh selesaikan,
+
+76
+00:04:05,777 --> 00:04:10,637
+ia memberitahu kita: kuasa apakah yang saya perlu naikkan pada 3 untuk dapatkan 27
+
+77
+00:04:10,633 --> 00:04:15,153
+anda boleh lihat begini: 3, tanda soal sama dengan 27
+
+78
+00:04:15,152 --> 00:04:19,122
+3 kepada kuasa ketiga sama dengan 27
+
+79
+00:04:19,125 --> 00:04:21,575
+3 darab 3 = 9, darab 3 ialah 27
+
+80
+00:04:21,577 --> 00:04:23,567
+log ini akan sama dengan 3
+
+81
+00:04:23,567 --> 00:04:26,277
+jika kita nak permudahkan-- saya takmahu panggil ia
+
+82
+00:04:26,275 --> 00:04:29,175
+permudahan, saya akan panggil ia perkembangan
+
+83
+00:04:29,171 --> 00:04:32,391
+kita sekarang ada 2 terma, masa kita mula kita hanya ada 1
+
+84
+00:04:32,392 --> 00:04:35,782
+sebenarnya, jika kita mulakan dengan ini, ia akan menjadi lebih senang
+
+85
+00:04:35,782 --> 00:04:40,092
+tetapi kita tulis semula ini, terma pertama menjadi 3
+
+86
+00:04:40,095 --> 00:04:42,245
+terma ini menjadi 3
+
+87
+00:04:42,248 --> 00:04:45,818
+dan kemudian kita tinggal dengan tambah log asas 3 daripada x
+
+88
+00:04:45,818 --> 00:04:50,198
+ini adalah cara alternatif untuk menulis pernyataan original ini
+
+89
+00:04:50,198 --> 00:04:54,618
+log asas 3 daripada 27x
+
+90
+00:04:54,613 --> 00:04:58,073
+sekali lagi-- tak pasti jika ini lebih mudah dari yang ini
+
+91
+00:04:58,075 --> 00:05:03,425
+ia hanya cara lain untuk menulis menggunakan prinsip algoritma
+

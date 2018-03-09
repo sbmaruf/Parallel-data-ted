@@ -1,0 +1,95 @@
+1
+99:59:59,999 --> 99:59:59,999
+Mari katakan saya ada dua segmen garis bersilang. Jadi mari katakan ia segmen AB
+
+2
+99:59:59,999 --> 99:59:59,999
+Dan kemudian saya ada segmen CD
+
+3
+99:59:59,999 --> 99:59:59,999
+Jadi ia adalah C dan ia adalah D
+
+4
+99:59:59,999 --> 99:59:59,999
+Dan mereka bersilang disini di titik E
+
+5
+99:59:59,999 --> 99:59:59,999
+Dan mari katakan kita tahu kita diberi sudut disini, ukuran bagi sudut BED adalah 70 darjah
+
+6
+99:59:59,999 --> 99:59:59,999
+Diberi maklumat itu, apa ingin saya buat
+
+7
+99:59:59,999 --> 99:59:59,999
+berdasarkan hanya apa yang kita tahu setakat ini, bukan menggunakan protraktor
+
+8
+99:59:59,999 --> 99:59:59,999
+Apa yang saya ingin buat adalah mengetahui apakah sudut lain dalam gambar ini
+
+9
+99:59:59,999 --> 99:59:59,999
+Jadi apakah ukuran bagi sudut CEB, AEC dan AED ?
+
+10
+99:59:59,999 --> 99:59:59,999
+Jadi perkara pertama yang anda mungkin perasan bila anda lihat disini adalah sudut BED dan CEB adalah bersebelahan
+
+11
+99:59:59,999 --> 99:59:59,999
+Dan kita juga boleh lihat jika anda keluarkan bahagian luar daripada sudut itu ia membentuk satu sudut runcing
+
+12
+99:59:59,999 --> 99:59:59,999
+Dan kita juga boleh lihat yang sudut CED ialah satu sudut runcing
+
+13
+99:59:59,999 --> 99:59:59,999
+Jadi kita tahu yang kedua-dua sudut harus juga jadi tambahan
+
+14
+99:59:59,999 --> 99:59:59,999
+Mereka bersebelahan antara satu sama lain dan membentuk satu sudut runcing bila anda ambil bahagian dalam mereka
+
+15
+99:59:59,999 --> 99:59:59,999
+Jadi kita tahu yang sudut BED dan sudut CEB adalah tambahan
+
+16
+99:59:59,999 --> 99:59:59,999
+yang mana bermaksud mereka menambah atau ukuran mereka bertambah sehingga 180 darjah
+
+17
+99:59:59,999 --> 99:59:59,999
+Sudut tambahan, yang mana memberitahu kita yang ukuran BED tambah ukuran sudut CEB
+
+18
+99:59:59,999 --> 99:59:59,999
+adalah bersamaan dengan 180 darjah
+
+19
+99:59:59,999 --> 99:59:59,999
+Sekarang kita sudah tahu ukuran bagi sudut BED ialah 70 darjah
+
+20
+99:59:59,999 --> 99:59:59,999
+Jadi kita sudah tahu yang benda disini adalah 70 darjah
+
+21
+99:59:59,999 --> 99:59:59,999
+Dan jadi 70 darjah tambah ukuran sudut CEB ialah 180 darjah
+
+22
+99:59:59,999 --> 99:59:59,999
+Kita tolak 70 darjah daripada kedua-dua bahagian dan kita dapat ukuran bagi sudut CEB ialah bersamaan dengan 110 darjah
+
+23
+99:59:59,999 --> 99:59:59,999
+Saya hanya tolakkan 70 darjah daripada kedua-dua bahagian tersebut
+
+24
+99:59:59,999 --> 99:59:59,999
+Jadi kita dapat tahu yang disini ialah 110 darjah

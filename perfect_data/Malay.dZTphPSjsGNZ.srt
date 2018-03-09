@@ -1,0 +1,191 @@
+1
+00:00:00,000 --> 00:00:06,460
+Saya akan lakukan pembuktian dengan cepat, kenapa penjuru rombus adalah serenjang
+
+2
+00:00:06,521 --> 00:00:12,252
+Maka ingat, rombus ialah segi empat selari, yang mana semua empat sisi ialah sama
+
+3
+00:00:12,268 --> 00:00:17,918
+Jika semua sisi adalah sama, ia harus menjaad segi empat selari. Untuk menjelaskannya,
+
+4
+00:00:17,979 --> 00:00:22,668
+beberapa rombus ialah segi empat, tetapi tidak semuanya, kerana anda boleh ada rombus seperti ini
+
+5
+00:00:22,668 --> 00:00:29,231
+yang datang dalam sudut bukan 90 darjah. Tetapi segi empat ialah rombus, kerana semua segi empat
+
+6
+00:00:29,231 --> 00:00:34,071
+mereka mempunyai sudut 90 darjah, itu menjadikan mereka rombus, tetapi semua sisi ialah sama
+
+7
+00:00:34,071 --> 00:00:39,502
+Maka semua segi empat adalah rombus, tetapi bukan semua rombus adalah segi empat. Sekarang, dengan itu
+
+8
+00:00:39,502 --> 00:00:43,940
+mari fikirkan tentang penjuru rombus, kita fikirkan tentangnya dengan lebih jelas
+
+9
+00:00:44,002 --> 00:00:47,056
+Saya akan lukis rombus seperti ini
+
+10
+00:00:47,056 --> 00:00:50,448
+Saya akan pusingkan ia sedikit, maka ia kelihatan sedikit seperti bentuk berlian
+
+11
+00:00:50,756 --> 00:00:56,687
+Tetapi kenyataannya, saya tidak menukar rombus, saya hanya menukar
+
+12
+00:00:56,687 --> 00:01:01,033
+kedudukannya sedikit. Saya hanye menukar kedudukannya
+
+13
+00:01:01,079 --> 00:01:07,940
+Maka, rombus, bermaksud, 4 sisi yang akan menjadi sama. Sekarang, mari saya lukis satu daripada
+
+14
+00:01:07,973 --> 00:01:10,965
+pepenjurunya, dan cara saya lukis ia kelihatan seperti berlian
+
+15
+00:01:11,042 --> 00:01:15,480
+Satu dari penjuru akan menjdi melintang, seperti itu
+
+16
+00:01:15,557 --> 00:01:19,776
+Sekarang segi tiga ini pada atas dan segi tiga pada bawah berkongsi sisi ini
+
+17
+00:01:19,853 --> 00:01:23,406
+Maka sisi itu jelasnya akan menjadi sama panjang untuk kedua-dua segi tiga ini
+
+18
+00:01:23,537 --> 00:01:28,299
+Pada dua sisi segi tiga yang lain adalah perkara yang sama, sisi mereka ialah rombus sebenar
+
+19
+00:01:28,299 --> 00:01:32,991
+Maka semua tiga sisi pada atas segi tiga dan bawah segi tiga adalah sama
+
+20
+00:01:33,160 --> 00:01:37,637
+Maka atas segi tiga dan bawah segi tiga adalah sepadan
+
+21
+00:01:37,660 --> 00:01:42,283
+Mereka adalah segi tiga sepadan. Jika anda kembali kepada gred 9 unit Geometri, anda gunakan
+
+22
+00:01:42,283 --> 00:01:48,013
+the Side-Side-Side (SSS) theorem: jika 3 sisi ialah sepadan, maka segi tiga itu sendiri ialah sepadan
+
+23
+00:01:48,152 --> 00:01:53,960
+Ia juga bermaksud semua sudut dalam segi tiga adalah sepadan. Maka segi tiga pada sisi bertentangan
+
+24
+00:01:53,960 --> 00:02:01,060
+sisi yang berkongsi ini, di sini akan jadi sepadan dengan sudut yang berkaitan dengan segi tiga yang lain
+
+25
+00:02:01,060 --> 00:02:07,990
+Sudut yang bertentangan dengan sisi ini akan jadi sama dengan itu. Sekarang, kedua-dua segi tiga juga
+
+26
+00:02:07,990 --> 00:02:13,052
+segi tiga sama kaki, maka tapak sudut akan menjadi sama. Maka itu satu sudut tapak
+
+27
+00:02:13,052 --> 00:02:17,290
+itu ialah sudut tapak yang lain. Ini ialah segi tiga sama kaki yang terbalik
+
+28
+00:02:17,290 --> 00:02:23,113
+ini ialah yang ke sisi kanan. Dan, jika dua ini sama kemudian ini juga akan jadi sama
+
+29
+00:02:23,113 --> 00:02:26,567
+Mereka akan jadi sama antara satu sama lain, kerana ini ialah segi tiga sama kaki
+
+30
+00:02:26,567 --> 00:02:30,960
+Dan, mereka juga akan jadi sama dengan karakter yang lain, di bawah ini, kerana ini adalah
+
+31
+00:02:30,960 --> 00:02:38,138
+segi tiga yang sepadan. Sekaranag, jika kita ambil ketinggian... Tidak, sebenarnya saya tidak perlu cakap tentang itu
+
+32
+00:02:38,138 --> 00:02:42,846
+Kerana saya tidak rasa ia berkaitan apabila kita mahu buktikan apa yang kita mahu buktikan
+
+33
+00:02:42,846 --> 00:02:50,077
+Jika kita ambil ketinggian daripada setiap puncak, ke bawah sisi ini, maka ketinggian daripada maksud
+
+34
+00:02:50,077 --> 00:02:58,862
+Ketinggian bermaksud ia akan menjadi serenjang di bawah ini. Sekarang segi tiga sama kaki akan menjadi
+
+35
+00:02:58,862 --> 00:03:05,269
+simetri. Jika anda jatuhkan ketinggian dari atas, atau sudut yang unik, atau puncak yang unik
+
+36
+00:03:05,269 --> 00:03:11,800
+dalam segi tiga sama kaki, anda akan bahagikan ia kepada dua simetri kanan segi tiga. Dua kanan segi tiga
+
+37
+00:03:11,800 --> 00:03:21,785
+adalah imej cermin antara satu sama lain. Anda juga akan membelah sama dua dengan sisi bertentangan
+
+38
+00:03:22,062 --> 00:03:26,518
+Ketinggian atau altitud ialah, median segi tiga. Sekarang, kita boleh lakukan ia pada sisi yang lain
+
+39
+00:03:26,703 --> 00:03:37,518
+perkara yang sama akan berlaku. Kita membahagi dua sama sisi di sini, ini ialah sudut yang betul.
+
+40
+00:03:37,918 --> 00:03:42,881
+Maka, kombinasi dua altitud atau ketinggian ialah pepenjuru
+
+41
+00:03:42,912 --> 00:03:47,789
+rombus ini, dan ianya sudut yang betul kepada pepenjuru rombus
+
+42
+00:03:47,804 --> 00:03:53,593
+dan ia mebahagi dua sama dengan pepenjuru rombus yang lain. Kita boleh buat perbalahan yang sama di sini
+
+43
+00:03:53,593 --> 00:04:02,654
+Anda boleh fikir segi tiga sama kaki, di sini. Ini ialah altitudnya, ia terpisah kepada
+
+44
+00:04:02,654 --> 00:04:08,920
+2 simetri kanan segi tiga, ia membahagi dua sama dengan sisi bertentangan, ianya median kepada segi tiga
+
+45
+00:04:08,920 --> 00:04:16,436
+Mana-mana segi tiga sama kaki, pada sisi itu sama dengan sisi itu, jika anda jatuhkan altitud, 2 segi tiga ini
+
+46
+00:04:16,436 --> 00:04:23,261
+akan menjadi simetri dan anda akan ada membahagi sama dua pada sisi bertentangan. Maka, dengan perbalahan yang sama, sisi itu
+
+47
+00:04:23,261 --> 00:04:30,326
+ialah sama dengan sisi itu. Maka 2 pepenjuru dari mana-mana rombus ialah serenjang antara satu sama lain
+
+48
+00:04:30,372 --> 00:04:36,795
+dan mereka membahagi dua sama dengan yang lain. Baiklah, harap dapati itu berguna.

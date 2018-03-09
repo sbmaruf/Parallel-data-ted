@@ -1,0 +1,99 @@
+1
+00:00:00,733 --> 00:00:09,984
+Selesaikan C dan grafkan jawapannya. Kita ada -5C ialah kurang daripada atau bersamaan dengan 15. Maka -5C ialah
+
+2
+00:00:09,984 --> 00:00:14,902
+kurang daripada atau bersamaan dengan 15. Saya akan lukiskan sedikit besar. Maka jika kita mahu selesaikan C, kita perlu
+
+3
+00:00:14,902 --> 00:00:21,520
+asingkan C di sini, mungkin pada bahagian tangan kiri. Ianya sekarang didarabkan dengan -5
+
+4
+00:00:21,520 --> 00:00:27,423
+Jadi cara terbaik apabila letakkan C pada bahagian tangan kiri ialah kita boleh darabkan kedua-dua bahagian ketidaksamaan
+
+5
+00:00:27,423 --> 00:00:35,267
+secara songsang dengan -5 atau -(1/5). Maka kita mahu darabkan -(1/5)
+
+6
+00:00:35,267 --> 00:00:42,200
+darab -5C dan kita juga mahu darabkan 15 darab -(1/5). Saya cuma darabkan kedua-dua
+
+7
+00:00:42,200 --> 00:00:48,431
+bahagian ketidaksamaan secara songsang dengan -5, kerana ini akan dibatalkan dengan -5 dan akan tinggalkan
+
+8
+00:00:48,431 --> 00:00:54,067
+saya hanya dengan C. Sekarang saya tidak lukiskan ketidaksamaan di sini, kerana kita perlu ingat jika kita darabkan atau
+
+9
+00:00:54,067 --> 00:01:02,000
+bahagikan kedua-dua bahagian ketidaksamaan dengan nombor negatif, anda perlu terbalikkan ketidaksamaan dan kita lakukan itu.
+
+10
+00:01:02,000 --> 00:01:07,133
+Kita darabkan kedua-dua bahagian dengan -(1/5), iaitu sama dengan bahagikan kedua-dua bahagian
+
+11
+00:01:07,133 --> 00:01:14,533
+dengan -5. Maka kita perlu tukarkan ini dari kurang daripada atau sama dengan kepada lebih besar atau sama dengan. Dan sekarang kita boleh teruskan
+
+12
+00:01:14,533 --> 00:01:21,200
+menyelesaikan untuk C. Maka -(1/5) darab -5 ialah 1, bahagian tanagn kiri akan menjadi
+
+13
+00:01:21,200 --> 00:01:27,748
+C ilah lebih besar daripada atau bersamaan dengan 15 darab -(1/5). Itu ialah sama dengan 15 bahagi dengan -5
+
+14
+00:01:27,748 --> 00:01:35,067
+Dan ia ialah -3. Maka penyelesaian kita ialah C lebih besar daripada atau bersamaan dengan -3
+
+15
+00:01:35,067 --> 00:01:47,867
+dan mari grafkannya. Maka itu ialah nombor garis saya. Mari katakan itu ialah 0, -1, -2, -3, dan itu boleh pergi ke atas 1 juga
+
+16
+00:01:47,867 --> 00:01:54,972
+Dan C ialah lebih besar daripada atau bersamaan dengan -3, maka ia boleh menjadi bersamaan dengan -3, saya akan isikan di situ.
+
+17
+00:01:54,972 --> 00:01:59,446
+Mari gunakan warna yang berbeza. Maka saya akan isikan ia di sni dan kemudian ianya lebih besar juga
+
+18
+00:01:59,446 --> 00:02:07,849
+Maka saya isikan semua nilai ini dengan warna hijau. Dan anda boleh nilaikan sama ada ia berkesan
+
+19
+00:02:07,849 --> 00:02:14,333
+dalam ketidaksamaan yang asal. Pilih sesuatu yang akan berkesan. Baiklah, 0 sepatutnya berkesan. 0 ialah salah satu nombor
+
+20
+00:02:14,333 --> 00:02:22,501
+yang disenaraikan. -5 darab 0 ialah 0, iaitu kurang daripada atau bersamaan dengan 15, ianya kurang daripada 15. Sekarang mari kita cuba
+
+21
+00:02:22,501 --> 00:02:26,677
+satu nombor yang tidak disenaraikan. Dan saya tidak lukiskannya di sini, saya boleh teruskan dengan garis nombor dalam arah ini
+
+22
+00:02:26,677 --> 00:02:32,267
+Anda akan ada -4 di sini. -4 tidak patut dimasukkan dan mari nilaikan bahawa -4 tidak berkesan
+
+23
+00:02:32,267 --> 00:02:43,600
+-4 darab -5 ialah 20 dan 20 tidak kurang daripada 15 maka ianya bagus kita tidak masukkan -4
+
+24
+00:02:43,600 --> 00:02:50,962
+Maka ini ialah penyelesaian kita dan itu ialah jawapan yang digrafkan. Dan saya mahu lakukan itu dalam warna hijau yang lain
+
+25
+00:02:50,962 --> 00:02:54,529
+Baiklah, ia akan kelihatan seperti itu.

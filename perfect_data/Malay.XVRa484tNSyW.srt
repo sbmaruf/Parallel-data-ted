@@ -1,0 +1,311 @@
+1
+00:00:00,730 --> 00:00:04,990
+Sisi empat ABCD memberitahu kita yang ianya adalah rombus.
+
+2
+00:00:05,000 --> 00:00:12,620
+Apa yang kita akan lakukan ialah buktikan yang ruang rombus ini adalah sama dengan 1/2 x AC x BD,
+
+3
+00:00:12,630 --> 00:00:15,400
+dan membuktikan bahawa ruang rombus itu adalah 1/2
+
+4
+00:00:15,410 --> 00:00:18,900
+darab nilai panjang pepenjurunya.
+
+5
+00:00:18,910 --> 00:00:20,650
+Mari lihat apa yang kita boleh lakukan di sini.
+
+6
+00:00:20,660 --> 00:00:23,780
+Terdapat beberapa perkara yang kita tahu tentang rhombi.
+
+7
+00:00:23,790 --> 00:00:28,130
+Kesemua rhombi adalah segi empat selari dan ada banyak perkara
+
+8
+00:00:28,140 --> 00:00:29,100
+yang kita tahu tentang segi empat selari.
+
+9
+00:00:29,110 --> 00:00:31,630
+Pertama sekali, jika ianya dalah rombus, kita tahu yang
+
+10
+00:00:31,640 --> 00:00:32,850
+kesemua sisi nya adalah kongruen.
+
+11
+00:00:32,860 --> 00:00:35,980
+Panjang sisi ini adalah sama dengan panjang sisi itu, sama
+
+12
+00:00:35,990 --> 00:00:38,300
+dengan panjang sisi ini dan juga sama dengan panjang sisi ini.
+
+13
+00:00:38,310 --> 00:00:40,820
+Disebabkan ianya adalah segi empat selari, kita tahu bahawa
+
+14
+00:00:40,830 --> 00:00:42,530
+pepenjuru nya adalah bahagi dua sama antara satu sama lain.
+
+15
+00:00:42,540 --> 00:00:47,370
+Mari panggil titik ini di sini E.
+
+16
+00:00:47,380 --> 00:00:50,400
+Kita tahu yang BE akan sama dengan ED dan
+
+17
+00:00:50,410 --> 00:00:58,170
+kita juga tahu yang AE adalah sama dengan EC.
+
+18
+00:00:58,180 --> 00:01:01,960
+Kita juga tahu kerana ianya adalah rombus dan kita telah
+
+19
+00:01:01,970 --> 00:01:03,550
+buktikan ini dalam video sebelumnya: bahawa pepenjuru,
+
+20
+00:01:03,560 --> 00:01:06,540
+bukan sahaja mereka pembahagi dua sama antara satu sama lain, tapi mereka juga adalah serenjang.
+
+21
+00:01:06,550 --> 00:01:08,530
+Jadi kita tahu yang ini ialah sudut kanan.
+
+22
+00:01:08,540 --> 00:01:09,920
+Ini ialah sudut kanan.
+
+23
+00:01:09,930 --> 00:01:13,090
+Itu ialah sudut kanan dan kemudian ini ialah sudut kanan.
+
+24
+00:01:13,100 --> 00:01:17,520
+Cara yang mudah untuk fikirkannya ialah, jika kita boleh lihat
+
+25
+00:01:17,530 --> 00:01:23,010
+yang segitiga ADC ini kongruen kepada segitiga ABC dan
+
+26
+00:01:23,020 --> 00:01:25,650
+jika kita boleh tentukan ruang salah satu daripadanya, kita boleh gandakannya.
+
+27
+00:01:25,660 --> 00:01:27,570
+Bahagian pertama adalah agak mudah dan jelas.
+
+28
+00:01:27,580 --> 00:01:39,210
+Kita tahu yang segitiga ADC akan menjadi kongruen kepada segitiga ABC
+
+29
+00:01:39,220 --> 00:01:45,020
+dan kita tahu melalui sisi-sisi-sisi kongruen.
+
+30
+00:01:45,030 --> 00:01:47,390
+Sisi ini kongruen kepada sisi itu.
+
+31
+00:01:47,400 --> 00:01:49,400
+Sisi yang ini kongruen kepada sisi itu dan
+
+32
+00:01:49,410 --> 00:01:52,010
+keduanya berkongsi AC di situ.
+
+33
+00:01:52,020 --> 00:01:54,260
+Jadi, ini ialah melalui sisi-sisi-sisi.
+
+34
+00:01:54,270 --> 00:02:05,050
+Disebabkan itu, kita tahu yang ruang ABCD akan bersamaan dengan
+
+35
+00:02:05,060 --> 00:02:13,070
+2 kali ruang...kita boleh pilih salah satu ini, ABC.
+
+36
+00:02:16,400 --> 00:02:18,970
+Biar saya tuliskannya begini.
+
+37
+00:02:18,980 --> 00:02:27,120
+Ruang ABCD adalah bersamaan dengan ruang ADC + ruang ABC,
+
+38
+00:02:27,130 --> 00:02:30,480
+tapi kerana mereka adalah kongruen, kedua-dua ini akan menjadi sama.
+
+39
+00:02:30,490 --> 00:02:34,890
+Maka, ianya cuma akan menjadi 2 kali ruang ABC.
+
+40
+00:02:34,900 --> 00:02:38,490
+Sekarang, apakah ruang ABC?
+
+41
+00:02:38,500 --> 00:02:42,640
+Ruang segitiga cumalah separuh dari tapak darab tinggi.
+
+42
+00:02:42,650 --> 00:02:52,250
+Ruang ABC adalah bersamaan dengan tapak segitiga itu
+
+43
+00:02:52,260 --> 00:02:53,240
+didarabkan dengan tinggi nya.
+
+44
+00:02:53,250 --> 00:02:55,740
+Apakah panjang tapaknya?
+
+45
+00:02:55,750 --> 00:02:57,650
+Panjang tapaknya ialah AC.
+
+46
+00:02:57,660 --> 00:02:59,750
+Saya akan gunakan warna di sini.
+
+47
+00:02:59,760 --> 00:03:05,420
+Tapaknya ialah AC dan kemudian, apakah tingginya di situ.
+
+48
+00:03:05,430 --> 00:03:11,170
+Kita tahu yang garis pepenjuru ini ialah pembahagi dua sama serenjang.
+
+49
+00:03:11,180 --> 00:03:15,720
+Jadi tingginya ialah jarak dari BE.
+
+50
+00:03:15,730 --> 00:03:21,840
+Maka, kita ada AC darab BE, itu ialah tingginya.
+
+51
+00:03:21,850 --> 00:03:23,790
+Ini ialah satu altitud.
+
+52
+00:03:23,800 --> 00:03:27,200
+Ia membahagi tapak ini pada sudut 90 darjah.
+
+53
+00:03:27,210 --> 00:03:32,100
+Atau kita boleh katakan yang BE adalah sama dengan darab BD.
+
+54
+00:03:32,110 --> 00:03:42,340
+Ini adalah bersamaan dengan darab AC, itu ialah tapak kita.
+
+55
+00:03:42,350 --> 00:03:47,040
+Ketinggian kita ialah BE, iaitu darab BD.
+
+56
+00:03:47,050 --> 00:03:56,170
+Maka, itu ialah ruang untuk ABC, iaitu
+
+57
+00:03:56,180 --> 00:03:58,520
+segitiga yang lebih besar di bahagian atas ini.
+
+58
+00:03:58,530 --> 00:03:59,690
+Iaitu separuh dari rombus.
+
+59
+00:03:59,700 --> 00:04:02,520
+Kita katakan tadi yang ruang keseluruhannya ialah 2 kali nilai itu.
+
+60
+00:04:02,530 --> 00:04:06,710
+Jika kita lihat kembali, jika kita gunakan maklumat ini dan
+
+61
+00:04:06,720 --> 00:04:08,270
+maklumat ini di sini,
+
+62
+00:04:08,280 --> 00:04:13,520
+kita mempunyai ruang ABCD adalah bersamaan dengan
+
+63
+00:04:13,530 --> 00:04:19,630
+2 kali ruang ABC, iaitu ini di sini.
+
+64
+00:04:19,640 --> 00:04:25,640
+Ianya adalah 2 kali ruang ABC di situ.
+
+65
+00:04:25,650 --> 00:04:31,430
+Jadi, darab dengan AC darab BD.
+
+66
+00:04:31,440 --> 00:04:33,480
+Dan anda dapat lihat ke mana ini akan pergi.
+
+67
+00:04:33,490 --> 00:04:38,860
+2 kali, darab AC darab BD.
+
+68
+00:04:38,870 --> 00:04:40,740
+Hmm...nampaknya kita dah dapat jawapannya.
+
+69
+00:04:40,750 --> 00:04:42,810
+Sebenarnya, saya belum lakukan ini dalam video.
+
+70
+00:04:42,820 --> 00:04:43,850
+Saya akan lakukannya dalam video seterusnya.
+
+71
+00:04:43,860 --> 00:04:46,380
+Terdapat cara lain untuk mencari ruang segi empat selari.
+
+72
+00:04:46,390 --> 00:04:49,170
+Secara umumnya, ianya adlah tapak darab tinggi.
+
+73
+00:04:49,180 --> 00:04:52,750
+Tapi untuk rombus, kita boleh lakukannya kerana ianya adalah segi empat selari,
+
+74
+00:04:52,760 --> 00:04:55,300
+tapi kita juga ada jawapan yang kemas
+
+75
+00:04:55,310 --> 00:04:56,440
+yang kita telah buktikan dalam video ini.
+
+76
+00:04:56,450 --> 00:04:58,300
+Dan jika kita tahu panjang pepenjuru,
+
+77
+00:04:58,310 --> 00:05:03,680
+ruang rombus ialah darabkan panjang pepenjuru,
+
+78
+00:05:03,690 --> 00:05:05,850
+yang mana adalah keputusan yang kemas.

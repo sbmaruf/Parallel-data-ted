@@ -1,0 +1,24 @@
+1
+00:00:00,000 --> 00:00:04,000
+[Male narrator] --a favorite, a robotic car.
+
+2
+00:00:04,000 --> 00:00:06,000
+I wish to know whether it is partially observable,
+
+3
+00:00:06,000 --> 00:00:11,000
+stochastic, continuous, or adversarial.
+
+4
+00:00:11,000 --> 00:00:16,000
+That is, is the problem of driving robotically--
+
+5
+00:00:16,000 --> 00:00:20,000
+say, in a city--subject to any of those 4 categories?
+
+6
+00:00:20,000 --> 99:59:59,000
+Please check any or all that might apply.
+

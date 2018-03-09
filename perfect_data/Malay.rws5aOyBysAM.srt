@@ -1,0 +1,152 @@
+1
+00:00:01,333 --> 00:00:05,133
+Termometer di dalam makmal sains menunjukkan suhu dalam unit Celcius dan Fahrenheit.
+
+2
+00:00:05,133 --> 00:00:08,733
+Jika merkuri termometer ini melonjak ke 56 darjah Fahrenheit,
+
+3
+00:00:08,733 --> 00:00:13,343
+apakah nilai suhu dalam unit Celcius?
+
+4
+00:00:14,267 --> 00:00:18,797
+Dan kita diberikan 2 formula -- jika kita tahu suhu Celcius, bagaimana kita boleh tentukan
+
+5
+00:00:18,800 --> 00:00:23,670
+suhu Fahrenheit, atau jika kita tahu suhu Fahrenheit, bagaimana kita boleh tentukan suhu Celcius.
+
+6
+00:00:23,667 --> 00:00:27,667
+Dan ini sebenarnya terbit dari satu sama lain
+
+7
+00:00:27,667 --> 00:00:32,137
+dan anda akan belajar lebih lanjut dalam algebra,
+
+8
+00:00:32,133 --> 00:00:34,403
+dan mungkin kita akan terangkannya dalam video lain.
+
+9
+00:00:34,400 --> 00:00:37,330
+Di sini, formula telah diberikan, jadi kita akan gunakannya
+
+10
+00:00:37,333 --> 00:00:40,333
+dan pastikan kita tahu formula mana yang harus diguna pakai.
+
+11
+00:00:40,333 --> 00:00:45,603
+Kita diberikan nilai suhu Fahrenheit, jadi F bersamaan 56,
+
+12
+00:00:45,600 --> 00:00:50,470
+dan kita diminta mencari suhu Celcius, maka ini adalah nilai yang perlu kita cari.
+
+13
+00:00:51,667 --> 00:00:55,337
+Baiklah, di sini jika anda tahu suhu Fahrenheit,
+
+14
+00:00:55,333 --> 00:00:57,333
+anda boleh cari suhu Celcius.
+
+15
+00:00:57,333 --> 00:00:58,733
+Mari kita gunakan formula ini.
+
+16
+00:00:58,733 --> 00:01:04,933
+Jadi, suhu Celcius adalah bersamaan 5/9, darab suhu Fahrenheit -
+
+17
+00:01:04,933 --> 00:01:11,263
+iaitu 56 darjah Fahrenheit, tolak 32.
+
+18
+00:01:13,452 --> 00:01:18,042
+Maka, 56 tolak 32 ialah 24, dan ini adalah bersamaan
+
+19
+00:01:18,718 --> 00:01:24,978
+5/9 darab 24, iaitu dalam bentuk lain ialah
+
+20
+00:01:25,267 --> 00:01:29,397
+5 darab 24, bahagi 9.
+
+21
+00:01:29,400 --> 00:01:33,400
+Dan sebelum kita darab 5 dengan 24, kita boleh bahagikan
+
+22
+00:01:33,400 --> 00:01:37,270
+pengangka dan penyebut dengan 3. Mari kita lakukannya.
+
+23
+00:01:37,267 --> 00:01:41,267
+Kita tidak akan mengubah nilainya dengan melakukan langkah ini.
+
+24
+00:01:41,267 --> 00:01:45,597
+24 bahagi 3 ialah 8, 9 bahagi 3 ialah 3.
+
+25
+00:01:45,600 --> 00:01:51,070
+Jadi, tinggal 5 darab 8, iaitu 40, per 3.
+
+26
+00:01:51,067 --> 00:01:56,067
+Jika kita ingin tuliskan nombor ini dalam konteks yang lebih sesuai
+
+27
+00:01:56,067 --> 00:02:01,867
+untuk unit suhu, mari kita bahagikan 40 dengan 3.
+
+28
+00:02:01,867 --> 00:02:09,467
+Jadi, 1 darab 3 ialah 3, tolak daripada 4, bakinya ialah 1, kita bawa turun nilai 1 ke bawah, dan juga nilai sifar.
+
+29
+00:02:09,467 --> 00:02:14,597
+3 darab 3, 9. Tolak daripada 10, bakinya ialah 1, kita bawa nilai ini turun,
+
+30
+00:02:14,600 --> 00:02:19,930
+dan kita bawa lagi nilai sifar turun - dan sekarang kita ada titik perpuluhan di sini.
+
+31
+00:02:19,933 --> 00:02:25,463
+3 darab 3 ialah sembilan, dan nilai 3 ini akan berulang-ulang seperti sebelumnya.
+
+32
+00:02:25,467 --> 00:02:30,337
+Jadi, jawapannya adalah 13.333... -
+
+33
+00:02:30,333 --> 00:02:34,663
+ianya akan terus berulang, jadi garis di atas ini bermaksud berulang - darjah Celcius.
+
+34
+00:02:34,667 --> 00:02:38,137
+Atau, kita boleh katakan dalam nilai 40, nilai 3 berulang sebanyak 13 kali,
+
+35
+00:02:38,133 --> 00:02:42,463
+dengan berbaki 1.
+
+36
+00:02:42,467 --> 00:02:47,797
+Jadi, kita boleh juga tuliskannya sebegini.
+
+37
+00:02:47,800 --> 00:02:51,470
+Maka, 13 dan 1/3 darjah Celcius.
+
+38
+00:02:51,467 --> 00:02:57,267
+Bagaimanapun caranya, inilah suhu Celcius apabila suhu Fahrenheit ialah 56 darjah.
+

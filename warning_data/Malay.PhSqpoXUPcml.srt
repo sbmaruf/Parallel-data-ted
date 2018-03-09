@@ -1,0 +1,523 @@
+1
+00:00:00,618 --> 00:00:03,818
+Gunakan pembeza layan untuk menyatakan nombor
+
+2
+00:00:03,818 --> 00:00:06,481
+dan jenis penyelesaian untuk persamaan itu
+
+3
+00:00:06,527 --> 00:00:07,900
+-3<i>x</i>²
+
+4
+00:00:07,900 --> 00:00:08,973
+-3<i>x</i>² + 5<i>x</i>
+
+5
+00:00:08,973 --> 00:00:10,042
+-3<i>x</i>² + 5<i>x</i> - 4
+
+6
+00:00:10,042 --> 00:00:11,327
+-3<i>x</i>² + 5<i>x</i> - 4 = 0.
+
+7
+00:00:11,327 --> 00:00:12,581
+dan sebagai peringatan,
+
+8
+00:00:12,581 --> 00:00:13,250
+anda mungkin tertanya-tanya
+
+9
+00:00:13,250 --> 00:00:14,802
+apa itu *pembeza layan*?
+
+10
+00:00:14,802 --> 00:00:16,035
+dan kita boleh mengkajinya dengan hanya
+
+11
+00:00:16,035 --> 00:00:17,669
+melihat kepada rumus kuadratik.
+
+12
+00:00:17,669 --> 00:00:20,818
+Jadi, jika saya ada satu persamaan kuadratik dalam bentuk piawai
+
+13
+00:00:20,818 --> 00:00:22,105
+<i>ax</i>²
+
+14
+00:00:22,105 --> 00:00:23,555
+<i>ax</i>² + <i>bx</i>
+
+15
+00:00:23,555 --> 00:00:24,623
+<i>ax</i>² + <i>bx</i> + <i>c</i>
+
+16
+00:00:24,623 --> 00:00:25,767
+<i>ax</i>² + <i>bx</i> + <i>c</i> = 0
+
+17
+00:00:25,767 --> 00:00:27,452
+kita sedia maklum bahawa rumus kuadratik,
+
+18
+00:00:27,452 --> 00:00:28,653
+yang hanya diperolehi dengan
+
+19
+00:00:28,653 --> 00:00:30,477
+melengkapkan kuasa dua disitu,
+
+20
+00:00:30,477 --> 00:00:32,296
+memberitahu kita akan puncanya,
+
+21
+00:00:32,296 --> 00:00:34,618
+atau jalan pelesaian untuk persamaan kuadratik
+
+22
+00:00:34,618 --> 00:00:35,199
+ialah seperti ini
+
+23
+00:00:35,199 --> 00:00:36,366
+<i>x</i> =
+
+24
+00:00:36,366 --> 00:00:37,249
+<i>x</i> = (-<i>b</i>)
+
+25
+00:00:37,249 --> 00:00:39,666
+<i>x</i> = (-<i>b</i> ± √())
+
+26
+00:00:39,666 --> 00:00:40,804
+<i>x</i> = (-<i>b</i> ± √(<i>b</i>²))
+
+27
+00:00:40,804 --> 00:00:42,216
+<i>x</i> = (-<i>b</i> ± √(<i>b</i>² - 4<i>ac</i>))
+
+28
+00:00:42,216 --> 00:00:44,959
+kesemuanya per (2<i>a</i>).
+
+29
+00:00:45,328 --> 00:00:47,635
+Kamu mungkin tahu dari pembelajaran lepas
+
+30
+00:00:47,635 --> 00:00:48,868
+yang mengaplikasikan ini akan serba sedikit
+
+31
+00:00:48,868 --> 00:00:51,936
+menjurus kepada pelbagai jenis jalan penyelesaian
+
+32
+00:00:51,936 --> 00:00:53,504
+bergantung kepada apa yg terjadi
+
+33
+00:00:53,504 --> 00:00:56,271
+dibawah simbol punca kuasa itu.
+
+34
+00:00:56,271 --> 00:00:57,868
+Kamu boleh bayangkan, jika
+
+35
+00:00:57,868 --> 00:01:00,969
+apa yang tertera dibawah simbol punca kuasa itu bersifat positif,
+
+36
+00:01:00,969 --> 00:01:04,118
+kita akan memperolehi satu nombor nyata
+
+37
+00:01:04,118 --> 00:01:05,718
+kerana itu ialah prinsip punca kuasa dua.
+
+38
+00:01:05,718 --> 00:01:07,152
+Dan jika kita ambil versi positif dan negatif nombor itu,
+
+39
+00:01:07,152 --> 00:01:10,186
+kita akan memperolehi dua penyelesaian nyata.
+
+40
+00:01:10,186 --> 00:01:13,635
+Jadi, jika <i>b</i>² - 4<i>ac</i>, dan ini ialah
+
+41
+00:01:13,635 --> 00:01:15,185
+apa sebenarnya pembeza layannya,
+
+42
+00:01:15,185 --> 00:01:19,402
+ia sebenarnya hanyalah satu ungkapan dibawah punca kuasa
+
+43
+00:01:19,402 --> 00:01:20,718
+kepada rumus kuadratik ini.
+
+44
+00:01:20,718 --> 00:01:22,718
+Jika ianya lebih besar dari kosong,
+
+45
+00:01:22,718 --> 00:01:24,688
+kita akan memperolehi dua jenis punca yang nyata.
+
+46
+00:01:25,088 --> 00:01:30,487
+Jadi, kita mempunyai dua punca nyata,
+
+47
+00:01:30,487 --> 00:01:33,701
+atau dua penyelesaian nyata kepada persamaan ini.
+
+48
+00:01:33,701 --> 00:01:39,802
+Jika <i>b</i>2 - 4<i>ac</i> = 0,
+
+49
+00:01:39,802 --> 00:01:41,016
+jadi, kesemua nilai ini
+
+50
+00:01:41,016 --> 00:01:42,054
+akan bersamaan dengan kosong,
+
+51
+00:01:42,054 --> 00:01:43,818
+jadi, hasil tambah atau tolak punca kuasa dua "kosong",
+
+52
+00:01:43,818 --> 00:01:44,944
+(yang sememangnya kosong)
+
+53
+00:01:44,944 --> 00:01:46,408
+ini ialah negatif atau positif 'kosong'.
+
+54
+00:01:46,408 --> 00:01:48,086
+Baiklah, apabila kamu menambah atau menolak 0,
+
+55
+00:01:48,086 --> 00:01:49,722
+ia tidak akan merubah penyelesaiannya.
+
+56
+00:01:49,722 --> 00:01:51,318
+Oleh itu, satu- satunya jalan penyelesaiannya ialah
+
+57
+00:01:51,318 --> 00:01:53,818
+-<i>b</i> / 2<i>a</i>
+
+58
+00:01:53,818 --> 00:01:57,603
+Maka, kamu akan hanya memperolehi satu penyelesaian nyata.
+
+59
+00:01:57,603 --> 00:02:00,200
+Ini akan menjadi satu
+
+60
+00:02:00,200 --> 00:02:01,703
+-- atau lebih senang dalam nombor "1",
+
+61
+00:02:01,703 --> 00:02:03,718
+--satu penyelesaian nyata,
+
+62
+00:02:03,718 --> 00:02:04,902
+atau boleh dikatakan,
+
+63
+00:02:04,902 --> 00:02:06,436
+kamu telah memperoleh punca berulang disini.
+
+64
+00:02:06,436 --> 00:02:08,735
+Seperti kamu memperolehinya dua kali.
+
+65
+00:02:08,735 --> 00:02:13,185
+atau kamu boleh katakan satu penyelesaian nyata atau punca nyata.
+
+66
+00:02:13,354 --> 00:02:17,414
+Jadi sekarang, jika <i>b</i>² - 4<i>ac</i> ialah negatif '–'
+
+67
+00:02:17,414 --> 00:02:20,289
+kamu sudah boleh bayangkan apa yang akan berlaku, bukan?
+
+68
+00:02:20,289 --> 00:02:22,203
+Jika ungkapan ini bersifat negatif,
+
+69
+00:02:22,203 --> 00:02:24,202
+kita akan ambil punca kuasa dua nombor yang negatif.
+
+70
+00:02:24,202 --> 00:02:26,452
+supaya kita akan mendapat nombor bayangan
+
+71
+00:02:26,452 --> 00:02:27,535
+disini.
+
+72
+00:02:27,535 --> 00:02:28,820
+Maka, kita akan tambah atau tolak
+
+73
+00:02:28,820 --> 00:02:31,280
+nombor bayangan yang sama.
+
+74
+00:02:31,280 --> 00:02:33,185
+Jadi, kita akan memperolehi dua penyelesaian kompleks;
+
+75
+00:02:33,185 --> 00:02:35,086
+bukan sahaja kita akan mendapat dua penyelesaian kompleks,
+
+76
+00:02:35,086 --> 00:02:37,235
+tetapi ia juga akan saling berkonjugasi sesama sendiri.
+
+77
+00:02:37,235 --> 00:02:39,019
+Maka, jika kamu mempunyai satu penyelesaian kompleks
+
+78
+00:02:39,019 --> 00:02:41,969
+untuk satu persamaan kuadratik, penyelesaian yang lagi satu
+
+79
+00:02:41,969 --> 00:02:43,785
+juga akan menjadi satu penyelesaian kompleks
+
+80
+00:02:43,785 --> 00:02:45,836
+dan akan menjadi hak konjugat kompleks.
+
+81
+00:02:45,836 --> 00:02:52,218
+Kita akan mempunyai dua penyelesaian kompleks disini.
+
+82
+00:02:52,218 --> 00:02:53,736
+Jadi, nombor-nombor yang mempunyai bahagian nyata
+
+83
+00:02:53,736 --> 00:02:55,103
+dan juga bahagian bayangan
+
+84
+00:02:55,103 --> 00:02:56,535
+dan bukan sahaja nombor-nombor tersebut kompleks, tetapi
+
+85
+00:02:56,535 --> 00:02:58,118
+mereka juga merupakan konjugat untuk satu sama lain.
+
+86
+00:02:58,118 --> 00:03:00,785
+Bahagian bayangan tersebut mempunyai tanda yang berbeza.
+
+87
+00:03:00,785 --> 00:03:03,818
+Jadi, mari kita lihat kepada <i>b</i>² - 4<i>ac</i> disini.
+
+88
+00:03:03,818 --> 00:03:05,419
+Ini ialah <i>a</i>
+
+89
+00:03:05,419 --> 00:03:06,837
+ini ialah <i>b</i>
+
+90
+00:03:06,837 --> 00:03:07,500
+dan ini pula <i>c</i>.
+
+91
+00:03:07,500 --> 00:03:08,368
+Mari saya labelkan mereka
+
+92
+00:03:08,368 --> 00:03:09,606
+<i>a</i>
+
+93
+00:03:09,606 --> 00:03:10,320
+<i>b</i>
+
+94
+00:03:10,320 --> 00:03:11,157
+<i>c</i>
+
+95
+00:03:11,157 --> 00:03:12,088
+Kita boleh berbuat demikian kerana
+
+96
+00:03:12,088 --> 00:03:13,319
+kita telah menulisnya dalam bentuk piawai.
+
+97
+00:03:13,319 --> 00:03:15,933
+Kesemuanya telah berada di sebelah,
+
+98
+00:03:15,933 --> 00:03:17,568
+atau lebih tepat, disebelah kiri,
+
+99
+00:03:17,568 --> 00:03:19,135
+kita mempunyai nilai kosong di sebelah kanan,
+
+100
+00:03:19,135 --> 00:03:22,535
+kita telah menulis kesemuanya kedalam bentuk kuasa menurun
+
+101
+00:03:22,535 --> 00:03:24,268
+atau darjah menurun,
+
+102
+00:03:24,268 --> 00:03:25,736
+dimana kita mempunyai sebutan darjah kedua dahulu,
+
+103
+00:03:25,736 --> 00:03:26,886
+kemudian, kepada sebutan darjah pertama,
+
+104
+00:03:26,886 --> 00:03:28,686
+seterusnya, sebutan malar.
+
+105
+00:03:28,686 --> 00:03:30,536
+Dan kemudiannya, kita boleh menilai pembeza layan itu.
+
+106
+00:03:32,367 --> 00:03:33,421
+<i>b</i> ialah 5
+
+107
+00:03:33,421 --> 00:03:34,750
+<i>b</i> ialah 5, jadi <i>b</i>² = 5²
+
+108
+00:03:34,750 --> 00:03:36,097
+5² - 4
+
+109
+00:03:36,097 --> 00:03:37,350
+5² - 4 x <i>a</i>
+
+110
+00:03:37,350 --> 00:03:38,327
+5² - 4 x (-3)
+
+111
+00:03:38,327 --> 00:03:39,728
+5² - 4 x (-3) x c
+
+112
+00:03:39,728 --> 00:03:41,302
+5² - 4 x (-3) x (-4)
+
+113
+00:03:41,302 --> 00:03:43,506
+Saya perlu berhati-hati kenara <i>c</i> merangkumi kesemua ini.
+
+114
+00:03:43,506 --> 00:03:49,484
+<i>c</i> ialah <i>negatif</i> 4, kita perlu pastikan
+
+115
+00:03:49,484 --> 00:03:51,917
+yang tanda <i>negatif</i> (-) itu diberi perhatian.
+
+116
+00:03:51,917 --> 00:03:55,218
+jadi, darab <i>c</i> yang mempunyai tanda <i>negatif</i> (-) disini.
+
+117
+00:03:55,218 --> 00:03:55,799
+Maka,
+
+118
+00:03:55,799 --> 00:03:59,827
+25, kemudian lihat (-3 x -4 = 12)
+
+119
+00:03:59,827 --> 00:04:02,743
+ia akan menjadi 25 - 4 x 12
+
+120
+00:04:02,743 --> 00:04:07,705
+bersamaan 25 - 48
+
+121
+00:04:07,705 --> 00:04:09,904
+Lihat ungkapan ini,
+
+122
+00:04:09,904 --> 00:04:12,535
+kita tahu yang bila ia ditolak, nilainya akan menjadi
+
+123
+00:04:12,535 --> 00:04:13,678
+bawah daripada kosong (0).
+
+124
+00:04:13,678 --> 00:04:14,867
+Kamu boleh menyelesaikannya
+
+125
+00:04:14,867 --> 00:04:22,131
+kepada <i>negatif</i> 23
+
+126
+00:04:22,131 --> 00:04:24,814
+-23
+
+127
+00:04:24,814 --> 00:04:26,764
+yang sememangnya kurang dari nilai 0
+
+128
+00:04:26,764 --> 00:04:28,495
+Oleh itu, pembeza layan yang kita peroleh ialah
+
+129
+00:04:28,495 --> 00:04:30,996
+< 0 (kurang dari kosong)
+
+130
+00:04:30,996 --> 00:04:33,245
+kita akan perolehi dua punca kompleks disini,
+
+131
+00:04:33,245 --> 00:04:35,278
+dan mereka akan menjadi konjugat masing-masing.

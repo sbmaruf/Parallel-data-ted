@@ -1,0 +1,55 @@
+1
+00:00:00,000 --> 00:00:03,000
+Jadi tahniah, anda baru selesai Unit 1.
+
+2
+00:00:03,000 --> 00:00:07,000
+Kamu telah selesai Unit 1 kelas ini,
+
+3
+00:00:07,000 --> 00:00:10,000
+di mana saya membincangkan aplikasi utama
+
+4
+00:00:10,000 --> 00:00:13,000
+Kecerdasan Buatan,
+
+5
+00:00:13,000 --> 00:00:18,000
+Saya mengemukakan definisi Agen cerdik
+
+6
+00:00:18,000 --> 00:00:24,000
+Saya memberi kamu 4 ciri-ciri utama agen cerdik
+
+7
+00:00:24,000 --> 00:00:31,000
+(pemerhatian separuh, stokastik, berterusan dan pertentangan)
+
+8
+00:00:31,000 --> 00:00:34,000
+Saya membincangkan sumber dan cara menguruskan ketidakpastian,
+
+9
+00:00:34,000 --> 00:00:40,000
+dan secara ringkas, saya mengemukakan konsep matematik kerasionalan.
+
+10
+00:00:40,000 --> 00:00:45,000
+Jelas sekali, saya hanya menyentuh isu-isu ini secara superfisial,
+
+11
+00:00:45,000 --> 00:00:49,000
+tetapi seterus kelas ini, kamu akan menempu topik-topik itu secara lebih dalam
+
+12
+00:00:49,000 --> 00:00:51,000
+dan belajar lebih tentang
+
+13
+00:00:51,000 --> 00:00:55,000
+apa yang perlu untuk mereka suatu sistem AI yang benar-benar cerdik.
+
+14
+00:00:55,000 --> 99:59:59,999
+Terima kasih.

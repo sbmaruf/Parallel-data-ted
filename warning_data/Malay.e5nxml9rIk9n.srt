@@ -1,0 +1,248 @@
+1
+00:00:01,277 --> 00:00:11,387
+Nilaikan 0 + y + -7 untuk y = -3 dan y = 0 dan y = 7.
+
+2
+00:00:11,382 --> 00:00:17,652
+Kita akan lihat pada situasi pertama, di mana y = -3...
+
+3
+00:00:17,647 --> 00:00:31,807
+Maka ungkapan ini akan menjadi, 0 + -3 (kerana ini adalah nilai "y" sekarang) tambah -7.
+
+4
+00:00:31,805 --> 00:00:36,645
+Kita tahu yang sesuatu nombor tidak akan ditukar nilainya kalau ditambah atau ditolak dengan 0.
+
+5
+00:00:36,647 --> 00:00:39,377
+Jadi kita boleh abaikan 0 ini.
+
+6
+00:00:39,375 --> 00:00:50,995
+Maka, ungkapan ini adalah bersamaan dengan -3 campur -7.
+
+7
+00:00:53,102 --> 00:00:55,632
+-3 campur -7.
+
+8
+00:00:55,631 --> 00:00:58,831
+Saya akan lukiskan garis nombornya di sini untuk menggambarkan ungkapan ini.
+
+9
+00:00:58,827 --> 00:01:02,087
+Tetapi kalau tanpa garis nombor, kita juga boleh perhatikan yang sekarang kita ada 3 ke kiri 0,
+
+10
+00:01:02,084 --> 00:01:06,874
+dan kita perlu gerak 7 ke kiri lagi, iaitu 7 ruang lebih negatif.
+
+11
+00:01:06,873 --> 00:01:11,003
+Jadi sekarang kita ada di 3 ruang daripada 0, dan kita perlu gerak 7 ruang lagi daripada 0.
+
+12
+00:01:11,007 --> 00:01:13,747
+Maka kita akan berada di 10 ruang ke kiri 0, dengan kata lain, -10.
+
+13
+00:01:13,749 --> 00:01:15,389
+Cara lain untuk fikirkan tentangnya adalah dengan garis nombor.
+
+14
+00:01:15,389 --> 00:01:18,729
+Biar saya lukiskan garis nombornya (kadang-kadang ia lebih senang kalau kita ada gambarannya).
+
+15
+00:01:18,726 --> 00:01:21,266
+Kita mulakan dari (ini adalah 0)
+
+16
+00:01:21,270 --> 00:01:26,240
+Kita mulakan dari -3, dan kita tambahkan -7 padanya.
+
+17
+00:01:26,239 --> 00:01:29,679
+Jadi kita mula dari -3,
+
+18
+00:01:29,675 --> 00:01:33,465
+dan kita perlu tambahkan -7 padanya.
+
+19
+00:01:33,460 --> 00:01:35,230
+Maka kita akan gerak 7 ruang ke kiri.
+
+20
+00:01:35,226 --> 00:01:40,446
+Jadi kita tambahkan (biar saya lukiskan).. kita tambah -7 di sini.
+
+21
+00:01:40,447 --> 00:01:43,077
+Kita tambahkan -7.
+
+22
+00:01:43,081 --> 00:01:45,671
+Jadi apakah panjang anak panah ini?
+
+23
+00:01:45,672 --> 00:01:50,402
+NIlai mutlak -7 adalah 7, dan itulah panjang anak panah ini.
+
+24
+00:01:50,397 --> 00:01:53,457
+Dan kita bergerak ke arah kiri. Nilai mutlak
+
+25
+00:01:53,461 --> 00:01:59,701
+anak panah ini (nilai mutlak -3) adalah 3.
+
+26
+00:01:59,699 --> 00:02:03,809
+Jadi kita mula dari 3 di sebelah kiri, dan sekarang kita perlu gerak 7 ruang lagi ke arah kiri.
+
+27
+00:02:03,809 --> 00:02:06,809
+Maka kita akan sampai di 10 ruang di sebelah kiri.
+
+28
+00:02:06,804 --> 00:02:09,734
+Kita akan berada di 10 ruang di sebelah kiri.
+
+29
+00:02:09,730 --> 00:02:12,470
+10 di sebelah kiri.
+
+30
+00:02:12,470 --> 00:02:18,630
+Ini bermaksud, panjang anak panah ini adalah...
+
+31
+00:02:18,625 --> 00:02:20,755
+Biar saya jelaskan mengikut urutan soalannya.
+
+32
+00:02:20,759 --> 00:02:26,399
+Jadi ini adalah bersamaan dengan nilai mutlak -3 (biar saya gunakan warna yang sama)
+
+33
+00:02:26,402 --> 00:02:37,552
+Ini adalah nilai mutlak -3 tambah dengan nilai mutlak -7.
+
+34
+00:02:37,547 --> 00:02:44,327
+Tetapi kita gerak ke arah kiri daripada 0, maka jawapannya adalah nilai negatif,
+
+35
+00:02:44,328 --> 00:02:46,948
+iaitu -10.
+
+36
+00:02:46,951 --> 00:02:50,621
+Jadi jika tanda dua nombor tersebut adalah yang sama, maka kamu hanya perlu tambahkan nilai mutlaknya
+
+37
+00:02:50,620 --> 00:02:56,490
+dan itulah jumlah ruang yang kamu akan gerak dari 0. Contoh ini tandanya adalah negatif, jadi kita gerak ke kiri 0.
+
+38
+00:02:56,490 --> 00:02:58,960
+Maka jawapannya adalah -10.
+
+39
+00:02:58,956 --> 00:03:01,346
+Ini adalah bagi nilai y bersamaan dengan -3.
+
+40
+00:03:01,348 --> 00:03:04,248
+Mari kita lakukan bagi nilai y bersamaan dengan 0.
+
+41
+00:03:04,250 --> 00:03:14,000
+Untuk y bersamaan dengan 0, ungkapan ini akan menjadi 0 campur 0 (sebab y adalah bersamaan dengan 0)..
+
+42
+00:03:14,003 --> 00:03:16,283
+Biar saya tuliskan dalam warna biru.
+
+43
+00:03:16,278 --> 00:03:22,528
+... campur 0 campur -7.
+
+44
+00:03:22,524 --> 00:03:26,034
+Ingat yang apa-apa nombor ditambah dengan 0 akan bersamaan dengan nombor yang asal.
+
+45
+00:03:26,031 --> 00:03:30,691
+Maka, kita boleh perhatikan yang semua 0 ini tidak bermakna.
+
+46
+00:03:30,690 --> 00:03:33,650
+Jadi ia adalah bersamaan dengan -7.
+
+47
+00:03:33,649 --> 00:03:37,049
+Sekarang mari kita lakukan situasi yang terakhir, y bersamaan dengan 7.
+
+48
+00:03:37,044 --> 00:03:49,644
+Ia akan menjadi 0 campur (y adalah bersamaan dengan 7), jadi 0 campur 7 dan campur lagi -7.
+
+49
+00:03:49,645 --> 00:03:51,645
+Kita boleh lakukannya dengan beberapa cara...
+
+50
+00:03:51,642 --> 00:03:57,212
+Kamu boleh lihat penambahan sesuatu nombor negatif sebagai penolakan nombor tersebut.
+
+51
+00:03:57,215 --> 00:04:01,905
+Jadi dalam contoh ini, ungkapan ini adalah bersamaan dengan 0 tambah 7 tolak 7.
+
+52
+00:04:01,905 --> 00:04:05,185
+Perhatikan yang tambahan -7 adalah bersamaan dengan tolakan 7.
+
+53
+00:04:05,180 --> 00:04:10,290
+0 ini tidak bermakna, maka ini adalah bersamaan dengan 7 tolak 7.. iaitu bersamaan dengan 0!
+
+54
+00:04:10,288 --> 00:04:12,168
+Cara yang lain untuk fikirkannya adalah...
+
+55
+00:04:12,169 --> 00:04:16,329
+Kita lukiskan garis nombor.
+
+56
+00:04:16,325 --> 00:04:18,365
+Katakanlah yang ini adalah 0.
+
+57
+00:04:18,368 --> 00:04:27,378
+Kita mula dari 7. Kita berada di 7 di sebelah kanan 0.
+
+58
+00:04:27,378 --> 00:04:32,568
+Dan kita nak tambahkan -7 padanya.
+
+59
+00:04:32,564 --> 00:04:36,554
+Maka kita perlu gerak 7 ruang ke kiri dari tempat kita mula, iaitu 7.
+
+60
+00:04:36,550 --> 00:04:39,620
+7 ruang ke arah kiri 7 adalah 0!
+
+61
+00:04:39,619 --> 00:04:43,369
+Kita dapat balik 0.
+
+62
+00:04:43,400 --> 100:00:00,000
+Maka jawapannya adalah 0.
+

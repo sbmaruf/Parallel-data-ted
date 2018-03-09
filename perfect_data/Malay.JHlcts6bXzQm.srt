@@ -1,0 +1,243 @@
+1
+00:00:00,000 --> 00:00:00,660
+...
+
+2
+00:00:00,660 --> 00:00:01,230
+Bahagi.
+
+3
+00:00:01,230 --> 00:00:04,770
+Permudahkan jawapan dan tulis dalam nombor bercampur.
+
+4
+00:00:04,770 --> 00:00:08,230
+Kita ada 2 dan 1/4 bahagi 1 dan 3/4.
+
+5
+00:00:08,230 --> 00:00:10,150
+Perkara pertama yang kita perlu buat memandangkan
+
+6
+00:00:10,150 --> 00:00:12,260
+ini ialah nombor bercampur ialah tukar mereka
+
+7
+00:00:12,260 --> 00:00:13,500
+kepada pecahan tak wajar.
+
+8
+00:00:13,500 --> 00:00:15,740
+Kita mula dengan 2 dan 1/4.
+
+9
+00:00:15,740 --> 00:00:18,850
+Kita kekalkan 4 sebagai penyebut,
+
+10
+00:00:18,850 --> 00:00:21,030
+kita tukar 2 dalam
+
+11
+00:00:21,030 --> 00:00:22,680
+2 dan 1/4 kepada 8/4.
+
+12
+00:00:22,680 --> 00:00:25,340
+Kita ada 8/4, dan kita ada baki 1/4.
+
+13
+00:00:25,340 --> 00:00:27,230
+Jadi ia adalah 9/4.
+
+14
+00:00:27,230 --> 00:00:31,900
+Atau untuk dapatkan 9 ini, ambil 4 x 2,
+
+15
+00:00:31,900 --> 00:00:33,990
+iaitu 8, tambah 1.
+
+16
+00:00:33,990 --> 00:00:35,370
+Anda dapat 9.
+
+17
+00:00:35,370 --> 00:00:38,720
+Lakukan proses yang sama dengan 1 dan 3/4.
+
+18
+00:00:38,720 --> 00:00:41,880
+Kekalkan 4 sebagai penyebut,
+
+19
+00:00:41,880 --> 00:00:46,780
+dan pengangkanya ialah 4 x 1 = 4 + 3,
+
+20
+00:00:46,780 --> 00:00:48,450
+iaitu 7.
+
+21
+00:00:48,450 --> 00:00:50,990
+Ini adalah masalah yang sama.
+
+22
+00:00:50,990 --> 00:00:55,370
+2 dan 1/4 bahagi 1 dan 3/4 adalah sama dengan
+
+23
+00:00:55,370 --> 00:00:57,860
+9/4 bahagi 7/4.
+
+24
+00:00:57,860 --> 00:01:01,200
+Dalam video sebelum ini, untuk membahagi pecahan
+
+25
+00:01:01,200 --> 00:01:05,000
+adalah sama dengan mendarab salingan ia.
+
+26
+00:01:05,000 --> 00:01:09,900
+Jadi ini adalah sama dengan---
+
+27
+00:01:09,900 --> 00:01:15,960
+Ini adalah sama dengan 9/4 darab dengan salingan ini.
+
+28
+00:01:15,960 --> 00:01:18,833
+Jika kita tukar pembahagian dengan pendaraban,
+
+29
+00:01:18,833 --> 00:01:21,390
+kita guna salingan 7/4.
+
+30
+00:01:21,390 --> 00:01:24,490
+Salingan 7/4 ialah anda tukar penyebut dengan pengangka,
+
+31
+00:01:24,490 --> 00:01:26,100
+terbalikan nombor diatas dengan bawah,
+
+32
+00:01:26,100 --> 00:01:29,730
+anda dapat 4/7.
+
+33
+00:01:29,730 --> 00:01:31,950
+Sekarang kita darabkan ini.
+
+34
+00:01:31,950 --> 00:01:35,380
+Ini ialah 9 x 4, iaitu 36,
+
+35
+00:01:35,380 --> 00:01:38,590
+per dengan 4 x 7, iaitu 28, kemudian kita cari
+
+36
+00:01:38,590 --> 00:01:40,900
+sebutan terkecil, atau kita lakukan sekarang
+
+37
+00:01:40,900 --> 00:01:41,290
+supaya ia lebih mudah.
+
+38
+00:01:41,290 --> 00:01:42,820
+Kita ada 4 sebagai pengangka.
+
+39
+00:01:42,820 --> 00:01:44,560
+Kita ada 4 sebagai pengangka,
+
+40
+00:01:44,560 --> 00:01:47,080
+yang sama dengan penyebut, mari bahagi
+
+41
+00:01:47,080 --> 00:01:49,280
+pengangka dan penyebut kita yang sama
+
+42
+00:01:49,280 --> 00:01:50,960
+iaitu 4.
+
+43
+00:01:50,960 --> 00:01:54,040
+Jadi, 4 bahagi 4 sama dengan 1.
+
+44
+00:01:54,040 --> 00:01:56,070
+4 bahagi 4 anda dapat 1.
+
+45
+00:01:56,070 --> 00:01:59,990
+Jadi anda darab ini, 9 x 1 = 9,
+
+46
+00:01:59,990 --> 00:02:03,660
+per 1 x 7 = 7.
+
+47
+00:02:03,660 --> 00:02:05,680
+Kita dapat jawapannya, tetapi,
+
+48
+00:02:05,680 --> 00:02:07,150
+ini adalah pecahan tak wajar.
+
+49
+00:02:07,150 --> 00:02:10,160
+Soalan meminta kita untuk menulis dalam nombor bercampur.
+
+50
+00:02:10,160 --> 00:02:12,560
+Untuk mendapat nombor bercampur, kita boleh
+
+51
+00:02:12,560 --> 00:02:13,160
+lakukan ini sendiri.
+
+52
+00:02:13,160 --> 00:02:15,160
+Kita sudah lakukan ini banyak kali.
+
+53
+00:02:15,160 --> 00:02:20,190
+Berapa kali 7 kepada 9?
+
+54
+00:02:20,190 --> 00:02:24,020
+7 kepada 9 sekali,
+
+55
+00:02:24,020 --> 00:02:26,720
+jika anda ambil 7 kepada 9, berapa bakinya?
+
+56
+00:02:26,720 --> 00:02:28,190
+Anda dapat 2 bukan?
+
+57
+00:02:28,190 --> 00:02:31,650
+7 x 1 = 7, anda ada baki 2.
+
+58
+00:02:31,650 --> 00:02:33,015
+Anda perlukan 2 untuk dapatkan 9.
+
+59
+00:02:33,015 --> 00:02:37,920
+Anda ada baki 2, jadi ini adalah 1 dan 2/7.
+
+60
+00:02:37,920 --> 00:02:39,520
+Kita sudah selesai!
+
+61
+00:02:39,520 --> 00:02:40,067
+...

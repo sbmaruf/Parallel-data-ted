@@ -1,0 +1,711 @@
+1
+00:00:00,820 --> 00:00:03,560
+Selamat datang ke perbincangan membahagi angka perpuluhan.
+
+2
+00:00:03,560 --> 00:00:05,620
+Mari kita mulakan dengan soalan ini.
+
+3
+00:00:05,620 --> 00:00:24,505
+jika saya menyuruh kamu untuk mengalihkan titik perpuluhan 28 dalam 23 perpuluhan 8 2 8
+
+4
+00:00:24,505 --> 00:00:26,310
+adalah suatu masalah bagi kamu
+
+5
+00:00:26,320 --> 00:00:28,480
+maka ia sama seperti soalan membahagi peringkat 4
+
+6
+00:00:28,480 --> 00:00:30,730
+kamu hanya perlu memikirkan untuk meletakkan titik perpuluhan
+
+7
+00:00:30,730 --> 00:00:33,998
+jadi kamu perlu mengalihkan titik perpuluhan ini
+
+8
+00:00:33,998 --> 00:00:39,370
+sebanyak mana tempat perpuluhan diperlukan hanya untuk menukarkannya kepada numbur bulatan
+
+9
+00:00:39,370 --> 00:00:43,075
+bagi soalan ini, kita hanya perlu mengalihkan 2 titik perpuluhan sahaja.
+
+10
+00:00:43,075 --> 00:00:44,670
+untuk meletakkan titik perpuluhan disini.
+
+11
+00:00:44,670 --> 00:00:46,835
+jika saya mengalihkannya disini, maka
+
+12
+00:00:46,835 --> 00:00:48,340
+saya perlu mengalihkannya di nombor ini juga
+
+13
+00:00:48,350 --> 00:00:50,359
+jadi, saya mengalihkan 2 titik perpuluhan ke kanan
+
+14
+00:00:50,359 --> 00:00:54,360
+jadi saya perlu mungalihkannya 2 titik perpuluhan ke kanan
+
+15
+00:00:54,360 --> 00:00:56,042
+disini titik perpuluhan
+
+16
+00:00:56,042 --> 00:00:58,450
+dan saya juga meletakkan titik perpuluhan di atas ini juga
+
+17
+00:00:58,450 --> 00:01:03,560
+sekarang nombor 28 bertukar kepada nombor bulat
+
+18
+00:01:03,570 --> 00:01:06,835
+mari kita lihat
+
+19
+00:01:06,835 --> 00:01:07,969
+-
+
+20
+00:01:07,969 --> 00:01:11,530
+-
+
+21
+00:01:11,540 --> 00:01:14,440
+sekarang, kita menyelesaikannya sama seperti soalan membahagi peringkat 4
+
+22
+00:01:14,450 --> 00:01:17,950
+bolahkah kita membahagikan 2 kepada 28?
+
+23
+00:01:17,950 --> 00:01:19,260
+tidak
+
+24
+00:01:19,260 --> 00:01:21,090
+2 adalah nombor kecil kepada 28
+
+25
+00:01:21,090 --> 00:01:23,770
+bolehkah kita membahagikan 23 kepada 28?
+
+26
+00:01:23,780 --> 00:01:27,144
+tidak
+
+27
+00:01:27,144 --> 00:01:29,800
+kerana 23 adalah kecil daripada 28
+
+28
+00:01:29,808 --> 00:01:34,550
+bolehkah kita membahagikan 238 kepada 28?
+
+29
+00:01:34,560 --> 00:01:36,670
+boleh kerana
+
+30
+00:01:36,680 --> 00:01:39,310
+28 hampir kepada 30 dan
+
+31
+00:01:39,310 --> 00:01:44,160
+238 adalah hampir kepada 240
+
+32
+00:01:44,170 --> 00:01:47,499
+jadi, kita boleh membahagikan 248 kepada 30
+
+33
+00:01:47,499 --> 00:01:49,610
+kerana 24 bahagi 3 sama dengan 8
+
+34
+00:01:49,620 --> 00:01:54,470
+jadi, kita boleh mengagak 238 boleh dibahagi kepada 30 dengan 8
+
+35
+00:01:55,080 --> 00:01:55,680
+andaian sahaja
+
+36
+00:01:55,680 --> 00:01:58,360
+adakalanya anda boleh menggunakan nombor lain
+
+37
+00:01:58,370 --> 00:02:03,132
+8 x 8 = 64
+
+38
+00:02:03,132 --> 00:02:05,832
+8 x 2 = 16
+
+39
+00:02:05,832 --> 00:02:10,429
+tambahkan 2 kepada 22
+
+40
+00:02:10,429 --> 00:02:11,591
+tolak
+
+41
+00:02:11,591 --> 00:02:15,380
+jawapannya 14
+
+42
+00:02:15,380 --> 00:02:21,138
+betul, kerana 238 bahagi 28, bakinya ialah 14.
+
+43
+00:02:21,138 --> 00:02:23,020
+-
+
+44
+00:02:23,030 --> 00:02:24,470
+14 adalah kecil daripada 28
+
+45
+00:02:24,470 --> 00:02:27,602
+jadi, 8 adalah nombor terbesar untuk didarab
+
+46
+00:02:27,602 --> 00:02:31,110
+-
+
+47
+00:02:31,120 --> 00:02:32,590
+sekarang, turunkan nombor 2 kebawah
+
+48
+00:02:32,590 --> 00:02:36,504
+sekali lagi,
+
+49
+00:02:36,504 --> 00:02:39,100
+ia adalah operasi bahagi peringkat 4
+
+50
+00:02:39,110 --> 00:02:42,170
+ok, bolehkah kamu membahagikan 142 kepada 28?
+
+51
+00:02:42,180 --> 00:02:43,970
+mari kita menganggarkan
+
+52
+00:02:43,970 --> 00:02:47,350
+28 hampir kepada 30
+
+53
+00:02:47,360 --> 00:02:50,890
+jadi 30 x 4 = 120
+
+54
+00:02:50,900 --> 00:02:53,062
+-
+
+55
+00:02:53,062 --> 00:02:54,490
+mari kita tengok
+
+56
+00:02:54,490 --> 00:02:58,770
+ia mungkin salah, tetapi
+
+57
+00:02:58,770 --> 00:02:59,970
+-
+
+58
+00:02:59,970 --> 00:03:04,331
+4 x 8 = 32
+
+59
+00:03:04,331 --> 00:03:06,960
+dan 4 x 2 = 8
+
+60
+00:03:06,960 --> 00:03:12,784
+tambah dengan 3 sama dengan 11
+
+61
+00:03:12,784 --> 00:03:14,468
+2 - 2 = 0
+
+62
+00:03:14,470 --> 00:03:16,815
+4 - 1 = 3
+
+63
+00:03:16,815 --> 00:03:18,580
+huh
+
+64
+00:03:18,590 --> 00:03:23,205
+bakinya melebihi 28
+
+65
+00:03:23,205 --> 00:03:28,846
+jadi, saya perlu mengulangi operasi ini sekali lagi
+
+66
+00:03:28,860 --> 00:03:31,440
+kita perlu menukarkannya.
+
+67
+00:03:31,440 --> 00:03:34,120
+-
+
+68
+00:03:34,120 --> 00:03:36,653
+jika kamu tidak pasti
+
+69
+00:03:36,653 --> 00:03:38,770
+kamu hanya perlu menukarkan nombornya
+
+70
+00:03:38,780 --> 00:03:41,360
+-
+
+71
+00:03:41,360 --> 00:03:46,400
+mari kita padamkan nombor 4
+
+72
+00:03:46,400 --> 00:03:52,469
+jika tidak, kamu akan keliru
+
+73
+00:03:52,469 --> 00:03:57,000
+padamkan semua di sini
+
+74
+00:03:57,000 --> 00:04:00,115
+-
+
+75
+00:04:00,115 --> 00:04:03,266
+-
+
+76
+00:04:03,270 --> 00:04:06,500
+mari kita ulang balik operasi ini
+
+77
+00:04:06,500 --> 00:04:09,252
+apabila kita membahagikan dengan 4, maka bakinya terlalu besar
+
+78
+00:04:09,252 --> 00:04:13,331
+mari kita cuba nombor 5
+
+79
+00:04:13,331 --> 00:04:17,569
+5 x 8 = 40
+
+80
+00:04:17,569 --> 00:04:18,880
+5 x 2 = 10
+
+81
+00:04:18,880 --> 00:04:22,992
+tambah 4 sama dengan 14
+
+82
+00:04:22,992 --> 00:04:25,508
+142 - 140 = 2
+
+83
+00:04:25,520 --> 00:04:25,940
+bagus!
+
+84
+00:04:25,940 --> 00:04:27,880
+2 adalah kecil daripada 28
+
+85
+00:04:27,890 --> 00:04:29,575
+5 adalah betul
+
+86
+00:04:29,575 --> 00:04:32,900
+sekarang, saya menurunkan 8
+
+87
+00:04:32,910 --> 00:04:36,702
+maka 28 boleh dibahagikan dengan 28
+
+88
+00:04:36,702 --> 00:04:40,627
+1 x 28 = 28
+
+89
+00:04:40,627 --> 00:04:42,325
+bakinya, 0. selesai.
+
+90
+00:04:42,330 --> 00:04:49,600
+jadi, 2382 perpuluhan 8 boleh dibahagikan dengan 28, maka jawapanya adalah 85 perpuluhan 1
+
+91
+00:04:49,606 --> 00:05:03,540
+atau, 23 perpuhulan 8 2 8 boleh dibahagikan dengan perpuluhan 2 8, jawapanya adalah 85 perpuluhan 1
+
+92
+00:05:03,550 --> 00:05:05,300
+itulah jawapannya
+
+93
+00:05:05,300 --> 00:05:06,540
+ianya mudah difahami
+
+94
+00:05:06,540 --> 00:05:07,925
+kita juga perlu menyemak semula
+
+95
+00:05:07,925 --> 00:05:13,475
+kerana jika saya mendarabkan 84 perpuluhan 1 dengan 28
+
+96
+00:05:13,475 --> 00:05:16,115
+maka saya akan memperolehi jawapan lebih kurang 23
+
+97
+00:05:16,115 --> 00:05:18,760
+perpuluhan 2 8. ianya hampir tiga
+
+98
+00:05:18,760 --> 00:05:22,050
+jadi, 23 adalah hampir 1 per 3 daripada 85
+
+99
+00:05:22,060 --> 00:05:23,810
+ianya boleh diterima
+
+100
+00:05:23,810 --> 00:05:25,246
+apabila kamu melakukam operasi perpuluhan,
+
+101
+00:05:25,246 --> 00:05:28,383
+jika saya memperoleh 800 bukannya 85
+
+102
+00:05:28,383 --> 00:05:30,520
+maka saya akan darabkan 28 dengan 800
+
+103
+00:05:30,520 --> 00:05:32,810
+saya tidak tahu jika ia akan menyamai 23
+
+104
+00:05:32,810 --> 00:05:34,675
+jadi, kita perlu menyemaknya
+
+105
+00:05:34,675 --> 00:05:39,690
+sekurang- kurangnya kita dapat mengagak jawapannya.
+
+106
+00:05:39,700 --> 00:05:43,742
+mari kita selesaikan soalan seterusnya.
+
+107
+00:05:43,742 --> 00:05:58,119
+3 perpuluhan 3 dibahagikan dengan 43 perpuluhan 2 3.
+
+108
+00:05:58,120 --> 00:05:59,480
+-
+
+109
+00:05:59,490 --> 00:06:01,330
+pada mulanya
+
+110
+00:06:01,330 --> 00:06:02,861
+kita perlu mengalihkan satu titik perpuluhan di sini
+
+111
+00:06:02,861 --> 00:06:04,860
+maka, kita juga perlu mengalihkannya di sini juga
+
+112
+00:06:04,870 --> 00:06:06,300
+letakkan titik perpuluhan di atas juga
+
+113
+00:06:06,300 --> 00:06:09,190
+sekarang
+
+114
+00:06:09,190 --> 00:06:13,470
+4 bahagi 33 sama dengan 0
+
+115
+00:06:13,480 --> 00:06:16,870
+43 bahagi dengan 33 sama dengan 1
+
+116
+00:06:16,870 --> 00:06:17,810
+senangnya
+
+117
+00:06:17,820 --> 00:06:21,670
+1 x 33 = 33
+
+118
+00:06:21,680 --> 00:06:22,540
+tolak
+
+119
+00:06:22,540 --> 00:06:25,390
+43 - 33 = 10
+
+120
+00:06:25,390 --> 00:06:27,820
+turunkan 2
+
+121
+00:06:27,820 --> 00:06:31,170
+102 dibahagikan dengan 33 sama dengan...?
+
+122
+00:06:31,180 --> 00:06:33,300
+mungkin 3
+
+123
+00:06:33,300 --> 00:06:37,468
+kerana 3 x 33 = 99
+
+124
+00:06:37,468 --> 00:06:41,230
+33 x 3 = 99
+
+125
+00:06:41,240 --> 00:06:42,914
+102 - 99
+
+126
+00:06:42,914 --> 00:06:43,414
+maka
+
+127
+00:06:43,414 --> 00:06:44,740
+tiga
+
+128
+00:06:44,750 --> 00:06:48,892
+turunkan nombor 3 ini
+
+129
+00:06:48,892 --> 00:06:52,490
+33 dibahagikan dengan 33 sama dengan 1
+
+130
+00:06:52,500 --> 00:06:56,982
+1 x 33 =33
+
+131
+00:06:56,982 --> 00:06:58,529
+tolak 33 = kosong
+
+132
+00:06:58,529 --> 00:07:06,000
+jadi, 43 perpuluhan 23 dibahagikan dengan 3 perpuluhan 3, sama dengan 13 perpuluhan 1
+
+133
+00:07:06,000 --> 00:07:07,962
+atau apabila
+
+134
+00:07:07,962 --> 00:07:10,722
+kamu mengalihkan satu titik perpuluhan ke kanan, maka
+
+135
+00:07:10,722 --> 00:07:16,930
+kamu perlu mendarabkan pembahagi dan pendarab dengan 10
+
+136
+00:07:16,930 --> 00:07:20,164
+kamu perlu mendarabkan kedua-duanya sekali
+
+137
+00:07:20,164 --> 00:07:27,820
+sama seperti, 43 perpuluhan 2 3 dibahagikan dengan 33 = 13 perpuluhan 1
+
+138
+00:07:27,820 --> 00:07:28,820
+mari kita selesaikan soalan seterusnya
+
+139
+00:07:28,820 --> 00:07:30,380
+kita masih mempunyai masa
+
+140
+00:07:30,380 --> 00:07:32,280
+-
+
+141
+00:07:32,290 --> 00:07:44,300
+jika perpuluhan 3 3 5 0 dibahagikan dengan 2 perpuluhan 5...?
+
+142
+00:07:44,310 --> 00:07:47,860
+sekali lagi, kita perlu mengalihkan titik perpuluhan
+
+143
+00:07:47,860 --> 00:07:49,770
+kita perlu mengalihkan di sini juga
+
+144
+00:07:49,770 --> 00:07:51,650
+letakkan titik perpuluhan di sini
+
+145
+00:07:51,660 --> 00:07:54,130
+bolehkan kita membahagikan 3 dengan 25?
+
+146
+00:07:54,130 --> 00:07:55,560
+jawapanya 0
+
+147
+00:07:55,570 --> 00:07:58,780
+jadi, kamu boleh meletakkan 0 disini
+
+148
+00:07:58,790 --> 00:08:01,470
+bolehkah 33 dibahagikan dengan 25...?
+
+149
+00:08:01,470 --> 00:08:02,980
+boleh
+
+150
+00:08:02,990 --> 00:08:06,940
+1 x 25 = 25
+
+151
+00:08:06,940 --> 00:08:09,110
+33 - 25 = 8
+
+152
+00:08:09,120 --> 00:08:11,490
+turunkan 5 ke bawah
+
+153
+00:08:11,490 --> 00:08:13,038
+bahagikan 85 dengan 25
+
+154
+00:08:13,038 --> 00:08:16,430
+25 x 3 = 75
+
+155
+00:08:16,430 --> 00:08:18,910
+maka 3 adalah jawapannya
+
+156
+00:08:18,920 --> 00:08:20,067
+3 x 25 =
+
+157
+00:08:20,067 --> 00:08:23,100
+75
+
+158
+00:08:23,100 --> 00:08:26,192
+85 - 75 = 10
+
+159
+00:08:26,192 --> 00:08:27,920
+turunkan 0 ke bawah
+
+160
+00:08:27,920 --> 00:08:30,205
+tadi, kita telah turunkan 5
+
+161
+00:08:30,205 --> 00:08:33,367
+sekarang, seratus dibahagikan dengan 25 sama dengan 4
+
+162
+00:08:33,367 --> 00:08:42,910
+jadi, jawapannya ialah 0 perpuluhan 1 3 4
+
+163
+00:08:42,910 --> 00:08:43,765
+seperti yang kamu lihat
+
+164
+00:08:43,765 --> 00:08:47,710
+perbezaan diantara membahagi perpuluhan
+
+165
+00:08:47,710 --> 00:08:50,195
+dengan operasi bahagi peringkat 4 ialah
+
+166
+00:08:50,195 --> 00:08:54,153
+kita hanya memastikan supaya kita dapat titik perpuluhan pada tempat yang betul
+
+167
+00:08:54,153 --> 00:08:58,118
+jika kamu alihkan titik perpuluhan disini dan menjadinya nombor bulat
+
+168
+00:08:58,118 --> 00:09:01,896
+maka kamu harus buat benda yang sama disini juga
+
+169
+00:09:01,900 --> 00:09:02,815
+jika kamu melakukanya
+
+170
+00:09:02,815 --> 00:09:05,950
+ia akan menjadi operasi bahagi peringkat 4
+
+171
+00:09:05,950 --> 00:09:08,172
+muslihatnya disini ialah
+
+172
+00:09:08,172 --> 00:09:12,330
+adalah untuk mencuba dengan nombor, jika kita mengalami sebarang masalah
+
+173
+00:09:12,330 --> 00:09:13,230
+maka kita perlu mengubahnya mengikut situasi
+
+174
+00:09:13,240 --> 00:09:16,373
+jangan rasa susah untuk menyelesaikannya,
+
+175
+00:09:16,373 --> 00:09:17,751
+kamu harus mencubanya dari kesilapan
+
+176
+00:09:17,751 --> 00:09:21,070
+dan membuat latihan selanjutnya pada setiap masa
+
+177
+00:09:21,070 --> 00:09:25,961
+bagaimanapun, saya berharap kamu dapat menyelesaikan masalah pembahagi angka perpuluhan.
+
+178
+00:09:25,961 --> 00:09:27,138
+saya berharap agar kamu berseronok dengan latihannya.

@@ -1,0 +1,271 @@
+1
+00:00:00,540 --> 00:00:06,560
+Seorang ahli mikrobiologi mempunyai 1,256 mikroorganisma yang sedang bertumbuh di dalam kultur.
+
+2
+00:00:06,560 --> 00:00:09,880
+Bila dia memeriksa sekali lagi selepas 15 minit, terdapat
+
+3
+00:00:09,880 --> 00:00:15,100
+2,283 mikrob dalam kultur yang sama, jadi mereka sedang bertumbuh
+
+4
+00:00:15,100 --> 00:00:18,790
+dengan cepat. Anggarkan perbezaan jumlah mikrob antara
+
+5
+00:00:18,790 --> 00:00:22,720
+setiap semakan dengan membundarkan setiap nombor
+
+6
+00:00:22,720 --> 00:00:24,330
+ke 'puluh' yang terdekat.
+
+7
+00:00:24,330 --> 00:00:26,830
+Jadi, apa yang mereka hendak kita buat, mereka mahu kita bundarkan setiap
+
+8
+00:00:26,830 --> 00:00:31,470
+nombor ke 'puluh' yang terdekat, dan dengan nombor-nombor bulat itu,
+
+9
+00:00:31,470 --> 00:00:33,890
+carikan perbezaan antara kedua-dua semakan.
+
+10
+00:00:33,890 --> 00:00:35,940
+Jadi, mari kita bundarkan setiap nombor ini.
+
+11
+00:00:35,940 --> 00:00:44,910
+Kita mulakan dengan 1,256 mikrob.
+
+12
+00:00:44,910 --> 00:00:48,000
+Bagaimana kita bundarkan ini ke 'puluh' yang terdekat?
+
+13
+00:00:48,000 --> 00:00:49,590
+Itulah yang mereka mahu kita buat.
+
+14
+00:00:49,590 --> 00:00:51,140
+Jadi bila kamu lihat nilai tempat 'puluh',
+
+15
+00:00:51,140 --> 00:00:53,750
+Nilai tempat 'puluh' ialah 5 di sini.
+
+16
+00:00:53,750 --> 00:00:56,390
+Jadi jika kita bundarkan ke atas, ia akan menjadi 6.
+
+17
+00:00:56,390 --> 00:00:59,230
+Jika kita bundarkan ke bawah, ia akan kekal pada 5.
+
+18
+00:00:59,230 --> 00:01:00,970
+Jika kita bundarkan ke atas, ia akan menjadi 60.
+
+19
+00:01:00,970 --> 00:01:03,400
+Jika kita bundarkan ke bawah, ia akan menjadi 50.
+
+20
+00:01:03,400 --> 00:01:06,730
+Peraturan untuk pembundaran ialah kamu lihat pada nilai tempat 'sa'
+
+21
+00:01:06,730 --> 00:01:07,310
+yang di bawah itu.
+
+22
+00:01:07,310 --> 00:01:10,680
+Dalam kes ini, kamu pergi ke nilai tempat 'sa', dan kamu nampak
+
+23
+00:01:10,680 --> 00:01:13,990
+ia ialah 5 atau lebih.
+
+24
+00:01:13,990 --> 00:01:16,420
+Ia ialah 6, yang pastinya ia ialah 5 atau lebih, jadi kita
+
+25
+00:01:16,420 --> 00:01:18,270
+mahu bundarkan ke atas.
+
+26
+00:01:18,270 --> 00:01:25,200
+Jadi kita mahu bundarkan ke atas, dan kita bundarkannya ke
+
+27
+00:01:25,200 --> 00:01:25,950
+'puluh' yang terdekat.
+
+28
+00:01:25,950 --> 00:01:34,690
+56 akan jadi 60, jadi ia akan menjadi 1,260.
+
+29
+00:01:34,690 --> 00:01:36,380
+Kita sudah bundarkan ke atas.
+
+30
+00:01:36,380 --> 00:01:39,720
+Sekarang, bila kita tunggu 15 minit, kita memeriksa dan kita nampak
+
+31
+00:01:39,720 --> 00:01:47,640
+ada 2,283 mikrob.
+
+32
+00:01:47,640 --> 00:01:51,400
+Sekali lagi, mari lihat ke nilai tempat 'puluh'.
+
+33
+00:01:51,400 --> 00:01:52,600
+Ini 8 di sini.
+
+34
+00:01:52,600 --> 00:01:54,250
+Biar saya buat dalam warna yang lain.
+
+35
+00:01:54,250 --> 00:01:56,580
+Ini 8 di sini.
+
+36
+00:01:56,580 --> 00:01:58,380
+Dan bila kamu lihat nilai tempat 'sa',
+
+37
+00:01:58,380 --> 00:02:00,860
+jika ia 5 atau lebih, kamu bundarkan ke atas.
+
+38
+00:02:00,860 --> 00:02:02,480
+Jika tidak, kamu bundarkan ke bawah.
+
+39
+00:02:02,480 --> 00:02:05,170
+3 ialah kurang daripada 5, jadi kamu
+
+40
+00:02:05,170 --> 00:02:08,919
+hendak bundarkan ke bawah.
+
+41
+00:02:08,919 --> 00:02:12,350
+Kita mahu bundarkan ke bawah, jadi kita akan ditinggalkan dengan
+
+42
+00:02:12,350 --> 00:02:17,840
+2,200, dan kita hanya akan mempunyai
+
+43
+00:02:17,840 --> 00:02:21,010
+2,280.
+
+44
+00:02:21,010 --> 00:02:23,800
+Sekarang, mereka mahu kita anggarkan perbezaan bilangan mikrob
+
+45
+00:02:23,800 --> 00:02:26,830
+pada setiap semakan dengan membundarkan setiap nombor
+
+46
+00:02:26,830 --> 00:02:29,070
+ke 'puluh' yang terdekat, dan kita sudah buat bahagian itu.
+
+47
+00:02:29,070 --> 00:02:30,640
+Kita sudah bundarkan setiap nombor ke 'puluh' yang terdekat.
+
+48
+00:02:30,640 --> 00:02:32,330
+Jadi, kita kena cari perbezaannya sekarang.
+
+49
+00:02:32,330 --> 00:02:35,460
+Mari kita tolak semakan pertama dari semakan kedua.
+
+50
+00:02:35,460 --> 00:02:36,980
+Itulah caranya untuk dapatkan nombor positif.
+
+51
+00:02:36,980 --> 00:02:38,080
+Mari kita buat itu.
+
+52
+00:02:38,080 --> 00:02:43,030
+Jika kita tolak ini daripada 1,260--mari saya salin dan tampalnya.
+
+53
+00:02:43,030 --> 00:02:48,280
+Kita mahu tolak ini--salin dan tampalkan.
+
+54
+00:02:48,280 --> 00:02:52,730
+Kita mahu tolak itu daripada 2,280 untuk cari
+
+55
+00:02:52,730 --> 00:02:53,900
+perbezaannya.
+
+56
+00:02:53,900 --> 00:02:55,270
+Jadi kita tolak dari sini.
+
+57
+00:02:55,270 --> 00:02:58,020
+Biar saya letakkan tanda tolak, dan mari kita buat
+
+58
+00:02:58,020 --> 00:02:58,730
+penolakan.
+
+59
+00:02:58,730 --> 00:03:00,900
+Kamu pergi ke nilai tempat 'sa'.
+
+60
+00:03:00,900 --> 00:03:02,270
+0 tolak 0.
+
+61
+00:03:02,270 --> 00:03:04,590
+Ia hanya akan menjadi 0.
+
+62
+00:03:04,590 --> 00:03:08,100
+8 tolak 6 di nilai tempat 'puluh', ia sebenarnya 80 tolak 60.
+
+63
+00:03:08,100 --> 00:03:10,035
+Itu akan menjadi 2, tetapi kerana ia di nilai tempat 'puluh'
+
+64
+00:03:10,035 --> 00:03:12,960
+ia ialah 20, atau kamu boleh buat 80 tolak 60 ialah 20, jadi
+
+65
+00:03:12,960 --> 00:03:14,640
+semuanya masuk akal.
+
+66
+00:03:14,640 --> 00:03:20,010
+2 tolak 2 ialah 0, dan kemudian 2 tolak 1 ialah 1.
+
+67
+00:03:20,010 --> 00:03:23,010
+Bila kita bundarkan setiap nombor ke nilai tempat 'puluh' yang terdekat
+
+68
+00:03:23,010 --> 00:03:26,780
+dan cari perbezaannya, anggaran perbezaan kita ialah 1,020.

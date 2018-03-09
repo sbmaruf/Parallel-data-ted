@@ -1,0 +1,55 @@
+1
+00:00:01,184 --> 00:00:08,336
+Carikan Perimeter Segi Empat Selari atau "Parallelogram" ini.
+
+2
+00:00:08,336 --> 00:00:13,584
+Sisi kiri selari dengan sisi kanan. Sisi atas selari dengan sisi bawah.
+
+3
+00:00:13,584 --> 00:00:16,535
+Sisi yang bertentangan adalah sama panjang.
+
+4
+00:00:16,535 --> 00:00:18,623
+Sekarang, kita fokus pada Perimeter.
+
+5
+00:00:18,623 --> 00:00:27,804
+Jika Segi Empat Selari ini ialah sebuah padang,
+
+6
+00:00:27,804 --> 00:00:30,395
+berapa panjang keseluruhan pagar yang diperlukan oleh padang itu?
+
+7
+00:00:30,395 --> 00:00:35,079
+Ya, pastilah sama dengan jumlah panjang kesemua sisi.
+
+8
+00:00:35,079 --> 00:00:39,039
+Maka, kita boleh abaikan tinggi segi empat ini,
+
+9
+00:00:39,039 --> 00:00:44,327
+dan fokus kepada panjang sisinya.
+
+10
+00:00:44,329 --> 00:00:56,030
+Jadi, Perimeter = 12 + 8 + 12 + 8.
+
+11
+00:00:57,599 --> 00:01:08,450
+12 + 8 = 20,12 + 8 = 20 juga,
+
+12
+00:01:08,450 --> 00:01:14,522
+maka jawapannya ialah 40 inci.
+
+13
+00:01:14,522 --> 00:01:16,918
+Agak kecil bagi saiz sebuah padang.
+
+14
+00:01:16,918 --> 99:59:59,999
+Maka, Perimeter bagi Segi Empat Selari ini ialah 40 inci.

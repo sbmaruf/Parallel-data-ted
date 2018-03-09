@@ -1,0 +1,235 @@
+1
+00:00:00,520 --> 00:00:02,840
+Janelle sedang berlatih untuk acara lumba lari di jalan raya.
+
+2
+00:00:02,840 --> 00:00:06,090
+Alat pengukur langkahnya mengambil kira jarak dia berlari tiap-tiap hari.
+
+3
+00:00:06,090 --> 00:00:08,350
+Inilah bacaan alat pengukur langkahnya untuk empat hari yang baru
+
+4
+00:00:08,350 --> 00:00:13,190
+berlepas: pada hari Sabtu, dia berlari sejauh 3.89 batu; Ahad, 5.1;
+
+5
+00:00:13,190 --> 00:00:18,190
+Isnin, 10.21; Selasa, 3.35.
+
+6
+00:00:18,190 --> 00:00:21,750
+Anggarkan jumlah jarak dia berlari sepanjang empat hari yang lepas,
+
+7
+00:00:21,750 --> 00:00:23,640
+dan kemudian kirakan jumlah yang tepat.
+
+8
+00:00:23,640 --> 00:00:26,460
+Mari kita menganggar dahulu. Jadi saya akan membundarkan mereka ke
+
+9
+00:00:26,460 --> 00:00:27,380
+batu yang terdekat.
+
+10
+00:00:27,380 --> 00:00:30,190
+Jadi 3.89, mari kita membundarkannya ke atas menjadi 4 batu.
+
+11
+00:00:30,190 --> 00:00:32,600
+Dan saya melakukan itu kerana dalam tempat persepuluh, kita mempunyai satu
+
+12
+00:00:32,600 --> 00:00:34,730
+8, yang adalah 5 atau lebih.
+
+13
+00:00:34,730 --> 00:00:38,370
+Jadi mari kita tukarkan itu kepada lebih kurang 4 batu.
+
+14
+00:00:38,370 --> 00:00:39,770
+Mari kita jadikan ini sebagai 5.1.
+
+15
+00:00:39,770 --> 00:00:43,040
+Kita membundarkan itu ke bawah kerana 1 ini adalah kurang daripada 5.
+
+16
+00:00:43,040 --> 00:00:45,350
+Jadi mari kita jadikan ini sebagai 5 batu.
+
+17
+00:00:45,350 --> 00:00:50,960
+10.21, mari kita jadikan itu sebagai 10 batu kerana
+
+18
+00:00:50,960 --> 00:00:51,950
+2 membundarkan ke bawah.
+
+19
+00:00:51,950 --> 00:00:53,480
+Ia adalah kurang daripada 5.
+
+20
+00:00:53,480 --> 00:00:57,470
+Dan 3.35, mari kita menjadikan ia sebanyak 3 batu, kerana 3 adalah kurang daripada
+
+21
+00:00:57,470 --> 00:00:58,740
+5, jadi kita membundarkan ia ke bawah.
+
+22
+00:00:58,740 --> 00:01:00,610
+Jadi itu adalah 3 batu.
+
+23
+00:01:00,610 --> 00:01:04,090
+Dan jikalau kita menambahkan kesemuanya, 4 tambah 5 adalah 9.
+
+24
+00:01:04,090 --> 00:01:07,110
+9 tambah 10 adalah 19.
+
+25
+00:01:07,110 --> 00:01:11,040
+19 tambah 3 adalah 22.
+
+26
+00:01:11,040 --> 00:01:20,040
+Jadi anggaran saya adalah yang dia telah berlari sebanyak 22 batu dalam masa 4 hari itu.
+
+27
+00:01:20,040 --> 00:01:21,080
+Itu anggaran saya.
+
+28
+00:01:21,080 --> 00:01:24,200
+Sekarang mari kita carikan jumlah sebenar yang dia telah berlari.
+
+29
+00:01:24,200 --> 00:01:25,670
+Saya akan bergerak sedikit ke bawah.
+
+30
+00:01:25,670 --> 00:01:32,940
+Jadi kita perlu menambah 3.89 kepada 5.1 -- dan ingat,
+
+31
+00:01:32,940 --> 00:01:34,870
+apabila anda menambahkan perpuluhan, anda perlu menyusun perpuluhan-perpuluhan itu dalam
+
+32
+00:01:34,870 --> 00:01:44,390
+sebaris-- 10.21 dan kemudian akhirnya 3.35.
+
+33
+00:01:44,390 --> 00:01:47,900
+Dan mari kita menambahkan kesemua ini.
+
+34
+00:01:47,900 --> 00:01:52,500
+Sekarang kita bermula pada tempat perseratus.
+
+35
+00:01:52,500 --> 00:01:56,820
+Tiada apa-apa di sini, jadi 9 tambah kosong tambah 1 adalah 10,
+
+36
+00:01:56,820 --> 00:01:59,340
+tambah 5 adalah 15.
+
+37
+00:01:59,340 --> 00:02:04,910
+Jadi mari kita menulis 5 itu, dan bawa ke atas, atau kumpulkan semula, 1 itu.
+
+38
+00:02:04,910 --> 00:02:06,360
+Saya akan melakukan ini dengan warna yang berlainan.
+
+39
+00:02:06,360 --> 00:02:10,030
+1 tambah 8 adalah 9.
+
+40
+00:02:10,030 --> 00:02:12,090
+9 tambah 1 adalah 10.
+
+41
+00:02:12,090 --> 00:02:14,190
+10 tambah 2 adalah 12.
+
+42
+00:02:14,190 --> 00:02:17,240
+12 tambah 3 adalah 15.
+
+43
+00:02:17,240 --> 00:02:18,750
+Letakkan 5 itu di bawah.
+
+44
+00:02:18,750 --> 00:02:21,045
+Bawa naik, atau kumpulkan semula, 1 itu.
+
+45
+00:02:21,045 --> 00:02:22,810
+1 tambah 3 adalah 4.
+
+46
+00:02:22,810 --> 00:02:25,140
+4 tambah 5 adalah 9.
+
+47
+00:02:25,140 --> 00:02:26,790
+9 tambah 0 adalah masih 9.
+
+48
+00:02:26,790 --> 00:02:33,480
+9 tambah 3 adalah 12.
+
+49
+00:02:33,480 --> 00:02:33,960
+Tuliskan 2 itu.
+
+50
+00:02:33,960 --> 00:02:35,800
+Kumpulkan semula 1 itu di sini.
+
+51
+00:02:35,800 --> 00:02:38,530
+Saya akan melakukannya di luar sini supaya ia tidak menjadi sebahagian daripada nombor-nombor
+
+52
+00:02:38,530 --> 00:02:42,340
+ini, dan kemudian 1 tambah 1 adalah 2.
+
+53
+00:02:42,340 --> 00:02:43,770
+Dan kemudian kita perlu mengingati perpuluhan
+
+54
+00:02:43,770 --> 00:02:46,010
+yang terletak di sini.
+
+55
+00:02:46,010 --> 00:02:52,760
+Jadi jarak sebenar yang dia telah berlari adalah 22.55 batu.
+
+56
+00:02:52,760 --> 00:02:54,160
+Jadi anggaran kita adalah agak baik.
+
+57
+00:02:54,160 --> 00:02:55,630
+Ia adalah 22 batu.
+
+58
+00:02:55,630 --> 00:02:58,760
+Kita mendapat jawapan yang agak dekat, dalam lingkungan sedikit melebihi
+
+59
+00:02:58,760 --> 00:03:00,310
+setengah batu.

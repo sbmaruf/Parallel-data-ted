@@ -1,0 +1,176 @@
+1
+00:00:00,680 --> 00:00:04,970
+"Tuliskan semula 5 x (9 - 4)" ; dalam kurungan
+
+2
+00:00:04,970 --> 00:00:07,130
+"menggunakan Hukum Pengagihan Pendaraban
+
+3
+00:00:07,130 --> 00:00:09,980
+ke atas Penolakan."
+
+4
+00:00:09,980 --> 00:00:11,550
+"Kemudian, ringkaskan."
+
+5
+00:00:11,550 --> 00:00:12,930
+Mari tuliskannya semulanya.
+
+6
+00:00:12,930 --> 00:00:24,830
+5 ( 9 - 4 ).
+
+7
+00:00:24,830 --> 00:00:27,100
+Sebenarnya anda boleh
+
+8
+00:00:27,100 --> 00:00:27,710
+abaikan Hukum Pengagihan.
+
+9
+00:00:27,710 --> 00:00:29,880
+Anda hanya perlu cari jawapan 9 - 4,
+
+10
+00:00:29,880 --> 00:00:31,500
+dan darabkan dengan 5.
+
+11
+00:00:31,500 --> 00:00:33,380
+Tapi jika anda gunakan 
+Hukum Pengagihan,
+
+12
+00:00:33,380 --> 00:00:34,560
+anda agihkan nombor 5.
+
+13
+00:00:34,560 --> 00:00:40,090
+Anda darabkan; 
+5 x 9 dan 5 x 4,
+
+14
+00:00:40,090 --> 00:00:50,175
+5 x 9 - 5 x 4.
+
+15
+00:00:52,940 --> 00:00:54,920
+Perhatikan, kita telah agihkan 5
+
+16
+00:00:54,920 --> 00:00:57,810
+untuk didarabkan dengan 9 dan 4.
+
+17
+00:00:57,810 --> 00:01:00,680
+Dalam video pertama Hukum Pengagihan, 
+kami telah berikan anda
+
+18
+00:01:00,680 --> 00:01:03,370
+idea kenapa perlu agihkan 5; 
+kenapa ia logik;
+
+19
+00:01:03,370 --> 00:01:06,005
+dan kenapa tidak darabkan dengan 9 sahaja.
+
+20
+00:01:06,005 --> 00:01:09,010
+Kita akan buktikan yang cara ini juga
+
+21
+00:01:09,010 --> 00:01:12,890
+memberi jawapan yang sama
+
+22
+00:01:12,890 --> 00:01:13,950
+jika kita jumlahkan 9 - 4 dulu.
+
+23
+00:01:13,950 --> 00:01:17,310
+5 x 9 = 45.
+
+24
+00:01:17,310 --> 00:01:22,480
+Jadi 45 tolak dengan 
+jawapan kepada 5 x 4;
+
+25
+00:01:22,480 --> 00:01:23,970
+iaitu 20.
+
+26
+00:01:23,970 --> 00:01:30,400
+45 - 20 = 25, 
+cara ini melalui
+
+27
+00:01:30,400 --> 00:01:31,970
+Hukum Pengagihan.
+
+28
+00:01:31,970 --> 00:01:33,980
+Jika kita tidak mahu gunakan Hukum Pengagihan,
+
+29
+00:01:33,980 --> 00:01:36,780
+sebaliknya nilaikan permasalahan dalam kurungan dulu,
+
+30
+00:01:36,780 --> 00:01:40,300
+5 darab dengan
+
+31
+00:01:40,300 --> 00:01:41,890
+jawapan kepada 9 - 4.
+
+32
+00:01:44,670 --> 00:01:45,940
+9 - 4 = 5.
+
+33
+00:01:47,810 --> 00:01:49,980
+5 x (9 - 4),
+
+34
+00:01:49,980 --> 00:01:52,010
+menjadi 5 x 5,
+
+35
+00:01:52,010 --> 00:01:55,460
+5 x 5 = 25!
+Maka kita dapat
+
+36
+00:01:55,460 --> 00:01:56,630
+jawapan yang sama juga.
+
+37
+00:01:56,630 --> 00:02:00,890
+Ini menggunakan 
+"Hukum Pengagihan Pendaraban
+
+38
+00:02:00,890 --> 00:02:02,930
+ke atas Penolakan", 
+biasanya dirujuk sebagai
+
+39
+00:02:02,930 --> 00:02:04,340
+Hukum Pengagihan.
+
+40
+00:02:04,340 --> 00:02:07,600
+Ini pula dengan menilaikan permasalahan
+
+41
+00:02:07,600 --> 00:02:10,190
+dalam kurungan dahulu,
+
+42
+00:02:10,190 --> 00:02:10,534
+kemudian didarabkan dengan 5.

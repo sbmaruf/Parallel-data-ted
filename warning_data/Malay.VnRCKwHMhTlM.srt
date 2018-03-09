@@ -1,0 +1,483 @@
+1
+00:00:00,620 --> 00:00:04,850
+Pada beberapa bulan lalu, Old Maple Farms
+
+2
+00:00:04,850 --> 00:00:08,690
+telah berkembang dalam lebih 1,000 epal berbanding pesaing utama
+
+3
+00:00:08,690 --> 00:00:11,000
+dalam daerahnya, River Orchards.
+
+4
+00:00:11,000 --> 00:00:14,180
+Disebabkan cuaca sejuk tahun ini, hasil tanaman di kedua-dua
+
+5
+00:00:14,180 --> 00:00:15,920
+ladang telah jatuh sebanyak 3 kali ganda.
+
+6
+00:00:15,920 --> 00:00:19,050
+Tetapi, kedua-dua ladang mengatasi masalah ini dengan
+
+7
+00:00:19,050 --> 00:00:23,980
+membeli jumlah epal yang sama daripada ladang-ladang
+
+8
+00:00:23,980 --> 00:00:26,540
+di negeri jiran.
+
+9
+00:00:26,540 --> 00:00:28,950
+Apa yang awak boleh katakan tentang bilangan epal
+
+10
+00:00:28,950 --> 00:00:30,130
+yang ada di setiap ladang?
+
+11
+00:00:30,130 --> 00:00:32,800
+Adakah salah satu mempunyai lebih, atau pon kedua-duanya
+
+12
+00:00:32,800 --> 00:00:33,670
+mempunyai jumlah yang sama?
+
+13
+00:00:33,670 --> 00:00:35,200
+Bagaimana saya nak selesaikannya?
+
+14
+00:00:35,200 --> 00:00:37,410
+Jadi mari kita gunakan beberapa pemboleh ubah di sini.
+
+15
+00:00:37,410 --> 00:00:57,220
+Kita letak 'M' sama dengan bilangan epal di Mapple Farms.
+
+16
+00:00:57,220 --> 00:00:58,310
+Dan siapa pesaing nya?
+
+17
+00:00:58,310 --> 00:00:59,260
+River Orchards.
+
+18
+00:00:59,260 --> 00:01:03,750
+Jadi kita guna 'R' sama dengan bilangan
+
+19
+00:01:03,750 --> 00:01:12,030
+epal di River Orchards.
+
+20
+00:01:12,030 --> 00:01:14,690
+Ayat pertama, menyatakan-- biar saya gunakan
+
+21
+00:01:14,690 --> 00:01:17,540
+warna yg berbeza di sini-- memberitahu beberapa bulan yang lalu, Old Maple
+
+22
+00:01:17,540 --> 00:01:22,560
+Farms telah berkembang dengan lebih 1,000 epal berbanding
+
+23
+00:01:22,560 --> 00:01:25,650
+pesaing dalam daerah yang sama, River Orchards.
+
+24
+00:01:25,650 --> 00:01:31,500
+Jadi kita boleh, hei, Maple kira-kira Old River. atau 'M'
+
+25
+00:01:31,500 --> 00:01:34,680
+kira-kira River tambah 1,000.
+
+26
+00:01:34,680 --> 00:01:37,190
+Oleh kerana kita tidak tahu nilai sebenar -- dinyatakan
+
+27
+00:01:37,190 --> 00:01:39,940
+lebih 1,000 berbanding, jadi kita tidak tahu lebih berapa daripada 1,000 --
+
+28
+00:01:39,940 --> 00:01:44,080
+kita hanya boleh katakan kebiasaanya, Old Maple Farms
+
+29
+00:01:44,080 --> 00:01:49,880
+menggunakan 'M', mempunyai lebih jumlah epal berbanding
+
+30
+00:01:49,880 --> 00:01:51,170
+River Orchard.
+
+31
+00:01:51,170 --> 00:01:53,750
+Jadi pada tahun ini, 'M' lebih besar daripada 'R'?
+
+32
+00:01:53,750 --> 00:01:56,620
+Ianya lebih 1,000 epal berbanding Old Maple Farms.
+
+33
+00:01:56,620 --> 00:01:59,660
+Sekarang, cuaca yang sejuk tahun ini -- mari
+
+34
+00:01:59,660 --> 00:02:02,570
+kita bincangkan pasal tahum ini -- hasil tanaman kedua-dua ladang
+
+35
+00:02:02,570 --> 00:02:03,995
+telah menjunam 3kali ganda.
+
+36
+00:02:07,930 --> 00:02:09,620
+Maka ini bukanlah satu kebiasaan.
+
+37
+00:02:09,620 --> 00:02:11,660
+Mari kita bincangkan ape yang berlaku tahun ini.
+
+38
+00:02:11,660 --> 00:02:13,700
+Pada tahun ini, setiap ladang akan
+
+39
+00:02:13,700 --> 00:02:15,280
+menjunam sebanyak 1/3.
+
+40
+00:02:15,280 --> 00:02:18,710
+Jika menjunam sebanyak 1/3, ini adalah sama dengan
+
+41
+00:02:18,710 --> 00:02:20,510
+2/3 daripada yang diperoleh seblum ini.
+
+42
+00:02:20,510 --> 00:02:21,380
+Biar saya berikan contoh.
+
+43
+00:02:21,380 --> 00:02:26,700
+Jika ini adalah 'x', dan saya ambil '1/3x', baki hanya ada '2/3x'.
+
+44
+00:02:29,400 --> 00:02:33,800
+Maka penurunan sebanyak 1/3 adalah sama dengan darabkan
+
+45
+00:02:33,800 --> 00:02:35,910
+kuantiti dengan 2/3.
+
+46
+00:02:35,910 --> 00:02:38,760
+Jika kita darabkan setiap kuantiti dengan 2/3, kita
+
+47
+00:02:38,760 --> 00:02:40,880
+kekalkan ketaksamaan ini, kerana kita
+
+48
+00:02:40,880 --> 00:02:44,010
+melakukan perkara yang sama di kedua-dua belah ketidaksamaan , dan
+
+49
+00:02:44,010 --> 00:02:46,340
+kita darab dengan nombor positif.
+
+50
+00:02:46,340 --> 00:02:48,680
+Jiak kita darab dengan nombor negatif, kita perlu
+
+51
+00:02:48,680 --> 00:02:50,460
+tukarkan ketidaksamaan ini.
+
+52
+00:02:50,460 --> 00:02:54,400
+jadi kita boleh darab kedua-dua belah dengan 2/3.
+
+53
+00:02:54,400 --> 00:02:59,525
+Maka 2/3M lebih besar daripada 2/3R.
+
+54
+00:02:59,525 --> 00:03:02,620
+Dan awak boleh lukis pada garis nombor jika awak mahu.
+
+55
+00:03:02,620 --> 00:03:04,280
+Mari lakukan pada garis nombor.
+
+56
+00:03:04,280 --> 00:03:06,450
+Ini boleh mempermudahkan awak, jika tidak,
+
+57
+00:03:06,450 --> 00:03:08,980
+maafkan saya, tetapi ianya bukanlah merugikan.
+
+58
+00:03:08,980 --> 00:03:10,440
+Jadi 0 pada garis nombor kita.
+
+59
+00:03:10,440 --> 00:03:15,490
+Jadi pada kebiasaanya, M mempunyai lebih 1,000 berbanding R.
+
+60
+00:03:15,490 --> 00:03:18,330
+Kebiasaannya, M mungkin berada di sini dan
+
+61
+00:03:18,330 --> 00:03:20,310
+dan R pula di sini.
+
+62
+00:03:20,310 --> 00:03:23,950
+Saya pon tidak pasti, mari kita letakkan R di sini.
+
+63
+00:03:23,950 --> 00:03:29,050
+Sekarang, jka kita ambil 2/3 daripada M, ianya akan
+
+64
+00:03:29,050 --> 00:03:32,340
+berada di, oh, saya tidak pasti, 2/3
+
+65
+00:03:32,340 --> 00:03:33,840
+lebih kurang di sini.
+
+66
+00:03:33,840 --> 00:03:40,250
+Jadi M di sini -- biar saya tuliskan -- ini ialah 2/3M.
+
+67
+00:03:40,250 --> 00:03:41,910
+Dan di mana 2/3R akan berada?
+
+68
+00:03:41,910 --> 00:03:45,250
+Jka kita ambil 2/3 daripadanya, awak akan dapat di sini,
+
+69
+00:03:45,250 --> 00:03:47,970
+inilah 2/3R.
+
+70
+00:03:47,970 --> 00:03:56,360
+Jadi awak dapat lihat, 2/3R masik kurang daripada 2/3M, atau
+
+71
+00:03:56,360 --> 00:03:59,220
+2/3M lebih daripada 2/3R.
+
+72
+00:03:59,220 --> 00:04:04,890
+Sekarang, kedua-dua ladang mengatasi kekurangan ini
+
+73
+00:04:04,890 --> 00:04:08,900
+dengan membeli kuantiti epal yang sama daripada ladang
+
+74
+00:04:08,900 --> 00:04:10,200
+di negeri jiran.
+
+75
+00:04:10,200 --> 00:04:21,579
+Mari gunakan 'A' samae dengan kuantiti
+
+76
+00:04:21,579 --> 00:04:26,235
+epal yang dibeli oleh kedua-duanya.
+
+77
+00:04:29,240 --> 00:04:30,430
+Jadi ini memberitahu kita bahawa kedua-duanya
+
+78
+00:04:30,430 --> 00:04:31,870
+telah membeli jumlah yang sama.
+
+79
+00:04:31,870 --> 00:04:34,840
+Jadi kita boleh tambah 'a' ke kedua-dua belah ketidaksamaan ini dan ianya
+
+80
+00:04:34,840 --> 00:04:36,410
+tidak akan mengubah ketidaksamaan ini.
+
+81
+00:04:36,410 --> 00:04:39,670
+Sekiranya awak tambah atau tolak menggunakan jumlah yang sama di kedua-dua belah bahagian,
+
+82
+00:04:39,670 --> 00:04:41,640
+ianya tidak akan mengubah ketidaksamaan itu.
+
+83
+00:04:41,640 --> 00:04:46,000
+Jadi jika awak tambah 'a' kepada kedua-dua belah bahagian, awak telah tambah 2/3M dengan 'a'
+
+84
+00:04:46,000 --> 00:04:49,150
+lebih besar daripada 2/3R tambah 'A'.
+
+85
+00:04:49,150 --> 00:04:52,980
+Ini adalah jumlah yang diperoleh Old Maple Farms setelah
+
+86
+00:04:52,980 --> 00:04:57,080
+membeli epal, dan juga jumlah yang dimiliki
+
+87
+00:04:57,080 --> 00:04:58,380
+River Orchards.
+
+88
+00:04:58,380 --> 00:05:01,440
+Seterusnya, Old Maple Farms
+
+89
+00:05:01,440 --> 00:05:04,200
+masih memiliki lebih epal, dan awak boleh nampaknya di sini.
+
+90
+00:05:04,200 --> 00:05:07,690
+Maple Farms, kebiasannya, pada tahun ini hanya ada 2/3
+
+91
+00:05:07,690 --> 00:05:10,180
+daripada hasil tanaman, tetapi telah membeli 'a' epal.
+
+92
+00:05:10,180 --> 00:05:14,510
+Mari kita katakan yang 'a' adalah kira-kira bilangan
+
+93
+00:05:14,510 --> 00:05:18,040
+epal, jadi ianya akan kembali kepada jumlah seperti biasa.
+
+94
+00:05:18,040 --> 00:05:19,810
+Mari kita andaikan ianya kembali kepada jumlah seperti biasa.
+
+95
+00:05:19,810 --> 00:05:21,610
+Jadi ini adalah bilangan epal yang mereka telah beli, jadi
+
+96
+00:05:21,610 --> 00:05:23,590
+ianya berbalik kepada 'M'.
+
+97
+00:05:23,590 --> 00:05:29,360
+Sekarang, jika 'R', jika River Orchards juga telah membeli 'a' epal dengan
+
+98
+00:05:29,360 --> 00:05:33,110
+sukatan yang sama, 'a', ianya akan membawa awak
+
+99
+00:05:33,110 --> 00:05:35,370
+kira-kira di sini.
+
+100
+00:05:35,370 --> 00:05:38,960
+Jadi sekali lagi, ini adalah -- biar saya lakukan sedikit
+
+101
+00:05:38,960 --> 00:05:42,010
+perubahan, sebab saya tidak suka ianya bertindih, jadi biar saya
+
+102
+00:05:42,010 --> 00:05:42,740
+buat begini.
+
+103
+00:05:42,740 --> 00:05:46,260
+Katakan benda alah ini, M -- asek lupa nama diorang --
+
+104
+00:05:46,260 --> 00:05:50,900
+Old Maple Farms membeli 'a' epal, sejauh ini.
+
+105
+00:05:50,900 --> 00:05:52,360
+Maka ini adalah 'a' epal.
+
+106
+00:05:52,360 --> 00:05:55,700
+Tetapi River Orchards juga membeli 'a' epal, jadi mari
+
+107
+00:05:55,700 --> 00:05:56,700
+tambah nilai yang sama.
+
+108
+00:05:56,700 --> 00:05:58,700
+Saya akan tiru dan salinkannya supaya ianya
+
+109
+00:05:58,700 --> 00:05:59,950
+mendapat nilai yang sama.
+
+110
+00:06:02,310 --> 00:06:07,450
+Jadi River Orchards juga membeli 'a', jadi ianya juga
+
+111
+00:06:07,450 --> 00:06:09,470
+membelli nilai yang sama.
+
+112
+00:06:09,470 --> 00:06:12,980
+Justeru, River Orcahrds akan
+
+113
+00:06:12,980 --> 00:06:16,390
+mempunyai epal sebanyak ini pada tahun mereka mendapat
+
+114
+00:06:16,390 --> 00:06:17,800
+hasil tanaman yang berkurangan tetapi telah membelinya.
+
+115
+00:06:17,800 --> 00:06:21,420
+Jadi, di sini, adalah -- nilai di sini
+
+116
+00:06:21,420 --> 00:06:26,120
+adalah 2/3R tambah 'a'.
+
+117
+00:06:26,120 --> 00:06:27,380
+Ini adalah apa yang dimiliki River Orchards.
+
+118
+00:06:27,380 --> 00:06:30,830
+Kemudian jumlah yang dimiliki Old Maple Farms di sini,
+
+119
+00:06:30,830 --> 00:06:34,290
+adalah 2/3M tambah 'a'.
+
+120
+00:06:34,290 --> 00:06:36,590
+Seperti yang kita dapat lihat, Old Maple Farms
+
+121
+00:06:36,590 --> 00:06:38,660
+masih mempunyai lebih epal.

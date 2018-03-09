@@ -1,0 +1,1491 @@
+1
+00:00:00,000 --> 00:00:00,550
+.
+
+2
+00:00:00,550 --> 00:00:04,100
+Sebelum mengkaji bagaimana sel membahagi,
+
+3
+00:00:04,100 --> 00:00:06,810
+adalah berguna untuk belajar tentang
+
+4
+00:00:06,810 --> 00:00:09,730
+perkataan yang berkaitan dengan DNA.
+
+5
+00:00:09,730 --> 00:00:12,300
+Terdapat banyak perkataan dan beberapa daripadanya
+
+6
+00:00:12,300 --> 00:00:14,520
+kedengaran sama.Ia boleh mengelirukan.
+
+7
+00:00:14,520 --> 00:00:16,600
+Saya akan bercakap tentang bagaimana
+
+8
+00:00:16,600 --> 00:00:21,240
+DNA menghasilkan salinannya, atau bagaimana
+
+9
+00:00:21,240 --> 00:00:24,580
+ia menghasilkan protein.Saya telah bercakap tentangnya
+
+10
+00:00:24,580 --> 00:00:27,220
+dalam video tentang DNA.
+
+11
+00:00:27,220 --> 00:00:29,340
+Saya hanya akan melukis sebahagian kecil daripada
+
+12
+00:00:29,340 --> 00:00:30,705
+DNA.
+
+13
+00:00:30,705 --> 00:00:37,740
+Terdapatnya A, G, T.Katakan terdapatnya 2 T,
+
+14
+00:00:37,740 --> 00:00:38,930
+2 C.
+
+15
+00:00:38,930 --> 00:00:40,000
+Hanya sebahagian kecil.
+
+16
+00:00:40,000 --> 00:00:41,400
+Dan seterusnya.
+
+17
+00:00:41,400 --> 00:00:43,010
+Ia ialah heliks ganda dua.
+
+18
+00:00:43,010 --> 00:00:45,440
+Ia ada bes yang sepadan.
+
+19
+00:00:45,440 --> 00:00:47,780
+Biar saya gunakan warna ini.
+
+20
+00:00:47,780 --> 00:00:53,390
+A berpasangan dengan T, G+C, ia membentuk ikatan hidrogen dengan C,
+
+21
+00:00:53,390 --> 00:01:01,320
+T+A, T+A, C+G, C+G.
+
+22
+00:01:01,320 --> 00:01:03,280
+Ia akan berterusan
+
+23
+00:01:03,280 --> 00:01:05,480
+ke arah ini.
+
+24
+00:01:05,480 --> 00:01:07,770
+Terdapatnya beberapa proses yang berbeza yang
+
+25
+00:01:07,770 --> 00:01:09,310
+berkaitan dengan DNA.
+
+26
+00:01:09,310 --> 00:01:12,440
+Pertama, ia berkaitan dengan sel-sel badan.
+
+27
+00:01:12,440 --> 00:01:16,630
+Sel-sel kulit perlu menghasilkan salinannya,
+
+28
+00:01:16,630 --> 00:01:21,550
+DNA akan menghasilkan salinannya.Proses ini dipanggil
+
+29
+00:01:21,550 --> 00:01:22,510
+replikasi.
+
+30
+00:01:22,510 --> 00:01:23,920
+DNA akan mereplikasi.
+
+31
+00:01:23,920 --> 00:01:26,190
+Biar saya jelaskan replikasi.
+
+32
+00:01:26,190 --> 00:01:28,660
+Bagaimana DNA ini menghasilkan salinannya?
+
+33
+00:01:28,660 --> 00:01:30,750
+Ini ialah salah satu perkara yang menarik tentang
+
+34
+00:01:30,750 --> 00:01:32,320
+struktur DNA.
+
+35
+00:01:32,320 --> 00:01:34,770
+Replikasi.
+
+36
+00:01:34,770 --> 00:01:37,120
+Saya gunakan kaedah mudah.
+
+37
+00:01:37,120 --> 00:01:39,600
+Yang penting ialah bagaimana kedua-dua bahagian ini terpisah.
+
+38
+00:01:39,600 --> 00:01:40,240
+Ia tidak berlaku sendiri.
+
+39
+00:01:40,240 --> 00:01:43,510
+Ia dibantu protein dan enzim.
+
+40
+00:01:43,510 --> 00:01:45,520
+Saya akan mendalami
+
+41
+00:01:45,520 --> 00:01:48,610
+mikrobiologinya dalam video pada masa depan.
+
+42
+00:01:48,610 --> 00:01:53,744
+Jadi, pasangan ini akan terpisah.
+
+43
+00:01:53,744 --> 00:01:57,280
+Biar saya letakkannya di sini.
+
+44
+00:01:57,280 --> 00:01:58,590
+Ia akan terpisah.
+
+45
+00:01:58,590 --> 00:02:02,190
+Biar saya ambil yang satu lagi.
+
+46
+00:02:02,190 --> 00:02:03,710
+Terlalu besar.
+
+47
+00:02:03,710 --> 00:02:07,430
+Ia kelihatan seperti ini.
+
+48
+00:02:07,430 --> 00:02:11,050
+Ia akan terpisah.Selepas itu,
+
+49
+00:02:11,050 --> 00:02:12,680
+apakah akan berlaku?
+
+50
+00:02:12,680 --> 00:02:16,950
+Biar saya padamkan beberapa bahagian di sini.
+
+51
+00:02:16,950 --> 00:02:18,900
+Padamkan bahagian ini.
+
+52
+00:02:18,900 --> 00:02:20,600
+Jadi, terdapatnya heliks ganda dua.
+
+53
+00:02:20,600 --> 00:02:21,410
+Semuanya saling berhubung.
+
+54
+00:02:21,410 --> 00:02:22,230
+Ia ialah pasangan bes.
+
+55
+00:02:22,230 --> 00:02:23,980
+Sekarang, pasangan ini telah terpisah.
+
+56
+00:02:23,980 --> 00:02:26,010
+Setelah terpisah, apakah yang boleh dilakukan setiap satu daripadanya?
+
+57
+00:02:26,010 --> 00:02:28,500
+Ia boleh menjadi pencontoh
+
+58
+00:02:28,500 --> 00:02:32,620
+sesama sendiri.
+
+59
+00:02:32,620 --> 00:02:35,410
+Jika bahagian ini bersendirian, secara tiba-tiba,
+
+60
+00:02:35,410 --> 00:02:40,750
+bes timina mungkin bergabung dengannya, jadi
+
+61
+00:02:40,750 --> 00:02:42,110
+nukleotida ini akan mula terbentuk.
+
+62
+00:02:42,110 --> 00:02:46,640
+Jadi, terdapatnya timina, sitosina, adenina,
+
+63
+00:02:46,640 --> 00:02:49,750
+adenina, guanina, guanina, dan ia akan berterusan.
+
+64
+00:02:49,750 --> 00:02:53,835
+Bahagian hijau ini yang
+
+65
+00:02:53,835 --> 00:02:56,210
+dahulunya terikat pada bahagian biru ini, perkara yang sama
+
+66
+00:02:56,210 --> 00:02:56,970
+akan berlaku.
+
+67
+00:02:56,970 --> 00:03:01,670
+Terdapatnyaadenina, guanina, timina, timina,
+
+68
+00:03:01,670 --> 00:03:02,770
+sitosina, sitosina.
+
+69
+00:03:02,770 --> 00:03:03,550
+Apakah yang berlaku tadi?
+
+70
+00:03:03,550 --> 00:03:06,460
+Setelah pemisahan dan penarikan bes pelengkapnya,
+
+71
+00:03:06,460 --> 00:03:10,670
+salinan molekul ini terhasil.
+
+72
+00:03:10,670 --> 00:03:13,280
+Saya akan jelaskan mikrobiologinya pada masa depan.
+
+73
+00:03:13,280 --> 00:03:14,030
+Ini hanya penerangan ringkas.
+
+74
+00:03:14,030 --> 00:03:17,370
+Inilah bagaimana DNA menghasilkan salinannya.
+
+75
+00:03:17,370 --> 00:03:20,190
+Apabila bercakap tentang mitosis dan meiosis,
+
+76
+00:03:20,190 --> 00:03:22,030
+saya mungkin kata, "inilah peringkat di mana replikasi
+
+77
+00:03:22,030 --> 00:03:23,280
+telah berlaku."
+
+78
+00:03:23,280 --> 00:03:26,460
+Perkara lain yang akan anda dengar, saya telah
+
+79
+00:03:26,460 --> 00:03:32,900
+bercakap tentangnya dalam video tentang DNA, ialah transkripsi.
+
+80
+00:03:32,900 --> 00:03:36,000
+Dalam video tentang DNA, saya tidak memfokuskan kepada bagaimana DNA
+
+81
+00:03:36,000 --> 00:03:38,730
+menghasilkan salinannya, tapi salah satu perkara yang menarik tentang
+
+82
+00:03:38,730 --> 00:03:41,420
+heliks ganda dua ini ialah ia mudah
+
+83
+00:03:41,420 --> 00:03:42,160
+menghasilkan salinannya.
+
+84
+00:03:42,160 --> 00:03:46,670
+Hanya pisahkan kedua-dua heliks, setiap satu daripadanya akan
+
+85
+00:03:46,670 --> 00:03:48,760
+menjadi pencontoh dan
+
+86
+00:03:48,760 --> 00:03:49,410
+salinannya akan terhasil.
+
+87
+00:03:49,410 --> 00:03:53,200
+Transkripsi perlu berlaku agar DNA ini
+
+88
+00:03:53,200 --> 00:03:56,380
+akan berubah menjadi protein, tapi transkripsi hanyalah
+
+89
+00:03:56,380 --> 00:03:57,870
+langkah pertengahan.
+
+90
+00:03:57,870 --> 00:04:05,280
+Ia melibatkan perubahan DNA kepada mRNA.
+
+91
+00:04:05,280 --> 00:04:08,930
+Kemudian, mRNA akan meninggalkan nukleus sel dan menuju ke
+
+92
+00:04:08,930 --> 00:04:12,810
+ribosom. Saya akan bercakap tentangnya nanti.
+
+93
+00:04:12,810 --> 00:04:13,810
+Jadi, kita boleh lakukan perkara yang sama.
+
+94
+00:04:13,810 --> 00:04:15,760
+Bahagian ini juga akan terpisah
+
+95
+00:04:15,760 --> 00:04:18,120
+semasa berlakunya transkripsi.
+
+96
+00:04:18,120 --> 00:04:24,970
+Jadi, sebahagian di situ dan sebahagian lain
+
+97
+00:04:24,970 --> 00:04:26,220
+di situ.
+
+98
+00:04:26,220 --> 00:04:31,270
+.
+
+99
+00:04:31,270 --> 00:04:34,240
+Sebenarnya, adalah lebih baik untuk jelaskan sebahagian saja,
+
+100
+00:04:34,240 --> 00:04:36,880
+biar saya padamkannya.
+
+101
+00:04:36,880 --> 00:04:41,450
+.
+
+102
+00:04:41,450 --> 00:04:43,730
+Katakan, bahagian hijau ini akan mengalami
+
+103
+00:04:43,730 --> 00:04:46,010
+transkripsi.
+
+104
+00:04:46,010 --> 00:04:49,695
+Biar saya padamkan bahagian ini.
+
+105
+00:04:49,695 --> 00:04:52,530
+Biar saya padamkan bahagian ini.
+
+106
+00:04:52,530 --> 00:04:59,860
+Bukannya asid deoksibonukleik
+
+107
+00:04:59,860 --> 00:05:05,030
+yang akan berpasangan dengan bahagian DNA ini,
+
+108
+00:05:05,030 --> 00:05:07,950
+tapi asid ribonukleik, atau RNA, yang akan berpasangan dengan ini.
+
+109
+00:05:07,950 --> 00:05:11,620
+Saya akan gunakan magenta untuk RNA.
+
+110
+00:05:11,620 --> 00:05:14,130
+Jadi, RNA berpasangan dengannya.
+
+111
+00:05:14,130 --> 00:05:19,480
+Jadi, timina di bahagian DNA akan berpasangan dengan adenina,
+
+112
+00:05:19,480 --> 00:05:22,810
+guanina. Apabila bercakap tentang RNA,
+
+113
+00:05:22,810 --> 00:05:27,160
+kita ada urasil, sitosina, sitosina.
+
+114
+00:05:27,160 --> 00:05:28,080
+Ia akan berterusan.
+
+115
+00:05:28,080 --> 00:05:29,330
+Ini ialah mRNA.
+
+116
+00:05:29,330 --> 00:05:33,210
+mRNA.
+
+117
+00:05:33,210 --> 00:05:35,070
+Ini akan terpisah.
+
+118
+00:05:35,070 --> 00:05:38,950
+mRNA akan terpisah dan meninggalkan nukleus.
+
+119
+00:05:38,950 --> 00:05:43,490
+Kemudian, berlakunya translasi.
+
+120
+00:05:43,490 --> 00:05:49,750
+Translasi.
+
+121
+00:05:49,750 --> 00:05:53,790
+Dalam video tentang DNA,
+
+122
+00:05:53,790 --> 00:05:56,280
+saya bercakap tentang tRNA.
+
+123
+00:05:56,280 --> 00:06:01,650
+Pemindahan RNA adalah seperti trak yang membawa
+
+124
+00:06:01,650 --> 00:06:05,100
+asid amino ke mRNA.Semua ini berlaku di dalam
+
+125
+00:06:05,100 --> 00:06:07,150
+bahagian sel yang dipanggil ribosom.
+
+126
+00:06:07,150 --> 00:06:09,030
+Pada dasarnya, translasi ialah
+
+127
+00:06:09,030 --> 00:06:16,710
+mRNA berubah menjadi protein.Kita telah lihat bagaimana ia berlaku.
+
+128
+00:06:16,710 --> 00:06:20,560
+Biar saya buat salinan di sini.
+
+129
+00:06:20,560 --> 00:06:22,880
+Biar saya buat salinan di sini.
+
+130
+00:06:22,880 --> 00:06:32,980
+Yang ini terpisah dan meninggalkan nukleus.
+
+131
+00:06:32,980 --> 00:06:37,060
+Kemudian, terdapatnya tRNA.
+
+132
+00:06:37,060 --> 00:06:38,820
+Mungkin terdapatnya beberapa tRNA.
+
+133
+00:06:38,820 --> 00:06:41,420
+Katakan, adenina, adenina, guanina, dan guanina.
+
+134
+00:06:41,420 --> 00:06:43,430
+Ini ialah tRNA.
+
+135
+00:06:43,430 --> 00:06:44,230
+Ini ialah kodon.
+
+136
+00:06:44,230 --> 00:06:46,650
+Kodon mempunyai 3 pasangan bes yang terikat padanya.
+
+137
+00:06:46,650 --> 00:06:48,540
+Ia mempunyai asid amino.
+
+138
+00:06:48,540 --> 00:06:50,750
+Terdapat elemen-elemen lain tRNA.
+
+139
+00:06:50,750 --> 00:06:54,890
+Katakan, urasil, sitosiina, adedina
+
+140
+00:06:54,890 --> 00:06:57,305
+Ia mempunyai asid amino yang berbeza.
+
+141
+00:07:00,850 --> 00:07:03,530
+Asid amino terikat padanya dan membentuk
+
+142
+00:07:03,530 --> 00:07:09,365
+rantaian asid amino yang panjang ini, iaitu protein.
+
+143
+00:07:09,365 --> 00:07:12,840
+Protein ini membentuk bentuk-bentuk yang pelik dan rumit ini.
+
+144
+00:07:12,840 --> 00:07:17,080
+Saya mahu pastikan anda faham.Jika kita mulakan daripada DNA,
+
+145
+00:07:17,080 --> 00:07:23,510
+dan ia menghasilkan salinan DNA,
+
+146
+00:07:23,510 --> 00:07:29,790
+ini dipanggil replikasi.
+
+147
+00:07:29,790 --> 00:07:33,430
+Mereplikasi DNA.
+
+148
+00:07:33,430 --> 00:07:39,270
+Jika kita mulakan daripada DNA dan ia menghasilkan mRNA
+
+149
+00:07:39,270 --> 00:07:42,006
+daripada pencontoh DNA, ini dipanggil
+
+150
+00:07:42,006 --> 00:07:48,050
+Transkripsi.
+
+151
+00:07:48,050 --> 00:07:51,160
+Mentransksripsi maklumat daripada
+
+152
+00:07:51,160 --> 00:07:53,830
+1 bentuk ke bentuk yang lain.
+
+153
+00:07:53,830 --> 00:07:57,520
+Apabila mRNA meninggalkan nuklues sel,
+
+154
+00:07:57,520 --> 00:08:00,200
+biar saya lukiskan 1 sel untuk jelaskannya.
+
+155
+00:08:00,200 --> 00:08:04,100
+Jika ini ialah sel, saya akan jelaskan
+
+156
+00:08:04,100 --> 00:08:05,090
+struktur sel pada masa depan.
+
+157
+00:08:05,090 --> 00:08:06,870
+JIka ini ialah sel, nukleus berada di tengah.
+
+158
+00:08:06,870 --> 00:08:10,380
+Semua DNA berada di sini.
+
+159
+00:08:10,380 --> 00:08:13,500
+Replikasi dan transkripsi berlaku di sini.
+
+160
+00:08:13,500 --> 00:08:16,310
+Tapi apabila mRNA meninggalkan sel dan
+
+161
+00:08:16,310 --> 00:08:19,270
+berada di dalam ribosom,
+
+162
+00:08:19,270 --> 00:08:22,470
+translasi akan berlaku dan protein akan terbentuk.
+
+163
+00:08:22,470 --> 00:08:29,430
+Jadi, mRNA berubah menjadi protein ialah translasi.
+
+164
+00:08:29,430 --> 00:08:33,230
+Kod genetik mentranslasi
+
+165
+00:08:33,230 --> 00:08:34,809
+menjadi kod protein.
+
+166
+00:08:34,809 --> 00:08:36,059
+Jadi, inilah translasi.
+
+167
+00:08:36,059 --> 00:08:38,330
+Translasi.
+
+168
+00:08:38,330 --> 00:08:43,030
+Jadi, inilah perkataan-perkataan yang perlu diketahui.
+
+169
+00:08:43,030 --> 00:08:45,290
+Pastikan anda gunakan perkataan yang betul apabila anda
+
+170
+00:08:45,290 --> 00:08:46,660
+bercakap tentang proses yang berbeza.
+
+171
+00:08:46,660 --> 00:08:51,560
+Terdapat perkataan-perkataan lain tentang DNA
+
+172
+00:08:51,560 --> 00:08:54,250
+yang sangat mengelirukan semasa
+
+173
+00:08:54,250 --> 00:08:56,600
+saya belajar tentangnya.
+
+174
+00:08:56,600 --> 00:08:58,120
+Saya akan tulis di sini.
+
+175
+00:08:58,120 --> 00:09:04,100
+Kromosom.
+
+176
+00:09:04,100 --> 00:09:09,590
+Kromatin.
+
+177
+00:09:09,590 --> 00:09:14,130
+Kromatid.
+
+178
+00:09:14,130 --> 00:09:17,210
+Kita telah belajar tentang kromosom.
+
+179
+00:09:17,210 --> 00:09:18,760
+Terdapatnya DNA.
+
+180
+00:09:18,760 --> 00:09:20,880
+Terdapatnya bebenang DNA.
+
+181
+00:09:20,880 --> 00:09:23,530
+Ini ialah heliks ganda dua.
+
+182
+00:09:23,530 --> 00:09:27,470
+Jika saya zum masuk bebenang ini, ia sebenarnya 2
+
+183
+00:09:27,470 --> 00:09:29,910
+heliks yang berbeza. Ia mempunyai
+
+184
+00:09:29,910 --> 00:09:32,140
+pasangan bes.
+
+185
+00:09:32,140 --> 00:09:35,730
+Saya akan lukis beberapa pasanga bes seperti ini.
+
+186
+00:09:35,730 --> 00:09:38,470
+Apabila saya melukis garis hijau ini,
+
+187
+00:09:38,470 --> 00:09:40,630
+ia mewakili heliks ganda dua.
+
+188
+00:09:40,630 --> 00:09:45,340
+Heliks ganda dua ini bergelung mengelilingi protein
+
+189
+00:09:45,340 --> 00:09:46,590
+yang dipanggil histon.
+
+190
+00:09:46,590 --> 00:09:51,290
+Heliks ganda dua ini bergelung mengelilingi protein yang dipanggil histon.
+
+191
+00:09:51,290 --> 00:09:53,660
+Katakan, ia bergelung seperti ini
+
+192
+00:09:53,660 --> 00:09:56,000
+dan seperti ini.
+
+193
+00:09:56,000 --> 00:09:59,480
+Ini dipanggil histon, iaitu
+
+194
+00:09:59,480 --> 00:10:00,730
+protein.
+
+195
+00:10:00,730 --> 00:10:04,900
+.
+
+196
+00:10:04,900 --> 00:10:12,890
+Struktur ini menggambarkan
+
+197
+00:10:12,890 --> 00:10:16,040
+kombinasi DNA dan protein.
+
+198
+00:10:16,040 --> 00:10:18,060
+Protein ini bergelung dan ia semakin banyak.
+
+199
+00:10:18,060 --> 00:10:20,680
+Akhirnya, bergantung kepada
+
+200
+00:10:20,680 --> 00:10:22,660
+peringkat hayat sel, akan terdapatnya struktur yang berbeza.
+
+201
+00:10:22,660 --> 00:10:26,440
+Tapi apabila bercakap tentang asid nukleik, iaitu
+
+202
+00:10:26,440 --> 00:10:29,420
+DNA, dan ia dikaitkan dengan protein, anda bercakap
+
+203
+00:10:29,420 --> 00:10:30,670
+tentang kromatin.
+
+204
+00:10:30,670 --> 00:10:32,980
+.
+
+205
+00:10:32,980 --> 00:10:39,100
+Anda boleh melihatnya sebagai struktur protein
+
+206
+00:10:39,100 --> 00:10:41,170
+yang membentuk DNA.
+
+207
+00:10:41,170 --> 00:10:44,100
+.
+
+208
+00:10:44,100 --> 00:10:47,640
+.
+
+209
+00:10:47,640 --> 00:10:50,460
+Setiap kali, apabila saya melukis nukleus sel,
+
+210
+00:10:50,460 --> 00:10:54,620
+saya akan melukisnya seperti biasa-- Saya akan
+
+211
+00:10:54,620 --> 00:10:55,150
+gunakan perkataannya.
+
+212
+00:10:55,150 --> 00:10:57,120
+Katakan, ini ialah nukleus sel.
+
+213
+00:10:57,120 --> 00:11:01,060
+Saya telah lukis struktur sel yang biasa di sini.
+
+214
+00:11:01,060 --> 00:11:03,840
+Mungkin 1 lagi di sini, mungkin ia
+
+215
+00:11:03,840 --> 00:11:07,420
+lebih pendek. Ia mempunyai kromosom homolog.
+
+216
+00:11:07,420 --> 00:11:10,410
+Saya telah melukis kromosom ini.
+
+217
+00:11:10,410 --> 00:11:13,790
+Setiap kromosom yang dilukis dalam video sebelum ini
+
+218
+00:11:13,790 --> 00:11:18,270
+ialah DNA yang berstruktur panjang, rantaian DNA yang
+
+219
+00:11:18,270 --> 00:11:21,010
+panjang dan saling bergelung.
+
+220
+00:11:21,010 --> 00:11:23,790
+Jika kita zum masuk, anda akan lihat
+
+221
+00:11:23,790 --> 00:11:25,830
+bebenang yang bergelung
+
+222
+00:11:25,830 --> 00:11:28,680
+seperti ini.
+
+223
+00:11:28,680 --> 00:11:32,170
+Kromosom homolog. Ingat,
+
+224
+00:11:32,170 --> 00:11:34,500
+dalam video tentang variasi, saya bercakap tentang kromosom
+
+225
+00:11:34,500 --> 00:11:36,960
+homolog yang mempunyai kod genetik yang serupa, tapi
+
+226
+00:11:36,960 --> 00:11:39,420
+mempunyai versi yang berbeza.
+
+227
+00:11:39,420 --> 00:11:42,640
+Jika yang biru berasal daripada ayah, yang merah berasal daripada mak,
+
+228
+00:11:42,640 --> 00:11:46,130
+tapi ia mempunyai kod genetik yang serupa.
+
+229
+00:11:46,130 --> 00:11:52,360
+Apabila bercakap tentang
+
+230
+00:11:52,360 --> 00:11:57,290
+rantaian DNA dalam struktur ini,
+
+231
+00:11:57,290 --> 00:11:58,660
+ia merujuk kepada kromosom.
+
+232
+00:11:58,660 --> 00:12:01,680
+Kromosom.
+
+233
+00:12:01,680 --> 00:12:05,400
+Say mahu tegaskan di sini.
+
+234
+00:12:05,400 --> 00:12:08,950
+DNA kelihatan seperti ini pada peringkat tertentu dalam hayatnya,
+
+235
+00:12:08,950 --> 00:12:14,900
+tapi bukannya semasa ia
+
+236
+00:12:14,900 --> 00:12:17,500
+mereplikasi.
+
+237
+00:12:17,500 --> 00:12:19,940
+Sebelum sel membahagi, DNA kelihatan
+
+238
+00:12:19,940 --> 00:12:21,430
+seperti ini.
+
+239
+00:12:21,430 --> 00:12:24,240
+Sepanjang hayat sel, apabila DNA sedang
+
+240
+00:12:24,240 --> 00:12:26,700
+menghasilkan protein atau semasa protein
+
+241
+00:12:26,700 --> 00:12:30,080
+sedang ditranskripsi dan ditranslasi
+
+242
+00:12:30,080 --> 00:12:32,380
+daripada DNA, DNA tidak berbelit-belit seperti ini.
+
+243
+00:12:32,380 --> 00:12:34,630
+Jika ia berbelit-belit, maka adalah sangat sukar
+
+244
+00:12:34,630 --> 00:12:42,310
+bagi replikasi dan transkripsi
+
+245
+00:12:42,310 --> 00:12:44,710
+DNA berlaku, menghasilkan protein dan sebagainya.
+
+246
+00:12:44,710 --> 00:12:48,610
+Biar saya lukis nukleus yang sama.
+
+247
+00:12:48,610 --> 00:12:53,780
+Biasanya, anda tidak dapat melihatnya dengan mikroskop
+
+248
+00:12:53,780 --> 00:12:54,240
+bercahaya biasa.
+
+249
+00:12:54,240 --> 00:12:57,690
+Ia sangat nipis sehingga bebenang DNA kelihatan
+
+250
+00:12:57,690 --> 00:12:59,980
+di merata-rata tempat dalam sel.
+
+251
+00:12:59,980 --> 00:13:02,160
+Saya melukisnya begini.Mungkin satu lagi
+
+252
+00:13:02,160 --> 00:13:05,560
+kelihatan seperti ini.
+
+253
+00:13:05,560 --> 00:13:08,880
+Terdapat satu lagi bebenang yang lebih pendek seperti ini.
+
+254
+00:13:08,880 --> 00:13:10,560
+Jadi, anda tidak dapat melihatnya sama sekali.
+
+255
+00:13:10,560 --> 00:13:12,500
+Ia tidak kelihatan seperti biasa.
+
+256
+00:13:12,500 --> 00:13:14,400
+Biasanya, ia kelihatan seperti ini.
+
+257
+00:13:14,400 --> 00:13:16,660
+Ia mempunyai bebenang yang pendek seperti ini.
+
+258
+00:13:16,660 --> 00:13:21,550
+Jadi, anda hanya dapat lihat kombinasi DNA dan protein
+
+259
+00:13:21,550 --> 00:13:24,760
+yang tidak teratur ini.Inilah yang
+
+260
+00:13:24,760 --> 00:13:26,410
+dirujuk sebagai kromatin.
+
+261
+00:13:26,410 --> 00:13:29,950
+Kromatin.
+
+262
+00:13:29,950 --> 00:13:32,540
+Jadi, perkataan-perkataan ini sangat mengelirukan.
+
+263
+00:13:32,540 --> 00:13:34,980
+Tapi secara amnya, apabila bercakap tentang
+
+264
+00:13:34,980 --> 00:13:39,580
+struktur rantaian DNA yang biasa,
+
+265
+00:13:39,580 --> 00:13:42,260
+ia merujuk kepada kromosom.
+
+266
+00:13:42,260 --> 00:13:46,770
+Kromatin boleh merujuk kepada struktur
+
+267
+00:13:46,770 --> 00:13:50,730
+kromosom, iaitu kombinasi DNA dan protein,
+
+268
+00:13:50,730 --> 00:13:54,450
+atau merujuk kepada pelbagai
+
+269
+00:13:54,450 --> 00:13:59,530
+kromosom yang tidak teratur ini, iaitu DNA
+
+270
+00:13:59,530 --> 00:14:01,100
+daripada pelbagai kromosom dan semua
+
+271
+00:14:01,100 --> 00:14:03,240
+protein yang bercampur aduk.
+
+272
+00:14:03,240 --> 00:14:04,520
+Saya mahu tegaskannya.
+
+273
+00:14:04,520 --> 00:14:05,990
+Perkataan seterusnya,
+
+274
+00:14:05,990 --> 00:14:08,290
+apakah dia kromatid?
+
+275
+00:14:08,290 --> 00:14:10,310
+Apakah dia kromatid?
+
+276
+00:14:10,310 --> 00:14:12,050
+Saya tidak ingat jika saya
+
+277
+00:14:12,050 --> 00:14:12,550
+telah melabelnya tadi.
+
+278
+00:14:12,550 --> 00:14:16,210
+Protein yang memberikan struktur kepada kromatin,
+
+279
+00:14:16,210 --> 00:14:18,890
+atau memberikan struktur kepada
+
+280
+00:14:18,890 --> 00:14:23,540
+kromosom, dipanggil histon.
+
+281
+00:14:23,540 --> 00:14:25,440
+Terdapat pelbagai jenis yang memberikan struktur
+
+282
+00:14:25,440 --> 00:14:28,310
+pada peringgkat yang berbeza, kita akan mendalaminya.
+
+283
+00:14:28,310 --> 00:14:30,850
+Apakah dia kromatid?
+
+284
+00:14:30,850 --> 00:14:34,780
+Katakan,
+
+285
+00:14:34,780 --> 00:14:37,790
+ini DNA saya.
+
+286
+00:14:37,790 --> 00:14:40,400
+Dalam keadaan biasa, 1 versi daripada
+
+287
+00:14:40,400 --> 00:14:42,620
+ayah saya, 1 versi daripada mak saya.
+
+288
+00:14:42,620 --> 00:14:44,270
+Katakan, ia mereplikasi.
+
+289
+00:14:44,270 --> 00:14:48,680
+Versi daripada ayah saya kelihatan begini pada mulanya.
+
+290
+00:14:48,680 --> 00:14:50,240
+Ia bebenang DNA yang besar.
+
+291
+00:14:50,240 --> 00:14:53,560
+Ia menghasilkan salinannya.
+
+292
+00:14:53,560 --> 00:14:57,850
+Jika semuanya berjalan lancar, salinannya
+
+293
+00:14:57,850 --> 00:14:59,590
+akan kelihatan seperti ini.
+
+294
+00:14:59,590 --> 00:15:01,470
+Kedua-duanya
+
+295
+00:15:01,470 --> 00:15:03,150
+saling terikat.
+
+296
+00:15:03,150 --> 00:15:05,000
+Kedua-dua saling terikat pada titik yang dipanggil
+
+297
+00:15:05,000 --> 00:15:06,250
+sentromer.
+
+298
+00:15:06,250 --> 00:15:08,755
+Sentromer.
+
+299
+00:15:08,755 --> 00:15:10,850
+Walaupun terdapatnya 2 bebenang,
+
+300
+00:15:10,850 --> 00:15:12,310
+sekarang kedua-duanya saling terikat.
+
+301
+00:15:12,310 --> 00:15:14,860
+Kedua-dua ini mengandungi--
+
+302
+00:15:14,860 --> 00:15:20,420
+Bebenang ini di sini.
+
+303
+00:15:20,420 --> 00:15:21,180
+Biar saya lukis dengan cara yang berbeza.
+
+304
+00:15:21,180 --> 00:15:23,090
+Saya boleh melukisnya dengan pelbagai cara.
+
+305
+00:15:23,090 --> 00:15:27,240
+Saya boleh katakan terdapat 1 bebenang di sini dan
+
+306
+00:15:27,240 --> 00:15:32,000
+1 lagi di sini.
+
+307
+00:15:32,000 --> 00:15:34,180
+Sekarang, saya ada 2 salinan.
+
+308
+00:15:34,180 --> 00:15:36,120
+Kedua-duanya mempunyai kod DNA yang serupa.
+
+309
+00:15:36,120 --> 00:15:37,330
+Kedua-duanya adalah serupa.
+
+310
+00:15:37,330 --> 00:15:39,002
+Ia masih dipanggil kromosom.
+
+311
+00:15:39,002 --> 00:15:45,760
+Ia masih dipanggil kromosom.
+
+312
+00:15:45,760 --> 00:15:48,470
+Ia masih dipanggil kromosom, tapi
+
+313
+00:15:48,470 --> 00:15:52,400
+setiap satu salinannya dipanggil kromatid.
+
+314
+00:15:52,400 --> 00:15:57,660
+Ini ialah kromatid, ini juga kromatid.
+
+315
+00:15:57,660 --> 00:15:59,950
+Kadangkala, ia dipanggil kromatid beradik.
+
+316
+00:15:59,950 --> 00:16:01,740
+Mungkin ia patut dipanggil kromatid kembar kerana
+
+317
+00:16:01,740 --> 00:16:05,580
+ia mempunyai maklumat genetik yang serupa.
+
+318
+00:16:05,580 --> 00:16:08,490
+Jadi, kromosom ini mempunyai 2 kromatid.
+
+319
+00:16:08,490 --> 00:16:12,750
+Sebelum berlakunya replikasi, atau sebelum DNA mereplikasi,
+
+320
+00:16:12,750 --> 00:16:16,540
+anda boleh katakan kromosom ini
+
+321
+00:16:16,540 --> 00:16:18,570
+mempunyai 1 kromatid.
+
+322
+00:16:18,570 --> 00:16:20,740
+Anda boleh panggilnya kromatid, walaupun itu bukan
+
+323
+00:16:20,740 --> 00:16:21,610
+kebiasaannya.
+
+324
+00:16:21,610 --> 00:16:25,100
+Ia dipanggil kromatid apabila terdapatnya
+
+325
+00:16:25,100 --> 00:16:26,780
+2 kromatid dalam 1 kromosom.
+
+326
+00:16:26,780 --> 00:16:29,760
+Kita akan belajar dalam topik mitosis dan meiosis, kedua-dua kromatid ini
+
+327
+00:16:29,760 --> 00:16:34,710
+akan terpisah.Selepas itu,
+
+328
+00:16:34,710 --> 00:16:38,570
+setiap kromatid ini akan
+
+329
+00:16:38,570 --> 00:16:40,380
+dipangil kromosom.
+
+330
+00:16:40,380 --> 00:16:43,600
+Itu salah satu daripadanya.Satu lagi
+
+331
+00:16:43,600 --> 00:16:46,370
+mungkin bergerak ke arah ini.
+
+332
+00:16:46,370 --> 00:16:48,710
+Biar saya bulatkannya dengan warna hijau.
+
+333
+00:16:48,710 --> 00:16:51,190
+Jadi, ini mungkin bergerak seperti ini.
+
+334
+00:16:51,190 --> 00:16:53,510
+Yang dibulatkan dengan warna jingga ini mungkin bergerak seperti ini.
+
+335
+00:16:53,510 --> 00:16:55,820
+Setelah terpisah, kedua-duanya tidak lagi terikat oleh
+
+336
+00:16:55,820 --> 00:16:59,290
+sentromer.Sekarang, 1 kromosom
+
+337
+00:16:59,290 --> 00:17:02,670
+yang mempunyai 2 kromatid akan dirujuk sebagai
+
+338
+00:17:02,670 --> 00:17:04,819
+2 kromosom yang berasingan.
+
+339
+00:17:04,819 --> 00:17:07,950
+Atau, 2 kromosom berasingan yang setiap satu daripadanya
+
+340
+00:17:07,950 --> 00:17:10,790
+terdiri daripada 1 kromatid.
+
+341
+00:17:10,790 --> 00:17:13,530
+Harap-harap ini dapat menjelaskan jargon
+
+342
+00:17:13,530 --> 00:17:14,240
+yang berkaitan dengan DNA.
+
+343
+00:17:14,240 --> 00:17:16,130
+Saya mendapatinya sangat mengelirukan.
+
+344
+00:17:16,130 --> 00:17:18,359
+Tapi, ia agak berguna apabila kita belajar tentang
+
+345
+00:17:18,359 --> 00:17:20,270
+mitosis dan meiosis.Saya akan kata,
+
+346
+00:17:20,270 --> 00:17:21,369
+"kromosom berubah menjadi kromatid."
+
+347
+00:17:21,369 --> 00:17:23,970
+Anda akan tanya, "bagaimana 1 kromosom
+
+348
+00:17:23,970 --> 00:17:24,859
+berubah menjadi 2 kromosom?"
+
+349
+00:17:24,859 --> 00:17:27,280
+"Bagaimana 1 kromatid berubah menjadi 1 kromosom?"
+
+350
+00:17:27,280 --> 00:17:29,470
+Semuanya berkaitan dengan perkataan.
+
+351
+00:17:29,470 --> 00:17:32,730
+Saya akan gunakan perkataan yang berbeza dan tidak akan panggil ini sebagai
+
+352
+00:17:32,730 --> 00:17:34,730
+kromosom dan setiap satu daripada ini sebagai
+
+353
+00:17:34,730 --> 00:17:36,880
+kromosom.Tapi itulah caranya kita
+
+354
+00:17:36,880 --> 00:17:37,920
+memberikan nama kepadanya.
+
+355
+00:17:37,920 --> 00:17:39,520
+Mungkin anda tertanya-tanya tentang
+
+356
+00:17:39,520 --> 00:17:41,750
+asal usul perkataan "kromo".
+
+357
+00:17:41,750 --> 00:17:43,510
+Entah jika anda tahu filem Kodak yang lama
+
+358
+00:17:43,510 --> 00:17:44,550
+dipanggil "warna kromo".
+
+359
+00:17:44,550 --> 00:17:47,460
+"Kromo" berkaitan dengan warna.
+
+360
+00:17:47,460 --> 00:17:49,910
+Rasanya, ia berasal daripada perkataan Greek yang bermakna "warna".
+
+361
+00:17:49,910 --> 00:17:52,830
+Pada mulanya, semasa orang ramai
+
+362
+00:17:52,830 --> 00:17:56,000
+melihat nukleus sel, mereka akan menggunakan pewarna.
+
+363
+00:17:56,000 --> 00:17:58,480
+Kromosom akan meresap
+
+364
+00:17:58,480 --> 00:18:02,020
+pewarna dan ia membolehkan kita melihatnya dengan jelas dengan mikroskop cahaya.
+
+365
+00:18:02,020 --> 00:18:04,540
+"Some" berasal daripada "soma" yang bermakna "badan". Anda boleh anggapnya
+
+366
+00:18:04,540 --> 00:18:06,560
+sebagai "badan berwarna".Sebab itu,
+
+367
+00:18:06,560 --> 00:18:07,770
+ia dipanggil "kromosom".
+
+368
+00:18:07,770 --> 00:18:12,920
+Jadi, kromatin akan-- Saya tidak akan
+
+369
+00:18:12,920 --> 00:18:13,530
+meneruskannya.
+
+370
+00:18:13,530 --> 00:18:15,080
+Harap-harap video ini telah menjelaskan
+
+371
+00:18:15,080 --> 00:18:19,480
+kromatid, kromosom, kromatin.
+
+372
+00:18:19,480 --> 00:18:21,790
+Anda telah bersedia untuk mengkaji mitosis dan meiosis.
+
+373
+00:18:21,790 --> 00:18:23,040
+.

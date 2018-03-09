@@ -1,0 +1,572 @@
+1
+00:00:00,000 --> 00:00:06,070
+Selesaikan masalah aplikasi di bawah menggunakan tiga persamaan dan tiga anun.
+
+2
+00:00:06,067 --> 00:00:11,757
+Dan kita dah tahu sudut kedua dalam segitiga ini ialah 50 darjahkurang dari 4 darab sudut pertama.
+
+3
+00:00:11,759 --> 00:00:15,809
+Sudut ketiga ialah 40 darjah kurang dari sudut pertama.
+
+4
+00:00:15,805 --> 00:00:18,515
+Cari jumlah ukuran untuk sudut ketiga.
+
+5
+00:00:18,518 --> 00:00:21,628
+Kita akan melukis segitiga disini.
+
+6
+00:00:21,625 --> 00:00:24,805
+Dan kita akan labelkan ia sebagai "a",
+
+7
+00:00:24,800 --> 00:00:26,800
+dan sudut kedua sebagai "b",
+
+8
+00:00:26,800 --> 00:00:28,840
+sudut ketiga sebagai "c",
+
+9
+00:00:28,836 --> 00:00:30,536
+Dan sebelum kita melihat kepada masalah ini
+
+10
+00:00:30,533 --> 00:00:36,273
+satu benda yang kita tahu mengenai segi tiga ialah jumlah kesemua sudut mestilah 180 darjah.
+
+11
+00:00:36,277 --> 00:00:43,797
+Jadi kita tahu bahawa a+b+c mestilah sama dengan 180 darjah.
+
+12
+00:00:43,800 --> 00:00:46,870
+Dengan maklumat yang kita tahu itu, mari kita lihat pada masalah segitiga ini.
+
+13
+00:00:46,867 --> 00:01:00,557
+Mereka telah memberitahu bahawa sudut kedua ialah 50 darjah kurang dari 4 kali sudut pertama.
+
+14
+00:01:00,554 --> 00:01:03,064
+Jadi, kita akan melabel b sebagai sudut kedua.
+
+15
+00:01:03,067 --> 00:01:09,337
+Sudut kedua segitiga ini ialah 50 darjah kurang dari 4 kali sudut pertama.
+
+16
+00:01:09,333 --> 00:01:14,603
+Jadi, 4 kali sudut yang pertama akan mejadi 4a (a ialah sudut pertama)
+
+17
+00:01:14,600 --> 00:01:18,050
+jadi, 4 kali sudut yang pertama ialah 4a tetapi ia adalah kurang dari 50 darjah
+
+18
+00:01:18,052 --> 00:01:21,272
+ia akan menjadi tolak 50.
+
+19
+00:01:21,267 --> 00:01:22,927
+Sekarang, masalah seterusnya ialah:
+
+20
+00:01:22,929 --> 00:01:26,599
+sudut yang ketiga ialah 40 darjah kurang dari yang pertama.
+
+21
+00:01:26,600 --> 00:01:31,600
+Jadi, sudut ketiga ialah 40 darjah kurang dari yang pertama.
+
+22
+00:01:31,600 --> 00:01:35,180
+Jadi, sudut pertama ialah a dan ia akan menjadi 40 darjah kurang daripada itu.
+
+23
+00:01:35,179 --> 00:01:39,529
+Sekarang kita ada 3 persamaan dengan 3 anun
+
+24
+00:01:39,533 --> 00:01:41,313
+dan kita hanya perlu selesaikan ia.
+
+25
+00:01:41,308 --> 00:01:44,658
+Mari kita lihat, ini merupakan pemboleh ubah yang bagus untuk dihapuskan.
+
+26
+00:01:44,662 --> 00:01:47,102
+dan cuba anda bayangkan ia menjadi lebih baik,
+
+27
+00:01:47,098 --> 00:01:53,268
+Saya akan membawa a kepada sebelah kiri kepada setiap persamaan di sini.
+
+28
+00:01:53,267 --> 00:01:55,137
+Jadi saya akan menulis semula persamaan ini.
+
+29
+00:01:55,138 --> 00:01:56,068
+Kita ada
+
+30
+00:01:56,064 --> 00:02:01,204
+a + b + c = 180
+
+31
+00:02:01,205 --> 00:02:07,145
+dan kemudian persamaan ini, jika kita tolak 4a dari kedua-dua belah persamaan ini kita mempunyai
+
+32
+00:02:07,148 --> 00:02:16,828
+-4a + b = -50.
+
+33
+00:02:16,831 --> 00:02:19,241
+Dan kemudian persamaan ini di sini,
+
+34
+00:02:19,236 --> 00:02:21,796
+jika kita tolak dari kedua-dua pihak kita
+
+35
+00:02:21,800 --> 00:02:34,050
+-A + c = -40.
+
+36
+00:02:34,052 --> 00:02:36,672
+Saya baru menolak a dari kedua dua belah pihak.
+
+37
+00:02:36,667 --> 00:02:39,197
+Jadi, sekarang kita mahu menghapuskan pembolehubah.
+
+38
+00:02:39,200 --> 00:02:42,400
+Dan kita sudah mempunyai persamaan ketiga ini di sini adalah a dan c,
+
+39
+00:02:42,400 --> 00:02:43,930
+ini cuma melibatkan a dan b,
+
+40
+00:02:43,933 --> 00:02:46,133
+dan yang pertama ini melibatkan a, b dan c.
+
+41
+00:02:46,133 --> 00:02:49,863
+Mari kita lihat, ini sudah dalam a dan c;
+
+42
+00:02:49,867 --> 00:02:51,797
+jika kita boleh tukar - dua persamaan pertama,
+
+43
+00:02:51,800 --> 00:02:57,330
+jika kita boleh menggunakan maklumat di dalam kedua-dua persamaan pertama berakhir dengan persamaan yang hanya dalam
+
+44
+00:02:57,333 --> 00:03:02,663
+sebutan a dan c, maka kita boleh menggunakan apa sahaja dengan persamaan ketiga ini
+
+45
+00:03:02,667 --> 00:03:05,837
+di sini dan kita akan mempunyai satu sistem 2 persamaan dengan 2 anu.
+
+46
+00:03:05,836 --> 00:03:07,336
+Mari kita selesaikan.
+
+47
+00:03:07,333 --> 00:03:09,083
+Jadi jika kita mahu berakhir dengan satu persamaan
+
+48
+00:03:09,082 --> 00:03:14,532
+dalam sebutan a dan c menggunakan 2 yang pertama ini, kita mestilah menghapuskan b
+
+49
+00:03:14,533 --> 00:03:17,203
+jadi kita boleh mendarab dengan salah satu persamaan dengan negatif satu
+
+50
+00:03:17,200 --> 00:03:19,400
+dan salah satu b positif akan menukarjan a kepada b negatif.
+
+51
+00:03:19,400 --> 00:03:27,130
+Mari kita lakukan demikian. Mari darabkan persamaan pertama di sini dengan -1.
+
+52
+00:03:27,133 --> 00:03:28,233
+Jadi ia akan menjadi
+
+53
+00:03:28,228 --> 00:03:33,598
+-A - b - c = -180,
+
+54
+00:03:33,600 --> 00:03:36,530
+dan kemudian kita akan mendapat persamaan hijau ini di sini
+
+55
+00:03:36,533 --> 00:03:39,603
+dimana ia merupakan persamaan yang sama, cuma disusun semula.
+
+56
+00:03:39,600 --> 00:03:40,570
+Jadi kita ada
+
+57
+00:03:40,574 --> 00:03:46,134
+-4a + b = -50
+
+58
+00:03:46,133 --> 00:03:48,333
+dan sekarang kita boleh menambah kedua-dua persamaan.
+
+59
+00:03:48,333 --> 00:03:55,803
+biarlah saya berbuat demikian dalam warna yang lain, supaya anda tahu dari mana ia datang.
+
+60
+00:03:55,800 --> 00:03:56,980
+Ini ialah
+
+61
+00:03:56,980 --> 00:04:01,270
+-4a + b = -50.
+
+62
+00:04:01,267 --> 00:04:03,737
+Kita boleh menambah kedua-dua ini sekarang
+
+63
+00:04:03,733 --> 00:04:05,663
+dan kita dapat
+
+64
+00:04:05,667 --> 00:04:09,797
+-A - 4a = - 5a,
+
+65
+00:04:09,800 --> 00:04:12,270
+batalkan yang b ini
+
+66
+00:04:12,267 --> 00:04:14,067
+kita akan dapat a tolak c,
+
+67
+00:04:14,067 --> 00:04:15,967
+sama dengan
+
+68
+00:04:15,964 --> 00:04:19,304
+-180 - 50 = -230
+
+69
+00:04:19,308 --> 00:04:22,668
+Sekarang dengan menggunakan dua persamaan tertinggi kita akan mendapat persamaan dengan sebutan a dan c,
+
+70
+00:04:22,667 --> 00:04:25,067
+kita akan mendapat persamaan lain dengan sebutan a dan c,
+
+71
+00:04:25,067 --> 00:04:27,597
+dan nampaknya jika kita menambah ia semuanya, c akan dibatalkan
+
+72
+00:04:27,600 --> 00:04:30,200
+Jadi biar saya menulis semula persamaan ini
+
+73
+00:04:30,200 --> 00:04:32,270
+Dan and kena berhati hati dalam menggunakan semua persamaan ini
+
+74
+00:04:32,267 --> 00:04:34,267
+jika tidak, anda akan membuat hujah bulatan.
+
+75
+00:04:34,267 --> 00:04:36,737
+Anda kena berhati ati di sini
+
+76
+00:04:36,733 --> 00:04:38,133
+persamaan pertama ini datang dari
+
+77
+00:04:38,133 --> 00:04:39,733
+dua di sini
+
+78
+00:04:39,733 --> 00:04:42,803
+Sekarang saya ingin menggabungkan dengan masalah ketiga
+
+79
+00:04:42,800 --> 00:04:46,530
+masalah yang belum lagi sedia di masukkan dalam persamaan di sini.
+
+80
+00:04:46,533 --> 00:04:48,343
+jadi kita ada
+
+81
+00:04:48,338 --> 00:04:52,748
+-A + c = -40
+
+82
+00:04:52,749 --> 00:04:54,559
+Kami tambah dua persamaan:
+
+83
+00:04:54,559 --> 00:04:58,669
+-5a - a =-6a,
+
+84
+00:04:58,667 --> 00:05:00,667
+c akan dibatalkan,
+
+85
+00:05:00,667 --> 00:05:06,337
+dan kemudian anda ada -230 - 40, ini adalah sama dengan -270,
+
+86
+00:05:06,333 --> 00:05:11,933
+kita boleh membahagikan kedua-dua belah pihak dengan -6,
+
+87
+00:05:11,929 --> 00:05:18,399
+dan kita akan mendapat sama dengan -270 lebih -6.
+
+88
+00:05:18,400 --> 00:05:26,670
+270 boleh dibahagi oleh kedua-dua 3 dan 2 jadi ia perlu dibahagikan dengan 6,
+
+89
+00:05:26,667 --> 00:05:27,797
+jadi biarlah saya hanya bahagikan ia;
+
+90
+00:05:27,800 --> 00:05:29,330
+tanda negatif jelasnya akan dibatalkan,
+
+91
+00:05:29,333 --> 00:05:31,463
+negatif dibahagikan dengan negatif akan menjadi positif.
+
+92
+00:05:31,467 --> 00:05:36,297
+Jika kita mengambil 6 ke 270, 6 masuk ke 27 empat kali
+
+93
+00:05:36,298 --> 00:05:38,338
+4 x 6 = 24
+
+94
+00:05:38,333 --> 00:05:39,803
+kita tolak
+
+95
+00:05:39,800 --> 00:05:42,070
+kita akan mendapat 3, turunkan sifar
+
+96
+00:05:42,067 --> 00:05:45,067
+6 masuk ke 30, 5 kali
+
+97
+00:05:45,067 --> 00:05:52,667
+Jadi kita akan mendapat a yang sama dengan 45.
+
+98
+00:05:52,667 --> 00:05:53,467
+Sekarang mari kita melihat yang lain.
+
+99
+00:05:53,467 --> 00:05:55,737
+Kita boleh menukarkan kembali untuk menyeesikan c.
+
+100
+00:05:55,733 --> 00:06:00,843
+c adalah sama dengan a tolak 40 darjah.
+
+101
+00:06:00,846 --> 00:06:06,596
+Jadi yang sama dengan,yang kuning,
+
+102
+00:06:06,600 --> 00:06:12,400
+jadi c adalah sama dengan 45 tolak 40 yang sama dengan 5 darjah.
+
+103
+00:06:12,400 --> 00:06:17,380
+Jadi, setakat ini kita mempunyai a = 45 darjah,
+
+104
+00:06:17,379 --> 00:06:23,109
+c = 5 darjah,
+
+105
+00:06:23,113 --> 00:06:27,063
+dan kemudian anda boleh menggantikan ke dalam salah satu daripada yang lain untuk mengetahui b.
+
+106
+00:06:27,067 --> 00:06:29,397
+Kita boleh menggunakan salah satu di sini, waarna hijau:
+
+107
+00:06:29,400 --> 00:06:31,000
+b = 4a - 50
+
+108
+00:06:31,000 --> 00:06:35,000
+Jadi b akan menjadi sama dengan 4 kali 45 ...
+
+109
+00:06:35,000 --> 00:06:39,640
+mari kita lihat, 2 x 45 ialah 90, jadi 4 x 45 adalah 180
+
+110
+00:06:39,636 --> 00:06:44,776
+jadi ia akan menjadi 180 tolak 50 oleh persamaan di sini
+
+111
+00:06:44,775 --> 00:06:48,605
+yang sama dengan 130 darjah.
+
+112
+00:06:48,600 --> 00:06:53,080
+Jadi kita akan mendapat b adalah sama dengan 130 darjah.
+
+113
+00:06:53,082 --> 00:06:54,872
+Biar saya tulis ia di sini
+
+114
+00:06:54,867 --> 00:06:56,067
+Jadi a akan sama dengan 45.
+
+115
+00:06:56,067 --> 00:06:59,597
+Jika saya ingin melukis segitiga ini ia akan menjadi seperti ini:
+
+116
+00:06:59,600 --> 00:07:01,800
+a ialah sudut 45 darjah
+
+117
+00:07:01,800 --> 00:07:05,770
+b ialah sudut 130 darjah
+
+118
+00:07:05,769 --> 00:07:07,999
+dan c ialah 5.
+
+119
+00:07:08,000 --> 00:07:12,490
+Jadi ia akan kelihatan seperti ini
+
+120
+00:07:12,487 --> 00:07:15,667
+di mana ini adalah pada 45 darjah,
+
+121
+00:07:15,667 --> 00:07:17,467
+b adalah 135 darjah [oops],
+
+122
+00:07:17,467 --> 00:07:19,597
+dan kemudian c ialah 5 darjah.
+
+123
+00:07:19,600 --> 00:07:20,870
+Dan anda boleh mengesahkan bahawa ia betul.
+
+124
+00:07:20,867 --> 00:07:22,537
+Satu, anda boleh menambah semua sudut
+
+125
+00:07:22,533 --> 00:07:25,333
+45 + 5 adalah 50.
+
+126
+00:07:25,333 --> 00:07:29,023
+Oh, maaf, ini bukan 135, ia adalah 130.
+
+127
+00:07:29,021 --> 00:07:30,871
+Kita selesaikan dengan betul di sini
+
+128
+00:07:30,867 --> 00:07:32,167
+dan ini adalah 5.
+
+129
+00:07:32,169 --> 00:07:34,779
+Oleh itu, apabila anda menambah mereka semua
+
+130
+00:07:34,775 --> 00:07:38,605
+45 + 130 + 5
+
+131
+00:07:38,600 --> 00:07:40,930
+yang merupakan sama dengan 180 darjah
+
+132
+00:07:40,933 --> 00:07:43,063
+45 5 ialah 50
+
+133
+00:07:43,067 --> 00:07:46,267
+tambah 130 dan ia semestinya menjadi 180.
+
+134
+00:07:46,267 --> 00:07:48,397
+Jadi ia memenuhi kekangan pertama kita
+
+135
+00:07:48,400 --> 00:07:49,530
+Kemudian pada kekangan kedua kita
+
+136
+00:07:49,533 --> 00:07:51,803
+b perlu sama dengan 4a - 50
+
+137
+00:07:51,800 --> 00:07:55,670
+juga 4 x a = 180
+
+138
+00:07:55,667 --> 00:07:59,137
+180-50 = 130 darjah
+
+139
+00:07:59,133 --> 00:08:01,403
+dan ia memenuhi kekangan kedua kami.
+
+140
+00:08:01,400 --> 00:08:02,400
+Dan kemudian kekangan ketiga kita
+
+141
+00:08:02,400 --> 00:08:05,610
+c = a - 40 darjah
+
+142
+00:08:05,610 --> 00:08:11,530
+Dan a ialah 45, c ialah 5, jadi jika tolak 40 daripada 45 anda mendapat 5 iaitu c
+
+143
+00:08:11,533 --> 100:00:00,003
+jadi ia memenuhi semua kekangan kita dan kita telah selesai.
+

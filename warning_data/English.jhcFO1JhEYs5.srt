@@ -1,0 +1,35 @@
+1
+00:00:00,000 --> 00:00:04,000
+The answer is: these 2 characters here
+
+2
+00:00:04,000 --> 00:00:07,000
+appear only in these 2 locations
+
+3
+00:00:07,000 --> 00:00:10,000
+corresponding to the words corn cream
+
+4
+00:00:10,000 --> 00:00:13,000
+which appear only in these locations in the English text.
+
+5
+00:00:13,000 --> 00:00:17,000
+Again, we're not 100% sure that's the right answer,
+
+6
+00:00:17,000 --> 00:00:20,000
+but it looks like a strong correlation.
+
+7
+00:00:20,000 --> 00:00:22,000
+Now, 1 more question.
+
+8
+00:00:22,000 --> 00:00:26,000
+Tell me what character or characters in Chinese
+
+9
+00:00:26,000 --> 99:59:59,999
+correspond to the English word soup.

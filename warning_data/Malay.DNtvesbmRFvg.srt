@@ -1,0 +1,347 @@
+1
+00:00:00,000 --> 00:00:00,540
+Baik...
+
+2
+00:00:00,540 --> 00:00:05,120
+Kita diminta untuk melukis graf di mana y = x kuasa 2 tolak x,
+
+3
+00:00:05,120 --> 00:00:07,760
+tolak 6 dengan memplotkan titik.
+
+4
+00:00:07,760 --> 00:00:09,280
+Mari kita lukiskan jadual.
+
+5
+00:00:09,280 --> 00:00:12,300
+Mari kita pilih beberapa nilai x dan tentukan apakah nilai y
+
+6
+00:00:12,300 --> 00:00:15,660
+berdasarkan hubungan di atas ini.
+
+7
+00:00:15,660 --> 00:00:17,480
+Jadi mari kita tentukan apakah nilai y.
+
+8
+00:00:17,480 --> 00:00:21,745
+Maka mari kita mulakan dengan x di negatif 3.
+
+9
+00:00:21,745 --> 00:00:25,760
+Maka jika x ialah negatif 3, maka y akan menjadi negatif 3
+
+10
+00:00:25,760 --> 00:00:29,560
+kuasa 2 ialah 9, tolak negatif 3 --
+
+11
+00:00:29,560 --> 00:00:33,950
+jadi itu ialah tambah 3 -- tolak 6.
+
+12
+00:00:33,950 --> 00:00:34,810
+Jadi apakah jawapannya?
+
+13
+00:00:34,810 --> 00:00:39,540
+9 + 3 ialah 12, tolak 6, jadi ianya adalah bersamaan dengan 6.
+
+14
+00:00:39,540 --> 00:00:42,260
+Kemudian kita dapat -- mari kita teruskan sebelum kita
+
+15
+00:00:42,260 --> 00:00:44,530
+plotkan apa-apa titik -- jadi kita ada negatif 2.
+
+16
+00:00:44,530 --> 00:00:47,750
+Jika x = -2, maka y = -2 kuasa 2,
+
+17
+00:00:47,750 --> 00:00:55,060
+iaitu 4, tolak -2, jadi itu adalah tambah 2, tolak 6.
+
+18
+00:00:55,060 --> 00:00:57,480
+Jadi dalam situasi ini, kita ada 4+2-6,
+
+19
+00:00:57,480 --> 00:00:59,410
+yang bersamaan dengan 0.
+
+20
+00:00:59,410 --> 00:01:02,750
+Baik, jika x= -1, kita ada -1 kuasa 2,
+
+21
+00:01:02,750 --> 00:01:05,930
+iaitu positif 1, tolak -1, iaitu lagi satu
+
+22
+00:01:05,930 --> 00:01:07,210
+positif 1.
+
+23
+00:01:07,210 --> 00:01:10,810
+Kemudian kita ada tolak 6.
+
+24
+00:01:10,810 --> 00:01:13,980
+2 - 6 = -4.
+
+25
+00:01:13,980 --> 00:01:15,240
+Mari kita pergi ke 0 pula.
+
+26
+00:01:15,240 --> 00:01:17,700
+Jika x =0, maka kedua-dua istilah ini ialah 0.
+
+27
+00:01:17,700 --> 00:01:20,630
+Dan kemudian y = -6.
+
+28
+00:01:20,630 --> 00:01:22,620
+Baik, mari kita pergi ke nilai positif 3.
+
+29
+00:01:22,620 --> 00:01:26,690
+Jika x = 1, kita ada 1 kuasa 2 tolak 1.
+
+30
+00:01:26,690 --> 00:01:28,130
+Jadi itu akan terbatal.
+
+31
+00:01:28,130 --> 00:01:30,450
+Dan kemudian, kita cuma ada -6 di sini.
+
+32
+00:01:30,450 --> 00:01:34,030
+Dan kemudian, jika kita ada x = 2,
+
+33
+00:01:34,030 --> 00:01:40,800
+kita ada 2 kuasa 2, iaitu 4,
+
+34
+00:01:40,800 --> 00:01:45,530
+tolak 2, tolak 6.
+
+35
+00:01:45,530 --> 00:01:50,490
+Jadi 4 - 2 ialah 2, tolak 6, maka ianya bersamaan dengan -4.
+
+36
+00:01:50,490 --> 00:01:54,750
+Dan kemudian jika x = 3, kita ada 3 kuasa 2, iaitu 9,
+
+37
+00:01:54,750 --> 00:01:56,690
+tolak 3, bukan?
+
+38
+00:01:56,690 --> 00:01:59,140
+9 - 3, tolak 6.
+
+39
+00:01:59,140 --> 00:02:00,510
+Baik, jadi itu akan menjadi bersamaan dengan 0.
+
+40
+00:02:00,510 --> 00:02:02,280
+OK, jadi mari kita plotkan titik-titik ini.
+
+41
+00:02:02,280 --> 00:02:04,440
+Biar saya gunakan warna yang gelap di sini.
+
+42
+00:02:04,440 --> 00:02:06,660
+Jadi, titik pertama ialah negatif 3 koma 6.
+
+43
+00:02:06,660 --> 00:02:10,259
+Jaid ini ialah paksix di sini, ini ialah paksi y.
+
+44
+00:02:10,259 --> 00:02:14,250
+Jadi negatif 3 ialah negatif 1, 2, 3 koma 6.
+
+45
+00:02:14,250 --> 00:02:17,650
+1, 2, 3, 4, 5, 6.
+
+46
+00:02:17,650 --> 00:02:19,720
+Jadi ianya akan berada di sini.
+
+47
+00:02:19,720 --> 00:02:21,820
+Ini ialah titiknya di sini.
+
+48
+00:02:21,820 --> 00:02:24,600
+Dan kemudiannya ialah negatif 2 koma 0.
+
+49
+00:02:24,600 --> 00:02:27,240
+Jadi negatif 2, dan kemudian kita tidak bergerak
+
+50
+00:02:27,240 --> 00:02:28,560
+ke arah y langsung.
+
+51
+00:02:28,560 --> 00:02:31,920
+Kemudian kita ada negatif 1 koma negatif 4.
+
+52
+00:02:31,920 --> 00:02:32,910
+Negatif 1.
+
+53
+00:02:32,910 --> 00:02:34,960
+1, 2, 3, 4.
+
+54
+00:02:34,960 --> 00:02:38,800
+Negatif 4 adalah di sini.
+
+55
+00:02:38,800 --> 00:02:41,720
+Kemudian kita ada 0, negatif 6.
+
+56
+00:02:41,720 --> 00:02:43,180
+0, x ialah 0.
+
+57
+00:02:43,180 --> 00:02:44,970
+y ialah negatif 6.
+
+58
+00:02:44,970 --> 00:02:47,040
+Jadi itu ialah titiknya di situ.
+
+59
+00:02:47,040 --> 00:02:48,710
+Kemudian kita ada 1, negatif 6.
+
+60
+00:02:48,710 --> 00:02:53,670
+Jadi x ialah 1, y ialah negatif 6.
+
+61
+00:02:53,670 --> 00:02:56,770
+Dan kemudian kita ada -- apa yang kita ada ya?
+
+62
+00:02:56,770 --> 00:02:58,350
+Kita ada 2, negatif 4.
+
+63
+00:02:58,350 --> 00:03:01,190
+Jadi x ialah 2, y ialah negatif 4.
+
+64
+00:03:01,190 --> 00:03:04,860
+Dan x ialah 3, y ialah 0.
+
+65
+00:03:04,860 --> 00:03:07,100
+Jadi anda boleh lihat di sini, jika kita sambungkan titik-titik ini,
+
+66
+00:03:07,100 --> 00:03:08,080
+kita akan dapat satu lengkung.
+
+67
+00:03:08,080 --> 00:03:09,640
+Kita akan peroleh apa yang nampak seperti bentuk U.
+
+68
+00:03:09,640 --> 00:03:11,360
+Dan bentuk U itu kelihatan seperti ini.
+
+69
+00:03:11,360 --> 00:03:13,350
+Saya akan cuba sebaik mungkin, ini selalunya adalah
+
+70
+00:03:13,350 --> 00:03:16,460
+bahagian yang sukar, untuk sambungkan titik.
+
+71
+00:03:16,460 --> 00:03:22,460
+Mari saya lakukannya dengan cantik -- jadi kita dapat bentuk U
+
+72
+00:03:22,460 --> 00:03:24,190
+yang nampak seperti itu.
+
+73
+00:03:24,190 --> 00:03:26,700
+Saya pasti yang saya boleh lukis dengan lebih baik dari itu.
+
+74
+00:03:26,700 --> 00:03:28,970
+Biar saya cuba buat kali terakhir.
+
+75
+00:03:28,970 --> 00:03:35,570
+Mari saya cuba lukiskan bentuk U yang elok, jadi saya
+
+76
+00:03:35,570 --> 00:03:36,770
+akan teruskan begitu.
+
+77
+00:03:36,770 --> 00:03:38,670
+Jadi kita ada bentuk U ini di sini.
+
+78
+00:03:38,670 --> 00:03:42,980
+Dan bentuk U ini, adalah bentuk umum untuk
+
+79
+00:03:42,980 --> 00:03:45,130
+fungsi kuadratik ini di sini.
+
+80
+00:03:45,130 --> 00:03:45,970
+Dan ianya dipanggil parabola.
+
+81
+00:03:45,970 --> 00:03:49,920
+Jadi bentuk U itu dipanggil parabola.
+
+82
+00:03:49,920 --> 00:03:53,110
+Dan pada masa hadapan, kita akan lihat cara yang lebih bagus untuk grafkannya,
+
+83
+00:03:53,110 --> 00:03:54,720
+jadi anda tidak perlu plotkan sekelompok titik.
+
+84
+00:03:54,720 --> 00:03:56,670
+Tapi adalah bagus untuk melihat bentuk umum, dan kita dapat
+
+85
+00:03:56,670 --> 00:03:59,900
+bentuk umum itu dengan mencuba beberapa nilai x dan
+
+86
+00:03:59,900 --> 00:04:02,940
+kemudian mencari nilai y yang sepadan.
+
+87
+00:04:02,940 --> 00:04:03,400
+.

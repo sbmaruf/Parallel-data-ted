@@ -1,0 +1,215 @@
+1
+00:00:00,570 --> 00:00:04,850
+Kita dikehendaki menulis ini dalam bentuk perkataan, dan
+
+2
+00:00:04,850 --> 00:00:07,110
+saya tidak akan menyebutnya kerana itu akan memberi anda
+
+3
+00:00:07,110 --> 00:00:07,720
+jawapannya.
+
+4
+00:00:07,720 --> 00:00:13,370
+Kita mempunyai 63.15 yang kita mahu menulis dalam bentuk perkataan.
+
+5
+00:00:13,370 --> 00:00:16,580
+Nombor di sebelah kiri titik perpuluhan agak
+
+6
+00:00:16,580 --> 00:00:17,320
+jelas untuk diselesaikan.
+
+7
+00:00:17,320 --> 00:00:18,550
+Saya akan tambahkan kod warna di sini.
+
+8
+00:00:18,550 --> 00:00:22,440
+Jadi, kita mempunyai 6, 3.
+
+9
+00:00:22,440 --> 00:00:25,220
+Saya akan menulisnya dengan warna yang berlainan.
+
+10
+00:00:25,220 --> 00:00:31,410
+Dan kita mempunyai perpuluhan, dan kita mempunyai 1 dan 5.
+
+11
+00:00:35,880 --> 00:00:38,120
+Ada satu cara yang biasa digunakan untuk menyelesaikan ini, tetapi kita akan bincangkan
+
+12
+00:00:38,120 --> 00:00:42,040
+cara-cara lain yang anda boleh guna untuk menyatakan ini sebagai satu perkataan.
+
+13
+00:00:42,040 --> 00:00:44,320
+Tetapi kita tahu bagaimana nak menulis ini di sebelah kiri.
+
+14
+00:00:44,320 --> 00:00:45,470
+Ini agak jelas.
+
+15
+00:00:45,470 --> 00:00:46,950
+Ini adalah enam puluh tiga.
+
+16
+00:00:46,950 --> 00:00:48,060
+Saya akan menulis itu.
+
+17
+00:00:48,060 --> 00:00:51,850
+Jadi, ini adalah enam puluh tiga.
+
+18
+00:00:56,890 --> 00:00:59,173
+Dan untuk mengganti perpuluhan, kita akan menulis, dan.
+
+19
+00:01:01,750 --> 00:01:03,290
+Sekarang, terdapat dua cara penyelesaian dari sini.
+
+20
+00:01:03,290 --> 00:01:13,110
+Kita boleh mengatakan, dan satu persepuluh dan lima perseratus, atau kita
+
+21
+00:01:13,110 --> 00:01:16,240
+boleh juga mengatakan, lihat, ini lima belas perseratus.
+
+22
+00:01:16,240 --> 00:01:19,540
+Satu persepuluh adalah sepuluh perseratus.
+
+23
+00:01:19,540 --> 00:01:23,160
+Jadi, satu persepuluh dan lima perseratus adalah lima belas
+
+24
+00:01:23,160 --> 00:01:24,180
+perseratus.
+
+25
+00:01:24,180 --> 00:01:32,790
+Jadi, mungkin saya boleh menulisnya begini: enam puluh tiga dan lima belas
+
+26
+00:01:32,790 --> 00:01:34,040
+perseratus.
+
+27
+00:01:38,490 --> 00:01:39,410
+Begitu sahaja.
+
+28
+00:01:39,410 --> 00:01:41,830
+Sekarang, ia mungkin lagi biasa untuk
+
+29
+00:01:41,830 --> 00:01:45,350
+mengatakan, kenapa saya tidak menyebutnya sebagai satu persepuluh dan kemudian lima
+
+30
+00:01:45,350 --> 00:01:45,680
+perseratus?
+
+31
+00:01:45,680 --> 00:01:47,280
+Dan anda boleh, tetapi itu akan menyusahkan
+
+32
+00:01:47,280 --> 00:01:50,360
+seseorang untuk memproses apa yang anda sebutkan.
+
+33
+00:01:50,360 --> 00:01:54,620
+Oleh itu, ia boleh jadi enam puluh tiga-- jadi saya akan 'copy'
+
+34
+00:01:54,620 --> 00:01:55,870
+dan 'paste' itu.
+
+35
+00:01:58,780 --> 00:02:04,490
+Ia boleh jadi enam puluh tiga dan, dan anda akan menulis, satu
+
+36
+00:02:04,490 --> 00:02:14,060
+persepuluh untuk digit ini, dan lima perseratus.
+
+37
+00:02:26,170 --> 00:02:29,570
+Enam puluh tiga dan satu persepuluh dan lima perseratus adalah sukar untuk
+
+38
+00:02:29,570 --> 00:02:31,010
+diproses oleh orang ramai.
+
+39
+00:02:31,010 --> 00:02:33,710
+Tetapi kalau anda mengatakan, lima perseratus, orang akan memahami
+
+40
+00:02:33,710 --> 00:02:35,780
+apa yang anda sebutkan.
+
+41
+00:02:35,780 --> 00:02:40,300
+Saya tidak mahu membazir masa, tetapi ini adalah 1/10
+
+42
+00:02:40,300 --> 00:02:47,730
+di sini dan kemudian ini pula adalah 5/100, 5 per 100.
+
+43
+00:02:47,730 --> 00:02:51,050
+Tetapi kalau anda menambahkan dua ini, tetapi kalau anda menambah 1/10
+
+44
+00:02:51,050 --> 00:02:53,120
+campur 5/100-- jadi, mari kita berbuat demikian.
+
+45
+00:02:53,120 --> 00:03:00,770
+Kalau anda menambah 1/10 campur 5/100, bagaimana anda akan melakukannya?
+
+46
+00:03:00,770 --> 00:03:02,060
+Anda memerlukan penyebut yang sama.
+
+47
+00:03:02,060 --> 00:03:05,740
+100 boleh dibahagikan dengan 10 dan juga 100, jadi darabkan kedua-dua
+
+48
+00:03:05,740 --> 00:03:08,820
+pengangka dan penyebut dengan 10.
+
+49
+00:03:08,820 --> 00:03:11,130
+Anda akan dapat 10 di atas dan 100 di bawah.
+
+50
+00:03:11,130 --> 00:03:13,990
+1/10 adalah sama dengan 10 per 100.
+
+51
+00:03:13,990 --> 00:03:20,930
+10/100 campur 5/100 adalah sama dengan 15 per 100, jadi bahagian ini
+
+52
+00:03:20,930 --> 00:03:25,030
+adalah sama dengan 15/100.
+
+53
+00:03:25,030 --> 00:03:28,420
+Dan sebab itulah kita mengatakan enam puluh tiga dan lima belas
+
+54
+00:03:28,420 --> 00:03:29,670
+perseratus.

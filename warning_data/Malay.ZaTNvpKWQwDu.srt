@@ -1,0 +1,936 @@
+1
+00:00:00,000 --> 00:00:00,690
+...
+
+2
+00:00:00,690 --> 00:00:01,810
+Selamat kembali
+
+3
+00:00:01,810 --> 00:00:04,820
+Maka kita kembali pada yang mana kita berhenti, OK, kita ada sudut ini di sini
+
+4
+00:00:04,820 --> 00:00:07,720
+bolehkah kita cari mana-mana sudut ini
+
+5
+00:00:07,720 --> 00:00:08,930
+yang sama dengannya?
+
+6
+00:00:08,930 --> 00:00:14,750
+Baiklah, kita tahu bahawa sudut dalaman berselang-seli pada--
+
+7
+00:00:14,750 --> 00:00:17,780
+ini ialah garis melintang di sini, dan ini adalah garis selari
+
+8
+00:00:17,780 --> 00:00:18,940
+Maka kita tahu dalaman selang seli
+
+9
+00:00:18,940 --> 00:00:21,320
+Ini ialah dalaman dan ianya dalaman selang seli di sini
+
+10
+00:00:21,320 --> 00:00:23,340
+Maka kita tahu mereka sama antara satu dengan yang lain
+
+11
+00:00:23,340 --> 00:00:25,520
+Saya tidak akan lukis dulu, kerana kadangkala jika anda lupa
+
+12
+00:00:25,520 --> 00:00:27,680
+dalaman selang seli, anda boleh ingat, baiklah
+
+13
+00:00:27,680 --> 00:00:29,460
+sudut yg berkaitan sama antara satu sama lain
+
+14
+00:00:29,460 --> 00:00:31,410
+Maka anda boleh katakan sudut ini juga
+
+15
+00:00:31,410 --> 00:00:32,880
+sama dengan sudut ini
+
+16
+00:00:32,880 --> 00:00:35,460
+dan anda boleh guna sudut bertentangan semula untuk dapatkan
+
+17
+00:00:35,460 --> 00:00:37,660
+dalaman selang seli
+
+18
+00:00:37,660 --> 00:00:38,490
+Saya akan tunjukkan anda
+
+19
+00:00:38,490 --> 00:00:40,900
+Perkara yang bagus tentang matematik ialah ianya bagus untuk orang yang
+
+20
+00:00:40,900 --> 00:00:42,520
+ada masalah mengingat perkara, kerana anda hanya perlu
+
+21
+00:00:42,520 --> 00:00:45,530
+mengingat beberapa perkara dan kemudian semuanya
+
+22
+00:00:45,530 --> 00:00:46,520
+akan berjaya diselesaikan
+
+23
+00:00:46,520 --> 00:00:47,220
+Baiklah
+
+24
+00:00:47,220 --> 00:00:51,020
+Kita telah tahu sudut ini
+
+25
+00:00:51,020 --> 00:00:52,440
+sama dengan sudut ini
+
+26
+00:00:52,440 --> 00:00:52,650
+Betul?
+
+27
+00:00:52,650 --> 00:00:55,550
+Kerana mereka sudut dalaman berselang seli
+
+28
+00:00:55,550 --> 00:01:00,320
+dan ini ialah sisi yang sama
+
+29
+00:01:00,320 --> 00:01:03,030
+dan akhirnya, bagaimana dengan sudut di sini?
+
+30
+00:01:03,030 --> 00:01:05,270
+Saya akan lukiskan sudut gandaan tiga
+
+31
+00:01:05,270 --> 00:01:08,640
+1, 2, 3
+
+32
+00:01:08,640 --> 00:01:11,400
+Apakah persamaan satu ini pada segi tiga ini?
+
+33
+00:01:11,400 --> 00:01:13,230
+Baiklah, sebab yang sama
+
+34
+00:01:13,230 --> 00:01:15,990
+Sudut dalaman selang seli daripada 2 garis selari
+
+35
+00:01:15,990 --> 00:01:18,420
+dan ingat, satu sebab kita boleh buat dakwaan ini
+
+36
+00:01:18,420 --> 00:01:21,810
+kerana saya beritahu anda pada mulanya bahawa garis ini
+
+37
+00:01:21,810 --> 00:01:25,030
+di sini dan garis ini adalah selari
+
+38
+00:01:25,030 --> 00:01:25,310
+Betul?
+
+39
+00:01:25,310 --> 00:01:27,330
+Selain dari itu, anda tidak boleh buat dakwaan ini
+
+40
+00:01:27,330 --> 00:01:29,010
+Tetapi sejak mereka dalaman selang seli, kita tahu bahawa
+
+41
+00:01:29,010 --> 00:01:34,570
+ini ialah sudut yang sama
+
+42
+00:01:34,570 --> 00:01:35,560
+Baiklah
+
+43
+00:01:35,560 --> 00:01:39,080
+Maka sekarang kita telah ditunjukkan segi tiga yang sama
+
+44
+00:01:39,080 --> 00:01:40,630
+dan saya tidak perlu buat semua tiga-tiga sudut
+
+45
+00:01:40,630 --> 00:01:42,960
+Saya hanya boleh lakukan 2, dan itu sepatutnya cukup baik
+
+46
+00:01:42,960 --> 00:01:44,380
+untuk anda tahu mereka adalah sama
+
+47
+00:01:44,380 --> 00:01:46,180
+kerana jika jika 2 adalah sama, yang ketiga juga
+
+48
+00:01:46,180 --> 00:01:47,370
+haruslah sama
+
+49
+00:01:47,370 --> 00:01:49,740
+dan sekarang, mari kita ihat jika kita boleh guna maklumat ini
+
+50
+00:01:49,740 --> 00:01:51,980
+untuk cari nisbah kita
+
+51
+00:01:51,980 --> 00:01:53,560
+Maka mari lihat
+
+52
+00:01:53,560 --> 00:01:58,040
+Mari warnakan sisi yang sama dengan sudut
+
+53
+00:01:58,040 --> 00:01:58,980
+supaya kita tidak keliru
+
+54
+00:01:58,980 --> 00:02:02,970
+Maka sisi ini ialah sisi oren
+
+55
+00:02:02,970 --> 00:02:04,800
+Betul?
+
+56
+00:02:04,800 --> 00:02:05,810
+Sisi ini ialah biru
+
+57
+00:02:05,810 --> 00:02:06,390
+Sisi ini ialah merah
+
+58
+00:02:06,390 --> 00:02:06,650
+OK
+
+59
+00:02:06,650 --> 00:02:08,810
+Maka kita ada semuanya dalam kod warna
+
+60
+00:02:08,810 --> 00:02:13,320
+Ia mungkin mengelirukan anda tetapi ianya berguna, kerana
+
+61
+00:02:13,320 --> 00:02:16,220
+seperti yang kita lihat, segi tiga ini sebenarnya terpusing
+
+62
+00:02:16,220 --> 00:02:17,290
+Mari kita lihat apa kita boleh buat
+
+63
+00:02:17,290 --> 00:02:21,470
+Kita perlu cari sisi oren ini
+
+64
+00:02:21,470 --> 00:02:24,980
+Maka sisi oren di sini, mari kita panggil ia x
+
+65
+00:02:24,980 --> 00:02:28,850
+maka x sama dengan tanda soal
+
+66
+00:02:28,850 --> 00:02:31,820
+Sisi oren ini sama dengan sisi ini di sini
+
+67
+00:02:31,820 --> 00:02:32,000
+Betul?
+
+68
+00:02:32,000 --> 00:02:34,730
+kerana ianya bertentangan dengan sudut ini, yang mana
+
+69
+00:02:34,730 --> 00:02:36,090
+sama dengan sudut ini
+
+70
+00:02:36,090 --> 00:02:38,760
+Maka mereka betentangan sengan sudut yang sama
+
+71
+00:02:38,760 --> 00:02:40,940
+Maka itu bagaimana kita tahu mereka berkaitan antara satu sama lain
+
+72
+00:02:40,940 --> 00:02:47,960
+Kita boleh katakan x/6 ialah sama dengan
+
+73
+00:02:47,960 --> 00:02:50,260
+dan sekarang, apa sisi lain yang kita tahu?
+
+74
+00:02:50,260 --> 00:02:53,410
+Baiklah, kita tahu bahawa sisi ini-- kita tahu ini 4 sisi
+
+75
+00:02:53,410 --> 00:02:55,240
+Mari saya lakukan dalam warna
+
+76
+00:02:55,240 --> 00:02:57,310
+Kita tahu sisi ini ialah 4
+
+77
+00:02:57,310 --> 00:02:59,570
+dan sejak kita letakkan x dalam pengangka pada bahagia tangan kiri,
+
+78
+00:02:59,570 --> 00:03:03,070
+dan 4 dalam segi tiga yang sama dengan x yang kita cuba selesaikan,
+
+79
+00:03:03,070 --> 00:03:04,900
+kita akan letakkan 4 dalam pengangka pada
+
+80
+00:03:04,900 --> 00:03:06,590
+bahagian tangan kanan
+
+81
+00:03:06,590 --> 00:03:09,250
+4 per apa?
+
+82
+00:03:09,250 --> 00:03:10,880
+Baiklah, sisi apa yang sama dengan 4?
+
+83
+00:03:10,880 --> 00:03:14,290
+Apa sudut bertentangan di sini?
+
+84
+00:03:14,290 --> 00:03:15,000
+Baiklah, ini sudut
+
+85
+00:03:15,000 --> 00:03:17,720
+..
+
+86
+00:03:17,720 --> 00:03:19,050
+Betul?
+
+87
+00:03:19,050 --> 00:03:24,690
+Maka sisi yang sama dengan sisi ini-- ialah 5
+
+88
+00:03:24,690 --> 00:03:26,310
+dan sekarang kita boleh selesaikan
+
+89
+00:03:26,310 --> 00:03:29,010
+x ialah sama--- kita perlu darabkan dua-dua bahagian dengan 6
+
+90
+00:03:29,010 --> 00:03:31,310
+Maka anda dapat 24/5
+
+91
+00:03:31,310 --> 00:03:35,750
+x ialah sama dengan 24/5
+
+92
+00:03:35,745 --> 00:03:38,765
+...
+
+93
+00:03:38,760 --> 00:03:40,040
+Ianya tidak terlalu teruk
+
+94
+00:03:40,040 --> 00:03:41,650
+dan kita boleh pergi lebih jauh
+
+95
+00:03:41,650 --> 00:03:44,170
+Kita boleh cari sisi ini
+
+96
+00:03:44,170 --> 00:03:45,770
+Sisi magenta ini
+
+97
+00:03:45,770 --> 00:03:48,340
+Mari kita paggil ia, y
+
+98
+00:03:48,340 --> 00:03:50,000
+Tidak terlalu kreatif di sini
+
+99
+00:03:50,000 --> 00:03:53,250
+Baiklah, y sama dengan sudut ini
+
+100
+00:03:53,250 --> 00:03:55,550
+Maka y sama dengan sisi 8 ini
+
+101
+00:03:55,550 --> 00:03:57,060
+Betul?
+
+102
+00:03:57,060 --> 00:04:03,120
+Maka kita boleh lakukan y/8 ialah sama dengan-- oh, kita boleh
+
+103
+00:04:03,120 --> 00:04:03,680
+lakukan banyak perkara
+
+104
+00:04:03,680 --> 00:04:07,090
+Kita boleh katakan 4/5 atau kta boleh lakukan-- mari lakukan 4/5
+
+105
+00:04:07,090 --> 00:04:09,870
+kerana kita boleh buat 24/5/6 dan
+
+106
+00:04:09,870 --> 00:04:10,520
+ianya agak mengelirukan
+
+107
+00:04:10,520 --> 00:04:11,980
+Maka kita boleh juga lakukan itu
+
+108
+00:04:11,980 --> 00:04:15,380
+per 4 per 5
+
+109
+00:04:15,380 --> 00:04:17,000
+Darabkan kedua-dua bahagian dengan 8
+
+110
+00:04:17,000 --> 00:04:24,770
+Dab anda dapat y sama dengan 8 darab 4, ialah apa?
+
+111
+00:04:24,770 --> 00:04:27,160
+32/5
+
+112
+00:04:27,160 --> 00:04:31,980
+..
+
+113
+00:04:31,980 --> 00:04:33,830
+dan sebab kenapa saya lakukan contoh ini kerana saya mahu
+
+114
+00:04:33,825 --> 00:04:37,175
+tunjukkan anda bahawa anda tidak boleh hanya perhatikan
+
+115
+00:04:37,170 --> 00:04:39,860
+Kadangkala anda boleh lakukan, jika anda bagus melakukannya, tetapi ianya tidak selalu
+
+116
+00:04:39,860 --> 00:04:42,710
+jeles sisi yang mana sama dengan sisi yang mana
+
+117
+00:04:42,710 --> 00:04:45,610
+Ia mungkin agak bersemangat untuk katakan,
+
+118
+00:04:45,612 --> 00:04:48,272
+sisi ini sama dengan sisi ini atau sisi itu
+
+119
+00:04:48,270 --> 00:04:49,500
+sama dengan sisi ini
+
+120
+00:04:49,500 --> 00:04:53,150
+Tetapi anda harus beri perhatian sisi mana
+
+121
+00:04:53,150 --> 00:04:55,000
+sepadan dengan sudut mana
+
+122
+00:04:55,000 --> 00:04:58,180
+Maka mana-mana sisi yang sepadan dengan mana-mana sudut, ianya sama
+
+123
+00:04:58,180 --> 00:05:02,610
+sudut pada segi tiga yang laini, apapun sisi yang betentangan dengannya
+
+124
+00:05:02,610 --> 00:05:04,300
+itu ialah sisi yang sama
+
+125
+00:05:04,300 --> 00:05:07,800
+Saya gunakan banyak perkataan, tetapi saya harap anda
+
+126
+00:05:07,800 --> 00:05:09,670
+ada sedikit gerak hati
+
+127
+00:05:09,670 --> 00:05:12,230
+Mari lakukan satu lagi
+
+128
+00:05:12,230 --> 00:05:16,970
+Pertama sekali, ambil segi tiga dan buktikan kepada diri kita bahawa
+
+129
+00:05:16,970 --> 00:05:18,160
+dua segi tiga adalah sama
+
+130
+00:05:18,160 --> 00:05:20,710
+..
+
+131
+00:05:20,710 --> 00:05:21,800
+Saya suka garis selari ini
+
+132
+00:05:21,800 --> 00:05:25,830
+Mari lakukan garis selari lagi
+
+133
+00:05:25,830 --> 00:05:28,520
+dan pada masa ini-- mari lihat
+
+134
+00:05:28,520 --> 00:05:31,480
+Saya akan lukiskan
+
+135
+00:05:31,480 --> 00:05:34,450
+Ada garisan
+
+136
+00:05:34,450 --> 00:05:35,300
+Kita mulakan
+
+137
+00:05:35,300 --> 00:05:39,140
+..
+
+138
+00:05:39,140 --> 00:05:41,240
+Pertama, saya katakan ini ialah garis selari
+
+139
+00:05:41,240 --> 00:05:45,110
+Maka mari saya tandakan mereka
+
+140
+00:05:45,110 --> 00:05:46,220
+Garis selari
+
+141
+00:05:46,220 --> 00:05:49,990
+Maka apa yang kita mahu lakukan ialah kita mahu buktikan bahawa
+
+142
+00:05:49,990 --> 00:05:58,300
+segi tiga di sini ialah sama dengan segi tiga yang lebih besar
+
+143
+00:05:58,300 --> 00:06:00,310
+sama dengan segi tiga ini
+
+144
+00:06:00,310 --> 00:06:01,190
+Ianya agak menarik
+
+145
+00:06:01,190 --> 00:06:02,490
+Mereka sebenarnya bertindih
+
+146
+00:06:02,490 --> 00:06:02,830
+Betul?
+
+147
+00:06:02,830 --> 00:06:08,070
+...
+
+148
+00:06:08,070 --> 00:06:10,970
+Maka pertama sekali, adakah kita tahu mana-mana sudut daripada 2 seg tiga
+
+149
+00:06:10,970 --> 00:06:12,420
+yang sama antara satu dengan yang lain?
+
+150
+00:06:12,420 --> 00:06:13,010
+Baiklah, pasti
+
+151
+00:06:13,010 --> 00:06:13,880
+Mereka ada sudut ini
+
+152
+00:06:13,880 --> 00:06:16,730
+Mereka sebenarnya berkongsi sudut yang sama
+
+153
+00:06:16,730 --> 00:06:17,230
+Betul?
+
+154
+00:06:17,230 --> 00:06:20,250
+Kerana dua segi tiga bertindih pada titik itu
+
+155
+00:06:20,250 --> 00:06:22,000
+Apa yang kta boleh cari?
+
+156
+00:06:22,000 --> 00:06:23,950
+Mari lihat
+
+157
+00:06:23,950 --> 00:06:25,530
+Saya maksudkn, saya kekal dengan mana-mana
+
+158
+00:06:25,530 --> 00:06:26,930
+warna, tetapi mari lihat
+
+159
+00:06:26,930 --> 00:06:31,550
+Kita ada sudut di sini
+
+160
+00:06:31,550 --> 00:06:33,470
+dan apa sudut lain yang sama dengan sudut ini?
+
+161
+00:06:33,470 --> 00:06:37,320
+Baiklah, kita gunakan garis selari kita dan peraturan sudut melintang,
+
+162
+00:06:37,320 --> 00:06:42,350
+atau theorem atau apa-apa pun, kita perlu cari
+
+163
+00:06:42,350 --> 00:06:44,860
+Baiklah, sudut ini sama dengan apa?
+
+164
+00:06:44,860 --> 00:06:46,620
+Baiklah, ianya sama dengan sudut ini
+
+165
+00:06:46,620 --> 00:06:48,320
+Maka ianya padan
+
+166
+00:06:48,320 --> 00:06:49,750
+dan anda dapat itu dari garis selari
+
+167
+00:06:49,750 --> 00:06:50,090
+Betul?
+
+168
+00:06:50,090 --> 00:06:52,000
+Maka 2 ini adalah sama
+
+169
+00:06:52,000 --> 00:06:57,150
+Kemudian, akhirnya, jika saya ada-- mari saya pilih warna yang baik-- jika saya
+
+170
+00:06:57,150 --> 00:06:59,550
+ada sudut ini, lukiskan sudut ganda tiga di sini
+
+171
+00:06:59,550 --> 00:07:00,110
+Perkara yang sama
+
+172
+00:07:00,110 --> 00:07:02,610
+Sudut yang sama akan menjadi di sini
+
+173
+00:07:02,610 --> 00:07:05,250
+..
+
+174
+00:07:05,250 --> 00:07:05,830
+Maka di situ
+
+175
+00:07:05,830 --> 00:07:10,450
+Kita tahu semua tiga sudut segi tiga adalah sama
+
+176
+00:07:10,450 --> 00:07:11,760
+Maka ini ialah segi tiga yang sama
+
+177
+00:07:11,760 --> 00:07:16,540
+...
+
+178
+00:07:16,540 --> 00:07:18,780
+Mari katakan kita tahu sisi ini di sini-- saya akan beri
+
+179
+00:07:18,780 --> 00:07:19,920
+anda soalan yang agak licik
+
+180
+00:07:19,920 --> 00:07:24,430
+Dari sini ke sini ialah 5
+
+181
+00:07:24,430 --> 00:07:29,530
+dan dari sini ke sini ialah 7
+
+182
+00:07:29,530 --> 00:07:41,250
+...
+
+183
+00:07:41,250 --> 00:07:46,830
+Dari sini ke sini ialah--- saya tidak tahu,
+
+184
+00:07:46,825 --> 00:07:49,825
+cari nombor yang bagus--- ialah 12
+
+185
+00:07:49,820 --> 00:08:01,430
+dan dari sini ke sini, mari saya katakan, 6
+
+186
+00:08:01,430 --> 00:08:04,920
+Dan saya mahu cari apakah ia
+
+187
+00:08:04,920 --> 00:08:06,080
+Bagaimana kita lakukan itu?
+
+188
+00:08:06,080 --> 00:08:08,720
+Dan saya telah buatkannya lebih mengelirukan dengan menambah
+
+189
+00:08:08,720 --> 00:08:10,050
+semua garis yang seperti cacing kerawit ini
+
+190
+00:08:10,050 --> 00:08:11,460
+Baiklah, kita telah tahu bahawa dua ini
+
+191
+00:08:11,460 --> 00:08:12,460
+segi tiga yang sama
+
+192
+00:08:12,460 --> 00:08:14,910
+Maka kita boleh gunakan maklumat itu untuk lakukan nisbah kita
+
+193
+00:08:14,910 --> 00:08:20,110
+Maka jika kita panggil ini sama dengan x
+
+194
+00:08:20,110 --> 00:08:21,700
+Betul?
+
+195
+00:08:21,700 --> 00:08:23,320
+Apa yang kita tahu?
+
+196
+00:08:23,320 --> 00:08:31,350
+Kita tahu keseluruhan sisi ini sama dengan sisi yang mana
+
+197
+00:08:31,350 --> 00:08:33,250
+pada segi tiga yang lebih kecil?
+
+198
+00:08:33,250 --> 00:08:34,580
+Baiklah, ia samadengan sisi ini.
+
+199
+00:08:34,580 --> 00:08:34,820
+Betul?
+
+200
+00:08:34,820 --> 00:08:37,090
+Ia sama dengan ini
+
+201
+00:08:37,085 --> 00:08:39,225
+Mari saya lukiskan dalam warna yang betul
+
+202
+00:08:39,220 --> 00:08:42,780
+Maka jika kita mahu lakukan oren, oren ini sama dengan ini
+
+203
+00:08:42,780 --> 00:08:44,030
+Betul?
+
+204
+00:08:44,030 --> 00:08:47,190
+Baiklah, oren ini sama dengan semuanya
+
+205
+00:08:47,190 --> 00:08:49,900
+Ianya sama dengan keseluruhan garisan
+
+206
+00:08:49,900 --> 00:08:52,770
+Maka jika kita ambil segi tiga besar,
+
+207
+00:08:52,770 --> 00:08:54,210
+sisi segi tiga besar bukan hanya x
+
+208
+00:08:54,210 --> 00:08:54,490
+Betul bukan?
+
+209
+00:08:54,490 --> 00:08:55,880
+Kerana ianya bukana keseluruhan sisi segi tiga
+
+210
+00:08:55,875 --> 00:08:56,935
+Ianya x tambah 5
+
+211
+00:08:56,933 --> 00:09:00,853
+...
+
+212
+00:09:00,850 --> 00:09:02,060
+Itu ialah keseluruhan sisi
+
+213
+00:09:02,060 --> 00:09:02,450
+Betul?
+
+214
+00:09:02,450 --> 00:09:06,120
+...
+
+215
+00:09:06,116 --> 00:09:11,336
+x tambah 5 per sisi yang sama pada segi tiga yang lebih kecil
+
+216
+00:09:11,340 --> 00:09:12,660
+Baiklah, sisi yang sama pada
+
+217
+00:09:12,660 --> 00:09:14,630
+segi tiga yang lebih kecil hanya ini
+
+218
+00:09:14,630 --> 00:09:16,610
+Ianya per 5
+
+219
+00:09:16,610 --> 00:09:17,870
+Betul?
+
+220
+00:09:17,870 --> 00:09:22,180
+Ianya sama dengan--- dan kita boleh katakan, 12
+
+221
+00:09:22,180 --> 00:09:25,740
+ialah sama dengan 12, kerana ia sama dengan sudut
+
+222
+00:09:25,740 --> 00:09:27,330
+pada segi tiga besar
+
+223
+00:09:27,332 --> 00:09:30,542
+Ianya sama dengan 12 per apa?
+
+224
+00:09:30,540 --> 00:09:33,980
+per 6, kerana ini ialah segi tiga yang lebih kecil
+
+225
+00:09:33,980 --> 00:09:34,930
+dan kita boleh selesaikannya
+
+226
+00:09:34,930 --> 00:09:35,900
+Ianya menjadi 2
+
+227
+00:09:35,900 --> 00:09:36,860
+Betul?
+
+228
+00:09:36,860 --> 00:09:40,940
+Anda dapat x tambah 5 ialah sama dengan 10
+
+229
+00:09:40,936 --> 00:09:43,526
+x ialah sama dengan 5
+
+230
+00:09:43,530 --> 00:09:46,300
+Kita telah selesai
+
+231
+00:09:46,300 --> 00:09:48,560
+Itu adalah masa yang saya ada sekarang
+
+232
+00:09:48,560 --> 00:09:51,540
+Saya harap saya bantu anda memahami segi tiga yang sama
+
+233
+00:09:51,540 --> 00:09:52,580
+...
+
+234
+00:09:52,580 --> 00:09:54,720
+Jumpa anda lagi
+

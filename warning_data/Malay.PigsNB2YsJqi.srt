@@ -1,0 +1,343 @@
+1
+00:00:00,665 --> 00:00:04,700
+Seorang tukang kayu menggunakan mesin larik untuk membentuk kaki terakhir
+
+2
+00:00:04,700 --> 00:00:05,830
+sebuah meja buatan tangan.
+
+3
+00:00:05,830 --> 00:00:08,790
+Mesin larik adalah alat pertukangan yang berputar di sekeliling,
+
+4
+00:00:08,790 --> 00:00:11,480
+dimana ia boleh, menghasilkan, saya rasa awak
+
+5
+00:00:11,480 --> 00:00:15,330
+boleh katakan, hampir kepada bentuk silinder, macam kaki
+
+6
+00:00:15,330 --> 00:00:16,840
+meja atau lebih kurang begitu.
+
+7
+00:00:16,840 --> 00:00:21,020
+untuk kaki yang teguh, ia perlulah dalam 150 milimeter
+
+8
+00:00:21,020 --> 00:00:26,390
+lebar, dengan perbezaan diantara 2.5 milimeter.
+
+9
+00:00:26,390 --> 00:00:31,480
+Dalam bahasa lain, ianya hendaklah tepat 150 milimeter lebar,
+
+10
+00:00:31,480 --> 00:00:33,030
+tetapi jika awak mengeluarkan sesuatu, susah untuk awak
+
+11
+00:00:33,030 --> 00:00:35,870
+mendapatkan nilai yang tepat, jadi ini bermaksud kita boleh
+
+12
+00:00:35,870 --> 00:00:40,510
+dapat 2 dan 1/2 milimeter lebih atau kurang daripada 150 milimeter
+
+13
+00:00:40,510 --> 00:00:43,910
+Sekarang, kita hendak tulis satu ketidaksamaan dengan nilai mutlak yang
+
+14
+00:00:43,910 --> 00:00:46,980
+menunjukkan hubungan ini, dan dapatkan julat bagi lebar
+
+15
+00:00:46,980 --> 00:00:48,970
+kaki meja ini.
+
+16
+00:00:48,970 --> 00:00:54,780
+Jadi caranya adalah, gunakan 'w' sebagai lebar
+
+17
+00:00:54,780 --> 00:00:56,830
+kaki meja.
+
+18
+00:00:56,830 --> 00:01:01,030
+Jika kita nak dapatkan perbezaan antara 'w' dan 150,
+
+19
+00:01:01,030 --> 00:01:01,690
+bagaimana?
+
+20
+00:01:01,690 --> 00:01:03,540
+Ini adalah jumlah perbezaan
+
+21
+00:01:03,540 --> 00:01:04,959
+yang kita buat, bukan?
+
+22
+00:01:04,959 --> 00:01:10,170
+Jika 'w' lebih besar daripada 150, katakan 151.
+
+23
+00:01:10,170 --> 00:01:12,250
+jadi perbezaannya adalah 1 milimeter, kita
+
+24
+00:01:12,250 --> 00:01:13,600
+telah lebih 1 milimeter.
+
+25
+00:01:13,600 --> 00:01:16,760
+Jika 'w' kurang daripada 150, ianya akan menjadi nombor negatif.
+
+26
+00:01:16,760 --> 00:01:22,160
+Katakan, 'w' adalah 149, 149 tolak 150 adalah negatif 1.
+
+27
+00:01:22,160 --> 00:01:24,110
+Tetapi kita hanya fokus kepada perbezaan mutlak.
+
+28
+00:01:24,110 --> 00:01:26,720
+Kita tidak kisah sama ada ianya lebih atau kurang, perbezaannya
+
+29
+00:01:26,720 --> 00:01:29,090
+dalam linkungan 2 dan 1/2.
+
+30
+00:01:29,090 --> 00:01:32,690
+Jadi kita hendak fokus kepada nilai mutlak
+
+31
+00:01:32,690 --> 00:01:35,730
+perbezaan diantara 'w' dan 150.
+
+32
+00:01:35,730 --> 00:01:38,830
+Ini memberitahu kita, berapa nilai pebezaan yang kita hasilkan.
+
+33
+00:01:38,830 --> 00:01:43,370
+Dan kita hanya mahukan perbezaan itu, mesti dalam
+
+34
+00:01:43,370 --> 00:01:48,950
+lingkungan 2.5 milimeter.
+
+35
+00:01:48,950 --> 00:01:50,980
+Dan kita andaikan kurang daripada -- perbezaan disini adalah 2.5 milimeter --
+
+36
+00:01:50,980 --> 00:01:52,830
+jadi saya rasa ia boleh jadi kurang
+
+37
+00:01:52,830 --> 00:01:53,850
+atau sama dengan.
+
+38
+00:01:53,850 --> 00:01:56,960
+Kita boleh tersasar 2 dan 1/2 milimeter tepat-tepat .
+
+39
+00:01:56,960 --> 00:01:58,150
+Jadi ini bahagian yang pertama.
+
+40
+00:01:58,150 --> 00:02:03,110
+Kita telah tulis ketidaksamaan yang menunjukkan
+
+41
+00:02:03,110 --> 00:02:03,920
+hubungan ini.
+
+42
+00:02:03,920 --> 00:02:05,460
+Dan saya harap awak dapat fahaminya betul-betul.
+
+43
+00:02:05,460 --> 00:02:08,550
+Apa yang ada disini, lihat ini adalah perbezaan
+
+44
+00:02:08,550 --> 00:02:12,680
+antara nilai sebenar lebar kaki dan 150.
+
+45
+00:02:12,680 --> 00:02:15,310
+Sekarang kita endahkan pasal lebih atau kurang, kita fokus
+
+46
+00:02:15,310 --> 00:02:18,430
+pasal perbezaannya dari 150, atau
+
+47
+00:02:18,430 --> 00:02:21,590
+perbezaan mutlak, jadi kita dapat perbezaan itu.
+
+48
+00:02:21,590 --> 00:02:26,030
+Dan perbezaan antara 'w' dan 150, nilai sebenar
+
+49
+00:02:26,030 --> 00:02:29,190
+mesti kurang daripada 2 dan 1/2.
+
+50
+00:02:29,190 --> 00:02:32,300
+Sekarang, kita telah lihat contoh penyelesaian sebelum ini.
+
+51
+00:02:32,300 --> 00:02:36,200
+Ini bermaksud, ia boleh jadi
+
+52
+00:02:36,200 --> 00:02:40,090
+kedua-duanya, kurang daripada 2 dan 1/2 dan lebih daripada
+
+53
+00:02:40,090 --> 00:02:41,260
+negatif 2 dan 1/2/
+
+54
+00:02:41,260 --> 00:02:42,300
+Biar saya tulis di sini.
+
+55
+00:02:42,300 --> 00:02:52,570
+Maknanya 'w' tolak 150 kurang daripada 2.5 dan w
+
+56
+00:02:52,570 --> 00:02:58,450
+tolak 150 lebih daripada neagtif 2.5.
+
+57
+00:02:58,450 --> 00:03:01,150
+Jika nilai sebenar sesuatu kurang daripada 2 dan 1/2,
+
+58
+00:03:01,150 --> 00:03:05,030
+jadi jarak dari 0 kurang daripada 2 dan 1/2.
+
+59
+00:03:05,030 --> 00:03:07,490
+untuk sesuatu jarak dari 0 kurang daripada 2 dan 1/2,
+
+60
+00:03:07,490 --> 00:03:09,750
+dalam arah positif ia mesti kurang daripada 2 dan 1/2.
+
+61
+00:03:09,750 --> 00:03:12,600
+Tetapi ia juga tidak boleh kurang daripada negatif 2 dan 1/2
+
+62
+00:03:12,600 --> 00:03:14,880
+seperti kita lihat dalam video sebelum ini.
+
+63
+00:03:14,880 --> 00:03:16,140
+Jadi mari kita selesaikan satu persatu.
+
+64
+00:03:16,140 --> 00:03:20,380
+Jika kita tambah 150 di kedua-dua belah bahagian, jika awak tambah 150
+
+65
+00:03:20,380 --> 00:03:23,210
+-- sebenarnya boleh tambah kedua-dua belah serentak --
+
+66
+00:03:23,210 --> 00:03:27,940
+mari tambah 150 di sebelah sini juga, apa yang kita dapat?
+
+67
+00:03:27,940 --> 00:03:28,910
+Apa yang kita dapat?
+
+68
+00:03:28,910 --> 00:03:31,360
+Sebelah kiri persamaan menjadi 'w' -- mansuhkan --
+
+69
+00:03:31,360 --> 00:03:36,480
+kurang daripada atau sama dengan 150 tambah 2.5
+
+70
+00:03:36,480 --> 00:03:41,690
+ialah 152.5 dan kita masih ada..
+
+71
+00:03:41,690 --> 00:03:44,360
+Dan di sebelah sini -- mansuhkan --
+
+72
+00:03:44,360 --> 00:03:48,750
+kita ada 'w' lebih daripada atau sama dengan negatif 2.5
+
+73
+00:03:48,750 --> 00:03:54,210
+tambah 150, sama dengan 147.5.
+
+74
+00:03:54,210 --> 00:03:58,270
+jadi lebar kaki kita mesti lebih daripda 147.5
+
+75
+00:03:58,270 --> 00:04:02,260
+milimeter dan kurang daripada 152.5 milimeter.
+
+76
+00:04:02,260 --> 00:04:03,150
+Kita boleh tulis begini.
+
+77
+00:04:03,150 --> 00:04:11,220
+Lebar hendaklah kurang daripada atau sama dengan 152.5 milimeter.
+
+78
+00:04:11,220 --> 00:04:14,090
+Atau lebih daripada atau sama dengan, tak pon kita cakap
+
+79
+00:04:14,090 --> 00:04:19,730
+147.5 milimeter kurang daripada lebarnya.
+
+80
+00:04:19,730 --> 00:04:20,810
+Dan ini adalah julatnya.
+
+81
+00:04:20,810 --> 00:04:22,770
+Dan ini memang apa yang kita cari sebab hanya tersasar 2 dan
+
+82
+00:04:22,770 --> 00:04:24,460
+1/2 daripada 150.
+
+83
+00:04:24,460 --> 00:04:28,330
+Ini menyatakan yang jarak antara 'w' dan 150 hanya
+
+84
+00:04:28,330 --> 00:04:30,080
+boleh sebanyak 2 dan 1/2.
+
+85
+00:04:30,080 --> 00:04:33,690
+Awak nampak, ini adalah 2 dan 1/2 kurang daripada 150,dan adalah 2
+
+86
+00:04:33,690 --> 00:04:36,550
+dam 1/2 lebih 150.

@@ -1,0 +1,1520 @@
+1
+00:00:00,000 --> 00:00:00,830
+
+2
+00:00:00,830 --> 00:00:03,620
+The goal of this video is to
+explore some of the concepts,
+
+3
+00:00:03,620 --> 00:00:06,590
+or formulas you might see in
+a traditional physics class.
+
+4
+00:00:06,590 --> 00:00:09,460
+But even more importantly to see
+that they're really just common
+
+5
+00:00:09,460 --> 00:00:11,540
+sense ideas.
+
+6
+00:00:11,540 --> 00:00:14,000
+So let's just start
+with a simple example.
+
+7
+00:00:14,000 --> 00:00:16,100
+Let's say that-- and for
+the sake of this video
+
+8
+00:00:16,100 --> 00:00:17,947
+just so I don't
+have to keep saying
+
+9
+00:00:17,947 --> 00:00:19,530
+this is the magnitude
+of the velocity,
+
+10
+00:00:19,530 --> 00:00:22,029
+this is the direction of the
+velocity, et cetera, et cetera.
+
+11
+00:00:22,029 --> 00:00:24,870
+Let's just assume that if I
+have a positive number that it
+
+12
+00:00:24,870 --> 00:00:27,580
+means, for example, if I
+have a positive velocity,
+
+13
+00:00:27,580 --> 00:00:29,994
+it means that I am
+going to the right.
+
+14
+00:00:29,994 --> 00:00:32,369
+And let's say if I have a
+negative number, which we won't
+
+15
+00:00:32,369 --> 00:00:34,987
+see in this video, let's assume
+that I'm going to the left.
+
+16
+00:00:34,987 --> 00:00:36,820
+And that way I can just
+write a number down,
+
+17
+00:00:36,820 --> 00:00:38,700
+are we're only operating
+in one dimension.
+
+18
+00:00:38,700 --> 00:00:40,158
+You know that it
+is specifying what
+
+19
+00:00:40,158 --> 00:00:41,720
+the magnitude and
+the direction is.
+
+20
+00:00:41,720 --> 00:00:44,072
+If I said the velocity is
+five meters per second,
+
+21
+00:00:44,072 --> 00:00:46,030
+that means five meters
+per second to the right.
+
+22
+00:00:46,030 --> 00:00:48,120
+If I say it's negative
+five meters per second,
+
+23
+00:00:48,120 --> 00:00:51,480
+that means it's five meters
+per second to the left.
+
+24
+00:00:51,480 --> 00:00:53,220
+Now let's just say
+just for simplicity,
+
+25
+00:00:53,220 --> 00:00:57,430
+let's just say we start
+with an initial velocity,
+
+26
+00:00:57,430 --> 00:00:59,317
+of five meters per second.
+
+27
+00:00:59,317 --> 00:01:01,400
+And once again, I am
+specifying both the magnitude
+
+28
+00:01:01,400 --> 00:01:02,150
+and the direction.
+
+29
+00:01:02,150 --> 00:01:05,370
+Because of this convention here,
+we know it is to the right.
+
+30
+00:01:05,370 --> 00:01:08,050
+And let's say that we have
+a constant acceleration.
+
+31
+00:01:08,050 --> 00:01:11,010
+We have a constant
+acceleration at play
+
+32
+00:01:11,010 --> 00:01:14,310
+of two meters per
+second, per second,
+
+33
+00:01:14,310 --> 00:01:16,730
+or two meters per
+second squared.
+
+34
+00:01:16,730 --> 00:01:20,470
+And once again, since this is
+positive, it is to the right.
+
+35
+00:01:20,470 --> 00:01:23,340
+And let's say that we
+do this for a duration.
+
+36
+00:01:23,340 --> 00:01:25,810
+So my change in
+time is- let's say
+
+37
+00:01:25,810 --> 00:01:31,560
+we do this for a duration
+of four-- I'll just use s.
+
+38
+00:01:31,560 --> 00:01:33,520
+So I don't use seconds
+and then sec, and then
+
+39
+00:01:33,520 --> 00:01:34,580
+s in different places.
+
+40
+00:01:34,580 --> 00:01:37,150
+So s for this video is seconds.
+
+41
+00:01:37,150 --> 00:01:42,170
+So I want to do is think
+about how far do we travel.
+
+42
+00:01:42,170 --> 00:01:43,860
+Well there's two things.
+
+43
+00:01:43,860 --> 00:01:46,320
+How fast are we going
+after four seconds,
+
+44
+00:01:46,320 --> 00:01:50,490
+and how far have we traveled
+over the course of those four
+
+45
+00:01:50,490 --> 00:01:51,610
+seconds.
+
+46
+00:01:51,610 --> 00:01:55,960
+So let's draw ourselves a
+little bit of a diagram here.
+
+47
+00:01:55,960 --> 00:02:00,840
+So this is my velocity axis and
+this over here is my time axis.
+
+48
+00:02:00,840 --> 00:02:03,490
+I can draw a straighter
+line than that.
+
+49
+00:02:03,490 --> 00:02:07,010
+So that is my time axis.
+
+50
+00:02:07,010 --> 00:02:07,940
+This is velocity.
+
+51
+00:02:07,940 --> 00:02:11,050
+
+52
+00:02:11,050 --> 00:02:13,250
+That is my velocity
+right over there.
+
+53
+00:02:13,250 --> 00:02:15,890
+And I'm starting off at
+five meters per second.
+
+54
+00:02:15,890 --> 00:02:18,820
+So this is five meters per
+second right over here.
+
+55
+00:02:18,820 --> 00:02:23,650
+So v i is equal to
+five meters per second.
+
+56
+00:02:23,650 --> 00:02:25,530
+And then every second
+that goes by, I'm
+
+57
+00:02:25,530 --> 00:02:27,380
+going two meters
+per second faster.
+
+58
+00:02:27,380 --> 00:02:30,060
+Because it's two meters
+per second, per second.
+
+59
+00:02:30,060 --> 00:02:33,710
+So every second that goes
+by-- so after one second,
+
+60
+00:02:33,710 --> 00:02:35,740
+I'm going to go two
+meters per second faster.
+
+61
+00:02:35,740 --> 00:02:36,876
+So I'll be at seven.
+
+62
+00:02:36,876 --> 00:02:38,250
+Or another way to
+think about it,
+
+63
+00:02:38,250 --> 00:02:41,080
+is the slope of
+this velocity line
+
+64
+00:02:41,080 --> 00:02:42,645
+is my constant acceleration.
+
+65
+00:02:42,645 --> 00:02:44,310
+Or I have a constant slope here.
+
+66
+00:02:44,310 --> 00:02:48,440
+So it might look something
+look something like that.
+
+67
+00:02:48,440 --> 00:02:51,290
+So what has happened
+after four seconds?
+
+68
+00:02:51,290 --> 00:02:53,860
+So one, two, three, four.
+
+69
+00:02:53,860 --> 00:02:55,470
+So this is my delta t.
+
+70
+00:02:55,470 --> 00:02:58,380
+So my final velocity is
+going to be right over there.
+
+71
+00:02:58,380 --> 00:03:02,112
+
+72
+00:03:02,112 --> 00:03:03,820
+I'll write it down
+here just because it's
+
+73
+00:03:03,820 --> 00:03:06,080
+getting in the way of
+this word velocity.
+
+74
+00:03:06,080 --> 00:03:09,830
+And so this is v. This
+is my final velocity.
+
+75
+00:03:09,830 --> 00:03:11,150
+And what would it be?
+
+76
+00:03:11,150 --> 00:03:13,690
+Well I'm starting at
+five meters per second.
+
+77
+00:03:13,690 --> 00:03:15,780
+So I'm going to do it
+both, using the variables,
+
+78
+00:03:15,780 --> 00:03:17,800
+and using the concrete numbers.
+
+79
+00:03:17,800 --> 00:03:21,940
+So starting at some
+initial velocity.
+
+80
+00:03:21,940 --> 00:03:24,750
+The subscript i
+says i for initial.
+
+81
+00:03:24,750 --> 00:03:27,720
+And then each second
+that goes by, I'm
+
+82
+00:03:27,720 --> 00:03:29,830
+getting this much faster.
+
+83
+00:03:29,830 --> 00:03:32,470
+So if I want to see how
+much faster have I gone,
+
+84
+00:03:32,470 --> 00:03:34,640
+I multiply the
+number of seconds--
+
+85
+00:03:34,640 --> 00:03:37,180
+I'll just multiply the
+number of seconds that go by,
+
+86
+00:03:37,180 --> 00:03:38,265
+times my acceleration.
+
+87
+00:03:38,265 --> 00:03:42,300
+
+88
+00:03:42,300 --> 00:03:44,800
+And once again, this
+right here, I just
+
+89
+00:03:44,800 --> 00:03:46,400
+wrote the subscript
+c saying that it's
+
+90
+00:03:46,400 --> 00:03:48,120
+a constant acceleration.
+
+91
+00:03:48,120 --> 00:03:50,650
+And so that will tell
+me how fast I've gone.
+
+92
+00:03:50,650 --> 00:03:53,310
+If I start at this
+point, and I multiply
+
+93
+00:03:53,310 --> 00:03:56,950
+the duration times my
+slope, I will get this high.
+
+94
+00:03:56,950 --> 00:03:58,475
+I will get to my final velocity.
+
+95
+00:03:58,475 --> 00:04:01,365
+
+96
+00:04:01,365 --> 00:04:03,455
+And just to make it
+clear with the numbers,
+
+97
+00:04:03,455 --> 00:04:05,080
+these numbers really
+could be anything,
+
+98
+00:04:05,080 --> 00:04:07,990
+I'm just picking these to
+make it concrete in your mind.
+
+99
+00:04:07,990 --> 00:04:12,330
+You have five meters per
+second, plus four seconds,
+
+100
+00:04:12,330 --> 00:04:14,760
+plus-- I want to
+do that in yellow--
+
+101
+00:04:14,760 --> 00:04:19,680
+plus four seconds times
+our acceleration of two
+
+102
+00:04:19,680 --> 00:04:21,500
+meters per second squared.
+
+103
+00:04:21,500 --> 00:04:24,900
+
+104
+00:04:24,900 --> 00:04:26,814
+And what is this
+going to be equal to?
+
+105
+00:04:26,814 --> 00:04:29,230
+You have the seconds canceling
+out with one of the seconds
+
+106
+00:04:29,230 --> 00:04:31,450
+down here.
+
+107
+00:04:31,450 --> 00:04:32,640
+So let me write it.
+
+108
+00:04:32,640 --> 00:04:35,210
+So we have five
+meters per second,
+
+109
+00:04:35,210 --> 00:04:40,100
+plus four times two is eight.
+
+110
+00:04:40,100 --> 00:04:40,996
+This second's gone.
+
+111
+00:04:40,996 --> 00:04:42,620
+We're just left with
+meters per second.
+
+112
+00:04:42,620 --> 00:04:44,580
+Eight meters per second.
+
+113
+00:04:44,580 --> 00:04:49,490
+Or this is the same thing as
+13 meters per second, which
+
+114
+00:04:49,490 --> 00:04:51,837
+is going to be our
+final velocity.
+
+115
+00:04:51,837 --> 00:04:53,170
+And I want to take a pause here.
+
+116
+00:04:53,170 --> 00:04:54,961
+And you can pause and
+think about yourself.
+
+117
+00:04:54,961 --> 00:04:56,710
+This hopefully
+should be intuitive.
+
+118
+00:04:56,710 --> 00:04:59,780
+We were starting at going
+five meters per second.
+
+119
+00:04:59,780 --> 00:05:01,590
+Every second that
+goes by we're going
+
+120
+00:05:01,590 --> 00:05:03,920
+to go two meters
+per second faster.
+
+121
+00:05:03,920 --> 00:05:06,630
+So after one second we will
+be at seven meters per second.
+
+122
+00:05:06,630 --> 00:05:09,870
+After two seconds we will be
+at nine meters per second.
+
+123
+00:05:09,870 --> 00:05:14,142
+After three seconds we will
+be 11 meters per second.
+
+124
+00:05:14,142 --> 00:05:15,600
+And then after four
+seconds we will
+
+125
+00:05:15,600 --> 00:05:17,420
+be at 13 meters per second.
+
+126
+00:05:17,420 --> 00:05:20,220
+So you multiply how much time
+passed times acceleration.
+
+127
+00:05:20,220 --> 00:05:22,460
+This is how much faster,
+we're going to be going.
+
+128
+00:05:22,460 --> 00:05:24,520
+If we're already going
+five meters per second.
+
+129
+00:05:24,520 --> 00:05:26,220
+Five plus how much faster?
+
+130
+00:05:26,220 --> 00:05:28,250
+13 meters per second.
+
+131
+00:05:28,250 --> 00:05:34,150
+So this right up here
+is 13 meters per second.
+
+132
+00:05:34,150 --> 00:05:36,840
+So, I'll take a
+little pause here.
+
+133
+00:05:36,840 --> 00:05:38,340
+Hopefully that's intuitive.
+
+134
+00:05:38,340 --> 00:05:40,090
+And the whole point
+of that is to show you
+
+135
+00:05:40,090 --> 00:05:42,867
+that this formula that you'll
+often see in many physics
+
+136
+00:05:42,867 --> 00:05:45,200
+books-- It's not just something
+that randomly popped out
+
+137
+00:05:45,200 --> 00:05:48,330
+of the air-- it just makes
+complete common sense.
+
+138
+00:05:48,330 --> 00:05:50,190
+Now the next thing
+I want to talk about
+
+139
+00:05:50,190 --> 00:05:54,250
+is what is the total distance
+that we would have traveled.
+
+140
+00:05:54,250 --> 00:05:56,630
+Now we know from the last
+video that distance is just
+
+141
+00:05:56,630 --> 00:05:59,970
+the area under this
+curve right over here.
+
+142
+00:05:59,970 --> 00:06:03,440
+So it's just the area
+under this curve.
+
+143
+00:06:03,440 --> 00:06:05,870
+You say wait, this is kind of
+a strange shape right here.
+
+144
+00:06:05,870 --> 00:06:07,540
+How do I calculate its area?
+
+145
+00:06:07,540 --> 00:06:09,470
+And we can just use a
+little simple geometry
+
+146
+00:06:09,470 --> 00:06:11,790
+to break it down into
+two different areas, that
+
+147
+00:06:11,790 --> 00:06:14,740
+are very easy to
+calculate their areas.
+
+148
+00:06:14,740 --> 00:06:16,000
+Or two simple shapes.
+
+149
+00:06:16,000 --> 00:06:18,950
+You can break it down into
+this blue part, this rectangle
+
+150
+00:06:18,950 --> 00:06:20,510
+right over here.
+
+151
+00:06:20,510 --> 00:06:22,670
+Easy to figure out the
+area of a rectangle.
+
+152
+00:06:22,670 --> 00:06:25,030
+And we could break it down
+into this purple part.
+
+153
+00:06:25,030 --> 00:06:26,490
+This triangle right here.
+
+154
+00:06:26,490 --> 00:06:28,920
+Easy to figure out the
+area of a triangle.
+
+155
+00:06:28,920 --> 00:06:30,890
+And that will be the
+total distance we travel.
+
+156
+00:06:30,890 --> 00:06:33,330
+And even this will hopefully
+make some intuition.
+
+157
+00:06:33,330 --> 00:06:36,000
+Because this blue
+area is how far would
+
+158
+00:06:36,000 --> 00:06:38,470
+we have traveled if we
+were not accelerating.
+
+159
+00:06:38,470 --> 00:06:42,330
+If we just went five meters
+per second, for four seconds.
+
+160
+00:06:42,330 --> 00:06:44,192
+So if you go five meters
+per second times--
+
+161
+00:06:44,192 --> 00:06:46,400
+so this is one second, two
+second, three second, four
+
+162
+00:06:46,400 --> 00:06:47,320
+second.
+
+163
+00:06:47,320 --> 00:06:51,020
+So you're going from
+times zero to time four,
+
+164
+00:06:51,020 --> 00:06:54,020
+your change in time
+is four seconds.
+
+165
+00:06:54,020 --> 00:06:57,330
+So if you go five meters per
+second, for four seconds,
+
+166
+00:06:57,330 --> 00:06:59,610
+you're going to go 20 meters.
+
+167
+00:06:59,610 --> 00:07:02,360
+This right here is 20 meters.
+
+168
+00:07:02,360 --> 00:07:04,040
+That is the area
+of this right here.
+
+169
+00:07:04,040 --> 00:07:06,840
+Five times four.
+
+170
+00:07:06,840 --> 00:07:09,750
+This purple or
+magenta area tells you
+
+171
+00:07:09,750 --> 00:07:12,040
+how further than
+this, are you going,
+
+172
+00:07:12,040 --> 00:07:14,050
+because you are
+accelerating, because you
+
+173
+00:07:14,050 --> 00:07:16,840
+kept going faster and
+faster and faster.
+
+174
+00:07:16,840 --> 00:07:19,400
+And it's pretty easy
+to calculate this area.
+
+175
+00:07:19,400 --> 00:07:22,850
+The base here is still
+five, because that's
+
+176
+00:07:22,850 --> 00:07:24,090
+five seconds have gone by.
+
+177
+00:07:24,090 --> 00:07:25,750
+And what's the height here?
+
+178
+00:07:25,750 --> 00:07:28,740
+The height here is
+my final velocity
+
+179
+00:07:28,740 --> 00:07:30,275
+minus my initial velocity.
+
+180
+00:07:30,275 --> 00:07:33,590
+
+181
+00:07:33,590 --> 00:07:38,240
+Or it's the change in velocity
+due to the acceleration.
+
+182
+00:07:38,240 --> 00:07:40,860
+And the change in velocity
+due to the acceleration.
+
+183
+00:07:40,860 --> 00:07:43,200
+13 minus five is eight.
+
+184
+00:07:43,200 --> 00:07:44,810
+Or it's this 8 right over here.
+
+185
+00:07:44,810 --> 00:07:48,300
+It is eight meters per second.
+
+186
+00:07:48,300 --> 00:07:51,290
+So this height right over here
+is eight meters per second.
+
+187
+00:07:51,290 --> 00:07:54,720
+The base right over
+here is four seconds.
+
+188
+00:07:54,720 --> 00:07:56,320
+That's the time that past.
+
+189
+00:07:56,320 --> 00:07:59,230
+So what's the area
+of this triangle?
+
+190
+00:07:59,230 --> 00:08:02,760
+Area of a triangle is
+one half, times the base,
+
+191
+00:08:02,760 --> 00:08:07,000
+which is four seconds,
+times the height, which
+
+192
+00:08:07,000 --> 00:08:10,570
+is eight meters per second.
+
+193
+00:08:10,570 --> 00:08:11,940
+Seconds cancel out.
+
+194
+00:08:11,940 --> 00:08:14,540
+One half times four
+is two, times eight
+
+195
+00:08:14,540 --> 00:08:21,130
+is equal to 16 meters.
+
+196
+00:08:21,130 --> 00:08:24,850
+So the total distance we
+traveled is 20 plus 16,
+
+197
+00:08:24,850 --> 00:08:27,090
+is 36 meters.
+
+198
+00:08:27,090 --> 00:08:30,250
+That is the total, or I could
+say the total displacement,
+
+199
+00:08:30,250 --> 00:08:33,010
+and once again, it's to the
+right, since it is positive.
+
+200
+00:08:33,010 --> 00:08:35,590
+So this is our displacement.
+
+201
+00:08:35,590 --> 00:08:38,054
+Now what I want to do is do
+this exact same calculation,
+
+202
+00:08:38,054 --> 00:08:39,720
+but keep it in variable
+form and that'll
+
+203
+00:08:39,720 --> 00:08:42,500
+give another formula that many
+people, many often memorize.
+
+204
+00:08:42,500 --> 00:08:44,000
+But I want you to
+understand it it's
+
+205
+00:08:44,000 --> 00:08:46,100
+a completely intuitive
+formula, and it just
+
+206
+00:08:46,100 --> 00:08:49,400
+comes out of the logical
+flow of reasoning
+
+207
+00:08:49,400 --> 00:08:51,410
+that we went through
+in this video.
+
+208
+00:08:51,410 --> 00:08:52,670
+What is the area?
+
+209
+00:08:52,670 --> 00:08:56,320
+Once again, if we just
+think about the variables.
+
+210
+00:08:56,320 --> 00:08:58,790
+Well, the area of
+this rectangle right
+
+211
+00:08:58,790 --> 00:09:03,100
+here is our initial velocity,
+times our change in time.
+
+212
+00:09:03,100 --> 00:09:06,900
+
+213
+00:09:06,900 --> 00:09:11,460
+So this is the blue
+rectangle right over here.
+
+214
+00:09:11,460 --> 00:09:13,770
+And then plus-- what
+do we have to do--
+
+215
+00:09:13,770 --> 00:09:15,960
+we have the change
+in time, once again,
+
+216
+00:09:15,960 --> 00:09:19,730
+we have the change in
+time, times this height.
+
+217
+00:09:19,730 --> 00:09:22,560
+Which is our final velocity.
+
+218
+00:09:22,560 --> 00:09:24,220
+Which is times
+our final velocity
+
+219
+00:09:24,220 --> 00:09:28,160
+minus our initial velocity.
+
+220
+00:09:28,160 --> 00:09:29,822
+These are all vectors.
+
+221
+00:09:29,822 --> 00:09:32,280
+They're just positive, telling
+us we're going to the right.
+
+222
+00:09:32,280 --> 00:09:34,340
+And we don't just multiply
+the base times the height.
+
+223
+00:09:34,340 --> 00:09:36,270
+That would give us the area
+of this entire rectangle.
+
+224
+00:09:36,270 --> 00:09:38,690
+We have to take it by half
+because a triangle is only half
+
+225
+00:09:38,690 --> 00:09:40,020
+of that rectangle.
+
+226
+00:09:40,020 --> 00:09:41,280
+So times one half.
+
+227
+00:09:41,280 --> 00:09:44,590
+
+228
+00:09:44,590 --> 00:09:46,320
+And so this is the area.
+
+229
+00:09:46,320 --> 00:09:47,560
+This is the purple area.
+
+230
+00:09:47,560 --> 00:09:49,160
+That's not purple.
+
+231
+00:09:49,160 --> 00:09:53,810
+This is the purple
+area, right over here.
+
+232
+00:09:53,810 --> 00:09:55,140
+This is the area of this.
+
+233
+00:09:55,140 --> 00:09:57,479
+This is the area of that.
+
+234
+00:09:57,479 --> 00:09:59,020
+And let's simplify
+this a little bit.
+
+235
+00:09:59,020 --> 00:10:00,890
+Let's factor out a delta t.
+
+236
+00:10:00,890 --> 00:10:02,850
+So if you factor
+out a delta t, you
+
+237
+00:10:02,850 --> 00:10:07,965
+get delta t times, a
+bunch of stuff, v sub i.
+
+238
+00:10:07,965 --> 00:10:11,580
+So your initial velocity.
+
+239
+00:10:11,580 --> 00:10:12,780
+We factored this out.
+
+240
+00:10:12,780 --> 00:10:14,710
+Plus this stuff.
+
+241
+00:10:14,710 --> 00:10:17,070
+Plus this thing right over here.
+
+242
+00:10:17,070 --> 00:10:18,790
+And we can distribute
+the one half.
+
+243
+00:10:18,790 --> 00:10:24,330
+We factored the delta t's out.
+
+244
+00:10:24,330 --> 00:10:26,910
+And let's multiply the one half
+times each of these things.
+
+245
+00:10:26,910 --> 00:10:30,810
+So it's going to be
+plus, one half times v f,
+
+246
+00:10:30,810 --> 00:10:32,670
+times our final velocity.
+
+247
+00:10:32,670 --> 00:10:35,040
+That's not the right
+color, let me actually
+
+248
+00:10:35,040 --> 00:10:38,040
+do it in the right color so
+you understand what I'm doing.
+
+249
+00:10:38,040 --> 00:10:39,750
+So this is the one half.
+
+250
+00:10:39,750 --> 00:10:42,870
+So plus one half times
+our final velocity.
+
+251
+00:10:42,870 --> 00:10:45,640
+
+252
+00:10:45,640 --> 00:10:49,845
+Minus one half times
+our initial velocity.
+
+253
+00:10:49,845 --> 00:10:53,480
+
+254
+00:10:53,480 --> 00:10:55,271
+I want to do that in blue.
+
+255
+00:10:55,271 --> 00:10:57,270
+Sorry, I'm having trouble
+changing colors today.
+
+256
+00:10:57,270 --> 00:10:59,635
+Minus one half times
+our initial velocity.
+
+257
+00:10:59,635 --> 00:11:03,572
+
+258
+00:11:03,572 --> 00:11:05,030
+And now what does
+this simplify to?
+
+259
+00:11:05,030 --> 00:11:07,450
+We have something plus one
+half times something else,
+
+260
+00:11:07,450 --> 00:11:10,230
+minus one half times
+that original something.
+
+261
+00:11:10,230 --> 00:11:14,490
+So what is v i minus
+one half times v i.
+
+262
+00:11:14,490 --> 00:11:16,230
+So anything minus
+half of it, you're
+
+263
+00:11:16,230 --> 00:11:19,070
+just going to have a
+positive half left.
+
+264
+00:11:19,070 --> 00:11:21,490
+So these two terms,
+this term and this term
+
+265
+00:11:21,490 --> 00:11:27,300
+will simplify to one half v i.
+
+266
+00:11:27,300 --> 00:11:30,980
+One half the initial
+velocity plus one half times
+
+267
+00:11:30,980 --> 00:11:31,780
+the final velocity.
+
+268
+00:11:31,780 --> 00:11:35,480
+
+269
+00:11:35,480 --> 00:11:37,730
+And all of that is
+being multiplied
+
+270
+00:11:37,730 --> 00:11:42,740
+by our change in time.
+
+271
+00:11:42,740 --> 00:11:45,410
+Or the time that has gone by.
+
+272
+00:11:45,410 --> 00:11:49,359
+And this tells us the distance.
+
+273
+00:11:49,359 --> 00:11:50,650
+The distance that we travelled.
+
+274
+00:11:50,650 --> 00:11:53,050
+Or another way to
+think about it-- let's
+
+275
+00:11:53,050 --> 00:11:56,090
+factor out this one half.
+
+276
+00:11:56,090 --> 00:12:00,200
+You get distance is equal
+to change in time, times--
+
+277
+00:12:00,200 --> 00:12:06,930
+factoring out the one
+half-- v i plus v f.
+
+278
+00:12:06,930 --> 00:12:09,260
+No, that's not the right color.
+
+279
+00:12:09,260 --> 00:12:13,150
+v i plus v f.
+
+280
+00:12:13,150 --> 00:12:16,160
+
+281
+00:12:16,160 --> 00:12:17,220
+So this is interesting.
+
+282
+00:12:17,220 --> 00:12:21,020
+The distance we traveled
+is equal to one half
+
+283
+00:12:21,020 --> 00:12:24,340
+of the initial velocity
+plus the final velocity.
+
+284
+00:12:24,340 --> 00:12:26,350
+So this is really--
+if you just took,
+
+285
+00:12:26,350 --> 00:12:28,330
+this quantity right
+over here is just
+
+286
+00:12:28,330 --> 00:12:32,140
+the arithmetic-- I always
+have trouble saying that word.
+
+287
+00:12:32,140 --> 00:12:35,829
+It's the arithmetic mean
+of these two numbers.
+
+288
+00:12:35,829 --> 00:12:37,870
+And so I'm going to define
+this as something new.
+
+289
+00:12:37,870 --> 00:12:39,920
+I'm going to call this
+the average velocity.
+
+290
+00:12:39,920 --> 00:12:42,000
+But we have to be very
+careful with this.
+
+291
+00:12:42,000 --> 00:12:47,130
+This right here is
+the average velocity.
+
+292
+00:12:47,130 --> 00:12:48,830
+But the only reason
+why I can just
+
+293
+00:12:48,830 --> 00:12:52,137
+take the starting velocity and
+the ending velocity and, adding
+
+294
+00:12:52,137 --> 00:12:53,720
+them together, and
+then divide by two.
+
+295
+00:12:53,720 --> 00:12:55,803
+Essentially taking the
+average of these two things
+
+296
+00:12:55,803 --> 00:12:57,370
+which would be
+someplace over here.
+
+297
+00:12:57,370 --> 00:12:59,220
+And I take that as
+the average velocity,
+
+298
+00:12:59,220 --> 00:13:02,280
+is because my
+acceleration is constant.
+
+299
+00:13:02,280 --> 00:13:05,771
+Which is usually an assumption
+in most introductory physics
+
+300
+00:13:05,771 --> 00:13:06,270
+classes.
+
+301
+00:13:06,270 --> 00:13:07,770
+But it's not always
+the assumption.
+
+302
+00:13:07,770 --> 00:13:11,090
+But if you do have a constant
+acceleration like this,
+
+303
+00:13:11,090 --> 00:13:13,900
+you can assume that
+the average velocity
+
+304
+00:13:13,900 --> 00:13:17,890
+is going to be the average
+of the initial velocity
+
+305
+00:13:17,890 --> 00:13:19,647
+and the final velocity.
+
+306
+00:13:19,647 --> 00:13:21,980
+If this was a curve or if the
+acceleration was changing,
+
+307
+00:13:21,980 --> 00:13:23,720
+you could not do that.
+
+308
+00:13:23,720 --> 00:13:25,430
+But what's useful
+about this-- is
+
+309
+00:13:25,430 --> 00:13:28,270
+if you want to figure out the
+distance that was traveled
+
+310
+00:13:28,270 --> 00:13:30,530
+you just need to know
+the initial velocity
+
+311
+00:13:30,530 --> 00:13:32,350
+and the final velocity.
+
+312
+00:13:32,350 --> 00:13:34,980
+Average the two, and
+then multiply that
+
+313
+00:13:34,980 --> 00:13:37,310
+times the time that goes by.
+
+314
+00:13:37,310 --> 00:13:39,210
+So in this situation,
+our final velocity
+
+315
+00:13:39,210 --> 00:13:41,150
+is 13 meters per second.
+
+316
+00:13:41,150 --> 00:13:44,180
+Our initial velocity was
+five meters per second.
+
+317
+00:13:44,180 --> 00:13:47,600
+So you have 13 plus
+5 is equal to 18.
+
+318
+00:13:47,600 --> 00:13:49,230
+You divide that by 2.
+
+319
+00:13:49,230 --> 00:13:53,350
+Your average velocity
+is 9 meters per second,
+
+320
+00:13:53,350 --> 00:13:55,480
+if you take the
+average of 13 and 5.
+
+321
+00:13:55,480 --> 00:13:58,440
+And then 9 meters per
+second times 4 seconds
+
+322
+00:13:58,440 --> 00:13:59,977
+gives you 36 meters.
+
+323
+00:13:59,977 --> 00:14:01,560
+So hopefully that
+doesn't confuse you.
+
+324
+00:14:01,560 --> 00:14:03,200
+I just want to show you
+where some of these things
+
+325
+00:14:03,200 --> 00:14:04,360
+that you'll see in
+your physics class,
+
+326
+00:14:04,360 --> 00:14:06,693
+some of these formulas, why
+you shouldn't memorize them,
+
+327
+00:14:06,693 --> 00:14:08,607
+and they can all be deduced.
+
+328
+00:14:08,607 --> 00:14:09,106
+

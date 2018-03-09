@@ -1,0 +1,407 @@
+1
+00:00:01,240 --> 00:00:04,575
+Selamat datang kepada pembentangan tentang pecahan setara.
+
+2
+00:00:04,591 --> 00:00:08,600
+Pecahan setara adalah seperti namanya,
+
+3
+00:00:08,600 --> 00:00:09,640
+dua pecahan yang mewakili angka yang sama,
+
+4
+00:00:09,640 --> 00:00:12,260
+walaupun ditulis dengan nombor yang berbeza.
+
+5
+00:00:12,260 --> 00:00:13,930
+Biar saya tunjukkan satu contoh.
+
+6
+00:00:13,930 --> 00:00:18,306
+Katalah saya ada pecahan 1/2.
+
+7
+00:00:18,306 --> 00:00:21,060
+Kenapa tak keluar di sini?
+
+8
+00:00:21,060 --> 00:00:23,480
+Biar saya pilih warna pen ini.
+
+9
+00:00:23,480 --> 00:00:26,930
+Katalah saya tuliskan pecahan 1/2.
+
+10
+00:00:26,930 --> 00:00:30,960
+Kalau kita lukiskan pecahan ini, biar saya lukiskan satu pai,
+
+11
+00:00:30,960 --> 00:00:33,030
+saya harus memotong pai ini kepada dua belah.
+
+12
+00:00:33,030 --> 00:00:34,590
+Kerana penyebutnya adalah 2.
+
+13
+00:00:34,590 --> 00:00:38,420
+Dan jika saya makan salah satu daripada dua potong pai ini,
+
+14
+00:00:38,420 --> 00:00:41,240
+ia bermaksud saya telah makan 1/2 pai ini.
+
+15
+00:00:41,240 --> 00:00:42,150
+Masuk akal, kan?
+
+16
+00:00:42,150 --> 00:00:44,170
+Ia taklah rumit sangat.
+
+17
+00:00:44,170 --> 00:00:45,900
+Bagaimana pula jika saya bukannya memotong pai ini kepada dua?
+
+18
+00:00:45,900 --> 00:00:50,040
+Biar saya lukiskan pai yang sama lagi.
+
+19
+00:00:50,040 --> 00:00:52,030
+Bagaimana pula kalau saya bahagikan pai ini
+
+20
+00:00:52,030 --> 00:00:55,200
+kepada 4 keping?
+
+21
+00:00:55,200 --> 00:00:58,870
+Maka, penyebut bagi pecahan ini
+
+22
+00:00:58,870 --> 00:01:02,680
+adalah 4 potong pai.
+
+23
+00:01:02,680 --> 00:01:05,030
+Dalam contoh ini, saya tidak lagi hanya makan satu potong pai saja,
+
+24
+00:01:05,030 --> 00:01:07,135
+tetapi 2 daripada 4 potong pai ini.
+
+25
+00:01:07,135 --> 00:01:13,140
+Atau, saya boleh kata, 2/4 daripada pai ini.
+
+26
+00:01:15,450 --> 00:01:20,240
+Daripada dua lukisan ini, kita dapat perhatikan
+
+27
+00:01:20,240 --> 00:01:22,230
+yang saya sebenarnya telah makan jumlah pai yang sama.
+
+28
+00:01:22,230 --> 00:01:24,780
+Jadi, dua pecahan ini sebenarnya adalah bersamaan.
+
+29
+00:01:24,780 --> 00:01:28,170
+Kalau ada orang kata yang dia telah makan 1/2 pai ataupun
+
+30
+00:01:28,170 --> 00:01:31,410
+dia makan 2/4 pai, sebenarnya jumlah pai yang
+
+31
+00:01:31,410 --> 00:01:32,640
+telah dia makan adalah sama.
+
+32
+00:01:32,640 --> 00:01:34,490
+Oleh itu, dua pecahan tersebut
+
+33
+00:01:34,490 --> 00:01:35,460
+adalah setara.
+
+34
+00:01:35,460 --> 00:01:38,820
+Mari kita lakukan satu lagi contoh.
+
+35
+00:01:38,820 --> 00:01:43,770
+Katalah-- saya tahu pai ini lebih hodoh daripada yang lain, tapi
+
+36
+00:01:43,770 --> 00:01:45,550
+kita akan anggap ia adalah sama dengan yang lain.
+
+37
+00:01:45,550 --> 00:01:51,250
+Katakan kita bahagikan pai ini kepada 8 potong.
+
+38
+00:01:51,250 --> 00:01:57,840
+Tadi kita makan 2 potong, dan sekarang kita akan makan 4 daripada 8 potong pai ini.
+
+39
+00:01:57,840 --> 00:02:00,360
+Jadi, kita dah makan 4 potong pai daripada 8.
+
+40
+00:02:00,360 --> 00:02:03,140
+Perhatikan yang kita masih telah makan jumlah pai yang sama.
+
+41
+00:02:03,140 --> 00:02:05,080
+Iaitu, separuh daripada pai ini.
+
+42
+00:02:05,080 --> 00:02:10,790
+Maka, kita dapat lihat yang 1/2 adalah bersamaan dengan 2/4, dan juga bersamaan dengan 4/8.
+
+43
+00:02:10,790 --> 00:02:13,320
+Sekarang nampakkah anda coraknya kalau kita perhatikan
+
+44
+00:02:13,320 --> 00:02:18,540
+perhubungan angka-angkanya antara 1/2, 2/4, dan 4/8?
+
+45
+00:02:18,540 --> 00:02:24,640
+Untuk tukarkan 1/2 kepada 2/4, kita darabkan penyebut --
+
+46
+00:02:24,640 --> 00:02:27,310
+sebagai peringatan, penyebut adalah nombor di bawah
+
+47
+00:02:27,310 --> 00:02:29,170
+suatu pecahan.
+
+48
+00:02:29,170 --> 00:02:31,020
+Kita darabkan penyebutnya dengan 2.
+
+49
+00:02:31,020 --> 00:02:35,370
+Dan bila kamu darabkan penyebut dengan 2, kita harus juga
+
+50
+00:02:35,370 --> 00:02:38,250
+darabkan pengangkanya dengan 2.
+
+51
+00:02:38,250 --> 00:02:39,360
+Kita buatkan perkara yang sama di sini.
+
+52
+00:02:39,360 --> 00:02:42,360
+Dan ini sebenarnya masuk akal kerana, kalau saya menggandakan
+
+53
+00:02:46,540 --> 00:02:50,640
+jumlah potongan pai ini, maka saya perlu makan dua kali potongan pai
+
+54
+00:02:50,640 --> 00:02:53,700
+untuk mendapatkan jumlah pai yang sama.
+
+55
+00:02:53,700 --> 00:02:56,390
+Biar kita cuba beberapa contoh lagi bagi pecahan setara
+
+56
+00:02:56,390 --> 00:03:00,740
+dan harap kamu akan lebih jelas tentangnya.
+
+57
+00:03:00,740 --> 00:03:02,020
+Saya akan memadamkan ini.
+
+58
+00:03:02,020 --> 00:03:06,550
+Kenapa tak boleh padam ini?
+
+59
+00:03:07,645 --> 00:03:14,030
+Biar saya gunakan mouse.
+
+60
+00:03:16,470 --> 00:03:17,620
+OK, baik.
+
+61
+00:03:17,620 --> 00:03:18,750
+Maaf ya.
+
+62
+00:03:18,750 --> 00:03:20,985
+Jadi katakanlah saya ada pecahan 3/5.
+
+63
+00:03:20,985 --> 00:03:24,160
+Ikutkan prinsip yang sama seperti tadi, selagi kita darabkan
+
+64
+00:03:26,850 --> 00:03:31,250
+pengangka dan penyebut dengan nombor yang sama, kita
+
+65
+00:03:31,250 --> 00:03:32,740
+akan dapat pecahan setara.
+
+66
+00:03:32,740 --> 00:03:38,230
+Jadi kalau kita darabkan pengangka dengan 7 dan penyebutnya
+
+67
+00:03:38,230 --> 00:03:46,820
+dengan 7, kita akan dapat 21 -- kerana 3 kali 7 adalah 21-- per 35.
+
+68
+00:03:46,820 --> 00:03:51,790
+Maka, 3/5 dan 21/35 adalah pecahan setara.
+
+69
+00:03:51,790 --> 00:03:54,880
+Secara lazimnya, dan saya tak pasti kalau kamu sudah pelajari
+
+70
+00:03:54,880 --> 00:03:57,830
+pendaraban pecahan atau tidak, tapi di sini kita sebenarnya telah mendarabkan 3/5
+
+71
+00:03:57,830 --> 00:04:02,460
+dengan 7/7 untuk dapatkan 21/35.
+
+72
+00:04:02,460 --> 00:04:06,480
+Dan kalau kamu perhatikan, apa yang kita buat bukanlah silap mata.
+
+73
+00:04:06,480 --> 00:04:09,090
+7/7, apakah sebenarnya 7/7 ini?
+
+74
+00:04:09,090 --> 00:04:12,700
+Jika saya ada 7 potong dalam satu pai, dan saya makan 7
+
+75
+00:04:12,700 --> 00:04:14,850
+daripadanya; maka saya telah makan seluruh pai itu.
+
+76
+00:04:14,850 --> 00:04:19,160
+Jadi 7/7, adalah bersamaan dengan 1.
+
+77
+00:04:19,160 --> 00:04:22,620
+Maka pada dasarnya, kita telah mendarabkan 3/5
+
+78
+00:04:22,620 --> 00:04:23,970
+dengan 1.
+
+79
+00:04:23,970 --> 00:04:26,910
+Yang sebenarnya sama dengan 7/7.
+
+80
+00:04:30,470 --> 00:04:33,490
+Maaf ya, tulisan saya ini tidak begitu teratur.
+
+81
+00:04:33,490 --> 00:04:38,660
+Dan beginilah caranya kita dapat 21/35.
+
+82
+00:04:38,660 --> 00:04:39,180
+Menarik, kan?
+
+83
+00:04:39,180 --> 00:04:41,090
+Apa yang kita buat di sini adalah darab nombor ini dengan 1, dan kita tahu
+
+84
+00:04:41,090 --> 00:04:43,690
+yang apa-apa nombor kali 1 adalah bersamaan dengan nombor yang asal.
+
+85
+00:04:43,690 --> 00:04:45,940
+Jadi kita telah menemui cara yang lain
+
+86
+00:04:45,940 --> 00:04:54,150
+untuk menulis 21/35.
+
+87
+00:04:54,150 --> 00:04:59,930
+Mari kita cuba dengan pecahan 5/12.
+
+88
+00:04:59,930 --> 00:05:05,070
+Dan saya nak tuliskannya dengan penyebut -- katalah
+
+89
+00:05:05,070 --> 00:05:09,290
+saya nak tuliskan dengan penyebut 36.
+
+90
+00:05:09,290 --> 00:05:13,050
+Apakah nombor yang perlu kita darabkan untuk jadikan 12 kepada 36?
+
+91
+00:05:13,050 --> 00:05:17,530
+36 dibahagi dengan 12 adalah 3.
+
+92
+00:05:17,530 --> 00:05:19,830
+Maka kita darabkan penyebutnya dengan 3, dan kita juga perlu
+
+93
+00:05:19,830 --> 00:05:22,450
+darabkan pengangkanya dengan 3.
+
+94
+00:05:22,450 --> 00:05:24,215
+Kali 3.
+
+95
+00:05:24,215 --> 00:05:27,080
+Dapat 15.
+
+96
+00:05:27,080 --> 00:05:31,890
+Jadi kita dapat 15/36, yang juga bersamaan dengan 5/12.
+
+97
+00:05:31,890 --> 00:05:34,380
+Berbalik kepada contoh kita yang asal, itu bermaksud
+
+98
+00:05:34,380 --> 00:05:38,300
+kalau saya ada pai yang dibahagi kepada 12 potongan dan saya telah makan 5 daripadanya.
+
+99
+00:05:38,300 --> 00:05:39,140
+Katalah saya dah makan ini.
+
+100
+00:05:39,140 --> 00:05:41,990
+Dan dibandingkan dengan pai lain yang sama saiz dengannya, di mana
+
+101
+00:05:41,990 --> 00:05:44,740
+ia dibahagi kepada 36 potongan dan kamu makan 15 daripadanya.
+
+102
+00:05:44,740 --> 00:05:47,540
+Kamu sebenarnya telah makan jumlah pai yang sama.

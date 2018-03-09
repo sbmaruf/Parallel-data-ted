@@ -1,0 +1,307 @@
+1
+00:00:00,750 --> 00:00:04,290
+Tuliskan 7/4 sebagai nombor campuran.
+
+2
+00:00:04,290 --> 00:00:06,210
+Kita ada pecahan tidak wajar.
+
+3
+00:00:06,210 --> 00:00:07,580
+7 ialah lebih besar daripada 4.
+
+4
+00:00:07,580 --> 00:00:09,160
+Mari kita tuliskan sebagai nombor campuran.
+
+5
+00:00:09,160 --> 00:00:11,110
+Pertama sekali, saya akan tunjukkan kepada kamu
+
+6
+00:00:11,110 --> 00:00:12,510
+cara yang ringkas dan kita akan
+
+7
+00:00:12,510 --> 00:00:15,830
+fikirkan maksud sebenarnya selepas itu.
+
+8
+00:00:15,830 --> 00:00:20,210
+Apakah yang diwakili oleh 7/4 dalam nombor campuran?
+
+9
+00:00:20,210 --> 00:00:22,560
+Biar saya tuliskan dalam warna yang berlainan.
+
+10
+00:00:22,560 --> 00:00:26,045
+Ini akan menjadi sama dengan - cara yang paling mudah
+
+11
+00:00:26,045 --> 00:00:29,540
+ialah bahagikan 7 dengan 4.
+
+12
+00:00:29,540 --> 00:00:36,280
+ialah bahagikan 7 dengan 4.
+
+13
+00:00:36,280 --> 00:00:38,910
+4 memenuhi 7 sebanyak
+
+14
+00:00:38,910 --> 00:00:40,240
+satu kali.
+
+15
+00:00:43,370 --> 00:00:44,620
+Biar saya buat ini dalam warna yang lain.
+
+16
+00:00:47,100 --> 00:00:50,220
+1 darab 4 ialah 4.
+
+17
+00:00:50,220 --> 00:00:52,600
+Apakah bakinya?
+
+18
+00:00:52,600 --> 00:00:55,160
+7 tolak 4 ialah 3.
+
+19
+00:00:55,160 --> 00:00:57,680
+Jika kita mahu tuliskan dengan mudah--biar saya
+
+20
+00:00:57,680 --> 00:00:59,150
+buat soalan dulu, dan kita fikirkan
+
+21
+00:00:59,150 --> 00:01:00,460
+maksudnya sebentar lagi.
+
+22
+00:01:00,460 --> 00:01:05,019
+4 memenuhi 7 sebanyak satu kali, dan kamu ada
+
+23
+00:01:05,019 --> 00:01:10,200
+satu bahagian penuh di sini, dan apakah bakinya?
+
+24
+00:01:10,200 --> 00:01:15,810
+Bakinya 3, dan
+
+25
+00:01:15,810 --> 00:01:16,700
+ia datang dari sana.
+
+26
+00:01:16,700 --> 00:01:19,630
+Itu bakinya bila 7 dibahagikan dengan 4.
+
+27
+00:01:19,630 --> 00:01:26,000
+Bakinya 3, tetapi ia 3 dari 4, atau 3/4.
+
+28
+00:01:26,000 --> 00:01:28,880
+Jadi, ini caranya. Kita tukarkan dari pecahan
+
+29
+00:01:28,880 --> 00:01:30,200
+tidak wajar ke nombor campuran.
+
+30
+00:01:30,200 --> 00:01:31,650
+Apa yang saya telah buat mungkin
+
+31
+00:01:31,650 --> 00:01:33,190
+kelihatan janggal.
+
+32
+00:01:33,190 --> 00:01:36,780
+Saya bahagikan 7 dengan 4, ia memenuhi satu kali, dan
+
+33
+00:01:36,780 --> 00:01:40,530
+bakinya 3, jadi saya ada 1 dan 3/4.
+
+34
+00:01:40,530 --> 00:01:42,480
+Tetapi, kenapa ia masuk akal?
+
+35
+00:01:42,480 --> 00:01:44,480
+Kenapa ia masuk akal?
+
+36
+00:01:44,480 --> 00:01:46,230
+Biar saya lukiskan suku-sukunya.
+
+37
+00:01:46,230 --> 00:01:53,540
+Mari kita lukiskan 7 suku dan mungkin ia akan menjadi lebih jelas.
+
+38
+00:01:53,540 --> 00:01:56,460
+Mari kita lukis segi empat kecil sebagai satu suku.
+
+39
+00:01:56,460 --> 00:02:03,750
+Saya ada segi empat begini, dan ia ialah 1/4.
+
+40
+00:02:03,750 --> 00:02:07,170
+Mari kita fikirkan maksud tujuh suku, biar saya
+
+41
+00:02:07,170 --> 00:02:08,410
+salin dan tampalnya.
+
+42
+00:02:08,410 --> 00:02:11,500
+Salin dan tampal.
+
+43
+00:02:11,500 --> 00:02:17,510
+Jadi, saya ada 2 suku, atau kamu boleh lihatnya sebagai 2/4.
+
+44
+00:02:17,510 --> 00:02:20,740
+Sekarang. saya ada 3 suku.
+
+45
+00:02:20,740 --> 00:02:22,950
+Sekarang, saya ada 4 suku,
+
+46
+00:02:22,950 --> 00:02:24,430
+Ini menjadi satu bahagian yang penuh, bukan?
+
+47
+00:02:24,430 --> 00:02:25,800
+Saya ada empat suku.
+
+48
+00:02:25,800 --> 00:02:27,310
+Ini satu bahagian yang penuh.
+
+49
+00:02:27,310 --> 00:02:28,910
+Biar saya mulakan satu bahagian lagi.
+
+50
+00:02:28,910 --> 00:02:31,500
+Sekarang, saya ada 5.
+
+51
+00:02:31,500 --> 00:02:37,890
+Saya ada 6 suku, dan sekarang 7 suku.
+
+52
+00:02:37,890 --> 00:02:39,410
+Ini kelihatan seperti apa?
+
+53
+00:02:39,410 --> 00:02:43,490
+Saya telah tuliskan semula 7/4. atau 7 suku.
+
+54
+00:02:43,490 --> 00:02:45,630
+Saya telah lukiskan untuk kamu.
+
+55
+00:02:45,630 --> 00:02:47,350
+Apakah yang diwakilinya?
+
+56
+00:02:47,350 --> 00:02:52,110
+Saya ada 4 suku di sini, jadi ini ialah 4/4.
+
+57
+00:02:52,110 --> 00:02:55,750
+Ini ialah 3/4.
+
+58
+00:02:55,750 --> 00:03:01,980
+Lihat, 7/4 ialah 4/4 dengan 3/4 sebagai baki.
+
+59
+00:03:01,980 --> 00:03:03,110
+Biar saya tulisnya begini.
+
+60
+00:03:03,110 --> 00:03:09,330
+7/4 ialah 4/4 dengan 3/4 sebagai baki.
+
+61
+00:03:09,330 --> 00:03:10,580
+Apakah itu 4/4?
+
+62
+00:03:13,350 --> 00:03:16,320
+4/4 ialah satu bahagian.
+
+63
+00:03:16,320 --> 00:03:20,970
+Kamu ada satu bahagian dengan 3/4 sebagai baki, jadi
+
+64
+00:03:20,970 --> 00:03:23,400
+kamu ada 1 dan 3/4.
+
+65
+00:03:23,400 --> 00:03:27,470
+Ini 3/4 dan ini satu bahagian yang penuh.
+
+66
+00:03:27,470 --> 00:03:29,590
+Saya harap ini masuk akal dan kamu telah faham
+
+67
+00:03:29,590 --> 00:03:30,440
+hubungannya.
+
+68
+00:03:30,440 --> 00:03:32,760
+Berapakah bahagian penuh yang kamu ada?
+
+69
+00:03:32,760 --> 00:03:36,100
+Bila kamu bahagi 7 dengan 4 dan mendapat
+
+70
+00:03:36,100 --> 00:03:38,550
+satu, kamu sebenarnya sedang mencari berapa bahagian penuh.
+
+71
+00:03:42,250 --> 00:03:47,070
+Jadi, jumlah daripada keseluruhannya, atau kamu boleh bayangkan
+
+72
+00:03:47,070 --> 00:03:48,190
+bahagian pie.
+
+73
+00:03:48,190 --> 00:03:50,680
+Berapakah keping pie yang telah ditinggalkan?
+
+74
+00:03:50,680 --> 00:03:53,770
+Kita ada 3 keping dan setiap keping ialah 1/4. jadi kita ada
+
+75
+00:03:53,770 --> 00:03:55,430
+baki 3/4 keping.
+
+76
+00:03:55,430 --> 00:03:59,080
+Kita ada satu pie yang lengkap dan baki sebanyak 3 keping,
+
+77
+00:03:59,080 --> 00:04:01,200
+dan setiap keping ialah 1/4.

@@ -1,0 +1,962 @@
+1
+00:00:00,740 --> 00:00:02,850
+mari kita ingat semula sejauh mana yang kita tahu
+
+2
+00:00:02,850 --> 00:00:04,820
+tentang penolakan
+
+3
+00:00:04,820 --> 00:00:09,210
+kalau saya cakap 5 tolak 3,apa yang dimaksudkan?
+
+4
+00:00:09,210 --> 00:00:11,060
+ada banyak cara untuk fikirkan nya
+
+5
+00:00:11,060 --> 00:00:16,804
+saya ada 5-- katakan saya ada 5 biji berry
+
+6
+00:00:16,804 --> 00:00:21,930
+jadi 1,2,3,4,5,
+
+7
+00:00:21,930 --> 00:00:25,520
+jadi saya ada 5 biji berries,bila tolak 3 anda
+
+8
+00:00:25,520 --> 00:00:27,220
+tolak 3 daripadanya
+
+9
+00:00:27,220 --> 00:00:30,360
+saya boleh samakan seperti saya hendak ambil
+
+10
+00:00:30,360 --> 00:00:31,740
+3 daripada berries ini.
+
+11
+00:00:31,740 --> 00:00:35,220
+jadi bila saya ambil berry ini,berry itu,dan itu,
+
+12
+00:00:35,220 --> 00:00:38,110
+saya ambil 1,2,3 berries
+
+13
+00:00:38,110 --> 00:00:40,220
+jadi berapa banyak berries yang masih ada?
+
+14
+00:00:40,220 --> 00:00:43,130
+yang ada sekarang ialah 1,2
+
+15
+00:00:43,130 --> 00:00:46,750
+jadi ada 2 berries
+
+16
+00:00:46,750 --> 00:00:50,060
+cara lain untuk bayangkannya ialah
+
+17
+00:00:50,060 --> 00:00:53,710
+fikirkan 5 tolak 3, saya akan buat disini
+
+18
+00:00:53,710 --> 00:00:57,250
+5 tolak 3,-- ialah dengan fikir kan perbezaan
+
+19
+00:00:57,250 --> 00:00:59,670
+antara 5 dan 3
+
+20
+00:00:59,670 --> 00:01:00,610
+biar saya lukis
+
+21
+00:01:00,610 --> 00:01:02,280
+katakan.. saya ada 5 berries
+
+22
+00:01:02,280 --> 00:01:04,960
+1,2,3,4,5
+
+23
+00:01:04,960 --> 00:01:07,560
+dan anda ada 3 berries
+
+24
+00:01:07,560 --> 00:01:09,600
+ini warna yang lain sikit
+
+25
+00:01:09,600 --> 00:01:11,960
+anda ada 3 berries
+
+26
+00:01:11,960 --> 00:01:16,110
+cara lain ialah dengan mlaku kan nya ialan
+5 tolak 3 ialah
+
+27
+00:01:16,110 --> 00:01:18,980
+yang saya ada lebih dari anda?
+
+28
+00:01:18,980 --> 00:01:21,500
+dan bila lihat disini, berry ini
+
+29
+00:01:21,500 --> 00:01:24,110
+ialah --ada berry disana juga
+
+30
+00:01:24,110 --> 00:01:27,040
+kita ada berry setiap satu,
+
+31
+00:01:27,040 --> 00:01:29,970
+tapi saya ada 1,2 berries yang anda tidak ada
+
+32
+00:01:29,970 --> 00:01:33,200
+jadi sekali lagi, saya ada 2 berries dan anda tidak
+
+33
+00:01:33,200 --> 00:01:35,220
+kita jugak boleh lihat dalam bentuk lain
+
+34
+00:01:35,220 --> 00:01:38,070
+bentuk garisan bernombor
+
+35
+00:01:38,070 --> 00:01:42,300
+okay sekarang saya akan lukiskan garisan
+
+36
+00:01:42,300 --> 00:01:43,270
+ini garisan bernombor saya
+
+37
+00:01:43,270 --> 00:01:44,850
+kita sudah belajar dalam video penambahan yang
+
+38
+00:01:44,850 --> 00:01:46,620
+ini boleh pergi sebanyak mana yang kita mahu.
+
+39
+00:01:46,620 --> 00:01:49,220
+dan sebenarnya..kita juga boleh ke arah kiri dari nilai 0
+
+40
+00:01:49,220 --> 00:01:52,160
+dan ianya akn menjadi nombor nombor negatif, kamu akan jumpa dalam video akan datang
+
+41
+00:01:52,160 --> 00:01:53,720
+tapi, kita mulakan di kosong.
+
+42
+00:01:53,720 --> 00:02:02,500
+0,1,2,3,4,5...dan sampai 7..
+
+43
+00:02:02,500 --> 00:02:07,330
+kalau kita buat 5-3... kita boleh lihat nya macam..kita ambil 3
+
+44
+00:02:07,330 --> 00:02:10,890
+dari 5..
+5 tolak 3, mula dekat 5.
+
+45
+00:02:10,890 --> 00:02:14,890
+kalau saya gerak 3 .. naik langkah
+
+46
+00:02:14,890 --> 00:02:16,940
+maksudnya saya sedang tambah nilai.
+
+47
+00:02:16,940 --> 00:02:20,330
+disebabkan kita nak menolak, saya akan turun 3 langkah.
+
+48
+00:02:20,330 --> 00:02:29,010
+jadi saya kurang kan dengan 1,2,3 dan saya akan sampai di 2.
+
+49
+00:02:29,010 --> 00:02:31,770
+kalau kita lihat dari point sebegini, sekarang biar
+
+50
+00:02:31,770 --> 00:02:33,160
+saya lukis lagi satu garisan bernombor.
+
+51
+00:02:33,160 --> 00:02:33,820
+mari saya tunjukkan
+
+52
+00:02:33,820 --> 00:02:37,280
+maksud saya di sini,, saya ambil 3 dari sini..
+
+53
+00:02:37,280 --> 00:02:38,910
+macam, berapa banyak 5 lebih dari 3?
+
+54
+00:02:38,910 --> 00:02:41,690
+walaupun ia nya adalah jawapan yang sama, tapi
+
+55
+00:02:41,690 --> 00:02:43,940
+kita ada dua cara untuk selesaikan nya.
+
+56
+00:02:43,940 --> 00:02:45,480
+biar saya lukis garisan bernombor lagi.
+
+57
+00:02:45,480 --> 00:02:48,845
+saya lukis garisan bernombor yang sama.
+
+58
+00:02:49,445 --> 00:02:57,627
+saya ada 0,1,2,3,4,5,6,7
+
+59
+00:02:57,627 --> 00:03:01,330
+kalau saya nak tanda kan mana nombor 5 di garisan bernombor,
+
+60
+00:03:01,330 --> 00:03:02,770
+yaa, di sini nombor 5 ya.
+
+61
+00:03:02,770 --> 00:03:04,750
+saya lukis kotak pink kat nombor ni.
+
+62
+00:03:04,750 --> 00:03:06,490
+5 di sini.
+
+63
+00:03:06,490 --> 00:03:10,720
+sekarang..3.. saya gunakan warna kuning
+
+64
+00:03:10,720 --> 00:03:13,110
+3 di sini ya di garisan bernombor.
+
+65
+00:03:13,110 --> 00:03:18,830
+jadi, cara ini untuk kita lihat macam mana 5-3 ialah..
+
+66
+00:03:18,830 --> 00:03:21,630
+apa beza nya ? 
+biar saya tulis.
+
+67
+00:03:21,630 --> 00:03:36,794
+di sini kita katakan , apa beza 5 dari 3?
+
+68
+00:03:36,794 --> 00:03:39,024
+dan untuk selesaikan ni, anda boleh katakan..
+
+69
+00:03:39,024 --> 00:03:43,130
+berapa banyak.. dari 3 untuk kita sampai ke 5?
+
+70
+00:03:43,130 --> 00:03:46,200
+perbezaan nya di sini, bagaimana 5 berbeza dari 3?
+
+71
+00:03:46,200 --> 00:03:50,380
+baik lah. anda kena naik ..1..2 untuk sampai ke 5.
+
+72
+00:03:50,380 --> 00:03:54,430
+maka beza nya ialah di sini..
+
+73
+00:03:54,430 --> 00:04:04,520
+dan 3.. sebanyak ini. 2..
+
+74
+00:04:04,520 --> 00:04:05,880
+hanya 2.
+
+75
+00:04:05,880 --> 00:04:07,250
+sekarang, mari .. saya lukis satu lagi kotak.
+
+76
+00:04:07,250 --> 00:04:08,270
+jadi 2 di sini.
+
+77
+00:04:08,270 --> 00:04:11,770
+saya nak tunjukkan perbezaan antara penolakan dan..
+
+78
+00:04:11,770 --> 00:04:14,060
+perbezaan.. nak jelaskan
+
+79
+00:04:14,060 --> 00:04:17,600
+yang walaupun ada dua cara untuk selesaikan penolakan,
+
+80
+00:04:17,600 --> 00:04:20,340
+ia sebenarnya adalah sama saja.
+
+81
+00:04:20,340 --> 00:04:22,650
+dan... anda akan dapat jawapan yang sama..
+
+82
+00:04:22,650 --> 00:04:24,530
+tak kira la kaedah mana yang anda guna pakai ..
+
+83
+00:04:24,530 --> 00:04:26,760
+mari saya cuba dengan nombor lain pula.
+
+84
+00:04:26,760 --> 00:04:30,550
+bagi saya cuba.. 7 tolak 4
+
+85
+00:04:30,550 --> 00:04:34,030
+mungkin kita boleh bayangkan..saya ada 7 inci panjang
+
+86
+00:04:34,030 --> 00:04:36,209
+kayu...
+
+87
+00:04:36,209 --> 00:04:38,942
+kayu sepanjang 7 inci.
+
+88
+00:04:38,942 --> 00:04:40,552
+7 inci..
+
+89
+00:04:40,552 --> 00:04:43,710
+saya letak kan pembaris di sini.. saya ada 0..
+
+90
+00:04:43,710 --> 00:04:50,480
+1,2,3,4,5,6,7..
+
+91
+00:04:50,480 --> 00:04:52,690
+jadi, saya ada 7 inci panjang kayu.
+
+92
+00:04:52,690 --> 00:04:55,930
+dan..saya boleh potong 4 inci dari kayu ini.
+
+93
+00:04:55,930 --> 00:04:57,985
+kalau saya potong inci..
+
+94
+00:04:57,985 --> 00:05:01,750
+saya potong 1.2.3.4..
+
+95
+00:05:01,750 --> 00:05:03,170
+sekarang tinggal berapa?
+
+96
+00:05:03,170 --> 00:05:06,040
+semua yang di sini, saya buang.
+
+97
+00:05:06,040 --> 00:05:07,660
+saya potong.. buang
+
+98
+00:05:07,660 --> 00:05:09,160
+saya potong kayu ni..
+
+99
+00:05:09,160 --> 00:05:10,820
+mungkin saya patut buat dengan warna yang lebih gelap
+
+100
+00:05:10,820 --> 00:05:13,250
+untuk tunjukkan yang saya potong.
+
+101
+00:05:13,250 --> 00:05:15,240
+semua ini akan hilang.
+
+102
+00:05:15,240 --> 00:05:16,720
+..
+
+103
+00:05:16,720 --> 00:05:17,870
+saya potong..
+
+104
+00:05:17,870 --> 00:05:21,890
+jadi saya tinggal....selepas saya potong 4 inci panjang kayu..
+
+105
+00:05:21,890 --> 00:05:27,880
+tinggal lah.. 1,2,3 inci panjang kayu
+
+106
+00:05:27,880 --> 00:05:28,600
+jadi ini 3..
+
+107
+00:05:28,600 --> 00:05:33,700
+maka.. 7 tolak 4 ialah 3.
+
+108
+00:05:33,700 --> 00:05:36,410
+kita lihat penolakan seperti kita buang nya
+
+109
+00:05:36,410 --> 00:05:40,380
+saya potong kayu. seolah2 saya buang kayu itu.
+
+110
+00:05:40,380 --> 00:05:45,070
+sekarang saya boleh fikirkan cara yang berbeza sedikit.
+
+111
+00:05:45,070 --> 00:05:47,930
+tapi..ia akan beri kan jawapan yang sama.
+
+112
+00:05:47,930 --> 00:05:49,610
+kita boleh katakan 7 tolak 4..
+
+113
+00:05:49,610 --> 00:05:53,500
+sekarang, sekali lagi saya ada 7 inci kayu panjang.
+
+114
+00:05:53,500 --> 00:05:56,150
+macam tadi.
+
+115
+00:05:56,150 --> 00:06:05,280
+saya letak kan pembaris. 1.2.3.4.5.6.7..
+
+116
+00:06:05,280 --> 00:06:07,940
+ianya 7 inci..kayu 7 inci panjang.
+
+117
+00:06:07,940 --> 00:06:11,080
+daripada saya ambil 4 inci dari , saya nak bezakannya
+
+118
+00:06:11,080 --> 00:06:13,740
+jadi yang ini 7.. saya akan bezakan dengan kayu
+
+119
+00:06:13,740 --> 00:06:14,280
+sepanjang 4 inci.
+
+120
+00:06:14,280 --> 00:06:18,830
+di sini saya ada lagi satu kayu 4 inci.
+
+121
+00:06:18,830 --> 00:06:22,750
+ini kayu 4 inci saya..ini 7inci. ini 4 inci.
+
+122
+00:06:22,750 --> 00:06:25,770
+anda boleh lihat 7 tolak 4 macam ambil 4 inci
+
+123
+00:06:25,770 --> 00:06:26,580
+dari kayu yang panjang itu.
+
+124
+00:06:26,580 --> 00:06:30,610
+atau pun.. anda boleh lihat bezanya..dengan lihat pada perbezaan antara
+
+125
+00:06:30,610 --> 00:06:33,530
+kayu 7 inci dan kayu 4 inci itu. lihat beza nya.
+
+126
+00:06:33,530 --> 00:06:35,060
+dalam kes ini, apa beza nya?
+
+127
+00:06:35,060 --> 00:06:38,310
+dari kayu 4 inci tu nak ke kayu 7 inci itu..
+
+128
+00:06:38,310 --> 00:06:45,030
+kita kena naik lagi 3 kan ? atau
+
+129
+00:06:45,030 --> 00:06:48,370
+saya kena tambah kayu sebanyak 3 inci..
+
+130
+00:06:48,370 --> 00:06:50,600
+ataupun kayu ni kena tumbuh lagi 3 inci
+
+131
+00:06:50,600 --> 00:06:52,170
+untuk jadi 7 inci.
+
+132
+00:06:52,170 --> 00:06:55,480
+ini adalah dua cara cara yang sama
+
+133
+00:06:55,480 --> 00:06:56,430
+untuk selesaikan penolakan.
+
+134
+00:06:56,430 --> 00:06:59,370
+itu serba sedikit dari video sebelum ini.
+
+135
+00:06:59,370 --> 00:07:02,290
+sekarang, apa yang saya nak lakukan dalal video ini adalah untuk
+
+136
+00:07:02,290 --> 00:07:03,380
+cuba selesaikan soalan yang lebih rumit.
+
+137
+00:07:03,380 --> 00:07:06,170
+anda dapat lihat yang garisan bernombor ,
+
+138
+00:07:06,170 --> 00:07:09,070
+ia nya lebih sesuai untuk soalan yang lebih mudah
+
+139
+00:07:09,070 --> 00:07:12,260
+yang kita sudah lakukan sebelum ini.
+
+140
+00:07:12,260 --> 00:07:16,380
+mari kita buat..17 tolak 19
+
+141
+00:07:16,380 --> 00:07:18,280
+seperti yang lain. kita ada dua cara
+
+142
+00:07:18,280 --> 00:07:18,990
+untuk selesaikan ini.
+
+143
+00:07:18,990 --> 00:07:24,280
+cara yang lambat sedikit ialah lukis 17 objek.
+
+144
+00:07:24,280 --> 00:07:26,740
+katakan saya ada 17 cip.
+
+145
+00:07:26,740 --> 00:07:35,790
+1,2,3,4,5,6,7.8.9.10.11.12.13.14.15.16.17
+
+146
+00:07:35,790 --> 00:07:37,750
+saya akan ambil 9 dari itu.
+
+147
+00:07:37,750 --> 00:07:44,890
+saya ambil 1,2,3,4,5,6,7,8,9
+
+148
+00:07:44,890 --> 00:07:46,810
+sekarang tinggal berapa.?
+
+149
+00:07:46,810 --> 00:07:52,450
+saya tinggal dengan 1,2,3,4,5,6,7,8
+
+150
+00:07:52,450 --> 00:07:56,300
+maka 17 tolak 9 bersamaan dengan 8.
+
+151
+00:07:56,300 --> 00:07:58,390
+tapi ia nya makan masa yang lama, dan cuba anda bayangkan
+
+152
+00:07:58,390 --> 00:08:00,510
+jika nombor nya besar, ia akan makan masa yang lebih lama
+
+153
+00:08:00,510 --> 00:08:02,570
+lukis bulatan kemudian tanda..
+
+154
+00:08:02,570 --> 00:08:04,750
+ianya membazir kertas dan masa..
+
+155
+00:08:04,750 --> 00:08:07,160
+dan kita ada kerja lain juga yang perlu di buat.
+
+156
+00:08:07,160 --> 00:08:10,050
+mugkin cara lain, yang lebih senang
+
+157
+00:08:10,050 --> 00:08:11,930
+untuk kita lihat nya ialah dengan lukis garisan bernombor.
+
+158
+00:08:11,930 --> 00:08:14,260
+anda tak semestinya mula pada nombor kosong.
+
+159
+00:08:14,260 --> 00:08:20,480
+jika kita lukis garis nombor, katakan ia ada 18,17,16
+
+160
+00:08:20,480 --> 00:08:32,210
+15,14,13,12,11,10,9,8,7.. anda bayangkan..
+
+161
+00:08:32,210 --> 00:08:34,550
+kita pergi ke arah kiri, sampai la ke kosong,
+
+162
+00:08:34,550 --> 00:08:36,790
+tapi biar saya mula di 17
+
+163
+00:08:36,790 --> 00:08:40,460
+saya mula di 17 dan buang 9 dari situ.
+
+164
+00:08:40,460 --> 00:08:49,460
+okay saya pergi ke..1,2,3,4,5,6,,7,8,9
+
+165
+00:08:49,460 --> 00:08:52,370
+dan sekali lagi, kita berhenti di 8..
+
+166
+00:08:52,370 --> 00:08:55,660
+kali ini, ianya lebih mudah
+
+167
+00:08:55,660 --> 00:08:57,110
+dan lebih cepat dari yang ini.
+
+168
+00:08:57,110 --> 00:08:59,190
+dalam kes lain, mungkin anda tak mahu lakukan ini setiap kali anda
+
+169
+00:08:59,190 --> 00:09:02,160
+nak tolak 9 dari 17 atau nak cari beza
+
+170
+00:09:02,160 --> 00:09:04,052
+antara 17 dan 9..
+
+171
+00:09:05,725 --> 00:09:08,080
+lambat laun anda akan ingat.
+
+172
+00:09:08,080 --> 00:09:10,720
+anda tahu dalam hati yang.. oh 17 tolak 9 ialah ?
+
+173
+00:09:10,720 --> 00:09:12,200
+saya tahu ia ialah 8..
+
+174
+00:09:12,200 --> 00:09:15,320
+apa pulak 17 tolak 8?
+
+175
+00:09:15,320 --> 00:09:17,270
+17 tolak 8?
+
+176
+00:09:17,270 --> 00:09:19,710
+jawapan nya ialah 9.
+
+177
+00:09:19,710 --> 00:09:21,820
+semua ni logik, anda tahu kenapa?
+
+178
+00:09:21,820 --> 00:09:27,270
+sebab 8+9 = 17..
+
+179
+00:09:27,270 --> 00:09:31,860
+jadi 17-9=8
+
+180
+00:09:31,860 --> 00:09:35,330
+atau 17-8= 9..
+
+181
+00:09:35,330 --> 00:09:39,110
+bila saya kata 17 tolak 8, ia sebenarnya
+
+182
+00:09:39,110 --> 00:09:42,550
+sama dengan nombor yang perlu ditambah dengan 8 untuk dapatkan 17 ..
+
+183
+00:09:42,550 --> 00:09:43,580
+jadi.. jawapan nya 9..
+
+184
+00:09:43,580 --> 00:09:46,720
+bila saya cakap 17 tolak 9, maksudnya..
+
+185
+00:09:46,720 --> 00:09:49,250
+.sama dengan nombor yang saya kena tambah untuk dapatkan 17.
+
+186
+00:09:49,250 --> 00:09:50,170
+ianya.. 8..
+
+187
+00:09:50,170 --> 00:09:53,620
+dari semua penyataan ini.
+
+188
+00:09:53,620 --> 00:09:54,760
+semua nya adalah perkara yang sama,
+
+189
+00:09:54,760 --> 00:09:56,500
+yang 8+9 ialah 17.
+
+190
+00:09:56,500 --> 00:09:58,660
+atau beza antara 17 dan 9 ialah 8..
+
+191
+00:09:58,660 --> 00:10:03,120
+atau beza antara 17 dan 8 ialah 9..
+
+192
+00:10:03,120 --> 00:10:04,560
+saya harap saya tak mengelirukan anda :)
+
+193
+00:10:04,560 --> 00:10:08,660
+kebanyakan penolakan yang kita sudah lakukan..
+
+194
+00:10:08,660 --> 00:10:12,620
+semua jawapan nya adalah satu angka. lambat laun anda akan hafal
+
+195
+00:10:12,620 --> 00:10:15,980
+tapi ianya bagus untuk anda bayangkan
+
+196
+00:10:15,980 --> 00:10:16,640
+garisan bernombor ini.
+
+197
+00:10:16,640 --> 00:10:18,890
+mari kita cuba lagi.
+
+198
+00:10:18,890 --> 00:10:22,470
+dan, apabila kita dah hafal ataupun
+
+199
+00:10:22,470 --> 00:10:25,880
+untuk buat garisan bernombor, saya akan tunjuk kan
+
+200
+00:10:25,880 --> 00:10:29,460
+untuk lakukan penolakan dengan meminjam
+
+201
+00:10:29,460 --> 00:10:30,860
+untuk nombor yang lebih besar.
+
+202
+00:10:30,860 --> 00:10:37,050
+katakan, kita buat 13 tolak 5..
+
+203
+00:10:37,050 --> 00:10:39,660
+sekali lagi, saya tak akan lukis
+
+204
+00:10:39,660 --> 00:10:40,540
+berri bulat-bulat lagi.
+
+205
+00:10:40,540 --> 00:10:43,460
+saya akan terus lukis garisan bernombor.
+
+206
+00:10:43,460 --> 00:10:45,720
+kita luks garisan bernombor macam itu.
+
+207
+00:10:45,720 --> 00:10:58,450
+kita mula di 14,13,12,11,10,9,8,7,6,5..dan
+
+208
+00:10:58,450 --> 00:11:00,460
+anda boleh pergi rendah lagi.
+
+209
+00:11:00,460 --> 00:11:02,510
+anda boleh pergi sampai 0 atau kurang dari itu.
+
+210
+00:11:02,510 --> 00:11:03,830
+yang itu, kita akan bincangkan nanti.
+
+211
+00:11:03,830 --> 00:11:05,810
+tapi...kita mulakan di 13.
+
+212
+00:11:05,810 --> 00:11:08,960
+mula di 13
+
+213
+00:11:08,960 --> 00:11:10,620
+dan kita akan ambil 5 dari situ.
+
+214
+00:11:10,620 --> 00:11:13,920
+jadi untuk penolakan ini kita lihat ia macam
+
+215
+00:11:13,920 --> 00:11:15,200
+kita ambil atau buang nya.
+
+216
+00:11:15,200 --> 00:11:21,340
+1,2,3,4,5...dan kita berhenti di 8.
+
+217
+00:11:21,340 --> 00:11:26,010
+jadi 13 tolak 5.. biar saya guna warna lain.
+
+218
+00:11:26,010 --> 00:11:29,810
+13 tolak 5 sama dengan 8.
+
+219
+00:11:29,810 --> 00:11:31,580
+sekarang.satu lagi cara kita boleh lakukan ialah..
+
+220
+00:11:31,580 --> 00:11:33,980
+saya tanda di mana 13..
+
+221
+00:11:33,980 --> 00:11:36,060
+saya boleh di mana 5..
+
+222
+00:11:36,060 --> 00:11:37,850
+saya boleh katakan. lihat, 5 di sini
+
+223
+00:11:37,850 --> 00:11:39,760
+nombor 5 adalah di sini di garisan bernombor saya.
+
+224
+00:11:39,760 --> 00:11:42,736
+apa yang saya perlu tambah ke[ada 5 untuk sampai ke 13?
+
+225
+00:11:42,736 --> 00:11:43,280
+mari kita lihat..
+
+226
+00:11:43,280 --> 00:11:49,250
+saya pergi ke 1,2,3,4,5,6,7,8..
+
+227
+00:11:49,250 --> 00:11:52,180
+saya perlu tambah 8 kepada 5 untuk sampai ke 13/
+
+228
+00:11:52,180 --> 00:11:55,790
+5 tambah 8 sama dengan 13.
+
+229
+00:11:55,790 --> 00:11:59,940
+dengan ini, saya simpulkan yang 13 tolak 5 ialah 8..
+
+230
+00:11:59,940 --> 00:12:06,210
+dan 13 tolak 8 sama dengan 5..
+
+231
+00:12:06,210 --> 00:12:08,690
+semua ini adalah
+
+232
+00:12:08,690 --> 00:12:09,650
+perkara yang sama sahaja.
+
+233
+00:12:09,650 --> 00:12:11,635
+tetapi.. beza antara 13 dan 5 ialah 8..
+
+234
+00:12:11,635 --> 00:12:14,410
+perbezaan antara 13 dan 8 ialah 5.
+
+235
+00:12:14,410 --> 00:12:17,080
+5 tambah 8 ialah 13.
+
+236
+00:12:17,080 --> 00:12:18,780
+saya harap anda faham.. sekurang-kurangkan
+
+237
+00:12:18,780 --> 00:12:22,940
+ia adalah latihan yang baik.
+
+238
+00:12:22,940 --> 00:12:26,240
+cuba ambil nombor belas kemudian tolak dengan nombor
+
+239
+00:12:26,240 --> 00:12:28,470
+satu digit dari nombor belas itu.
+
+240
+00:12:28,470 --> 00:12:32,110
+secara keseluruhan nya, ini semua adalah latihan yang bagus untuk anda semua.

@@ -1,0 +1,63 @@
+1
+00:00:01,500 --> 00:00:03,320
+[adding new users]
+
+2
+00:00:03,320 --> 00:00:05,270
+This is Chrome.
+
+3
+00:00:05,270 --> 00:00:07,609
+This is your Chrome,
+
+4
+00:00:07,609 --> 00:00:09,000
+and your friend's, Chrome,
+
+5
+00:00:09,000 --> 00:00:10,990
+and your roommate's, Chrome,
+
+6
+00:00:10,990 --> 00:00:16,820
+each with a different set of bookmarks, apps, extensions, and other settings.
+
+7
+00:00:16,820 --> 00:00:20,390
+If you share a computer with other people,
+
+8
+00:00:20,390 --> 00:00:24,699
+you may not want your Chrome stuff getting mixed up with everyone else's.
+
+9
+00:00:24,699 --> 00:00:27,740
+Now, you can add new users to Chrome,
+
+10
+00:00:27,740 --> 00:00:30,210
+so you can keep everyone's, stuff separate
+
+11
+00:00:30,210 --> 00:00:32,490
+on the same computer.
+
+12
+00:00:32,490 --> 00:00:37,360
+A badge in the corner makes it easy to tell everyone's, Chrome windows apart,
+
+13
+00:00:37,360 --> 00:00:41,300
+and clicking the badge makes it easy to flip between users.
+
+14
+00:00:41,300 --> 00:00:47,390
+Each user can also sign in to Chrome to bring their Chrome stuff to all their other devices.
+
+15
+00:00:47,390 --> 00:00:52,780
+To add a new user to Chrome, go to Options (or Preferences on a Mac),
+
+16
+00:00:52,780 --> 99:59:59,999
+click Personal Stuff, and select, "Add new user."

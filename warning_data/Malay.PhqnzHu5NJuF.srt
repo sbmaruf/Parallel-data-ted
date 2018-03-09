@@ -1,0 +1,423 @@
+1
+00:00:00,000 --> 00:00:02,000
+Sistem planet di luar planet kita sendiri
+
+2
+00:00:02,000 --> 00:00:05,000
+adalah seperti bandar-bandar yang jauh dengan lampu yang berkelipan,
+
+3
+00:00:05,000 --> 00:00:08,000
+tetapi dengan jalanan yang kita tidak boleh lalui.
+
+4
+00:00:08,000 --> 00:00:10,000
+Dengan mengkaji kerdipan lampu-lampu tersebut,
+
+5
+00:00:10,000 --> 00:00:13,000
+kita boleh belajar tentang bagaimana bintang dan planet berinteraksi
+
+6
+00:00:13,000 --> 00:00:15,000
+untuk membentuk ekosistem mereka sendiri
+
+7
+00:00:15,000 --> 00:00:18,000
+dan membuat habitat yang menerima kehidupan.
+
+8
+00:00:18,000 --> 00:00:20,000
+Dalam imej permandangan Tokyo ini,
+
+9
+00:00:20,000 --> 00:00:22,000
+Saya menyembunyi data
+
+10
+00:00:22,000 --> 00:00:24,000
+dari teleskop pencari planet yang terkini,
+
+11
+00:00:24,000 --> 00:00:26,000
+the Kepler Mission.
+
+12
+00:00:26,000 --> 00:00:28,000
+Bolehkah anda melihatnya?
+
+13
+00:00:28,000 --> 00:00:30,000
+Itulah dia.
+
+14
+00:00:30,000 --> 00:00:33,000
+Ini adalah hanya sebahagian kecil daripada renungan Kepler ke langit,
+
+15
+00:00:33,000 --> 00:00:35,000
+di mana ia mencari planet-planet
+
+16
+00:00:35,000 --> 00:00:38,000
+dengan mengukur cahaya daripada lebih 150,000 bintang,
+
+17
+00:00:38,000 --> 00:00:40,000
+semua sekali gus, tiap-tiap setengah jam,
+
+18
+00:00:40,000 --> 00:00:42,000
+dan sangat tepat.
+
+19
+00:00:42,000 --> 00:00:44,000
+Dan apa yang kami cari
+
+20
+00:00:44,000 --> 00:00:46,000
+adalah malapan cahaya yang kecil
+
+21
+00:00:46,000 --> 00:00:49,000
+yang disebabkan oleh lintasan planet di hadapan salah satu daripada bintang-bintang ini
+
+22
+00:00:49,000 --> 00:00:52,000
+dan menyekat beberapa yang cahaya bintang dari sampai kepada kita
+
+23
+00:00:52,000 --> 00:00:55,000
+Dalam tempoh hanya lebih dua tahun beroperasi,
+
+24
+00:00:55,000 --> 00:00:57,000
+kami telah menemui lebih 1,200
+
+25
+00:00:57,000 --> 00:01:00,000
+sistem planet baru yang berpotensi di sekitar bintang-bintang lain.
+
+26
+00:01:00,000 --> 00:01:02,000
+Untuk memberikan anda beberapa perspektif,
+
+27
+00:01:02,000 --> 00:01:05,000
+dalam carian selama dua dekad sebelumnya,
+
+28
+00:01:05,000 --> 00:01:07,000
+kami hanya mengenali kira-kira 400 sistem planet
+
+29
+00:01:07,000 --> 00:01:09,000
+sebelum Kepler.
+
+30
+00:01:09,000 --> 00:01:11,000
+Apabila kami lihat kerlipan kecil di dalam cahaya,
+
+31
+00:01:11,000 --> 00:01:13,000
+kita boleh menentukan beberapa perkara
+
+32
+00:01:13,000 --> 00:01:15,000
+Salah satunya kita boleh menentukan bahawa ada planet di sana,
+
+33
+00:01:15,000 --> 00:01:18,000
+tetapi juga bagaimana besarnya planet tersebut
+
+34
+00:01:18,000 --> 00:01:21,000
+dan sejauh mana jaraknya dari bintang induk.
+
+35
+00:01:21,000 --> 00:01:23,000
+Jarak adalah penting
+
+36
+00:01:23,000 --> 00:01:25,000
+kerana ia memberitahu kita
+
+37
+00:01:25,000 --> 00:01:27,000
+berapa banyak cahaya planet tersebut menerima secara keseluruhan.
+
+38
+00:01:27,000 --> 00:01:30,000
+Dan dengan jarak dan mengetahui bahawa jumlah cahaya adalah penting
+
+39
+00:01:30,000 --> 00:01:33,000
+kerana ia hampir seperti anda atau saya duduk di sekeliling unggun api.
+
+40
+00:01:33,000 --> 00:01:35,000
+Anda ingin berada cukup dekat dengan unggun api supaya anda berasa hangat
+
+41
+00:01:35,000 --> 00:01:37,000
+tetapi tidak begitu dekat
+
+42
+00:01:37,000 --> 00:01:39,000
+sehingga anda merasa terlalu panas dan melecur.
+
+43
+00:01:39,000 --> 00:01:42,000
+Walaubagaimanapun, banyak yang perlu diketahui tentang bintang induk anda
+
+44
+00:01:42,000 --> 00:01:44,000
+selain betapa banyak cahaya anda terima secara keseluruhan.
+
+45
+00:01:44,000 --> 00:01:46,000
+Dan saya akan memberitahu anda mengapa.
+
+46
+00:01:46,000 --> 00:01:49,000
+Ini adalah bintang kita. Ini adalah matahari kita
+
+47
+00:01:49,000 --> 00:01:51,000
+Ia dipaparkan di sini dalam cahaya yang boleh dilihat.
+
+48
+00:01:51,000 --> 00:01:53,000
+Itu cahaya yang anda boleh lihat dengan mata kasar anda sendiri.
+
+49
+00:01:53,000 --> 00:01:55,000
+Anda akan sedar bahawa ia kelihatan
+
+50
+00:01:55,000 --> 00:01:57,000
+seperti bola kuning --
+
+51
+00:01:57,000 --> 00:01:59,000
+matahari yang kita semua lukis di zaman kanak-kanak.
+
+52
+00:01:59,000 --> 00:02:01,000
+Tetapi anda akan sedar sesuatu yang lain
+
+53
+00:02:01,000 --> 00:02:03,000
+dan wajah Matahari itu
+
+54
+00:02:03,000 --> 00:02:05,000
+ada bintik-bintik.
+
+55
+00:02:05,000 --> 00:02:07,000
+Bintik-bintik ini dipanggil tompok matahari,
+
+56
+00:02:07,000 --> 00:02:09,000
+dan mereka hanyalah salah satu manifestasi
+
+57
+00:02:09,000 --> 00:02:11,000
+medan magnet Matahari.
+
+58
+00:02:11,000 --> 00:02:14,000
+Mereka juga menyebabkan cahaya dari bintang berbeza-beza.
+
+59
+00:02:14,000 --> 00:02:16,000
+Dan kita boleh mengukurnya
+
+60
+00:02:16,000 --> 00:02:19,000
+sangat, sangat tepat dengan Kepler dan menjejaki kesan-kesan mereka.
+
+61
+00:02:19,000 --> 00:02:22,000
+Walaubagaimanapun, ini hanya satu permulaan.
+
+62
+00:02:22,000 --> 00:02:25,000
+Jika kita mempunyai mata UV atau mata X-ray,
+
+63
+00:02:25,000 --> 00:02:27,000
+kita benar-benar akan melihat
+
+64
+00:02:27,000 --> 00:02:29,000
+kesan-kesan yang dinamik dan dramatik
+
+65
+00:02:29,000 --> 00:02:31,000
+tentang aktiviti magnet matahari kita -
+
+66
+00:02:31,000 --> 00:02:34,000
+jenis perkara yang berlaku pada bintang-bintang lain juga.
+
+67
+00:02:34,000 --> 00:02:36,000
+Cuba fikirkan, walaupun ianya mendung di luar,
+
+68
+00:02:36,000 --> 00:02:38,000
+peristiwa seperti begini tetap berlaku
+
+69
+00:02:38,000 --> 00:02:41,000
+sepanjang masa di langit.
+
+70
+00:02:42,000 --> 00:02:45,000
+Apabila kita mahu belajar sama ada sebuah planet boleh didiami,
+
+71
+00:02:45,000 --> 00:02:47,000
+sama ada ia mungkin sesuai dengan kehidupan,
+
+72
+00:02:47,000 --> 00:02:49,000
+kita ingin tahu bukan sahaja berapa banyak jumlah cahaya yang diterimanya
+
+73
+00:02:49,000 --> 00:02:51,000
+dan betapa panasnya,
+
+74
+00:02:51,000 --> 00:02:54,000
+tetapi kami ingin tahu mengenai cuaca angkasa --
+
+75
+00:02:54,000 --> 00:02:56,000
+sinaran bertenaga tinggi ini,
+
+76
+00:02:56,000 --> 00:02:58,000
+UV dan X-ray
+
+77
+00:02:58,000 --> 00:03:00,000
+yang dicipta oleh bintangnya
+
+78
+00:03:00,000 --> 00:03:03,000
+dan ia bermandian dalam sinaran bertenaga tinggi.
+
+79
+00:03:03,000 --> 00:03:05,000
+Jadi, kita tidak boleh benar-benar melihat
+
+80
+00:03:05,000 --> 00:03:07,000
+di planet-planet di sekitar bintang-bintang lain
+
+81
+00:03:07,000 --> 00:03:09,000
+dengan cara yang sama
+
+82
+00:03:09,000 --> 00:03:12,000
+dengan kita boleh melihat planet dalam sistem solar kita sendiri.
+
+83
+00:03:12,000 --> 00:03:14,000
+Saya tunjukkan di sini Zuhrah, Bumi dan Marikh -
+
+84
+00:03:14,000 --> 00:03:17,000
+tiga planet dalam sistem solar kita sendiri yang saiznya lebih kurang sama,
+
+85
+00:03:17,000 --> 00:03:19,000
+tetapi hanya satu yang
+
+86
+00:03:19,000 --> 00:03:21,000
+benar-benar tempat yang baik untuk hidup.
+
+87
+00:03:21,000 --> 00:03:23,000
+Tetapi apa yang boleh kita lakukan dalam masa yang sama
+
+88
+00:03:23,000 --> 00:03:26,000
+adalah mengukur cahaya dari bintang kita
+
+89
+00:03:26,000 --> 00:03:28,000
+dan belajar mengenai hubungan ini
+
+90
+00:03:28,000 --> 00:03:30,000
+antara planet dan bintang induk mereka
+
+91
+00:03:30,000 --> 00:03:32,000
+untuk mencari petunjuk
+
+92
+00:03:32,000 --> 00:03:34,000
+tentang planet yang mungkin menjadi tempat yang baik
+
+93
+00:03:34,000 --> 00:03:36,000
+untuk mencari kehidupan di alam semesta.
+
+94
+00:03:36,000 --> 00:03:38,000
+Kepler tidak akan mencari planet
+
+95
+00:03:38,000 --> 00:03:40,000
+di sekitar setiap bintang yang ia lihat.
+
+96
+00:03:40,000 --> 00:03:42,000
+Tetapi sungguh, ukuran yang ia lakukan
+
+97
+00:03:42,000 --> 00:03:44,000
+adalah amat berharga,
+
+98
+00:03:44,000 --> 00:03:46,000
+kerana ia mengajar kita mengenai hubungan
+
+99
+00:03:46,000 --> 00:03:48,000
+di antara bintang dan planet,
+
+100
+00:03:48,000 --> 00:03:50,000
+dan bagaimana cahaya bintang
+
+101
+00:03:50,000 --> 00:03:52,000
+yang memulakan
+
+102
+00:03:52,000 --> 00:03:54,000
+pembentukan kehidupan di alam semesta.
+
+103
+00:03:54,000 --> 00:03:57,000
+Walaupun Kepler sebuah teleskop, peralatan yang merenung,
+
+104
+00:03:57,000 --> 00:04:00,000
+ianya adalah kita, yang sedang mencari
+
+105
+00:04:00,000 --> 00:04:02,000
+Terima kasih.
+
+106
+00:04:02,000 --> 00:04:04,000
+(Tepukan)

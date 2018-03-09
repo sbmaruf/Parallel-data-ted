@@ -1,0 +1,512 @@
+1
+00:00:00,320 --> 00:00:05,970
+kita diberitahu bahawa formula untuk mencari perimeter sebuah
+
+2
+00:00:05,970 --> 00:00:12,180
+segi empat tepat ialah P =2L +2W dimana P ialah
+
+3
+00:00:12,180 --> 00:00:16,520
+perimeter, L ialah panjang &amp; W ialah lebar
+
+4
+00:00:16,520 --> 00:00:18,840
+&amp; untuk memvisualisasikan apa yang saya cakap
+
+5
+00:00:18,840 --> 00:00:24,080
+biar saya lukis sebuah segi empat tepat
+
+6
+00:00:24,080 --> 00:00:27,080
+nampak macam segi empat tepat
+
+7
+00:00:27,080 --> 00:00:31,780
+&amp; jika panjang sisi ini ialah L, maka panjang sisi ini
+
+8
+00:00:31,780 --> 00:00:33,230
+juga akan menjadi L
+
+9
+00:00:33,230 --> 00:00:38,140
+&amp; jika lebar ini ialah W, maka lebar ini juga W
+
+10
+00:00:38,140 --> 00:00:40,690
+dan perimeter ialah berapakah jarak jika
+
+11
+00:00:40,690 --> 00:00:43,460
+kita pergi sekeliling segi empat tepat ini ?
+
+12
+00:00:43,460 --> 00:00:49,310
+jarak itu akan menjadi W + L ini +
+
+13
+00:00:49,310 --> 00:00:53,350
+W ini + panjang ini
+
+14
+00:00:53,350 --> 00:00:59,070
+jika anda mempunyai 1W dan tambah satu lagi W
+
+15
+00:00:59,070 --> 00:01:00,320
+anda akan dapat 2W
+
+16
+00:01:00,320 --> 00:01:01,940
+jadi 2W
+
+17
+00:01:01,940 --> 00:01:06,700
+dan jika anda ada 1L, dan kemudian tambah satu lagi L
+
+18
+00:01:06,700 --> 00:01:08,260
+jika anda tambahkan ia, anda akan dapat
+
+19
+00:01:08,260 --> 00:01:09,970
+2L
+
+20
+00:01:09,970 --> 00:01:13,150
+jadi perimeter akan menjadi 2L tambah 2W
+
+21
+00:01:13,150 --> 00:01:14,720
+cara mereka tulis agak berbeza dengan
+
+22
+00:01:14,720 --> 00:01:16,300
+cara yang saya tulis
+
+23
+00:01:16,300 --> 00:01:18,650
+tapi ia benda yang sama jadi harap harap ia masuk akal
+
+24
+00:01:18,650 --> 00:01:22,040
+sekarang soalannya, tulis semula formula tersebut supaya
+
+25
+00:01:22,040 --> 00:01:25,630
+kita boleh cari lebarnya
+
+26
+00:01:25,630 --> 00:01:29,050
+jadi formula itu, cara ia tertulis, ia kata P
+
+27
+00:01:29,050 --> 00:01:30,120
+sama dengan sesuatu
+
+28
+00:01:30,120 --> 00:01:33,770
+mereka mahu kita tulis supaya kita tahu W ini di sini
+
+29
+00:01:33,770 --> 00:01:38,410
+W ini sama dengan beberapa L &amp;
+
+30
+00:01:38,410 --> 00:01:40,210
+P didalamnya &amp; mungkin ada beberapa nombor
+
+31
+00:01:40,210 --> 00:01:43,240
+jadi mari kita fikir bagaimana nak selesaikannya
+
+32
+00:01:43,240 --> 00:01:48,260
+jadi mereka bagitahu kita yang P sama dengan 2xL
+
+33
+00:01:48,260 --> 00:01:50,380
++ 2xW
+
+34
+00:01:50,380 --> 00:01:53,300
+kita nak cari W
+
+35
+00:01:53,300 --> 00:01:56,750
+titik permulaan yang bagus ialah untuk membuang L
+
+36
+00:01:56,750 --> 00:01:58,630
+dalam persamaan ini
+
+37
+00:01:58,630 --> 00:02:00,790
+dan untuk membuangnya daripada persamaan ini, kita boleh
+
+38
+00:02:00,790 --> 00:02:05,050
+tolak 2L dari kedua dua belah persamaan ini
+
+39
+00:02:05,050 --> 00:02:06,040
+jadi mari kita lakukannya
+
+40
+00:02:06,040 --> 00:02:08,260
+jadi anda tolak 2L di sini
+
+41
+00:02:08,259 --> 00:02:09,869
+tolak 2L
+
+42
+00:02:09,870 --> 00:02:12,070
+anda juga harus berbuat demikian pada belah kiri
+
+43
+00:02:12,070 --> 00:02:15,400
+jadi anda akan ada tolak 2L
+
+44
+00:02:15,400 --> 00:02:18,060
+kita akan lakukannya pada kedua dua belah persamaan
+
+45
+00:02:18,060 --> 00:02:21,180
+dan ingat, satu persamaan kata P sama dengan itu, jadi jika anda
+
+46
+00:02:21,180 --> 00:02:23,570
+lakukan apa apa pada itu, anda harus lakukan kepada P
+
+47
+00:02:23,570 --> 00:02:25,780
+jika anda tolak 2L dari sini, anda perlu
+
+48
+00:02:25,780 --> 00:02:28,950
+tolak 2L dari P untuk
+
+49
+00:02:28,950 --> 00:02:31,260
+mengimbangkan persamaan ini
+
+50
+00:02:31,260 --> 00:02:39,450
+jadi belah kiri akan menjadi P - 2L &amp; itu akan menjadi
+
+51
+00:02:39,450 --> 00:02:43,250
+2L-2L sebab kita
+
+52
+00:02:43,250 --> 00:02:46,150
+tolak 2L ialah kita mahukan 2L ini
+
+53
+00:02:46,150 --> 00:02:47,280
+terbatal
+
+54
+00:02:47,280 --> 00:02:49,350
+jadi ini terbatal, dan anda
+
+55
+00:02:49,350 --> 00:02:51,870
+hanya tinggal 2W di sini
+
+56
+00:02:51,870 --> 00:02:54,170
+anda akan dapat 2W
+
+57
+00:02:54,170 --> 00:02:55,260
+sikit sahaja lagi
+
+58
+00:02:55,260 --> 00:02:58,250
+kita hampir selesaikan W
+
+59
+00:02:58,250 --> 00:03:00,990
+untuk selesaikannya, kita perlu bahagikan kedua dua belah
+
+60
+00:03:00,990 --> 00:03:02,350
+persamaan ini dengan 2
+
+61
+00:03:02,350 --> 00:03:05,510
+sebab kenapa saya bahagi kedua dua belah persamaan ini
+
+62
+00:03:05,510 --> 00:03:09,400
+dengan 2 ialah untuk membuang pekali 2 ini, 2 yang
+
+63
+00:03:09,400 --> 00:03:11,830
+darab dengan W
+
+64
+00:03:11,830 --> 00:03:15,770
+jadi jika anda bahagi kedua dua belah dengan 2, sekali lagi
+
+65
+00:03:15,770 --> 00:03:17,780
+jika anda buat sesuatu pada satu belah persamaan
+
+66
+00:03:17,780 --> 00:03:19,260
+buat benda yang sama pada belah satu lagi
+
+67
+00:03:19,260 --> 00:03:22,330
+sebab saya bahagi belah kanan dengan 2 ialah 2
+
+68
+00:03:22,330 --> 00:03:25,120
+darab apa apa yang boleh dibahagi dengan 2 akan menjadi
+
+69
+00:03:25,120 --> 00:03:27,240
+apa apa, jadi ini akan menjadi W
+
+70
+00:03:27,240 --> 00:03:29,240
+dan kemudian kita ada belah kiri persamaan kita
+
+71
+00:03:29,240 --> 00:03:31,300
+jadi kita sudah siap
+
+72
+00:03:31,300 --> 00:03:38,240
+jika kita tengok kedua dua belah, kita dapat W akan sama dengan
+
+73
+00:03:38,240 --> 00:03:45,830
+benda ini di sini-- sama dengan P tolak 2L,
+
+74
+00:03:45,830 --> 00:03:50,700
+kesemua itu per 2
+
+75
+00:03:50,700 --> 00:03:52,830
+inilah jawapan yang betul
+
+76
+00:03:52,830 --> 00:03:54,990
+ada juga cara lain untuk menulisnya
+
+77
+00:03:54,990 --> 00:03:58,610
+anda mungkin mahu tuliskan ini semula jadi biar saya
+
+78
+00:03:58,610 --> 00:04:02,840
+kuasa duakan ia kerana ini adalah jawapan yang betul
+
+79
+00:04:02,840 --> 00:04:05,590
+ini adalah jawapan yang betul tetapi ada cara lain yang
+
+80
+00:04:05,590 --> 00:04:07,650
+anda boleh guna untuk dapatkan jawapan ini
+
+81
+00:04:09,360 --> 00:04:12,630
+anda juga mungkin tahu cara yang lain utuk
+
+82
+00:04:12,630 --> 00:04:15,720
+buat soalan ini-- biar saya tuliskan ia begini-- jadi soalan
+
+83
+00:04:15,720 --> 00:04:21,780
+tulen kita ialah P=2L+2W berada pada
+
+84
+00:04:21,779 --> 00:04:25,959
+belah kanan, apa kata kita faktorkan 2 ?
+
+85
+00:04:25,960 --> 00:04:27,010
+biar saya jelaskan
+
+86
+00:04:27,010 --> 00:04:30,280
+anda ada 2 disini &amp; anda ada 2 disini
+
+87
+00:04:30,280 --> 00:04:33,090
+jadi anda boleh bayangkan anda letak 2
+
+88
+00:04:33,090 --> 00:04:41,650
+jadi kita boleh dapat P= 2 darab L+W
+
+89
+00:04:41,650 --> 00:04:45,680
+ini adalah cara yang lain untuk selesaikan masalah ini
+
+90
+00:04:45,680 --> 00:04:49,780
+sekarang kita boleh bahagikan kedua dua belah dengan 2
+
+91
+00:04:49,780 --> 00:04:52,710
+supaya kita boleh buang 2 pada belah kanan ini
+
+92
+00:04:52,710 --> 00:04:58,170
+jadi jika anda bahagi kedua dua belah dengan 2, 2 ini
+
+93
+00:04:58,170 --> 00:05:00,760
+akan terbatal-- 2 darab apapa dibahagi dengan 2
+
+94
+00:05:00,760 --> 00:05:02,220
+akan menjadi apa apa ialah
+
+95
+00:05:02,220 --> 00:05:04,440
+sama dengan P per 2
+
+96
+00:05:04,440 --> 00:05:07,280
+jadi biar saya tuliskan ia semula
+
+97
+00:05:08,350 --> 00:05:18,310
+jadi kita akan dapat P per 2 sama dengan L+W
+
+98
+00:05:18,310 --> 00:05:21,460
+dan jika kita mahu cari W, kita tolak L dari
+
+99
+00:05:21,460 --> 00:05:22,500
+kedua dua belah
+
+100
+00:05:22,500 --> 00:05:24,320
+dan kadangkala, anda boleh tuliskan ia dalam
+
+101
+00:05:24,320 --> 00:05:25,030
+garisan yang berbeza seperti ini
+
+102
+00:05:25,030 --> 00:05:27,840
+kadang kadang anda boleh tuliskan ia macamni
+
+103
+00:05:27,840 --> 00:05:30,560
+anda boleh kata, saya akan tolak L pada belah itu
+
+104
+00:05:30,560 --> 00:05:31,790
+jika saya buat pada belah itu saya perlu juga buat
+
+105
+00:05:31,790 --> 00:05:32,830
+pada belah ini
+
+106
+00:05:32,830 --> 00:05:35,470
+ia adalah benda yang sama dengan tambah -L
+
+107
+00:05:35,470 --> 00:05:39,160
+jadi pada belah kanan, anda akan tinggal dengan W
+
+108
+00:05:42,570 --> 00:05:45,230
+dan pada belah kiri, anda akan dapat
+
+109
+00:05:45,230 --> 00:05:49,080
+ia akan menjadi L+P/2 atau anda boleh tukar
+
+110
+00:05:49,080 --> 00:05:58,190
+urutannya &amp; tuliskan ia sebagai P/2 - L
+
+111
+00:05:58,190 --> 00:06:01,650
+dan ini juga jawapan yang betul
+
+112
+00:06:01,650 --> 00:06:02,750
+dan anda akan berkata
+
+113
+00:06:02,750 --> 00:06:04,410
+jawapan ini adalah berbeza
+
+114
+00:06:04,410 --> 00:06:07,850
+P-2L/2 ia nampak lain daripada P
+
+115
+00:06:07,850 --> 00:06:09,530
+per 2 - L
+
+116
+00:06:09,530 --> 00:06:11,880
+dan anda salah
+
+117
+00:06:11,880 --> 00:06:12,580
+fikirkan
+
+118
+00:06:12,580 --> 00:06:16,780
+kita bileh tulis semula sebagai
+
+119
+00:06:16,780 --> 00:06:26,690
+P/2
+
+120
+00:06:26,690 --> 00:06:32,570
+tolak 2L/2
+
+121
+00:06:32,570 --> 00:06:32,830
+betul ?
+
+122
+00:06:32,825 --> 00:06:35,455
+jika saya ada tolak B dan mereka boleh dibahagi dengan 2
+
+123
+00:06:35,450 --> 00:06:38,360
+saya boleh asingkan-- anda boleh bayangkan saya meletakkan
+
+124
+00:06:38,360 --> 00:06:40,850
+pembahagi 2 di sini
+
+125
+00:06:40,850 --> 00:06:42,640
+dan di sini 2 darab L bahagi 2
+
+126
+00:06:42,640 --> 00:06:44,040
+ia akan menjadi L
+
+127
+00:06:44,040 --> 00:06:53,710
+jadi ini akan menjadi P/2-L iaitu
+
+128
+00:06:53,710 --> 00:06:57,440
+benda yang sama seperti ini
+

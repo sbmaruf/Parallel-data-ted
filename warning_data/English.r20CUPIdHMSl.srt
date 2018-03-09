@@ -1,0 +1,75 @@
+1
+00:00:00,000 --> 00:00:04,000
+[Thrun] The correct answer is intelligent agent.
+
+2
+00:00:04,000 --> 00:00:07,000
+Let's talk about intelligent agents.
+
+3
+00:00:07,000 --> 00:00:11,000
+Here is my intelligent agent,
+
+4
+00:00:11,000 --> 00:00:17,000
+and it gets to interact with an environment.
+
+5
+00:00:17,000 --> 00:00:22,000
+The agent can perceive the state of the environment
+
+6
+00:00:22,000 --> 00:00:25,000
+through its sensors,
+
+7
+00:00:25,000 --> 00:00:29,000
+and it can affect its state through its actuators.
+
+8
+00:00:29,000 --> 00:00:37,000
+The big question of artificial intelligence is the function that maps sensors to actuators.
+
+9
+00:00:37,000 --> 00:00:41,000
+That is called the control policy for the agent.
+
+10
+00:00:41,000 --> 00:00:48,000
+So all of this class will deal with how does an agent make decisions
+
+11
+00:00:48,000 --> 00:00:54,000
+that it can carry out with its actuators based on past sensor data.
+
+12
+00:00:54,000 --> 00:00:58,000
+Those decisions take place many, many times,
+
+13
+00:00:58,000 --> 00:01:03,000
+and the loop of environment feedback to sensors, agent decision,
+
+14
+00:01:03,000 --> 00:01:12,000
+actuator interaction with the environment and so on is called perception action cycle.
+
+15
+00:01:12,000 --> 00:01:15,000
+So here is my very first quiz for you.
+
+16
+00:01:15,000 --> 00:01:21,000
+Artificial intelligence, AI, has successfully been used in finance,
+
+17
+00:01:21,000 --> 00:01:26,000
+robotics, games, medicine, and the Web.
+
+18
+00:01:26,000 --> 00:01:28,000
+Check any or all of those that apply.
+
+19
+00:01:28,000 --> 99:59:59,999
+And if none of them applies, check the box down here that says none of them.

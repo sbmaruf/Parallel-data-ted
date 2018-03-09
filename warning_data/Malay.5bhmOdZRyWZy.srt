@@ -1,0 +1,339 @@
+1
+00:00:00,730 --> 00:00:02,910
+Sarah ada $48.
+
+2
+00:00:02,910 --> 00:00:07,050
+Dia hendak simpan 1/3 daripada duitnya untuk bercuti.
+
+3
+00:00:07,050 --> 00:00:09,990
+Berapa dolar dia patut simpan?
+
+4
+00:00:09,990 --> 00:00:13,530
+Jadi kita nak tahu berapa 1/3 daripada 48.
+
+5
+00:00:13,530 --> 00:00:16,170
+Gunakan 48 sebagai penyebut dan cari nilai
+
+6
+00:00:16,170 --> 00:00:19,480
+yang sama dengan 1/3.
+
+7
+00:00:19,480 --> 00:00:22,070
+Soalan ini mahu kita cari,
+
+8
+00:00:22,070 --> 00:00:26,500
+OK, kita nak 1/3 daripada duit dia, tapi kita nak tulis
+
+9
+00:00:26,500 --> 00:00:30,530
+ini sebagai pecahan setara dimana kita ada 48
+
+10
+00:00:30,530 --> 00:00:31,100
+sebagai penyebut.
+
+11
+00:00:31,100 --> 00:00:36,590
+Ini bersamaan dengan sesuatu, kosongkan ini.
+
+12
+00:00:36,590 --> 00:00:39,425
+Ini bersamaan sesuatu per 48.
+
+13
+00:00:39,425 --> 00:00:44,120
+Bagaimana untuk mendapatkan sesuatu per 48?
+
+14
+00:00:44,120 --> 00:00:46,160
+Mari fikir apa maksud ini sebentar.
+
+15
+00:00:46,160 --> 00:00:50,430
+Jadi, jika kita lukis 1/3, ini seperti ini.
+
+16
+00:00:50,430 --> 00:00:55,980
+Anda boleh bayangkan ia adalah sekotak pai.
+
+17
+00:00:55,980 --> 00:01:00,690
+Katakan ini ialah pai saya, dan saya bahagikan kepada
+
+18
+00:01:00,690 --> 00:01:01,840
+tiga keping.
+
+19
+00:01:01,840 --> 00:01:04,860
+Mari saya bahagikan ia kepada 3 bahagian yang sama.
+
+20
+00:01:04,860 --> 00:01:09,020
+Ini adalah satu 1/3 daripada 3 keping itu.
+
+21
+00:01:09,020 --> 00:01:11,550
+Ini adalah 1/3.
+
+22
+00:01:11,550 --> 00:01:15,140
+Bagaimana hendak katakan ini sebagai
+
+23
+00:01:15,140 --> 00:01:15,740
+pecahan per 48?
+
+24
+00:01:15,740 --> 00:01:17,220
+Kita perlu bahagikan ini kepada
+
+25
+00:01:17,220 --> 00:01:19,280
+48 keping.
+
+26
+00:01:19,280 --> 00:01:22,350
+Bagaimana nak bahagikan sesuatu kepada 48?
+
+27
+00:01:22,350 --> 00:01:28,540
+3 x 16 = 48, jika kita bahagikan ini kepada 16 keping,
+
+28
+00:01:28,540 --> 00:01:30,810
+susah nak lukis ini disini,
+
+29
+00:01:30,810 --> 00:01:32,300
+mungkin anda boleh membayangkannya.
+
+30
+00:01:32,300 --> 00:01:38,130
+Bahagi kepada 2, bahagi lagi kepada 4,
+
+31
+00:01:38,130 --> 00:01:42,620
+dan sekarang 8.
+
+32
+00:01:42,620 --> 00:01:44,280
+Ia akan dipenuhi dengan banyak garis disini,
+
+33
+00:01:44,280 --> 00:01:47,360
+anda boleh bayangkan, hanya bahagi semua ini.
+
+34
+00:01:47,360 --> 00:01:51,120
+Jika anda boleh lakukannya, anda akan dapat 16 keping,
+
+35
+00:01:51,120 --> 00:01:54,140
+ini akan jadi 16.
+
+36
+00:01:54,140 --> 00:01:58,050
+Anda ada 16 disini dan juga 16 disini.
+
+37
+00:01:58,050 --> 00:01:59,740
+Saya boleh lukis lagi.
+
+38
+00:01:59,740 --> 00:02:01,280
+Saya gunakan warna hijau disini.
+
+39
+00:02:01,280 --> 00:02:05,780
+Jika kita teruskan ini, kita akan dapat 48,
+
+40
+00:02:05,780 --> 00:02:09,050
+sebab suku yang pertama ada 16 keping,
+
+41
+00:02:09,050 --> 00:02:11,700
+yang kedua ada 16, dan yang ketiga
+
+42
+00:02:11,700 --> 00:02:13,820
+juga ada 16 keping.
+
+43
+00:02:13,820 --> 00:02:16,470
+Jumlah kesemua ada 48 keping.
+
+44
+00:02:16,470 --> 00:02:19,110
+Sekarang, 1/3 itu mewakili apa?
+
+45
+00:02:19,110 --> 00:02:23,230
+Ia mewakili 16 daripada 48.
+
+46
+00:02:23,230 --> 00:02:26,450
+Ia mewakili 16 ini disini.
+
+47
+00:02:26,450 --> 00:02:31,370
+Ia mewakili 16 ini disini,
+
+48
+00:02:31,370 --> 00:02:33,090
+jadi ia bersamaan dengan 1/3.
+
+49
+00:02:33,090 --> 00:02:41,120
+1/3 adalah sama dengan 16/48.
+
+50
+00:02:41,120 --> 00:02:43,420
+Kita boleh lakukannya secara gerak hati
+
+51
+00:02:43,420 --> 00:02:48,890
+berapa 1/3 daripada 48, tapi satu cara untuk lakukannya
+
+52
+00:02:48,890 --> 00:02:53,600
+atau proses untuk lakukannya,
+
+53
+00:02:53,600 --> 00:02:58,840
+untuk mendapatkan penyebutnya, daripada 3 kepada 48,
+
+54
+00:02:58,840 --> 00:03:02,020
+kita darab dengan 16.
+
+55
+00:03:02,020 --> 00:03:04,790
+3 x 16 = 48.
+
+56
+00:03:04,790 --> 00:03:07,760
+Itu cara untuk mendapatkan 48 keping
+
+57
+00:03:07,760 --> 00:03:08,960
+daripada 3 keping.
+
+58
+00:03:08,960 --> 00:03:11,460
+Kita perlu darabkan dengan 16.
+
+59
+00:03:11,460 --> 00:03:14,500
+Kita perlu tukar setiap keping kepada 16 keping.
+
+60
+00:03:14,500 --> 00:03:15,990
+Itu apa yang kita telah lakukan.
+
+61
+00:03:15,990 --> 00:03:20,030
+Anda tak boleh hanya darab penyebutnya dengan 16.
+
+62
+00:03:20,030 --> 00:03:24,650
+Anda harus darab pengangka dengan jumlah yang sama.
+
+63
+00:03:24,650 --> 00:03:29,750
+Jika setiap keping menjadi 16 keping,
+
+64
+00:03:29,750 --> 00:03:32,730
+jadi sekeping menjadi 16
+
+65
+00:03:32,730 --> 00:03:36,370
+Anda boleh katakan, 3 x 16 = 48,
+
+66
+00:03:36,370 --> 00:03:41,920
+jadi 1 x 16 akan jadi pengangka, jadi ia adalah 16.
+
+67
+00:03:41,920 --> 00:03:45,180
+Jadi 1/3 bersamaan 16/48.
+
+68
+00:03:45,180 --> 00:03:47,040
+Cara lain untuk anda fikir, dimana anda akan
+
+69
+00:03:47,040 --> 00:03:53,930
+belajar kemudian ialah, kita nak 1/3 daripada 48 bukan?
+
+70
+00:03:53,930 --> 00:04:00,060
+Itu yang dia hendak simpan. 1/3 daripada 48 bersamaan
+
+71
+00:04:00,060 --> 00:04:03,950
+1/3 darab 48.
+
+72
+00:04:03,950 --> 00:04:08,130
+Bila anda mendarab-- mari saya tuliskan begini--
+
+73
+00:04:08,130 --> 00:04:13,370
+1/3 x 48, anda boleh tulis pecahan 48 ialah 48/1.
+
+74
+00:04:13,370 --> 00:04:16,510
+Ia bermaksud 48 penuh.
+
+75
+00:04:16,510 --> 00:04:18,380
+Dan bila anda darabkan pecahan,
+
+76
+00:04:18,380 --> 00:04:20,470
+anda boleh darabkan pengangkanya.
+
+77
+00:04:20,470 --> 00:04:25,370
+Jadi ini sama dengan 48 per-- anda darabkan
+
+78
+00:04:25,370 --> 00:04:26,300
+penyebutnya.
+
+79
+00:04:26,300 --> 00:04:29,970
+48/3, 1 x 48 = 48.
+
+80
+00:04:29,970 --> 00:04:31,560
+Kita akan belajar ini lebih mendalam dimasa akan datang.
+
+81
+00:04:31,560 --> 00:04:33,480
+Jangan risau jika ia mengelirukan.
+
+82
+00:04:33,480 --> 00:04:38,350
+Penyebutnya, 3 x 1 = 3, dan 48 bahagi 3, atau
+
+83
+00:04:38,350 --> 00:04:41,320
+48/3 = 16.
+
+84
+00:04:41,320 --> 00:04:47,960
+Jadi 1/3 daripada 48ialah 16, atau 16/48 ialah 1/3.
+
+85
+00:04:47,960 --> 00:04:50,310
+Diharap anda faham.

@@ -1,0 +1,324 @@
+1
+00:00:00,000 --> 00:00:04,720
+kita diberitahu bahawa dalam satu eksperimen tentang laju sebuah kereta api,
+
+2
+00:00:04,720 --> 00:00:07,860
+4 konduktor yang berbeza mengukur jarak yang
+
+3
+00:00:07,860 --> 00:00:10,380
+mereka litupi dalam masa yang tertentu
+
+4
+00:00:10,380 --> 00:00:11,650
+semasa perjalanan mereka baru baru ini
+
+5
+00:00:11,650 --> 00:00:14,300
+jadi ini adalan 4 buah kereta api tersebut
+
+6
+00:00:14,300 --> 00:00:18,260
+Ini adalah berapa lama ia mengambil mereka untuk sampai dalam unit batu.
+
+7
+00:00:18,260 --> 00:00:21,460
+Walau bagaimanapun, mereka semua menggunakan selang masa yang berbeza.
+
+8
+00:00:21,460 --> 00:00:23,910
+orang ini buat dalam 30 minit
+
+9
+00:00:23,910 --> 00:00:25,740
+orang ini pula buat dalam 2 jam
+
+10
+00:00:25,740 --> 00:00:28,890
+dan mereka menghadapi kesukaran membandingkan data mereka
+
+11
+00:00:28,890 --> 00:00:33,080
+berdasarkan data yang diberi, adakah kesemua 4 kereta api ini
+
+12
+00:00:33,080 --> 00:00:38,330
+bergerak dengan kelajuan yang sama semasa eksperimen?
+
+13
+00:00:38,330 --> 00:00:40,660
+jadi kita hanya perlu memikir apakah kelajuan kesemua
+
+14
+00:00:40,660 --> 00:00:43,790
+4 kereta api ini berdasarkan berapa jauh mereka pergi dalam
+
+15
+00:00:43,790 --> 00:00:45,300
+masa yang tertentu
+
+16
+00:00:45,300 --> 00:00:48,170
+dan untuk mengingatkan anda semua,
+
+17
+00:00:48,170 --> 00:00:52,050
+jarak = kadar x masa
+
+18
+00:00:52,050 --> 00:00:55,300
+ataujika ada hendak membahagi kedua dua belah persamaan ini
+
+19
+00:00:55,300 --> 00:00:57,610
+dengan masa pun boleh
+
+20
+00:00:57,610 --> 00:01:01,770
+jika anda bahagikan kedua dua belah dengan masa, ia akan terbatal dan
+
+21
+00:01:01,770 --> 00:01:04,300
+anda dapat kadar = jarak / masa
+
+22
+00:01:04,295 --> 00:01:08,435
+anda dapat kadar = jarak / masa
+
+23
+00:01:08,430 --> 00:01:11,850
+kadar adalah sama seperti kelajuan, dan memang ia masuk akal bahawa
+
+24
+00:01:11,850 --> 00:01:13,720
+ia adalah hasil bahagi jarak dengan masa
+
+25
+00:01:13,720 --> 00:01:18,400
+anda pernah dengar batu per jam atau meter per saar atau
+
+26
+00:01:18,400 --> 00:01:20,440
+kilometer per jam
+
+27
+00:01:20,440 --> 00:01:24,660
+kadar kelajuan adalah jarak bahagi masa
+
+28
+00:01:24,660 --> 00:01:26,100
+jadi kita boleh guna ini
+
+29
+00:01:26,100 --> 00:01:29,270
+kita boleh bahagi jarak itu dengan masa untuk setiap
+
+30
+00:01:29,270 --> 00:01:32,250
+kereta api ini dan dapatkan kelajuannya
+
+31
+00:01:32,250 --> 00:01:33,510
+jadi mari kita buat
+
+32
+00:01:33,510 --> 00:01:36,710
+mari kita tuliskan kelajuan mereka dahulu
+
+33
+00:01:36,710 --> 00:01:41,160
+saya akan buat satu lagi ruangan untuk kelajuan mereka di sini
+
+34
+00:01:41,160 --> 00:01:42,260
+jadi apakah maklumat orang yang pertama ini ?
+
+35
+00:01:42,260 --> 00:01:46,650
+dia pergi 27.5 batu dalam 0.5 jam
+
+36
+00:01:46,650 --> 00:01:50,620
+sekali lagi, mari kita bahagikan jarak kereta api 1
+
+37
+00:01:50,620 --> 00:01:54,820
+dia pergi 27.5 batu dalam 0.5 jam
+
+38
+00:01:54,815 --> 00:01:58,475
+jika anda bahagikan sesuatu dengan 0.5, ia sama juga dengan
+
+39
+00:01:58,470 --> 00:02:01,810
+27.5 darab 2
+
+40
+00:02:01,810 --> 00:02:04,790
+mari kita buat dengan cara ini, darab 2
+
+41
+00:02:04,790 --> 00:02:07,840
+apakah 27.5 x 2 ?
+
+42
+00:02:07,840 --> 00:02:13,920
+55, dan ia berada dalam unit kadar per jam
+
+43
+00:02:13,920 --> 00:02:19,120
+jadi kelajuan dia adalah 55 batu per jam
+
+44
+00:02:19,120 --> 00:02:21,610
+sekarang untuk orang kedua ini pula,
+
+45
+00:02:21,610 --> 00:02:25,620
+dia pergi sejauh 55 batu dalam 1 jam
+
+46
+00:02:25,620 --> 00:02:28,380
+jarak kereta api tersebut dibahagi dengan masa ialah 55
+
+47
+00:02:28,380 --> 00:02:30,020
+kadar kelajuan orang ini senang untuk dikira
+
+48
+00:02:30,020 --> 00:02:31,630
+dia pergi 55 batu
+
+49
+00:02:31,630 --> 00:02:32,990
+anda boleh letakkan di dalam formula
+
+50
+00:02:32,990 --> 00:02:34,780
+55 adalah jaraknya
+
+51
+00:02:34,780 --> 00:02:36,320
+masanya adalah 1 jam
+
+52
+00:02:36,320 --> 00:02:37,450
+55 per 1
+
+53
+00:02:37,450 --> 00:02:39,440
+55 batu per jam
+
+54
+00:02:39,440 --> 00:02:42,600
+sekarang orang ini pergi 82.5 batu dalam 1 jam setengah
+
+55
+00:02:42,600 --> 00:02:43,840
+mari kita kira
+
+56
+00:02:43,840 --> 00:02:49,210
+jadi dia telah pergi sejauh 82.5 batu dalam 1.5 jam
+
+57
+00:02:49,210 --> 00:02:50,530
+mari kita kira kelajuan nya
+
+58
+00:02:50,530 --> 00:02:53,120
+Dan saya akan perlu melakukan sedikit
+
+59
+00:02:53,120 --> 00:02:54,020
+perpuluhan pembahagian yang panjang
+
+60
+00:02:54,020 --> 00:03:01,950
+jadi 82.5 dibahagi dengan 1.5
+
+61
+00:03:01,950 --> 00:03:05,020
+mari kita darabkan nombor nombor ini dengan 10,
+
+62
+00:03:05,020 --> 00:03:07,810
+kita hanya akan mengalihkan titik perpuluhan sahaja
+
+63
+00:03:07,810 --> 00:03:08,730
+alihkan titik ke sana
+
+64
+00:03:08,730 --> 00:03:14,360
+jadi 15 boleh membahagi 825 sebanyak berapa kali ?
+
+65
+00:03:14,360 --> 00:03:18,000
+15 tidak boleh membahagi 8 langsung
+
+66
+00:03:18,000 --> 00:03:21,540
+15 boleh membahagi 82 sebanyak 5 kali
+
+67
+00:03:21,540 --> 00:03:25,040
+5 x 5 =25, bawa naik 2
+
+68
+00:03:25,040 --> 00:03:29,460
+5 x 1= 5 , tambah 2 menjadi 7.
+
+69
+00:03:29,460 --> 00:03:30,590
+tolak 75
+
+70
+00:03:30,590 --> 00:03:35,310
+82 -75 adalah 7 kan ?
+
+71
+00:03:35,310 --> 00:03:37,560
+bawa turun 5 ini
+
+72
+00:03:37,560 --> 00:03:40,570
+15 boleh membahagi 75 sebanyak 5 kali
+
+73
+00:03:40,570 --> 00:03:43,680
+5 x 15 = 75
+
+74
+00:03:43,680 --> 00:03:45,620
+tolakkan, tiada baki
+
+75
+00:03:45,620 --> 00:03:49,700
+jadi 82.5 batu dalam sejam setengah adalah
+
+76
+00:03:49,700 --> 00:03:52,620
+55 batu per jam
+
+77
+00:03:52,620 --> 00:03:56,280
+dan akhir sekali, jika dia pergi 110 batu dalam 2 jam, 110 dibahagi
+
+78
+00:03:56,280 --> 00:03:58,990
+dengan 2 adalah 55
+
+79
+00:03:58,990 --> 00:04:03,930
+jadi keempat-empat kereta api ini bergerak
+
+80
+00:04:03,930 --> 00:04:05,380
+dalam kelajuan yang sama semasa eksperimen di jalankan
+
+81
+00:04:05,380 --> 00:04:07,330
+itu sahaja untuk kali ini, sekian terima kasih!
+

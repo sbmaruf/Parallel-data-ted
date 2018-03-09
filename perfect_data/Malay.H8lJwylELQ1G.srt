@@ -1,0 +1,1080 @@
+1
+00:00:00,000 --> 00:00:00,440
+....
+
+2
+00:00:00,440 --> 00:00:02,930
+Dalam video ini saya akan tunjukkan satu teknik
+
+3
+00:00:02,930 --> 00:00:09,310
+yang dipanggil selesaikan kuasa dua.
+
+4
+00:00:09,310 --> 00:00:14,490
+Teknik ini berkesan untuk semua masalah kuadratik,
+
+5
+00:00:14,490 --> 00:00:18,210
+dan ia ialah asas kepada
+
+6
+00:00:18,210 --> 00:00:18,750
+formula kuadratik.
+
+7
+00:00:18,750 --> 00:00:21,990
+Dan video selepas ini saya akan buktikan
+
+8
+00:00:21,990 --> 00:00:25,630
+formula kuadratik dengan selesaikan kuasa dua.
+
+9
+00:00:25,630 --> 00:00:28,450
+Tetapi sebelum kita lakukan itu, kita perlu faham
+
+10
+00:00:28,450 --> 00:00:29,470
+apa maksudnya.
+
+11
+00:00:29,470 --> 00:00:32,070
+Dan ianya berkaitan dengan apa yang kita lakukan dalam video yang lalu,
+
+12
+00:00:32,070 --> 00:00:33,880
+dimana kita selesaikan kuadratik
+
+13
+00:00:33,880 --> 00:00:36,130
+menggunakan kuasa dua sempurna
+
+14
+00:00:36,130 --> 00:00:39,900
+Katakan saya ada x kuasa dua tolak
+
+15
+00:00:39,900 --> 00:00:44,880
+4x sama dengan 5.
+
+16
+00:00:44,880 --> 00:00:47,490
+Saya biarkan ini kosong bersebab.
+
+17
+00:00:47,490 --> 00:00:49,680
+Dalam video yang lepas, ia lebih mudah diselesaikan
+
+18
+00:00:49,680 --> 00:00:53,200
+jika sebelah kiri ialah
+
+19
+00:00:53,200 --> 00:00:56,500
+kuasa dua sempurna.
+
+20
+00:00:56,500 --> 00:00:59,050
+Anda lihat, menyelesaikan kuasa dua ialah tentang
+
+21
+00:00:59,050 --> 00:01:01,900
+menukarkan persamaan kuadratik kepada kuasa dua sempurna, mengawalnya,
+
+22
+00:01:01,900 --> 00:01:05,190
+menambah dan menolak dari kedua-dua bahagian supaya ia menjadi
+
+23
+00:01:05,190 --> 00:01:05,970
+satu kuasa dua sempurna
+
+24
+00:01:05,970 --> 00:01:07,710
+Maka bagaimana kita lakukan itu?
+
+25
+00:01:07,710 --> 00:01:10,130
+Untuk jadikan sebelah kiri kepada kuasa dua sempurna,
+
+26
+00:01:10,130 --> 00:01:12,990
+kita perlu ada suatu nombor disini.
+
+27
+00:01:12,990 --> 00:01:17,510
+Ada beberapa nombor di sini dan jika saya ada nombor saya
+
+28
+00:01:17,510 --> 00:01:20,910
+dikuasaduakan, saya akan mendapat nombor itu, dan kemudian jika saya ada 2 darab
+
+29
+00:01:20,910 --> 00:01:22,890
+nombor saya, saya dapat -4
+
+30
+00:01:22,890 --> 00:01:24,750
+Ingat, ia akan menjadi
+
+31
+00:01:24,750 --> 00:01:27,700
+lebih jelas dengan beberapa contoh.
+
+32
+00:01:27,700 --> 00:01:35,230
+Saya nak x kuasa dua tolak 4x tambah sesuatu sama dengan
+
+33
+00:01:35,230 --> 00:01:37,740
+x tolak a kuasa dua.
+
+34
+00:01:37,740 --> 00:01:41,010
+Kita tak tahu apa a, tapi
+
+35
+00:01:41,010 --> 00:01:42,110
+kita tahu sesuatu.
+
+36
+00:01:42,110 --> 00:01:46,180
+Ini akan jadi x kuasa dua tolak
+
+37
+00:01:46,180 --> 00:01:49,330
+2a tambah a kuasa dua.
+
+38
+00:01:49,330 --> 00:01:53,640
+Maka jika anda lihat corak di sin, ia harus menjadi--
+
+39
+00:01:53,640 --> 00:01:59,880
+Maaf, ini 2ax. Disini 2ax.
+
+40
+00:01:59,880 --> 00:02:03,530
+Dan ini akan jadi a kuasa dua.
+
+41
+00:02:03,530 --> 00:02:07,690
+a akan jadi separuh daripada negatif 4,
+
+42
+00:02:07,690 --> 00:02:10,370
+jadi a ialah negatif 2 bukan?
+
+43
+00:02:10,370 --> 00:02:13,570
+Sebab 2 darab a ialah negatif 4.
+
+44
+00:02:13,570 --> 00:02:18,330
+a ialah negatif 2 dan jika a ialah negatif 2, apakah a kuasa dua?
+
+45
+00:02:18,330 --> 00:02:21,550
+a kuasa dua ialah positif 4.
+
+46
+00:02:21,550 --> 00:02:24,220
+Dan ia mungkin kelihatan serabut sedikit
+
+47
+00:02:24,220 --> 00:02:25,910
+Tetapi saya menunjukkan rasionalnya.
+
+48
+00:02:25,910 --> 00:02:29,080
+Lihat pekali disini,
+
+49
+00:02:29,080 --> 00:02:32,670
+apakah separuh dari pekali ini?
+
+50
+00:02:32,670 --> 00:02:35,920
+Separuh dari pekali ini ialah negatif 2.
+
+51
+00:02:35,920 --> 00:02:40,230
+Kita boleh katakan a sama dengan negatif 2.
+
+52
+00:02:40,230 --> 00:02:41,720
+kemudian anda kuasa duakan ia
+
+53
+00:02:41,720 --> 00:02:44,100
+a kuasa dua ialah positif 4.
+
+54
+00:02:44,100 --> 00:02:46,540
+Jadi kita tambah positif 4 disini.
+
+55
+00:02:46,540 --> 00:02:47,630
+tambah a 4
+
+56
+00:02:47,630 --> 00:02:50,990
+Sekarang, daripada persamaan pertama yang kita buat,
+
+57
+00:02:50,990 --> 00:02:55,240
+anda patut tahu yang anda tidak boleh lakukan hanya satu bahagian
+
+58
+00:02:55,240 --> 00:02:55,900
+dari persamaan
+
+59
+00:02:55,900 --> 00:02:58,700
+Anda tak boleh hanya menambah 4 disebelah saja.
+
+60
+00:02:58,700 --> 00:03:02,710
+Jika x kuasa dua tolak 4x ialah bersamaan dengan 5, kemudian apabila saya tambah 4
+
+61
+00:03:02,710 --> 00:03:04,720
+ia tidak akan jadi bersamaan dengan 5
+
+62
+00:03:04,720 --> 00:03:07,950
+Ini akan jadi sama dengan 5 tambah 4.
+
+63
+00:03:07,950 --> 00:03:11,430
+Kita tambah 4 disebelah kiri supaya ia jadi
+
+64
+00:03:11,430 --> 00:03:12,440
+kuasa dua sempurna.
+
+65
+00:03:12,435 --> 00:03:15,215
+Tapi jika anda tambah sesuatu disebelah kiri,
+
+66
+00:03:15,210 --> 00:03:17,320
+anda kena tambah disebelah kanan juga.
+
+67
+00:03:17,320 --> 00:03:20,630
+Dan sekarang, kita dapati masalah
+
+68
+00:03:20,630 --> 00:03:23,410
+yang sama dengan video yang lalu
+
+69
+00:03:23,410 --> 00:03:25,960
+Apa ialah bahagian tangan kiri?
+
+70
+00:03:25,960 --> 00:03:27,000
+Mari saya tulis semula.
+
+71
+00:03:27,000 --> 00:03:33,020
+x kuasa dua tolak 4x tambah 4 sama dengan 9.
+
+72
+00:03:33,020 --> 00:03:35,380
+Apa yang kita lakukan ialah tambah 4 kepada kedua-dua bahagian persamaan
+
+73
+00:03:35,380 --> 00:03:39,070
+Tetapi kita tambahkan 4 dengan tujuan bahagian tangan kiri
+
+74
+00:03:39,070 --> 00:03:41,080
+menjadi kuasa dua sempurna
+
+75
+00:03:41,080 --> 00:03:41,760
+Sekarang, apakah ini?
+
+76
+00:03:41,760 --> 00:03:45,340
+Nombor apa jika saya darab dengan nombor itu sendirir sama dengan 4
+
+77
+00:03:45,340 --> 00:03:47,770
+dan bila saya tambah dengan nombor itu sendiri sama dengan negatif 2?
+
+78
+00:03:47,770 --> 00:03:49,000
+Baiklah, kita telah menjawab soalan itu.
+
+79
+00:03:49,000 --> 00:03:50,040
+Ia ialah negatif 2.
+
+80
+00:03:50,040 --> 00:03:55,310
+x tolak 2 darab x tolak 2 sama dengan 9.
+
+81
+00:03:55,310 --> 00:03:59,350
+Atau kita tulis x tolak 2
+
+82
+00:03:59,350 --> 00:04:02,990
+kuasa dua sama dengan 9.
+
+83
+00:04:02,990 --> 00:04:07,280
+Kemudian anda buang punca kuasa, anda dapat
+
+84
+00:04:07,280 --> 00:04:10,840
+x tolak 2 sama dengan tambah atau tolak 3.
+
+85
+00:04:10,840 --> 00:04:16,870
+Tambah 2, anda dapat x sama dengan 2 tambah atau tolak 3.
+
+86
+00:04:16,870 --> 00:04:22,440
+x boleh jadi 2 tambah 3, iaitu 5.
+
+87
+00:04:22,440 --> 00:04:28,960
+Atau x boleh jadi 2 tolak 3, iaitu negatif 1.
+
+88
+00:04:28,960 --> 00:04:30,650
+Kita dah selesai.
+
+89
+00:04:30,650 --> 00:04:31,840
+Sekarang, saya mahu jelaskan.
+
+90
+00:04:31,840 --> 00:04:34,300
+Anda boleh lakukan ini tanpa selesaikan kuasa dua.
+
+91
+00:04:34,300 --> 00:04:37,640
+Kita boleh mulakan dengan x kuasa dua tolak
+
+92
+00:04:37,640 --> 00:04:39,850
+4x sama dengan 5.
+
+93
+00:04:39,850 --> 00:04:42,970
+Kita boleh tolak 5 di kedua-dua belah dan dapat x
+
+94
+00:04:42,970 --> 00:04:47,160
+kuasa dua tolak 4x tolak 5 sama dengan 0.
+
+95
+00:04:47,160 --> 00:04:51,940
+Jika saya ada negatif 5 darab
+
+96
+00:04:51,940 --> 00:04:56,190
+positif 1, ia jadi negatif 5 dan hasil tambah mereka
+
+97
+00:04:56,190 --> 00:04:57,000
+ialah negatif 4.
+
+98
+00:04:57,000 --> 00:05:00,800
+Jadi ini ialah x tolak 5 darab x tambah
+
+99
+00:05:00,800 --> 00:05:02,480
+1 sama dengan o.
+
+100
+00:05:02,480 --> 00:05:06,810
+Dan x sama dengan 5 atau x sama dengan
+
+101
+00:05:06,810 --> 00:05:07,700
+negatif 1.
+
+102
+00:05:07,700 --> 00:05:10,350
+Dan dalam kes ini, ini sebenarnya mungkin
+
+103
+00:05:10,350 --> 00:05:13,450
+cara terpantas untuk selesaikan masalah
+
+104
+00:05:13,450 --> 00:05:16,140
+tetapi perkara yang kemas untuk lengkapkan kuasa dua ialah
+
+105
+00:05:16,140 --> 00:05:17,770
+ia akan sentiasa berkesan
+
+106
+00:05:17,770 --> 00:05:21,580
+ia akan sentiasa berkesan tidak mengira pekali atau
+
+107
+00:05:21,580 --> 00:05:23,390
+tidak kira seberapa susah masalah tersebut
+
+108
+00:05:23,385 --> 00:05:25,405
+Dan mari saya buktikan kepada anda
+
+109
+00:05:25,400 --> 00:05:28,440
+Mari lakukan satu yang merupakan
+
+110
+00:05:28,440 --> 00:05:31,140
+masalah yang agak sukar jika kita cuba lakukan ia dengan
+
+111
+00:05:31,140 --> 00:05:36,200
+faktorkannya, terutama jika kita lakukan ia secara berkumpulan
+
+112
+00:05:36,200 --> 00:05:37,020
+atau yang berkaitan.
+
+113
+00:05:37,020 --> 00:05:45,070
+Katakan kita ada 10x kuasa dua tolak 30x tolak
+
+114
+00:05:45,070 --> 00:05:47,530
+8 sama dengan 0.
+
+115
+00:05:47,530 --> 00:05:50,060
+Kita mungkin boleh
+
+116
+00:05:50,060 --> 00:05:53,280
+bahagi kedua-dua bahagian dengan 2.
+
+117
+00:05:53,280 --> 00:05:54,800
+Ia mungkin ringkaskan sikit.
+
+118
+00:05:54,800 --> 00:05:56,450
+Mari bahagi dengan 2.
+
+119
+00:05:56,450 --> 00:06:02,150
+Maka jika anda bahagikan semua dengan 2, apa anda akan dapat?
+
+120
+00:06:02,150 --> 00:06:11,990
+5x kuasa dua tolak 15x tolak 4 sama dengan 0.
+
+121
+00:06:11,990 --> 00:06:14,540
+Tetapi sekali lagi, sekarang kita ada 5 yang sukar di hadapan ini
+
+122
+00:06:14,540 --> 00:06:16,810
+pekali dan kita akan selesaikan secara berkumpulan
+
+123
+00:06:16,810 --> 00:06:20,410
+ia nya proses yang sukar
+
+124
+00:06:20,410 --> 00:06:23,410
+Sekarang kita selesaikan kuasa dua.
+
+125
+00:06:23,410 --> 00:06:27,500
+Saya nak bahagi dengan 5 untuk dapat 1
+
+126
+00:06:27,500 --> 00:06:28,870
+sebagai pekali.
+
+127
+00:06:28,870 --> 00:06:31,660
+Dan anda akan lihat kenapa ia berlainan dari apa
+
+128
+00:06:31,660 --> 00:06:33,010
+yang kita biasa lakukan
+
+129
+00:06:33,010 --> 00:06:35,730
+Maka jika saya bahagikan semua dengan 5, saya boleh
+
+130
+00:06:35,730 --> 00:06:38,050
+bahagikan dengan 10 tetapi saya mahu pergi kepada langkah ini dahulu
+
+131
+00:06:38,050 --> 00:06:40,030
+untuk tunjukkan kepada anda bahawa ini
+
+132
+00:06:40,030 --> 00:06:41,800
+tidak berikan banyak kepada kita
+
+133
+00:06:41,800 --> 00:06:43,660
+Mari bahagikan semua dengan 5
+
+134
+00:06:43,660 --> 00:06:52,690
+Jika anda bahagi semua dengan 5, anda dapat x kuasa dua tolak 3x
+
+135
+00:06:52,693 --> 00:06:58,723
+tolak 4/5 sama dengan 0.
+
+136
+00:06:58,720 --> 00:07:02,020
+Sekarang mungkin anda menyesal kerana lakukan pemfaktoran
+
+137
+00:07:02,020 --> 00:07:02,630
+secara berkumpulan?
+
+138
+00:07:02,630 --> 00:07:06,140
+Jika kita bahagi dengan pekali didepan,
+
+139
+00:07:06,140 --> 00:07:07,220
+ini akan jadi lebih mudah.
+
+140
+00:07:07,220 --> 00:07:09,840
+Kita boleh tukar ini menjadi 1 atau negatif 1 jika bahagi
+
+141
+00:07:09,840 --> 00:07:10,910
+dengan nombor yang betul.
+
+142
+00:07:10,910 --> 00:07:14,410
+Dengan lakukan pemfaktoran
+
+143
+00:07:14,410 --> 00:07:17,630
+kita dapat pecahan 4/5 disini.
+
+144
+00:07:17,630 --> 00:07:19,500
+Anda perlu katakan, apa dua nombor bila saya ambil produk
+
+145
+00:07:19,500 --> 00:07:22,100
+ialah bersamaan dengan -4/5?
+
+146
+00:07:22,100 --> 00:07:25,210
+Ianya pecahan dan bila saya ambil jumlahnya, ianya bersamaan dengan
+
+147
+00:07:25,210 --> 00:07:26,140
+-3?
+
+148
+00:07:26,140 --> 00:07:29,310
+Pemfaktoran adalah menyusahkan.
+
+149
+00:07:29,310 --> 00:07:36,860
+Susah gunakan pemfaktoran.
+
+150
+00:07:36,860 --> 00:07:42,080
+Perkara terbaik ialah selesaikan kuasa dua.
+
+151
+00:07:42,080 --> 00:07:44,720
+Maka mari fikirkan bagaimana kita boleh tukarkan ini
+
+152
+00:07:44,720 --> 00:07:45,950
+kepada kuasa dua sempurna
+
+153
+00:07:45,950 --> 00:07:48,080
+Apa yang saya suka lakukan--- anda akan lihat beberapa cara dan
+
+154
+00:07:48,080 --> 00:07:50,040
+Saya akan tunjukkan kepada anda kedua-duanya kerana anda lihat guru lakukannya
+
+155
+00:07:50,040 --> 00:07:53,880
+Saya alihkan 4/5 ini kesebelah kiri.
+
+156
+00:07:53,880 --> 00:07:56,900
+Maka mari tambahkan kepada kedua-dua bahagian persamaan
+
+157
+00:07:56,900 --> 00:07:59,980
+Anda tidak perlu lakukan dengan cara ini, tetapi saya suka dapatkan 4/5
+
+158
+00:07:59,980 --> 00:08:01,160
+dengan cara saya
+
+159
+00:08:01,160 --> 00:08:04,010
+Dan kemudian apa yang kita dapat jika kita tambah 4/5 kepada kedua-dua
+
+160
+00:08:04,010 --> 00:08:05,250
+bahagian persamaan?
+
+161
+00:08:05,250 --> 00:08:08,350
+Disebelah kiri menjadi x kuasa dua
+
+162
+00:08:08,350 --> 00:08:11,800
+tolak 3x, tiada 4/5 disana.
+
+163
+00:08:11,800 --> 00:08:13,660
+Saya kosongkan sikit ruang.
+
+164
+00:08:13,660 --> 00:08:17,790
+Dan ini sama dengan 4/5.
+
+165
+00:08:17,790 --> 00:08:19,990
+Sekarang, seperti masalah yang akhir, kita mahu tukarkan
+
+166
+00:08:19,990 --> 00:08:23,350
+bahagian tangan kiri ini kepada kuasa dua sempurna binomial
+
+167
+00:08:23,350 --> 00:08:24,740
+Bagaimana kita lakukannya?
+
+168
+00:08:24,740 --> 00:08:28,360
+Nombor apa darab 2 sama dengan
+
+169
+00:08:28,360 --> 00:08:30,110
+negatif 3?
+
+170
+00:08:30,110 --> 00:08:32,310
+Maka beberapa nombor darab 2 ialah negatif 3
+
+171
+00:08:32,309 --> 00:08:35,329
+Atau kita ambil negatif 3 dan bahagi dengan 2,
+
+172
+00:08:35,330 --> 00:08:37,370
+iaitu negatif 3/2.
+
+173
+00:08:37,370 --> 00:08:39,550
+Kemudian kita kuasa duakannya.
+
+174
+00:08:39,554 --> 00:08:44,844
+Maka dalam contoh, kita katakan a ialah -3/2
+
+175
+00:08:44,840 --> 00:08:48,380
+Apa kita dapat jika kita kuasa duakan 3/2?
+
+176
+00:08:48,380 --> 00:08:54,100
+Kita dapat positif 9/4.
+
+177
+00:08:54,100 --> 00:08:56,810
+Saya ambil separuh dari pekali ini, kuasa duakan ia,
+
+178
+00:08:56,810 --> 00:08:58,010
+dapat +9/4
+
+179
+00:08:58,010 --> 00:09:00,720
+Tujuannya ialah untuk tukarkan bahagian tangan kiri
+
+180
+00:09:00,720 --> 00:09:02,920
+kepada kuasa dua sempurna
+
+181
+00:09:02,920 --> 00:09:05,530
+Sekarang, apa yang anda lakukan kepada satu bahagian persamaan,
+
+182
+00:09:05,530 --> 00:09:06,600
+anda perlu lakukan pada bahagian yang lain
+
+183
+00:09:06,600 --> 00:09:11,030
+Kita tambah 9/4 disebelah kanan juga.
+
+184
+00:09:11,030 --> 00:09:13,850
+Apakah akan berlaku?
+
+185
+00:09:13,850 --> 00:09:22,530
+Kita dapat x kuasa dua tolak 3x tambah 9/4 sama dengan--
+
+186
+00:09:22,530 --> 00:09:24,460
+kita dapatkan penyebut yang sama disebelah kanan.
+
+187
+00:09:24,460 --> 00:09:29,120
+4/5 adalah sama dengan 16/20.
+
+188
+00:09:29,120 --> 00:09:31,880
+Darabkan pengangka dan penyebut dengan 4.
+
+189
+00:09:31,880 --> 00:09:33,820
+tambah per 20
+
+190
+00:09:33,820 --> 00:09:36,960
+9/4 kita darabkan dengan 5
+
+191
+00:09:36,960 --> 00:09:42,150
+iaitu 45/20.
+
+192
+00:09:42,150 --> 00:09:44,970
+16 tambah 45 berapa?
+
+193
+00:09:44,970 --> 00:09:47,020
+Anda lihat, ianya kelihatan semakin sukar, tetapi
+
+194
+00:09:47,020 --> 00:09:48,930
+ianya seronok, bukan?
+
+195
+00:09:48,930 --> 00:09:50,380
+menyelesaikan kuasa dua
+
+196
+00:09:50,380 --> 00:09:53,420
+16 tambah 45
+
+197
+00:09:53,420 --> 00:09:55,780
+Maka itu 55, 61
+
+198
+00:09:55,780 --> 00:09:59,750
+Ini sama dengan 61/20.
+
+199
+00:09:59,750 --> 00:10:02,680
+Mari saya tulis semula.
+
+200
+00:10:02,680 --> 00:10:09,480
+x kuasa dua tolak 3x tambah 9/4 sama dengan 61/20/
+
+201
+00:10:09,480 --> 00:10:11,030
+Nombor yang gila!
+
+202
+00:10:11,030 --> 00:10:13,630
+Tapi sekurang-kurangnya disebelah kiri
+
+203
+00:10:13,630 --> 00:10:15,970
+ialah kuasa dua yang sempurna.
+
+204
+00:10:15,970 --> 00:10:21,610
+Ini sama dengan x tolak 3/2 kuasa dua.
+
+205
+00:10:21,610 --> 00:10:24,200
+...
+
+206
+00:10:24,200 --> 00:10:27,590
+Negatif 3/2 darab negatif 3/2 sama dengan positif 9/4.
+
+207
+00:10:27,590 --> 00:10:32,790
+Negatif 3/2 tambah negatif 3/2 sama dengan negatif 3.
+
+208
+00:10:32,790 --> 00:10:37,960
+Kuasa dua ini sama dengan 61/20.
+
+209
+00:10:37,960 --> 00:10:43,090
+Kita pindahkan kuasa dua kesebelah kiri dan kita dapat x tolak
+
+210
+00:10:43,090 --> 00:10:47,820
+3/2 sama dengan tambah tolak
+
+211
+00:10:47,820 --> 00:10:53,320
+punca kuasa 61/20.
+
+212
+00:10:53,320 --> 00:10:57,640
+Sekarang kita boleh alihkan 3/2 kesebelah kanan
+
+213
+00:10:57,640 --> 00:11:03,600
+dan ada dapat x sama dengan 3/2 tambah tolak
+
+214
+00:11:03,600 --> 00:11:07,300
+punca kuasa 61/20.
+
+215
+00:11:07,300 --> 00:11:09,290
+ini ialah nombor yang gila dan diharapkan ianya jelas
+
+216
+00:11:09,290 --> 00:11:11,430
+anda tidak akan dapat--- saya mungkin tidak dapat
+
+217
+00:11:11,430 --> 00:11:15,250
+nombor ini hanya dengan memfaktorkannya
+
+218
+00:11:15,250 --> 00:11:17,260
+Kalau anda nak nilai yang sebenar, anda boleh gunakan
+
+219
+00:11:17,260 --> 00:11:18,510
+kalkulator.
+
+220
+00:11:18,510 --> 00:11:20,620
+....
+
+221
+00:11:20,620 --> 00:11:22,510
+Mari saya jelaskan
+
+222
+00:11:22,510 --> 00:11:25,950
+....
+
+223
+00:11:25,950 --> 00:11:28,760
+Kita lakukan penambahan dulu.
+
+224
+00:11:28,760 --> 00:11:33,710
+Kita buat 3 bahagi 2 tambah punca kuasa---
+
+225
+00:11:33,710 --> 00:11:35,050
+Kita mahu ambil punca kuasa dua yang berwarna kuning
+
+226
+00:11:35,050 --> 00:11:46,480
+punca kuasa 61/20 ialah 3.24.
+
+227
+00:11:46,480 --> 00:11:52,760
+Saya ringkaskan 3.2464 kepada 3.246.
+
+228
+00:11:52,760 --> 00:12:02,230
+Bersamaan dengan 3.2464,
+
+229
+00:12:02,230 --> 00:12:03,110
+ini versi positif.
+
+230
+00:12:03,110 --> 00:12:06,710
+Mari lakukan versi negatif.
+
+231
+00:12:06,710 --> 00:12:09,180
+Maka kita sebenarnya meletakkan entri kita-- jika anda lakukan yang kedua dan
+
+232
+00:12:09,180 --> 00:12:11,540
+kemudian entri, itu yang kita mahukan, entri berwarna kuning
+
+233
+00:12:11,535 --> 00:12:12,465
+itu adalah sebab saya menekan butang yang kedua
+
+234
+00:12:12,465 --> 00:12:16,135
+Saya masukkan kiraan tadi dan kita
+
+235
+00:12:16,130 --> 00:12:23,400
+boleh ubah penambahan tadi ke penolakkan
+
+236
+00:12:23,400 --> 00:12:27,970
+dan kita dapat negatif 0.246.
+
+237
+00:12:27,970 --> 00:12:33,800
+Kita dapat negatif 0.246.
+
+238
+00:12:33,800 --> 00:12:38,200
+Anda boleh semak jalan kerja ini.
+
+239
+00:12:38,200 --> 00:12:39,360
+Persamaan asal
+
+240
+00:12:39,360 --> 00:12:42,050
+Persamaan asal kita ialah di atas ini
+
+241
+00:12:42,050 --> 00:12:43,840
+Mari saya semak salah satu.
+
+242
+00:12:43,840 --> 00:12:47,400
+...
+
+243
+00:12:47,400 --> 00:12:50,130
+Maka jawapan kedua pada kalkulator graf ialah
+
+244
+00:12:50,130 --> 00:12:51,760
+jawapan terakhir yang anda gunakan
+
+245
+00:12:51,760 --> 00:12:54,160
+Maka jika anda gunakan jawapan yang berlainan, itu ialah nombor ini
+
+246
+00:12:54,160 --> 00:12:55,160
+di sini
+
+247
+00:12:55,160 --> 00:13:00,090
+Saya gunakan jawapan
+
+248
+00:13:00,090 --> 00:13:02,380
+negative 0.24.
+
+249
+00:13:02,380 --> 00:13:11,980
+Jawapan kuasa dua tolak 3 darab jawapan tolak 4/5--
+
+250
+00:13:11,975 --> 00:13:16,035
+4 bahagi 5--- ia bersamaan
+
+251
+00:13:16,030 --> 00:13:18,490
+Ini hanya sikit penerangan.
+
+252
+00:13:18,490 --> 00:13:21,860
+Ianya tidak menyimpan semua nombor, ia menaik untuk
+
+253
+00:13:21,860 --> 00:13:22,880
+beberapa tahan perincian
+
+254
+00:13:22,880 --> 00:13:24,910
+Ia menyimpan beberapa nombor digit
+
+255
+00:13:24,910 --> 00:13:28,930
+Maka apabila kiraan menggunakan nombor yang disimpan ini,
+
+256
+00:13:28,930 --> 00:13:32,240
+Kita dapat 1 darab 10 kepada negatif 14.
+
+257
+00:13:32,240 --> 00:13:34,980
+Ia adalah 0.0000.
+
+258
+00:13:34,980 --> 00:13:37,100
+13 kosong dan satu 1.
+
+259
+00:13:37,100 --> 00:13:38,870
+Perpuluhan kemudian 13 kosong dan satu 1.
+
+260
+00:13:38,870 --> 00:13:41,060
+Ia lebih kurang 0.
+
+261
+00:13:41,060 --> 00:13:43,550
+Atau sebenarnya, jika anda dapat jawapan yang tepat di sini,
+
+262
+00:13:43,550 --> 00:13:46,480
+jika anda melalui tahap perincian yang tidak terbatas di sini, atau
+
+263
+00:13:46,480 --> 00:13:49,050
+mungkin jika anda simpan ia dalam bentuk radikal, anda akan dapat
+
+264
+00:13:49,050 --> 00:13:52,390
+ianya bersamaan dengan 0
+
+265
+00:13:52,390 --> 00:13:55,300
+Harap pengiraan ini membantu anda
+
+266
+00:13:55,300 --> 00:13:56,160
+melengkapkan kuasa dua
+
+267
+00:13:56,160 --> 00:13:58,670
+Sekarang kita akan penjangkan ia kepada formula persamaan sebenar
+
+268
+00:13:58,670 --> 00:14:01,510
+yang kita guna,
+
+269
+00:14:01,510 --> 00:14:03,610
+kita mampu selesaiakan persamaan kuadratik menggunakan cara yang sama.
+
+270
+00:14:03,610 --> 00:14:05,270
+.....
+

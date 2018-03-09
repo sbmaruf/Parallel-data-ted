@@ -1,0 +1,140 @@
+1
+00:00:00,630 --> 00:00:06,730
+Cari nilai tempat 3 dalam 4,356.
+
+2
+00:00:06,730 --> 00:00:09,190
+Bila saya memikirkan nilai tempat, atau bila kamu
+
+3
+00:00:09,190 --> 00:00:11,720
+membuat banyak latihan, nilai tempat akan menjadi sesuatu
+
+4
+00:00:11,720 --> 00:00:14,600
+yang semulajadi, tapi setiap kali saya melihat masalah seperti ini, saya
+
+5
+00:00:14,600 --> 00:00:20,320
+suka mengembangkan apa itu sebenarnya 4,356
+Jadi, mari kita menulis semula
+
+6
+00:00:20,320 --> 00:00:20,880
+nombor-nombor ini.
+
+7
+00:00:20,880 --> 00:00:21,940
+Saya akan menggunakan
+
+8
+00:00:21,940 --> 00:00:23,210
+warna yang berlainan.
+
+9
+00:00:23,210 --> 00:00:33,420
+Jadi 4,356 bersamaan dengan
+
+10
+00:00:33,420 --> 00:00:34,360
+bagaimana saya katakan tadi
+
+11
+00:00:34,360 --> 00:00:48,190
+4,000 ditambah dengan 300 ditambah dengan 50 ditambah dengan 6
+
+12
+00:00:48,190 --> 00:00:50,600
+Kamu boleh mendapat hasil yang sama jika kamu hanya mengatakan
+
+13
+00:00:50,600 --> 00:00:54,810
+ia: empat ribu tiga ratus lima puluh enam.
+
+14
+00:00:54,810 --> 00:00:58,060
+Cara lain untuk memikirkannya ialah bersamaan
+
+15
+00:00:58,060 --> 00:01:07,520
+dengan empat ribu ditambah
+
+16
+00:01:07,520 --> 00:01:16,880
+dengan 3 ratus, ditambah dengan 50, atau bersamaan dengan
+
+17
+00:01:16,880 --> 00:01:22,040
+5 puluh tambah 6.
+
+18
+00:01:22,040 --> 00:01:24,420
+atau sebagai pengganti 6,
+
+19
+00:01:24,420 --> 00:01:27,570
+kita boleh menyatakan tambah 6 sa.
+
+20
+00:01:27,570 --> 00:01:32,620
+Jika kita memikirkan balik nombor yang ada dalam soalan ini iaitu 4,356, ia adalah
+
+21
+00:01:32,620 --> 00:01:36,440
+bersamaan dengan empat - Aku akan menuliskannya
+
+22
+00:01:36,440 --> 00:01:39,230
+Biar saya tengok...saya boleh menulisnya begini
+
+23
+00:01:39,230 --> 00:01:51,020
+Ia adalah bersamaan dengan 4 ribu, 3 ratus, 5 puluh
+
+24
+00:01:51,020 --> 00:01:53,670
+dan enam sa.
+
+25
+00:01:53,670 --> 00:01:59,820
+Maka apabila mereka menanya apakah nilai tempat untuk nombor 3 dalam 4,356,
+
+26
+00:01:59,820 --> 00:02:02,120
+kita akan memberi perhatian kepada nombor 3
+
+27
+00:02:02,120 --> 00:02:03,260
+Jadi, jawapannya
+
+28
+00:02:03,260 --> 00:02:05,090
+ialah ‘ratus’.
+
+29
+00:02:05,090 --> 00:02:06,970
+Jika terdapat 4 disini, itu bermakna
+
+30
+00:02:06,970 --> 00:02:07,850
+4 ratus
+
+31
+00:02:07,850 --> 00:02:09,850
+Jika terdapat 5 disini, itu bermakna 5 ratus
+
+32
+00:02:09,850 --> 00:02:12,260
+Ia adalah tempat ketiga dari kanan
+
+33
+00:02:12,260 --> 00:02:13,410
+Ini adalah tempat sa
+
+34
+00:02:13,410 --> 00:02:16,500
+Iaitu 6 sa, 5 puluh, 3 ratus
+
+35
+00:02:16,500 --> 00:02:20,190
+Jadi jawapan disini adalah, ia berada dalam tempat 'ratus'

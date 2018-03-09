@@ -1,0 +1,276 @@
+1
+00:00:00,000 --> 00:00:05,371
+Saya fikir yang saya akan lakukan contoh soalan lain yang melibatkan segi tiga. Maka yang pertama ini
+
+2
+00:00:05,371 --> 00:00:13,233
+mengatakan bahawa ukuran sudut terbesar dalam 1 segi tiga ialah 4 kali ukuran sudut yang kedua besar.
+
+3
+00:00:13,233 --> 00:00:20,283
+Sudut yang terkecil adalah 10 darjah. apakah ukuran kesemua sudut? Baik, kita tahu salah satu daripadanya,
+
+4
+00:00:20,283 --> 00:00:22,173
+kita tahu yang ianya 10 darjah.
+
+5
+00:00:22,173 --> 00:00:25,503
+Mari saya lukiskan segi tiga di sini, sekarang katakan yang itu adalah segi tiga kita.
+
+6
+00:00:25,503 --> 00:00:30,260
+Kita tahu yang sudut terkecil adalah 10 darjah dan mari kita anggap yang ini di sini
+
+7
+00:00:30,260 --> 00:00:36,382
+ialah ukuran untuk sudut terkecil. Ianya adalah 10 darjah. Sekarang, mari kita panggil sudut kedua terbesar,
+
+8
+00:00:36,382 --> 00:00:46,349
+mari kita panggil nya x. Jadi ini akan menjadi x. Dan kemudian, ayat pertama mengatakan yang ukuran
+
+9
+00:00:46,349 --> 00:00:51,409
+sudut terbesar dalam segi tiga ialah 4 kali, 4 kali ukuran sudut kedua terbesar.
+
+10
+00:00:51,409 --> 00:00:59,041
+Maka, jika sudut kedua terbesar ialah x, 4 kali ukuran itu ialah 4x. Jadi, sudut terbesar
+
+11
+00:00:59,041 --> 00:01:05,872
+akan menjadi 4x. Dan maka, satu perkara yang kita tahu tentang ukuran sudut dalam segi tiga ialah
+
+12
+00:01:05,872 --> 00:01:20,637
+ianya berjumlah 180 darjah. Jadi kita tahu yang 4x + x + 10 darjah adalah bersamaan dengan 180 darjah.
+
+13
+00:01:20,637 --> 00:01:30,993
+Dan 4x + x, itu adalah 5x. Dan kemudian kita ada 5x + 10 bersamaan dengan 180 darjah. Tolakkan 10 dari
+
+14
+00:01:30,993 --> 00:01:44,540
+kedua-dua belah, kita dapat 5x = 170. Maka x = 170/5. Mari kita lihat, ia akan berulang sebanyak 34 kali.
+
+15
+00:01:44,540 --> 00:01:50,502
+Ya betul, jadi 5 akan berulang sebanyak 34 kali untuk mendapatkan nilai 170.
+
+16
+00:01:50,502 --> 00:01:56,100
+10 akan berulang sebanyak 17 kali, 5 akan berulang sebanyak 34 kali.
+
+17
+00:01:56,100 --> 00:02:05,097
+Jadi kita boleh sahkan itu. 3 darab 5 ialah 15. Tolakkan dan kita dapat 2. Bawa turun 0.
+
+18
+00:02:05,097 --> 00:02:09,822
+5 akan berulang sebanyak 4 kali dalam 20. Jadi 4 darab 5 ialah 20.
+
+19
+00:02:09,822 --> 00:02:13,918
+Tiada baki, jadi ianya adalah 34 kali. x adalah bersamaan dengan 34.
+
+20
+00:02:13,918 --> 00:02:21,696
+Maka sudut kedua terbesar mempunyai ukuran 34 darjah. Sudut di atas ini di sini adalah 4 kali daripada itu.
+
+21
+00:02:21,696 --> 00:02:28,034
+Maka 4 darab 34, ini akan menjadi 120 darjah, tambah 16 darjah. Jadi, ianya akan menjadi...
+
+22
+00:02:28,034 --> 00:02:34,812
+136 darjah. Betul tak? 4 darab 4 ialah 16, 4 darab 30 ialah 120.
+
+23
+00:02:34,812 --> 00:02:37,861
+16 tambah 120 ialah 136 darjah. Dan kita sudah pun selesai.
+
+24
+00:02:37,861 --> 00:02:45,862
+Ketiga-tiga ukuran untuk sudut itu ialah 10 darjah, 34 darjah dan 136 darjah.
+
+25
+00:02:45,862 --> 00:02:47,625
+Mari kita lakukan soalan lain.
+
+26
+00:02:47,625 --> 00:02:50,743
+Baik, kita ada sedikit lukisan di sini.
+
+27
+00:02:50,743 --> 00:02:54,110
+Dan apa yang saya mahu lakukan ialah, kita boleh fikirkan tentang perkara yang berbeza.
+
+28
+00:02:54,110 --> 00:02:59,310
+Kita boleh katakan, mari cari nilai x. Saya menganggap bahawa 4x ialah ukuran untuk sudut ini.
+
+29
+00:02:59,310 --> 00:03:02,374
+2x ialah ukuran untuk sudut itu di situ.
+
+30
+00:03:02,374 --> 00:03:08,505
+Kita boleh tentukan nilai x dan jika kita tahu nilai x, kita boleh tentukan ukuran sebenar sudut-sudut ini.
+
+31
+00:03:08,505 --> 00:03:13,759
+Dan perkara lain yang diberitahu kepada kita ialah garisan ini di sini adalah selari dengan garisan ini.
+
+32
+00:03:13,759 --> 00:03:19,016
+Dan ianya dilukis dengan cermat kerana ianya adalah selari tetapi satu garis berhenti di sini dan satu lagi bersambung di atas.
+
+33
+00:03:19,016 --> 00:03:22,616
+Jadi perkara pertama yang saya mahu buat..jika kedua-dua garisan ini adalah selari,
+
+34
+00:03:22,616 --> 00:03:25,851
+berkemungkinan besar ia akan melibatkan sesuatu seperti garis rentas lintang.
+
+35
+00:03:25,851 --> 00:03:29,018
+Ia mungkin melibatkan sesuatu seperti itu atau pilihan lainnya melibatkan segi tiga.
+
+36
+00:03:29,018 --> 00:03:32,966
+Dan pada mulanya, anda mungkin berkata, tunggu, adakah sudut-sudut ini bertentangan?
+
+37
+00:03:32,966 --> 00:03:35,939
+Dan kita perlu berhati-hati. Ianya bukan. Ia bukan garisan yang sama.
+
+38
+00:03:35,939 --> 00:03:42,519
+Garis ini selari dengan garis itu. Garis ini membengkok sedikit di situ.
+
+39
+00:03:42,519 --> 00:03:44,262
+Jadi kita tidak mampu untuk membuat anggapan sebegitu rupa.
+
+40
+00:03:44,262 --> 00:03:48,796
+Jadi, perkara yang menarik..dan saya tidak pasti sama ada ini membawa kita ke arah yang betul...
+
+41
+00:03:48,796 --> 00:03:52,600
+ialah untuk kita jelas bahawa kedua-dua ini adalah bahagian garisan selari.
+
+42
+00:03:52,600 --> 00:03:57,739
+Jadi saya boleh sambungkan garis ini ke bawah macam ni. Dan sambung garis ke atas macam itu.
+
+43
+00:03:57,739 --> 00:04:02,130
+Dan kemudian ini mula nampak seperti apa yang kita biasa lihat apabila berdepan dengan garis selari.
+
+44
+00:04:02,130 --> 00:04:07,562
+Dan kemudian, segmen garisan BC ini atau kita boleh katakan garis BC jika kita terus sambungkannya,
+
+45
+00:04:07,562 --> 00:04:11,840
+jika kita terus sambungkannya sehingga melepasi D.
+
+46
+00:04:11,840 --> 00:04:16,901
+Maka ini dengan jelasnya adalah garis rentas lintang kepada 2 garis selari itu.
+
+47
+00:04:16,901 --> 00:04:22,470
+Dan jika sudut ini di sini, jika sudut ini ialah 4x,
+
+48
+00:04:22,470 --> 00:04:27,838
+ia mempunyai sudut sepadan. Separuh daripada...atau mungkin hampir kesemua kerja di sini
+
+49
+00:04:27,838 --> 00:04:34,792
+adalah untuk melihat garis selari dan garis rentas lintang dan perkara lain yang berguna untuk kita.
+
+50
+00:04:34,792 --> 00:04:36,746
+Jadi ini di sini ialah garis rentas lintang.
+
+51
+00:04:36,746 --> 00:04:41,444
+Ini adalah garis selari, itu adalah satu garis selari, ini pula satu lagi garis selari.
+
+52
+00:04:41,444 --> 00:04:43,934
+
+53
+00:04:43,934 --> 00:04:52,294
+Maka, jika sudut ini di sini ialah 4x, ia mempunyai sudut sepadan di mana garis rentas 
+lintang bertemu dengan garis selari yang lain.
+
+54
+00:04:52,294 --> 00:04:55,819
+Ini di sini ialah sudut sepadannya.
+
+55
+00:04:55,819 --> 00:04:58,301
+Jadi mari saya lukiskannya dengan warna kuning yang sama.
+
+56
+00:04:58,301 --> 00:05:00,446
+Jadi ini di sini ialah sudut sepadan.
+
+57
+00:05:00,446 --> 00:05:04,323
+Jadi ini juga akan menjadi, ia akan menjadi 4x.
+
+58
+00:05:04,323 --> 00:05:09,861
+Dan kita lihat yang sudut ini dan sudut yang ini, sudut ini mempunyai ukuran 4x.
+
+59
+00:05:09,861 --> 00:05:13,791
+Sudut ini mempunyai ukuran 2x. Kita boleh lihat yang ianya sudut penggenap.
+
+60
+00:05:13,791 --> 00:05:18,609
+Mereka adalah bersebelahan dengan satu sama lain. Sisi luarnya membentuk sudut lurus.
+
+61
+00:05:18,609 --> 00:05:21,758
+Jadi ianya adalah sudut penggenap yang bermaksud jumlah ukuran mereka adalah 180 darjah.
+
+62
+00:05:21,758 --> 00:05:26,905
+Mereka akan merangkumi sepanjang itu, jika kita tambah kedua-dua sudut bersebelahan.
+
+63
+00:05:26,905 --> 00:05:33,147
+Jadi, kita tahu yang 4x + 2x akan menjadi bersamaan dengan 180 darjah.
+
+64
+00:05:33,147 --> 00:05:36,422
+Atau kita dapat 6x adalah bersamaan dengan 180 darjah.
+
+65
+00:05:36,422 --> 00:05:40,629
+Bahagikan kedua-dua belah dengan 6, kita dapat x adalah bersamaan dengan 30.
+
+66
+00:05:40,629 --> 00:05:48,957
+Dan sudut ini di sini ialah 2 darab x, maka ianya adalah 60 darjah.
+
+67
+00:05:48,957 --> 00:05:52,914
+Maka sudut ini di sini akan menjadi 60 darjah.
+
+68
+00:05:52,914 --> 00:06:02,811
+Dan sudut ini di sini ialah 4 darab x. Maka ianya adalah 120 darjah.
+
+69
+00:06:02,811 --> 00:06:05,000
+Dan kita sudah selesai.
+

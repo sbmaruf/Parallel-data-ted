@@ -1,0 +1,727 @@
+1
+00:00:01,020 --> 00:00:01,990
+Selamat kembali
+
+2
+00:00:01,990 --> 00:00:06,130
+Kita hampir selesai belajar semua peraturan sudut
+
+3
+00:00:06,130 --> 00:00:09,420
+yang kita perlukan untuk mula bermain permainan sudut
+
+4
+00:00:09,420 --> 00:00:11,550
+Jadi mari saya ajar anda sedikit lagi
+
+5
+00:00:11,550 --> 00:00:15,200
+Jadi mari katakan saya ada dua garis selari, dan anda mungkin tidak tahu
+
+6
+00:00:15,200 --> 00:00:17,700
+apa itu garis selari dan saya akan terangkan
+
+7
+00:00:17,700 --> 00:00:18,850
+ia pada anda sekarang
+
+8
+00:00:18,850 --> 00:00:23,570
+Jadi saya ada satu garis seperti ini, anda mungkin ada gerak hati
+
+9
+00:00:23,570 --> 00:00:26,330
+apa maksud garis selari
+
+10
+00:00:26,330 --> 00:00:29,140
+Itu adalah satu daripada saya punya garis selari, dan mari saya buat
+
+11
+00:00:29,140 --> 00:00:32,540
+yang hijau ini garis selari yang lain
+
+12
+00:00:32,540 --> 00:00:34,910
+Jadi garis selari, dan saya hanya lukis sebahagian daripadanya
+
+13
+00:00:34,910 --> 00:00:37,320
+Kita andaikan yang mereka terus selamanya kerana ini adalah
+
+14
+00:00:37,320 --> 00:00:42,080
+tanggapan ringkas, garis biru cerah ini akan terus menerus
+
+15
+00:00:42,080 --> 00:00:44,880
+melepasi skrin dan perkara yang sama untuk garis hijau
+
+16
+00:00:44,880 --> 00:00:47,930
+Dan garis selari adalah dua garis dalam satah yang sama
+
+17
+00:00:47,930 --> 00:00:50,310
+Dan satu satah adalah yang boleh anda gunakan seperti
+
+18
+00:00:50,310 --> 00:00:53,270
+satu permukaan rata ialah satah
+
+19
+00:00:53,270 --> 00:00:56,630
+Kita tidak akan pergi ke ruang tiga dimensi
+
+20
+00:00:56,630 --> 00:00:58,450
+dalam kelas geometri
+
+21
+00:00:58,450 --> 00:01:00,990
+Tapi mereka adalah pada satah yang sama dan anda boleh lihat satah ini sebagai
+
+22
+00:01:00,990 --> 00:01:03,130
+skrin komputer anda sekarang atau sehelai kertas
+
+23
+00:01:03,130 --> 00:01:05,610
+yang tidak mungkin akan bersilang antara satu sama lain dan
+
+24
+00:01:05,610 --> 00:01:06,960
+mereka adalah dua garisan yang terpisah
+
+25
+00:01:06,960 --> 00:01:09,620
+Jelas jika mereka dilukis atas antara satu sama lain barulah
+
+26
+00:01:09,620 --> 00:01:11,410
+mereka bersilang antara satu sama lain di mana-mana
+
+27
+00:01:11,410 --> 00:01:13,500
+Jadi ia hanya dua garis pada satah yang tidak mungkin
+
+28
+00:01:13,500 --> 00:01:14,640
+bersilang antara satu sama lain
+
+29
+00:01:14,640 --> 00:01:15,840
+Itulah garis selari
+
+30
+00:01:15,840 --> 00:01:18,210
+Jika anda telah belajar algebra dan anda biasa
+
+31
+00:01:18,210 --> 00:01:21,190
+dengan kecerunan, garis selari adala dua garis yang mempunyai
+
+32
+00:01:21,190 --> 00:01:22,430
+kecerunan yang sama, kan ?
+
+33
+00:01:22,430 --> 00:01:26,160
+Mereka seperti menaik atau menurun pada kadar yang sama
+
+34
+00:01:26,160 --> 00:01:27,540
+Tapi mereka mempunyai pintasan y yang berbeza
+
+35
+00:01:27,540 --> 00:01:28,800
+Jika anda tidak tahu apa yang saya katakan
+
+36
+00:01:28,800 --> 00:01:29,510
+jangan risau tentang itu
+
+37
+00:01:29,510 --> 00:01:31,670
+Saya rasa anda tahu apa maksud garis selari
+
+38
+00:01:31,670 --> 00:01:33,840
+Anda telah lihat ini, ruang letak selari, apa itu ruang letak selari
+
+39
+00:01:33,840 --> 00:01:37,080
+ialah apabila anda meletakkan kereta bersebelahan dengan kereta yang lain
+
+40
+00:01:37,080 --> 00:01:39,970
+tanpa ada persilangan dua kereta, kerana jika kereta tersebut
+
+41
+00:01:39,970 --> 00:01:42,690
+bersilang anda harus telefon syarikat insuran anda
+
+42
+00:01:42,690 --> 00:01:44,710
+Tapi sebenarnya, itu adalah garis selari
+
+43
+00:01:44,710 --> 00:01:48,440
+Garis biru dan garis hijau adalah selari
+
+44
+00:01:48,440 --> 00:01:51,210
+Dan saya akan perkenalkan anda geometri baru yang rumit
+
+45
+00:01:51,210 --> 00:01:54,050
+yang dipanggil pelintang
+
+46
+00:01:54,050 --> 00:01:58,800
+Semua pelintang ialah garis lain yang
+
+47
+00:01:58,800 --> 00:02:01,940
+bersilang kedua-dua garisan
+
+48
+00:02:01,940 --> 00:02:03,320
+Itulah pelintang
+
+49
+00:02:03,320 --> 00:02:07,310
+Perkataan istimewa untuk sesuatu yang sangat ringkas, pelintang
+
+50
+00:02:07,310 --> 00:02:10,370
+Biar saya tulis sesuatu disini
+
+51
+00:02:10,370 --> 00:02:10,745
+Pelintang
+
+52
+00:02:10,745 --> 00:02:18,690
+54 00:02:18,69 --> 00:02:23,51 ia melintasi dua garisan
+
+53
+00:02:23,510 --> 00:02:25,640
+Saya fikirkan tentang pneumonik untuk pelintang, tapi saya
+
+54
+00:02:25,640 --> 00:02:27,390
+sebenarnya fikirkan benda yang tidak sepatutnya
+
+55
+00:02:27,390 --> 00:02:31,710
+58 00:02:31,71 --> 00:02:33,81 Diteruskan dengan geometri
+
+56
+00:02:33,810 --> 00:02:36,710
+Jadi kita ada satu pelintang yang menyilangkan
+
+57
+00:02:36,710 --> 00:02:38,660
+dua garis selari
+
+58
+00:02:38,660 --> 00:02:40,910
+Apa yang harus kita lakukan ialah fikir tentang sekumpulan -- dan sebenarnya
+
+59
+00:02:40,910 --> 00:02:42,060
+jika ia bersilang dengan satu daripadanya ia akan
+
+60
+00:02:42,060 --> 00:02:43,320
+bersilang dengan yang lain
+
+61
+00:02:43,320 --> 00:02:44,380
+Saya akan biarkan anda fikir tentang itu
+
+62
+00:02:44,380 --> 00:02:46,940
+Tidak akan ada cara yang saya boleh lukis sesuatu yang bersilang pada satu
+
+63
+00:02:46,940 --> 00:02:49,750
+garis selari yang tidak akan bersilang dengan yang lain, selagi
+
+64
+00:02:49,750 --> 00:02:51,800
+garis ini terus menerus
+
+65
+00:02:51,800 --> 00:02:53,790
+Saya fikir itu mungkin akan lebih jelas pada anda
+
+66
+00:02:53,790 --> 00:02:56,690
+Tapi apa yang saya ingin buat adalah memeriksa sudut
+
+67
+00:02:56,690 --> 00:02:58,640
+bagi satu pelintang
+
+68
+00:02:58,640 --> 00:03:03,180
+Jadi perkara pertama yang saya akan buat ialah memeriksa
+
+69
+00:03:03,180 --> 00:03:05,490
+sudut yang sama
+
+70
+00:03:05,490 --> 00:03:08,500
+Jadi mari katakan sudut yang sama adalah seperti
+
+71
+00:03:08,500 --> 00:03:10,890
+sudut sama pada setiap garis selari
+
+72
+00:03:17,240 --> 00:03:20,260
+sudut yang sama
+
+73
+00:03:20,260 --> 00:03:22,890
+Mereka seperti memainkan peranan yang sama dimana pelintang
+
+74
+00:03:22,890 --> 00:03:24,830
+bersilang dengan setiap garisan ini
+
+75
+00:03:24,830 --> 00:03:28,820
+Seperti yang anda boleh bayangkan, dan seperti yang ia lihat daripada lukisan saya yang kemas
+
+76
+00:03:28,820 --> 00:03:31,390
+saya memang tidak bagus dalam ini -- ini akan
+
+77
+00:03:31,390 --> 00:03:32,780
+jadi bersamaan dengan satu sama lain
+
+78
+00:03:32,780 --> 00:03:38,500
+Jadi jika ini adalah x, ini juga akan jadi x
+
+79
+00:03:38,500 --> 00:03:42,500
+Jika kita tahu itu barulah kita boleh gunakan, sebenarnya peraturan yang kita
+
+80
+00:03:42,500 --> 00:03:44,510
+baru belajar untuk tahu semua tentang
+
+81
+00:03:44,510 --> 00:03:46,390
+kesemua garisan
+
+82
+00:03:46,390 --> 00:03:51,740
+Kerana jika ini ialah x kemudian apa akan jadi disini ?
+
+83
+00:03:51,740 --> 00:03:55,260
+Apakah garisan ini akan jadi dalam warna merah tua ?
+
+84
+00:03:55,260 --> 00:03:58,970
+90 00:03:58,97 --> 00:04:00,99 Jadi, ini adalah sudut bertentangan, bukan ?
+
+85
+00:04:00,990 --> 00:04:02,785
+Mereka berada di sisi yang bertentangan daripada garisan lintas
+
+86
+00:04:02,785 --> 00:04:03,810
+jadi ini juga ialah x
+
+87
+00:04:03,810 --> 00:04:06,940
+94 00:04:06,94 --> 00:04:08,41 Dan sama juga kita boleh buat disini
+
+88
+00:04:08,410 --> 00:04:12,030
+Ini ialah sudut bertentangan bagi sudut ini, jadi ini juga ialah x
+
+89
+00:04:12,030 --> 00:04:18,580
+97 00:04:18,58 --> 00:04:21,01 Biar saya pilih satu warna yang bagus
+
+90
+00:04:21,010 --> 00:04:23,520
+Bagaimana dengan kuning ?
+
+91
+00:04:23,520 --> 00:04:26,180
+Apakah akan jadi pada sudut ini ?
+
+92
+00:04:26,180 --> 00:04:27,310
+Seperti yang kita lakukan sebelum ini
+
+93
+00:04:27,310 --> 00:04:30,090
+Lihat, kita ada sudut besar disini, bukan ?
+
+94
+00:04:30,090 --> 00:04:33,910
+Sudut ini, keseluruhan sudut ini ialah 180 darjah
+
+95
+00:04:33,910 --> 00:04:38,860
+Jadi x dan sudut kuning ini adalah tambahan, jadi kita boleh panggil
+
+96
+00:04:49,300 --> 00:04:53,260
+jika sudut ini ialah y, maka sudut ini adalah bertentangan dengan y
+
+97
+00:04:53,260 --> 00:04:57,100
+Jadi sudut ini juga adalah y. Menarik bukan.
+
+98
+00:04:57,100 --> 00:04:58,560
+...
+
+99
+00:04:58,560 --> 00:05:03,220
+Dan sama juga, jika kita ada x disini dan x ialah tambahan bagi
+
+100
+00:05:03,220 --> 00:05:05,920
+sudut ini juga, bukan ?
+
+101
+00:05:05,920 --> 00:05:10,600
+Jadi ini bersamaan dengan 180 tolak x dimana ia juga bersamaan dengan y
+
+102
+00:05:10,600 --> 00:05:15,330
+Dan kemudian sudut bertentangan, ini juga bersamaan dengan y
+
+103
+00:05:15,330 --> 00:05:19,170
+Jadi semua jenis perkataan geometri dan peraturan yang
+
+104
+00:05:19,170 --> 00:05:21,170
+sebegini, dan saya akan tunjukkan mereka dengan pantas tapi
+
+105
+00:05:21,170 --> 00:05:22,090
+ia bukan benar-benar rumit
+
+106
+00:05:22,090 --> 00:05:23,850
+Semua yang saya buat ialah memulakan dengan tanggapan
+
+107
+00:05:23,850 --> 00:05:24,850
+sudut yang sama
+
+108
+00:05:24,850 --> 00:05:28,320
+Saya katakan dengan baik, x ini bersamaan dengan x ini
+
+109
+00:05:28,320 --> 00:05:32,350
+Saya cakap jika mereka sama dengan satu sama lain, bukannya jika
+
+110
+00:05:32,350 --> 00:05:34,810
+Saya maksudkan jika ini ialah x dan ini juga ialah x sebab
+
+111
+00:05:34,810 --> 00:05:37,590
+mereka bertentangan, dan perkara yang sama untuk ini
+
+112
+00:05:37,590 --> 00:05:40,260
+Kemudian, jika ini ialah x dan ini ialah x dan mereka bersamaan dengan
+
+113
+00:05:40,260 --> 00:05:42,750
+satu sama lain, seperti mana mereka sepatutnya kerana
+
+114
+00:05:42,750 --> 00:05:44,750
+mereka juga adalah sudut yang sama
+
+115
+00:05:44,750 --> 00:05:48,310
+Kedua-dua sudut merah tua ini memainkan peranan yang sama
+
+116
+00:05:48,310 --> 00:05:50,270
+Kedua-duanya seperti sudut bawah kiri
+
+117
+00:05:50,270 --> 00:05:51,970
+Begitulah bagaimana saya fikirkan tentangnya
+
+118
+00:05:51,970 --> 00:05:54,420
+Kita gunakan sudut tambahan untuk memperoleh dengan bagus,
+
+119
+00:05:54,420 --> 00:05:56,820
+sudut y ini juga adalah sama
+
+120
+00:06:00,290 --> 00:06:02,270
+Sudut y ini adalah bersamaan dengan sudut y ini kerana ia berkaitan
+
+121
+00:06:02,270 --> 00:06:03,660
+...
+
+122
+00:06:03,660 --> 00:06:06,800
+Jadi sudut yang sama adalah sama antara satu sama lain
+
+123
+00:06:06,800 --> 00:06:09,820
+Ia masuk akal, mereka seperti bermain peranan yang sama
+
+124
+00:06:09,820 --> 00:06:12,270
+Yang bawah kanan, jika anda lihat pada sudut bawah kanan
+
+125
+00:06:12,270 --> 00:06:14,020
+Jadi sudut yang sama adalah sama
+
+126
+00:06:14,020 --> 00:06:22,870
+139 00:06:22,87 --> 00:06:25,13 Itu merupakan singkatan bagi tanggapan saya
+
+127
+00:06:25,130 --> 00:06:27,360
+Dan kita baru sahaja memperoleh kesemuanya
+
+128
+00:06:27,360 --> 00:06:28,650
+Itu sahaja yang anda perlu tahu
+
+129
+00:06:28,650 --> 00:06:31,040
+Tapi jika anda ingin untuk melangkau satu langkah, anda harus tahu
+
+130
+00:06:31,040 --> 00:06:46,530
+pengganti sudut dalaman adalah sama
+
+131
+00:06:46,530 --> 00:06:50,320
+Jadi apa yang saya maksudkan dengan pengganti sudut dalaman ?
+
+132
+00:06:50,320 --> 00:06:53,980
+Sebenarnya, sudut dalaman adalah seperti sudut yang
+
+133
+00:06:53,980 --> 00:06:57,560
+dekat antara satu sama lain dalam dua garis selari, tapi mereka terletak pada
+
+134
+00:06:57,560 --> 00:06:59,410
+sisi bertentangan pada pelintang
+
+135
+00:06:59,410 --> 00:07:01,850
+Itu merupakan cara yang sangat rumit untuk menerangkan sudut oren ini dan
+
+136
+00:07:01,850 --> 00:07:03,300
+sudut merah tua ini disini
+
+137
+00:07:03,300 --> 00:07:05,760
+Ini merupakan sudut dalaman berselang-seli, dan kita telah pun
+
+138
+00:07:05,760 --> 00:07:08,630
+buktikan jika ini adalah x maka itu adalah x
+
+139
+00:07:08,630 --> 00:07:11,420
+Jadi ini adalah sudut dalaman berselang-seli
+
+140
+00:07:11,420 --> 00:07:17,570
+x ini dan kemudia x itu adalah selang-seli dalaman
+
+141
+00:07:17,570 --> 00:07:22,220
+Dan sebenarnya y ini dan y ini juga adalah selang-selidalaman
+
+142
+00:07:22,220 --> 00:07:24,120
+dan kita telah buktikan yang mereka sama antara satu sama lain
+
+143
+00:07:24,120 --> 00:07:29,520
+Kemudian istilah terakhir yang anda akan lihat dalam geometri ialah selang-seli
+
+144
+00:07:29,520 --> 00:07:31,360
+Saya tidak akan tulis kesemuanya -- sudut luaran berselang-seli
+
+145
+00:07:31,360 --> 00:07:33,800
+...
+
+146
+00:07:33,800 --> 00:07:37,760
+Sudut luaran berselang-seli juga adalah sama
+
+147
+00:07:37,760 --> 00:07:40,970
+Yang mana sudut pada yang jauh daripada satu sama lain
+
+148
+00:07:40,970 --> 00:07:43,270
+pada garis selari, tapi mereka masih berselang-seli
+
+149
+00:07:43,270 --> 00:07:48,790
+Jadi sebagai contoh, x diatas ini dan x dibawah ini
+
+150
+00:07:48,790 --> 00:07:53,540
+ya, kerana mereka berada di luar daripada dua pelintang selari
+
+151
+00:07:58,470 --> 00:07:59,680
+..
+
+152
+00:07:59,680 --> 00:08:01,720
+Ia hanyalah perkataan yang rumit, tapi saya berharap anda ada gerak hati
+
+153
+00:08:01,720 --> 00:08:03,770
+...
+
+154
+00:08:03,770 --> 00:08:06,410
+Mengaitkan satu sudut sangat masuk akal bagi saya
+
+155
+00:08:06,410 --> 00:08:09,180
+Kemudian semuanya akan terbukti melalui sudut bertentangan
+
+156
+00:08:09,180 --> 00:08:10,450
+dan sudut tambahan
+
+157
+00:08:10,450 --> 00:08:18,150
+Tapi sudut luaran berselang-seli ialah sudut itu dan sudut itu
+
+158
+00:08:18,150 --> 00:08:22,880
+Kemudian sudut luaran berselang-seli yang lain ialah y ini dan y ini
+
+159
+00:08:22,880 --> 00:08:23,870
+Mereka adalah sama
+
+160
+00:08:23,870 --> 00:08:27,150
+Jadi jika anda tahu ini, anda telah tahu agak banyak tentang segalanya yang anda perlukan
+
+161
+00:08:27,150 --> 00:08:29,190
+untuk tahu tentang garis selari
+
+162
+00:08:29,190 --> 00:08:32,300
+Perkara terakhir saya akan ajar anda untuk bermain dengan permainan geometri
+
+163
+00:08:32,300 --> 00:08:35,780
+dengan daya penuh ialah dengan menambahkan kesemua
+
+164
+00:08:35,780 --> 00:08:38,140
+sudut dalam segi tiga menjadi 180 darjah
+
+165
+00:08:38,140 --> 00:08:41,770
+181 00:08:41,77 --> 00:08:45,58 Jadi biar saya lukis sebuah segi tiga,
+
+166
+00:08:45,580 --> 00:08:48,580
+segi tiga biasa
+
+167
+00:08:48,580 --> 00:08:51,300
+Itulah segi tiga biasa saya
+
+168
+00:08:51,300 --> 00:08:57,690
+Dan jika ini ialah x, ini ialah y, dan ini ialah z
+
+169
+00:08:57,690 --> 00:09:01,380
+Kita tahu yang sudut-sudut bagi sebuah segi tiga -- x darjah tambah
+
+170
+00:09:01,380 --> 00:09:06,910
+y darjah tambah z darjah bersamaan dengan 180 darjah
+
+171
+00:09:06,910 --> 00:09:09,580
+Jadi jika saya kata yang ini bersamaan dengan, tidak tahu,
+
+172
+00:09:09,580 --> 00:09:15,240
+30 darjah, ini bersamaan dengan, tidak tahu, 70 degree
+
+173
+00:09:15,240 --> 00:09:16,170
+Jadi z bersamaan dengan apa ?
+
+174
+00:09:16,170 --> 00:09:23,650
+Baiklah, kita boleh katakan 30 tambah 70 tambah z bersamaan dengan 180,
+
+175
+00:09:23,650 --> 00:09:27,740
+atau 100 tambah z bersamaan dengan 180
+
+176
+00:09:27,740 --> 00:09:29,150
+Tolak 100 daripada kedua sisi
+
+177
+00:09:29,150 --> 00:09:33,480
+z akan jadi bersamaan dengan 80 darjah
+
+178
+00:09:33,480 --> 00:09:36,150
+Kita akan lihat kepelbagaian ini dimana anda dapat dua daripada sudut
+
+179
+00:09:36,150 --> 00:09:39,250
+dan anda boleh guna sifat ini untuk mencari yang ketiga
+
+180
+00:09:39,250 --> 00:09:41,450
+Dengan semua yang kita telah belajar, saya fikir kita
+
+181
+00:09:41,450 --> 00:09:45,290
+telah bersedia untuk berasa mudah dengan permainan sudut
+
+182
+00:09:45,290 --> 00:09:47,510
+Jumpa anda di video berikutnya.

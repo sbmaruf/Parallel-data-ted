@@ -1,0 +1,75 @@
+1
+00:00:00,041 --> 00:00:03,189
+Kami memulakan Universal Subtitles kerana kami percaya
+
+2
+00:00:03,189 --> 00:00:06,753
+setiap video di internet sepatutnya bersari kata.
+
+3
+00:00:06,753 --> 00:00:11,171
+Berjuta penonton yang pekak dan mempunyai masalah pendengaran memerlukan sari kata untuk capaian video.
+
+4
+00:00:11,171 --> 00:00:15,406
+Pembikin video dan laman web perlu mengambil berat tentang perkara ini juga.
+
+5
+00:00:15,406 --> 00:00:20,744
+Sari kata memberikan mereka capaian kepada lebih banyak penonton dan mereka juga mendapat kedudukan carian lebih baik.
+
+6
+00:00:20,744 --> 00:00:26,936
+Universal Subtitles menjadikan ia sangat mudah untuk meletakkan sari kata pada hampir setiap video.
+
+7
+00:00:26,936 --> 00:00:32,440
+Gunakan video sedia ada dari internet, hantar URL itu ke laman web kami
+
+8
+00:00:32,440 --> 00:00:37,375
+dan kemudian taip bersama dengan dialog untuk mencipta sari kata
+
+9
+00:00:38,759 --> 00:00:43,650
+Selepas itu, tekan papan kekunci untuk selarikan ia dengan video tersebut.
+
+10
+00:00:44,712 --> 00:00:47,530
+Selesai - kami akan memberi anda kod untuk video itu
+
+11
+00:00:47,530 --> 00:00:49,893
+yang boleh diletakkan pada sebarang laman web
+
+12
+00:00:49,893 --> 00:00:53,421
+pada masa itu, penonton dapat menggunakan sari kata dan juga
+
+13
+00:00:53,421 --> 00:00:56,041
+menyumbang untuk penterjemahan.
+
+14
+00:00:56,041 --> 00:01:01,546
+Kami menyokong video dari YouTube, Blip.TV, Ustream, dan pelbagai lagi.
+
+15
+00:01:01,546 --> 00:01:05,109
+Tambahan lagi kami meletakkan lebih banyak perkhidmatan dari semasa ke semasa
+
+16
+00:01:05,109 --> 00:01:09,050
+Universal Subtitles berfungsi dengan banyak format video yang popular,
+
+17
+00:01:09,050 --> 00:01:14,355
+seperti MP4, theora, webM dan pada HTML 5.
+
+18
+00:01:14,355 --> 00:01:19,614
+Impian kami adalah agar setiap video di internet akan bersari kata supaya sesiapa yang mengambil berat tentang
+
+19
+00:01:19,614 --> 00:01:23,311
+video tersebut dapat membantu jadikan ia lebih mudah dicapai.
