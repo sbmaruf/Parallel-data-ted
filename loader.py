@@ -36,7 +36,8 @@ def extract_line(File, file_name):
         words = line.strip().split()
         n_w = len(words)
         if state == 2 :
-            tmp_line = tmp_line + line
+            tmp_line = tmp_line + line.strip()
+        #print(line.strip(), state, n_w, tmp_line, idx)
         if n_w == 3 and isOk(words) and state == 1:
             state = state+1
             idx = words[0]+"+"+words[2]
@@ -56,7 +57,8 @@ def extract_line(File, file_name):
         state = state % 3
     if idx not in dict:
         dict[idx] = tmp_line
-    if len(dict) != line_no :
+        line_no = line_no+1
+    if len(dict)+1 != line_no :
         if debug :
             print("File name :", file_name)
             print("Total line in the Dictionary :",len(dict))
@@ -90,8 +92,7 @@ for file_name in objects:
             dict_time_stamp_lang1 = extract_line(lang1_file, file_name)
             dict_time_stamp_lang2 = extract_line(lang2_file, lang2+"."+video_hash+ext)
             if abs(len(dict_time_stamp_lang1)-len(dict_time_stamp_lang2))>159:
-                print("Warning : Number of line is not same for", file_name, " and ", lang2+"."+video_hash+ext)
-                print(len(dict_time_stamp_lang1),len(dict_time_stamp_lang2))
+                print("Warning : Number of line is not same for", file_name, "("+str(len(dict_time_stamp_lang1))+")",  " and ", lang2+"."+video_hash+ext, "("+str(len(dict_time_stamp_lang2))+")")
                 input("Enter to continue")                   
                 err_cnt[abs(len(dict_time_stamp_lang1)-len(dict_time_stamp_lang2))]=err_cnt[abs(len(dict_time_stamp_lang1)-len(dict_time_stamp_lang2))]+1
                 cnt = cnt + 1 
