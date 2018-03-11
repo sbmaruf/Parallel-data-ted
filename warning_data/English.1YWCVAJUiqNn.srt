@@ -1,0 +1,5660 @@
+1
+00:00:02,730 --> 00:00:05,390
+THE ADVENTURES OF SHERLOCK HOLMES by
+
+2
+00:00:05,390 --> 00:00:07,720
+SIR ARTHUR CONAN DOYLE
+
+3
+00:00:07,720 --> 00:00:09,120
+ADVENTURE I.
+
+4
+00:00:09,120 --> 00:00:10,630
+A SCANDAL IN BOHEMIA
+
+5
+00:00:10,629 --> 00:00:14,169
+I.
+
+6
+00:00:14,170 --> 00:00:17,630
+To Sherlock Holmes she is always THE woman.
+
+7
+00:00:17,630 --> 00:00:19,750
+I have seldom heard him mention her under
+
+8
+00:00:19,750 --> 00:00:21,540
+any other name.
+
+9
+00:00:21,539 --> 00:00:24,109
+In his eyes she eclipses and predominates
+
+10
+00:00:24,109 --> 00:00:26,089
+the whole of her sex.
+
+11
+00:00:26,089 --> 00:00:28,599
+It was not that he felt any emotion akin to
+
+12
+00:00:28,599 --> 00:00:30,179
+love for Irene Adler.
+
+13
+00:00:31,150 --> 00:00:34,060
+All emotions, and that one particularly,
+
+14
+00:00:34,060 --> 00:00:37,040
+were abhorrent to his cold, precise but
+
+15
+00:00:37,039 --> 00:00:38,439
+admirably balanced mind.
+
+16
+00:00:39,190 --> 00:00:41,270
+He was, I take it, the most perfect
+
+17
+00:00:41,270 --> 00:00:43,220
+reasoning and observing machine that the
+
+18
+00:00:43,219 --> 00:00:46,459
+world has seen, but as a lover he would
+
+19
+00:00:46,460 --> 00:00:48,540
+have placed himself in a false position.
+
+20
+00:00:49,300 --> 00:00:51,920
+He never spoke of the softer passions, save
+
+21
+00:00:51,920 --> 00:00:54,150
+with a gibe and a sneer.
+
+22
+00:00:54,149 --> 00:00:56,049
+They were admirable things for the
+
+23
+00:00:56,050 --> 00:00:58,250
+observer--excellent for drawing the veil
+
+24
+00:00:58,250 --> 00:01:00,530
+from men's motives and actions.
+
+25
+00:01:00,530 --> 00:01:02,730
+But for the trained reasoner to admit such
+
+26
+00:01:02,730 --> 00:01:05,530
+intrusions into his own delicate and finely
+
+27
+00:01:05,530 --> 00:01:08,270
+adjusted temperament was to introduce a
+
+28
+00:01:08,270 --> 00:01:10,680
+distracting factor which might throw a
+
+29
+00:01:10,680 --> 00:01:13,520
+doubt upon all his mental results.
+
+30
+00:01:13,520 --> 00:01:16,270
+Grit in a sensitive instrument, or a crack
+
+31
+00:01:16,270 --> 00:01:19,050
+in one of his own high-power lenses, would
+
+32
+00:01:19,050 --> 00:01:20,940
+not be more disturbing than a strong
+
+33
+00:01:20,940 --> 00:01:22,750
+emotion in a nature such as his.
+
+34
+00:01:23,890 --> 00:01:27,030
+And yet there was but one woman to him, and
+
+35
+00:01:27,030 --> 00:01:29,660
+that woman was the late Irene Adler, of
+
+36
+00:01:29,660 --> 00:01:32,830
+dubious and questionable memory.
+
+37
+00:01:32,830 --> 00:01:34,780
+I had seen little of Holmes lately.
+
+38
+00:01:35,600 --> 00:01:37,860
+My marriage had drifted us away from each
+
+39
+00:01:37,860 --> 00:01:38,110
+other.
+
+40
+00:01:38,750 --> 00:01:40,900
+My own complete happiness, and the home-
+
+41
+00:01:40,900 --> 00:01:43,640
+centred interests which rise up around the
+
+42
+00:01:43,640 --> 00:01:46,150
+man who first finds himself master of his
+
+43
+00:01:46,150 --> 00:01:48,590
+own establishment, were sufficient to
+
+44
+00:01:48,590 --> 00:01:52,240
+absorb all my attention, while Holmes, who
+
+45
+00:01:52,240 --> 00:01:54,490
+loathed every form of society with his
+
+46
+00:01:54,490 --> 00:01:57,420
+whole Bohemian soul, remained in our
+
+47
+00:01:57,420 --> 00:02:00,130
+lodgings in Baker Street, buried among his
+
+48
+00:02:00,130 --> 00:02:02,910
+old books, and alternating from week to
+
+49
+00:02:02,910 --> 00:02:05,920
+week between cocaine and ambition, the
+
+50
+00:02:05,920 --> 00:02:08,200
+drowsiness of the drug, and the fierce
+
+51
+00:02:08,200 --> 00:02:10,060
+energy of his own keen nature.
+
+52
+00:02:11,069 --> 00:02:14,349
+He was still, as ever, deeply attracted by
+
+53
+00:02:14,349 --> 00:02:17,529
+the study of crime, and occupied his
+
+54
+00:02:17,530 --> 00:02:20,590
+immense faculties and extraordinary powers
+
+55
+00:02:20,590 --> 00:02:23,090
+of observation in following out those
+
+56
+00:02:23,090 --> 00:02:25,820
+clues, and clearing up those mysteries
+
+57
+00:02:25,819 --> 00:02:28,079
+which had been abandoned as hopeless by the
+
+58
+00:02:28,079 --> 00:02:28,959
+official police.
+
+59
+00:02:30,310 --> 00:02:32,920
+From time to time I heard some vague
+
+60
+00:02:32,920 --> 00:02:35,490
+account of his doings: of his summons to
+
+61
+00:02:35,489 --> 00:02:38,859
+Odessa in the case of the Trepoff murder,
+
+62
+00:02:38,859 --> 00:02:40,879
+of his clearing up of the singular tragedy
+
+63
+00:02:40,879 --> 00:02:44,389
+of the Atkinson brothers at Trincomalee,
+
+64
+00:02:44,390 --> 00:02:46,520
+and finally of the mission which he had
+
+65
+00:02:46,519 --> 00:02:49,109
+accomplished so delicately and successfully
+
+66
+00:02:49,109 --> 00:02:51,179
+for the reigning family of Holland.
+
+67
+00:02:51,180 --> 00:02:54,100
+Beyond these signs of his activity,
+
+68
+00:02:54,099 --> 00:02:56,589
+however, which I merely shared with all the
+
+69
+00:02:56,590 --> 00:02:59,430
+readers of the daily press, I knew little
+
+70
+00:02:59,430 --> 00:03:01,390
+of my former friend and companion.
+
+71
+00:03:02,439 --> 00:03:04,679
+One night--it was on the twentieth of
+
+72
+00:03:04,680 --> 00:03:08,500
+March, 1888--I was returning from a journey
+
+73
+00:03:08,499 --> 00:03:11,039
+to a patient (for I had now returned to
+
+74
+00:03:11,040 --> 00:03:13,840
+civil practice), when my way led me through
+
+75
+00:03:13,840 --> 00:03:15,240
+Baker Street.
+
+76
+00:03:15,239 --> 00:03:18,219
+As I passed the well-remembered door, which
+
+77
+00:03:18,219 --> 00:03:20,919
+must always be associated in my mind with
+
+78
+00:03:20,920 --> 00:03:23,560
+my wooing, and with the dark incidents of
+
+79
+00:03:23,560 --> 00:03:26,630
+the Study in Scarlet, I was seized with a
+
+80
+00:03:26,629 --> 00:03:29,619
+keen desire to see Holmes again, and to
+
+81
+00:03:29,620 --> 00:03:32,210
+know how he was employing his extraordinary
+
+82
+00:03:32,209 --> 00:03:33,079
+powers.
+
+83
+00:03:33,079 --> 00:03:35,939
+His rooms were brilliantly lit, and, even
+
+84
+00:03:35,939 --> 00:03:39,469
+as I looked up, I saw his tall, spare
+
+85
+00:03:39,469 --> 00:03:41,789
+figure pass twice in a dark silhouette
+
+86
+00:03:41,790 --> 00:03:42,630
+against the blind.
+
+87
+00:03:43,529 --> 00:03:46,569
+He was pacing the room swiftly, eagerly,
+
+88
+00:03:46,569 --> 00:03:49,049
+with his head sunk upon his chest and his
+
+89
+00:03:49,049 --> 00:03:50,579
+hands clasped behind him.
+
+90
+00:03:51,450 --> 00:03:55,050
+To me, who knew his every mood and habit,
+
+91
+00:03:55,049 --> 00:03:57,219
+his attitude and manner told their own
+
+92
+00:03:57,219 --> 00:03:58,309
+story.
+
+93
+00:03:58,310 --> 00:03:59,940
+He was at work again.
+
+94
+00:04:00,870 --> 00:04:03,270
+He had risen out of his drug-created dreams
+
+95
+00:04:03,269 --> 00:04:05,539
+and was hot upon the scent of some new
+
+96
+00:04:05,540 --> 00:04:05,940
+problem.
+
+97
+00:04:06,819 --> 00:04:08,859
+I rang the bell and was shown up to the
+
+98
+00:04:08,859 --> 00:04:11,819
+chamber which had formerly been in part my
+
+99
+00:04:11,819 --> 00:04:12,309
+own.
+
+100
+00:04:12,310 --> 00:04:14,770
+His manner was not effusive.
+
+101
+00:04:14,769 --> 00:04:17,769
+It seldom was; but he was glad, I think, to
+
+102
+00:04:17,769 --> 00:04:18,159
+see me.
+
+103
+00:04:18,419 --> 00:04:21,759
+With hardly a word spoken, but with a
+
+104
+00:04:21,760 --> 00:04:24,440
+kindly eye, he waved me to an armchair,
+
+105
+00:04:24,440 --> 00:04:27,160
+threw across his case of cigars, and
+
+106
+00:04:27,160 --> 00:04:29,980
+indicated a spirit case and a gasogene in
+
+107
+00:04:29,980 --> 00:04:31,310
+the corner.
+
+108
+00:04:31,310 --> 00:04:33,540
+Then he stood before the fire and looked me
+
+109
+00:04:33,540 --> 00:04:38,170
+over in his singular introspective fashion.
+
+110
+00:04:38,170 --> 00:04:40,880
+"Wedlock suits you," he remarked.
+
+111
+00:04:40,880 --> 00:04:43,700
+"I think, Watson, that you have put on
+
+112
+00:04:43,700 --> 00:04:46,890
+seven and a half pounds since I saw you."
+
+113
+00:04:46,890 --> 00:04:47,890
+"Seven!"
+
+114
+00:04:47,890 --> 00:04:49,480
+I answered.
+
+115
+00:04:49,480 --> 00:04:51,390
+"Indeed, I should have thought a little
+
+116
+00:04:51,390 --> 00:04:52,380
+more.
+
+117
+00:04:52,380 --> 00:04:55,190
+Just a trifle more, I fancy, Watson.
+
+118
+00:04:55,190 --> 00:04:58,040
+And in practice again, I observe.
+
+119
+00:04:58,040 --> 00:05:00,350
+You did not tell me that you intended to go
+
+120
+00:05:00,350 --> 00:05:01,890
+into harness."
+
+121
+00:05:01,890 --> 00:05:04,700
+"Then, how do you know?"
+
+122
+00:05:04,700 --> 00:05:07,160
+"I see it, I deduce it.
+
+123
+00:05:07,160 --> 00:05:09,130
+How do I know that you have been getting
+
+124
+00:05:09,130 --> 00:05:11,390
+yourself very wet lately, and that you have
+
+125
+00:05:11,390 --> 00:05:15,440
+a most clumsy and careless servant girl?"
+
+126
+00:05:15,440 --> 00:05:18,690
+"My dear Holmes," said I, "this is too
+
+127
+00:05:18,690 --> 00:05:19,720
+much.
+
+128
+00:05:19,720 --> 00:05:22,420
+You would certainly have been burned, had
+
+129
+00:05:22,420 --> 00:05:23,390
+you lived a few centuries ago.
+
+130
+00:05:24,530 --> 00:05:27,010
+It is true that I had a country walk on
+
+131
+00:05:27,010 --> 00:05:30,310
+Thursday and came home in a dreadful mess,
+
+132
+00:05:30,310 --> 00:05:33,400
+but as I have changed my clothes I can't
+
+133
+00:05:33,400 --> 00:05:34,430
+imagine how you deduce it.
+
+134
+00:05:35,310 --> 00:05:38,470
+As to Mary Jane, she is incorrigible, and
+
+135
+00:05:38,470 --> 00:05:40,720
+my wife has given her notice, but there,
+
+136
+00:05:40,720 --> 00:05:45,440
+again, I fail to see how you work it out."
+
+137
+00:05:45,440 --> 00:05:47,500
+He chuckled to himself and rubbed his long,
+
+138
+00:05:47,500 --> 00:05:50,060
+nervous hands together.
+
+139
+00:05:50,060 --> 00:05:53,400
+"It is simplicity itself," said he; "my
+
+140
+00:05:53,400 --> 00:05:55,670
+eyes tell me that on the inside of your
+
+141
+00:05:55,670 --> 00:05:58,400
+left shoe, just where the firelight strikes
+
+142
+00:05:58,400 --> 00:06:01,660
+it, the leather is scored by six almost
+
+143
+00:06:01,660 --> 00:06:03,320
+parallel cuts.
+
+144
+00:06:03,320 --> 00:06:05,720
+Obviously they have been caused by someone
+
+145
+00:06:05,720 --> 00:06:07,960
+who has very carelessly scraped round the
+
+146
+00:06:07,960 --> 00:06:10,260
+edges of the sole in order to remove
+
+147
+00:06:10,260 --> 00:06:11,450
+crusted mud from it.
+
+148
+00:06:12,280 --> 00:06:14,980
+Hence, you see, my double deduction that
+
+149
+00:06:14,980 --> 00:06:17,760
+you had been out in vile weather, and that
+
+150
+00:06:17,760 --> 00:06:20,210
+you had a particularly malignant boot-
+
+151
+00:06:20,210 --> 00:06:22,650
+slitting specimen of the London slavey.
+
+152
+00:06:23,750 --> 00:06:26,410
+As to your practice, if a gentleman walks
+
+153
+00:06:26,410 --> 00:06:29,620
+into my rooms smelling of iodoform, with a
+
+154
+00:06:29,620 --> 00:06:32,020
+black mark of nitrate of silver upon his
+
+155
+00:06:32,020 --> 00:06:35,380
+right forefinger, and a bulge on the right
+
+156
+00:06:35,380 --> 00:06:37,800
+side of his top-hat to show where he has
+
+157
+00:06:37,800 --> 00:06:40,690
+secreted his stethoscope, I must be dull,
+
+158
+00:06:40,690 --> 00:06:44,620
+indeed, if I do not pronounce him to be an
+
+159
+00:06:44,620 --> 00:06:46,450
+active member of the medical profession."
+
+160
+00:06:48,000 --> 00:06:50,370
+I could not help laughing at the ease with
+
+161
+00:06:50,370 --> 00:06:52,240
+which he explained his process of
+
+162
+00:06:52,240 --> 00:06:52,750
+deduction.
+
+163
+00:06:52,750 --> 00:06:56,970
+"When I hear you give your reasons," I
+
+164
+00:06:56,970 --> 00:06:59,730
+remarked, "the thing always appears to me
+
+165
+00:06:59,730 --> 00:07:02,570
+to be so ridiculously simple that I could
+
+166
+00:07:02,570 --> 00:07:05,570
+easily do it myself, though at each
+
+167
+00:07:05,570 --> 00:07:07,970
+successive instance of your reasoning I am
+
+168
+00:07:07,970 --> 00:07:10,060
+baffled until you explain your process.
+
+169
+00:07:10,060 --> 00:07:12,900
+And yet I believe that my eyes are as good
+
+170
+00:07:12,900 --> 00:07:13,460
+as yours."
+
+171
+00:07:14,520 --> 00:07:16,920
+"Quite so," he answered, lighting a
+
+172
+00:07:16,920 --> 00:07:19,380
+cigarette, and throwing himself down into
+
+173
+00:07:19,380 --> 00:07:21,050
+an armchair.
+
+174
+00:07:21,050 --> 00:07:23,870
+"You see, but you do not observe.
+
+175
+00:07:23,870 --> 00:07:25,670
+The distinction is clear.
+
+176
+00:07:25,670 --> 00:07:28,280
+For example, you have frequently seen the
+
+177
+00:07:28,280 --> 00:07:30,310
+steps which lead up from the hall to this
+
+178
+00:07:30,310 --> 00:07:31,620
+room."
+
+179
+00:07:31,620 --> 00:07:33,280
+"Frequently."
+
+180
+00:07:33,280 --> 00:07:34,940
+"How often?"
+
+181
+00:07:34,940 --> 00:07:38,860
+"Well, some hundreds of times."
+
+182
+00:07:38,860 --> 00:07:41,430
+"Then how many are there?"
+
+183
+00:07:41,430 --> 00:07:42,680
+"How many?
+
+184
+00:07:42,680 --> 00:07:44,700
+I don't know."
+
+185
+00:07:44,700 --> 00:07:46,150
+"Quite so!
+
+186
+00:07:46,150 --> 00:07:47,840
+You have not observed.
+
+187
+00:07:47,840 --> 00:07:49,490
+And yet you have seen.
+
+188
+00:07:49,490 --> 00:07:51,320
+That is just my point.
+
+189
+00:07:51,320 --> 00:07:54,680
+Now, I know that there are seventeen steps,
+
+190
+00:07:54,680 --> 00:07:57,640
+because I have both seen and observed.
+
+191
+00:07:57,640 --> 00:08:00,050
+By-the-way, since you are interested in
+
+192
+00:08:00,050 --> 00:08:02,190
+these little problems, and since you are
+
+193
+00:08:02,190 --> 00:08:04,390
+good enough to chronicle one or two of my
+
+194
+00:08:04,390 --> 00:08:07,480
+trifling experiences, you may be interested
+
+195
+00:08:07,480 --> 00:08:09,650
+in this."
+
+196
+00:08:09,650 --> 00:08:12,020
+He threw over a sheet of thick, pink-tinted
+
+197
+00:08:12,020 --> 00:08:14,180
+note-paper which had been lying open upon
+
+198
+00:08:14,180 --> 00:08:15,620
+the table.
+
+199
+00:08:15,620 --> 00:08:18,810
+"It came by the last post," said he.
+
+200
+00:08:18,810 --> 00:08:21,020
+"Read it aloud."
+
+201
+00:08:21,020 --> 00:08:23,220
+The note was undated, and without either
+
+202
+00:08:23,220 --> 00:08:24,600
+signature or address.
+
+203
+00:08:26,640 --> 00:08:29,100
+"There will call upon you to-night, at a
+
+204
+00:08:29,100 --> 00:08:32,370
+quarter to eight o'clock," it said, "a
+
+205
+00:08:32,370 --> 00:08:35,200
+gentleman who desires to consult you upon a
+
+206
+00:08:35,199 --> 00:08:37,259
+matter of the very deepest moment.
+
+207
+00:08:38,159 --> 00:08:40,579
+Your recent services to one of the royal
+
+208
+00:08:40,579 --> 00:08:42,669
+houses of Europe have shown that you are
+
+209
+00:08:42,669 --> 00:08:45,599
+one who may safely be trusted with matters
+
+210
+00:08:45,600 --> 00:08:48,440
+which are of an importance which can hardly
+
+211
+00:08:48,439 --> 00:08:50,249
+be exaggerated.
+
+212
+00:08:50,249 --> 00:08:52,229
+This account of you we have from all
+
+213
+00:08:52,230 --> 00:08:53,960
+quarters received.
+
+214
+00:08:53,959 --> 00:08:56,969
+Be in your chamber then at that hour, and
+
+215
+00:08:56,970 --> 00:08:59,600
+do not take it amiss if your visitor wear a
+
+216
+00:08:59,600 --> 00:09:00,850
+mask."
+
+217
+00:09:00,850 --> 00:09:05,290
+"This is indeed a mystery," I remarked.
+
+218
+00:09:05,290 --> 00:09:08,280
+"What do you imagine that it means?"
+
+219
+00:09:08,279 --> 00:09:10,519
+"I have no data yet.
+
+220
+00:09:10,519 --> 00:09:13,139
+It is a capital mistake to theorize before
+
+221
+00:09:13,139 --> 00:09:15,089
+one has data.
+
+222
+00:09:15,089 --> 00:09:17,559
+Insensibly one begins to twist facts to
+
+223
+00:09:17,560 --> 00:09:20,350
+suit theories, instead of theories to suit
+
+224
+00:09:20,350 --> 00:09:21,420
+facts.
+
+225
+00:09:21,420 --> 00:09:23,140
+But the note itself.
+
+226
+00:09:23,139 --> 00:09:25,919
+What do you deduce from it?"
+
+227
+00:09:25,920 --> 00:09:28,670
+I carefully examined the writing, and the
+
+228
+00:09:28,670 --> 00:09:31,700
+paper upon which it was written.
+
+229
+00:09:31,699 --> 00:09:34,389
+"The man who wrote it was presumably well
+
+230
+00:09:34,389 --> 00:09:37,619
+to do," I remarked, endeavouring to imitate
+
+231
+00:09:37,620 --> 00:09:39,800
+my companion's processes.
+
+232
+00:09:39,800 --> 00:09:42,030
+"Such paper could not be bought under half
+
+233
+00:09:42,029 --> 00:09:43,639
+a crown a packet.
+
+234
+00:09:43,639 --> 00:09:45,769
+It is peculiarly strong and stiff."
+
+235
+00:09:45,769 --> 00:09:50,669
+"Peculiar--that is the very word," said
+
+236
+00:09:50,670 --> 00:09:51,450
+Holmes.
+
+237
+00:09:51,449 --> 00:09:54,019
+"It is not an English paper at all.
+
+238
+00:09:54,019 --> 00:09:56,339
+Hold it up to the light."
+
+239
+00:09:56,339 --> 00:10:00,049
+I did so, and saw a large "E" with a small
+
+240
+00:10:00,050 --> 00:10:05,130
+"g," a "P," and a large "G" with a small
+
+241
+00:10:05,129 --> 00:10:09,409
+"t" woven into the texture of the paper.
+
+242
+00:10:09,410 --> 00:10:13,060
+"What do you make of that?" asked Holmes.
+
+243
+00:10:13,059 --> 00:10:16,529
+"The name of the maker, no doubt; or his
+
+244
+00:10:16,529 --> 00:10:18,079
+monogram, rather."
+
+245
+00:10:18,079 --> 00:10:18,699
+"Not at all.
+
+246
+00:10:18,699 --> 00:10:21,619
+The 'G' with the small 't' stands for
+
+247
+00:10:21,620 --> 00:10:24,070
+'Gesellschaft,' which is the German for
+
+248
+00:10:24,069 --> 00:10:25,309
+'Company.'
+
+249
+00:10:25,309 --> 00:10:27,469
+It is a customary contraction like our
+
+250
+00:10:27,470 --> 00:10:29,880
+'Co.'
+
+251
+00:10:29,879 --> 00:10:32,799
+'P,' of course, stands for 'Papier.'
+
+252
+00:10:32,800 --> 00:10:34,920
+Now for the 'Eg.'
+
+253
+00:10:34,920 --> 00:10:36,660
+Let us glance at our Continental
+
+254
+00:10:36,660 --> 00:10:37,280
+Gazetteer."
+
+255
+00:10:38,670 --> 00:10:40,720
+He took down a heavy brown volume from his
+
+256
+00:10:40,720 --> 00:10:42,270
+shelves.
+
+257
+00:10:42,269 --> 00:10:47,229
+"Eglow, Eglonitz--here we are, Egria.
+
+258
+00:10:47,230 --> 00:10:50,580
+It is in a German-speaking country--in
+
+259
+00:10:50,579 --> 00:10:52,819
+Bohemia, not far from Carlsbad.
+
+260
+00:10:52,819 --> 00:10:55,209
+'Remarkable as being the scene of the death
+
+261
+00:10:55,209 --> 00:10:58,889
+of Wallenstein, and for its numerous glass-
+
+262
+00:10:58,889 --> 00:11:01,059
+factories and paper-mills.'
+
+263
+00:11:01,059 --> 00:11:03,369
+Ha, ha, my boy, what do you make of that?"
+
+264
+00:11:04,389 --> 00:11:06,649
+His eyes sparkled, and he sent up a great
+
+265
+00:11:06,649 --> 00:11:08,789
+blue triumphant cloud from his cigarette.
+
+266
+00:11:08,790 --> 00:11:13,860
+"The paper was made in Bohemia," I said.
+
+267
+00:11:13,860 --> 00:11:15,160
+"Precisely.
+
+268
+00:11:15,160 --> 00:11:18,570
+And the man who wrote the note is a German.
+
+269
+00:11:18,569 --> 00:11:20,909
+Do you note the peculiar construction of
+
+270
+00:11:20,910 --> 00:11:23,750
+the sentence--'This account of you we have
+
+271
+00:11:23,749 --> 00:11:26,129
+from all quarters received.'
+
+272
+00:11:26,129 --> 00:11:28,339
+A Frenchman or Russian could not have
+
+273
+00:11:28,339 --> 00:11:29,499
+written that.
+
+274
+00:11:29,499 --> 00:11:32,039
+It is the German who is so uncourteous to
+
+275
+00:11:32,040 --> 00:11:33,470
+his verbs.
+
+276
+00:11:33,470 --> 00:11:36,000
+It only remains, therefore, to discover
+
+277
+00:11:35,999 --> 00:11:38,199
+what is wanted by this German who writes
+
+278
+00:11:38,199 --> 00:11:41,409
+upon Bohemian paper and prefers wearing a
+
+279
+00:11:41,410 --> 00:11:43,130
+mask to showing his face.
+
+280
+00:11:44,050 --> 00:11:47,310
+And here he comes, if I am not mistaken, to
+
+281
+00:11:47,309 --> 00:11:48,699
+resolve all our doubts."
+
+282
+00:11:50,259 --> 00:11:52,229
+As he spoke there was the sharp sound of
+
+283
+00:11:52,230 --> 00:11:54,370
+horses' hoofs and grating wheels against
+
+284
+00:11:54,369 --> 00:11:57,199
+the curb, followed by a sharp pull at the
+
+285
+00:11:57,199 --> 00:11:58,059
+bell.
+
+286
+00:11:58,059 --> 00:11:58,929
+Holmes whistled.
+
+287
+00:11:58,930 --> 00:12:03,010
+"A pair, by the sound," said he.
+
+288
+00:12:03,009 --> 00:12:05,839
+"Yes," he continued, glancing out of the
+
+289
+00:12:05,839 --> 00:12:06,699
+window.
+
+290
+00:12:06,699 --> 00:12:08,629
+"A nice little brougham and a pair of
+
+291
+00:12:08,629 --> 00:12:09,649
+beauties.
+
+292
+00:12:09,649 --> 00:12:12,209
+A hundred and fifty guineas apiece.
+
+293
+00:12:12,209 --> 00:12:14,289
+There's money in this case, Watson, if
+
+294
+00:12:14,290 --> 00:12:16,550
+there is nothing else."
+
+295
+00:12:16,550 --> 00:12:19,810
+"I think that I had better go, Holmes."
+
+296
+00:12:19,809 --> 00:12:21,359
+"Not a bit, Doctor.
+
+297
+00:12:21,360 --> 00:12:22,940
+Stay where you are.
+
+298
+00:12:22,939 --> 00:12:24,959
+I am lost without my Boswell.
+
+299
+00:12:24,959 --> 00:12:27,619
+And this promises to be interesting.
+
+300
+00:12:27,619 --> 00:12:29,719
+It would be a pity to miss it."
+
+301
+00:12:29,720 --> 00:12:31,340
+"But your client--"
+
+302
+00:12:31,339 --> 00:12:32,769
+"Never mind him.
+
+303
+00:12:32,769 --> 00:12:35,769
+I may want your help, and so may he.
+
+304
+00:12:35,769 --> 00:12:37,139
+Here he comes.
+
+305
+00:12:37,139 --> 00:12:39,389
+Sit down in that armchair, Doctor, and give
+
+306
+00:12:39,389 --> 00:12:40,629
+us your best attention."
+
+307
+00:12:40,629 --> 00:12:45,399
+A slow and heavy step, which had been heard
+
+308
+00:12:45,399 --> 00:12:48,139
+upon the stairs and in the passage, paused
+
+309
+00:12:48,139 --> 00:12:50,529
+immediately outside the door.
+
+310
+00:12:50,529 --> 00:12:52,799
+Then there was a loud and authoritative
+
+311
+00:12:52,800 --> 00:12:54,010
+tap.
+
+312
+00:12:54,009 --> 00:12:57,109
+"Come in!" said Holmes.
+
+313
+00:12:57,110 --> 00:12:59,230
+A man entered who could hardly have been
+
+314
+00:12:59,230 --> 00:13:02,310
+less than six feet six inches in height,
+
+315
+00:13:02,309 --> 00:13:04,479
+with the chest and limbs of a Hercules.
+
+316
+00:13:04,480 --> 00:13:07,810
+His dress was rich with a richness which
+
+317
+00:13:07,809 --> 00:13:10,479
+would, in England, be looked upon as akin
+
+318
+00:13:10,480 --> 00:13:11,740
+to bad taste.
+
+319
+00:13:12,689 --> 00:13:15,109
+Heavy bands of astrakhan were slashed
+
+320
+00:13:15,110 --> 00:13:17,120
+across the sleeves and fronts of his
+
+321
+00:13:17,119 --> 00:13:19,799
+double-breasted coat, while the deep blue
+
+322
+00:13:19,800 --> 00:13:21,920
+cloak which was thrown over his shoulders
+
+323
+00:13:21,920 --> 00:13:24,760
+was lined with flame-coloured silk and
+
+324
+00:13:24,759 --> 00:13:27,139
+secured at the neck with a brooch which
+
+325
+00:13:27,139 --> 00:13:29,119
+consisted of a single flaming beryl.
+
+326
+00:13:30,319 --> 00:13:33,459
+Boots which extended halfway up his calves,
+
+327
+00:13:33,459 --> 00:13:35,079
+and which were trimmed at the tops with
+
+328
+00:13:35,079 --> 00:13:38,049
+rich brown fur, completed the impression of
+
+329
+00:13:38,050 --> 00:13:40,890
+barbaric opulence which was suggested by
+
+330
+00:13:40,889 --> 00:13:42,739
+his whole appearance.
+
+331
+00:13:42,740 --> 00:13:45,700
+He carried a broad-brimmed hat in his hand,
+
+332
+00:13:45,699 --> 00:13:48,059
+while he wore across the upper part of his
+
+333
+00:13:48,059 --> 00:13:51,559
+face, extending down past the cheekbones, a
+
+334
+00:13:51,559 --> 00:13:54,309
+black vizard mask, which he had apparently
+
+335
+00:13:54,429 --> 00:13:57,099
+adjusted that very moment, for his hand was
+
+336
+00:13:57,100 --> 00:13:58,830
+still raised to it as he entered.
+
+337
+00:13:59,740 --> 00:14:01,760
+From the lower part of the face he appeared
+
+338
+00:14:01,759 --> 00:14:04,519
+to be a man of strong character, with a
+
+339
+00:14:04,519 --> 00:14:07,509
+thick, hanging lip, and a long, straight
+
+340
+00:14:07,509 --> 00:14:10,359
+chin suggestive of resolution pushed to the
+
+341
+00:14:10,360 --> 00:14:13,200
+length of obstinacy.
+
+342
+00:14:13,199 --> 00:14:16,369
+"You had my note?" he asked with a deep
+
+343
+00:14:16,369 --> 00:14:18,909
+harsh voice and a strongly marked German
+
+344
+00:14:18,910 --> 00:14:20,220
+accent.
+
+345
+00:14:20,220 --> 00:14:21,980
+"I told you that I would call."
+
+346
+00:14:23,230 --> 00:14:26,100
+He looked from one to the other of us, as
+
+347
+00:14:26,100 --> 00:14:29,170
+if uncertain which to address.
+
+348
+00:14:29,170 --> 00:14:31,050
+"Pray take a seat," said Holmes.
+
+349
+00:14:31,899 --> 00:14:34,349
+"This is my friend and colleague, Dr.
+
+350
+00:14:34,350 --> 00:14:36,890
+Watson, who is occasionally good enough to
+
+351
+00:14:36,889 --> 00:14:38,689
+help me in my cases.
+
+352
+00:14:38,689 --> 00:14:40,469
+Whom have I the honour to address?"
+
+353
+00:14:41,910 --> 00:14:45,220
+"You may address me as the Count Von Kramm,
+
+354
+00:14:45,220 --> 00:14:46,280
+a Bohemian nobleman.
+
+355
+00:14:47,179 --> 00:14:49,819
+I understand that this gentleman, your
+
+356
+00:14:49,819 --> 00:14:53,539
+friend, is a man of honour and discretion,
+
+357
+00:14:53,540 --> 00:14:55,880
+whom I may trust with a matter of the most
+
+358
+00:14:55,879 --> 00:14:56,999
+extreme importance.
+
+359
+00:14:57,959 --> 00:15:01,259
+If not, I should much prefer to communicate
+
+360
+00:15:01,259 --> 00:15:02,619
+with you alone."
+
+361
+00:15:02,619 --> 00:15:05,829
+I rose to go, but Holmes caught me by the
+
+362
+00:15:05,829 --> 00:15:08,989
+wrist and pushed me back into my chair.
+
+363
+00:15:08,990 --> 00:15:12,070
+"It is both, or none," said he.
+
+364
+00:15:12,069 --> 00:15:14,369
+"You may say before this gentleman anything
+
+365
+00:15:14,369 --> 00:15:16,679
+which you may say to me."
+
+366
+00:15:16,679 --> 00:15:18,729
+The Count shrugged his broad shoulders.
+
+367
+00:15:18,730 --> 00:15:23,260
+"Then I must begin," said he, "by binding
+
+368
+00:15:23,259 --> 00:15:27,329
+you both to absolute secrecy for two years;
+
+369
+00:15:27,329 --> 00:15:30,329
+at the end of that time the matter will be
+
+370
+00:15:30,329 --> 00:15:31,319
+of no importance.
+
+371
+00:15:32,279 --> 00:15:34,889
+At present it is not too much to say that
+
+372
+00:15:34,889 --> 00:15:37,639
+it is of such weight it may have an
+
+373
+00:15:37,639 --> 00:15:41,509
+influence upon European history."
+
+374
+00:15:41,509 --> 00:15:44,509
+"I promise," said Holmes.
+
+375
+00:15:44,509 --> 00:15:46,379
+"And I."
+
+376
+00:15:46,379 --> 00:15:49,409
+"You will excuse this mask," continued our
+
+377
+00:15:49,410 --> 00:15:50,360
+strange visitor.
+
+378
+00:15:51,199 --> 00:15:53,939
+"The august person who employs me wishes
+
+379
+00:15:53,939 --> 00:15:57,169
+his agent to be unknown to you, and I may
+
+380
+00:15:57,170 --> 00:15:59,550
+confess at once that the title by which I
+
+381
+00:15:59,550 --> 00:16:02,500
+have just called myself is not exactly my
+
+382
+00:16:02,499 --> 00:16:02,749
+own."
+
+383
+00:16:02,540 --> 00:16:07,770
+"I was aware of it," said Holmes dryly.
+
+384
+00:16:07,769 --> 00:16:12,059
+"The circumstances are of great delicacy,
+
+385
+00:16:12,059 --> 00:16:13,939
+and every precaution has to be taken to
+
+386
+00:16:13,939 --> 00:16:17,289
+quench what might grow to be an immense
+
+387
+00:16:17,290 --> 00:16:19,870
+scandal and seriously compromise one of the
+
+388
+00:16:19,869 --> 00:16:22,069
+reigning families of Europe.
+
+389
+00:16:22,069 --> 00:16:25,069
+To speak plainly, the matter implicates the
+
+390
+00:16:25,069 --> 00:16:28,479
+great House of Ormstein, hereditary kings
+
+391
+00:16:28,480 --> 00:16:29,270
+of Bohemia."
+
+392
+00:16:30,800 --> 00:16:34,240
+"I was also aware of that," murmured
+
+393
+00:16:34,239 --> 00:16:35,839
+Holmes, settling himself down in his
+
+394
+00:16:35,839 --> 00:16:37,539
+armchair and closing his eyes.
+
+395
+00:16:38,629 --> 00:16:40,609
+Our visitor glanced with some apparent
+
+396
+00:16:40,610 --> 00:16:43,490
+surprise at the languid, lounging figure of
+
+397
+00:16:43,489 --> 00:16:45,809
+the man who had been no doubt depicted to
+
+398
+00:16:45,809 --> 00:16:49,029
+him as the most incisive reasoner and most
+
+399
+00:16:49,029 --> 00:16:51,669
+energetic agent in Europe.
+
+400
+00:16:51,670 --> 00:16:54,600
+Holmes slowly reopened his eyes and looked
+
+401
+00:16:54,600 --> 00:16:58,250
+impatiently at his gigantic client.
+
+402
+00:16:58,249 --> 00:17:01,209
+"If your Majesty would condescend to state
+
+403
+00:17:01,209 --> 00:17:04,309
+your case," he remarked, "I should be
+
+404
+00:17:04,309 --> 00:17:07,229
+better able to advise you."
+
+405
+00:17:07,230 --> 00:17:09,550
+The man sprang from his chair and paced up
+
+406
+00:17:09,549 --> 00:17:11,639
+and down the room in uncontrollable
+
+407
+00:17:11,640 --> 00:17:12,380
+agitation.
+
+408
+00:17:12,980 --> 00:17:15,230
+Then, with a gesture of desperation, he
+
+409
+00:17:15,230 --> 00:17:17,310
+tore the mask from his face and hurled it
+
+410
+00:17:17,309 --> 00:17:19,019
+upon the ground.
+
+411
+00:17:19,019 --> 00:17:22,079
+"You are right," he cried; "I am the King.
+
+412
+00:17:22,079 --> 00:17:25,949
+Why should I attempt to conceal it?"
+
+413
+00:17:25,949 --> 00:17:28,649
+"Why, indeed?" murmured Holmes.
+
+414
+00:17:28,649 --> 00:17:31,569
+"Your Majesty had not spoken before I was
+
+415
+00:17:31,570 --> 00:17:33,930
+aware that I was addressing Wilhelm
+
+416
+00:17:33,929 --> 00:17:37,289
+Gottsreich Sigismond von Ormstein, Grand
+
+417
+00:17:37,289 --> 00:17:40,659
+Duke of Cassel-Felstein, and hereditary
+
+418
+00:17:40,659 --> 00:17:41,469
+King of Bohemia."
+
+419
+00:17:41,470 --> 00:17:46,240
+"But you can understand," said our strange
+
+420
+00:17:46,240 --> 00:17:48,440
+visitor, sitting down once more and passing
+
+421
+00:17:48,440 --> 00:17:51,770
+his hand over his high white forehead, "you
+
+422
+00:17:51,769 --> 00:17:54,559
+can understand that I am not accustomed to
+
+423
+00:17:54,559 --> 00:17:57,089
+doing such business in my own person.
+
+424
+00:17:57,090 --> 00:18:00,020
+Yet the matter was so delicate that I could
+
+425
+00:18:00,019 --> 00:18:02,269
+not confide it to an agent without putting
+
+426
+00:18:02,269 --> 00:18:04,519
+myself in his power.
+
+427
+00:18:04,519 --> 00:18:06,929
+I have come incognito from Prague for the
+
+428
+00:18:06,929 --> 00:18:09,859
+purpose of consulting you."
+
+429
+00:18:09,860 --> 00:18:13,360
+"Then, pray consult," said Holmes, shutting
+
+430
+00:18:13,360 --> 00:18:14,360
+his eyes once more.
+
+431
+00:18:15,769 --> 00:18:19,329
+"The facts are briefly these: Some five
+
+432
+00:18:19,330 --> 00:18:21,780
+years ago, during a lengthy visit to
+
+433
+00:18:21,779 --> 00:18:24,539
+Warsaw, I made the acquaintance of the
+
+434
+00:18:24,539 --> 00:18:28,199
+well-known adventuress, Irene Adler.
+
+435
+00:18:28,200 --> 00:18:32,380
+The name is no doubt familiar to you."
+
+436
+00:18:32,380 --> 00:18:34,850
+"Kindly look her up in my index, Doctor,"
+
+437
+00:18:34,850 --> 00:18:37,320
+murmured Holmes without opening his eyes.
+
+438
+00:18:38,240 --> 00:18:40,620
+For many years he had adopted a system of
+
+439
+00:18:40,620 --> 00:18:43,200
+docketing all paragraphs concerning men and
+
+440
+00:18:43,200 --> 00:18:46,080
+things, so that it was difficult to name a
+
+441
+00:18:46,080 --> 00:18:48,710
+subject or a person on which he could not
+
+442
+00:18:48,710 --> 00:18:51,580
+at once furnish information.
+
+443
+00:18:51,580 --> 00:18:53,330
+In this case I found her biography
+
+444
+00:18:53,330 --> 00:18:55,740
+sandwiched in between that of a Hebrew
+
+445
+00:18:55,740 --> 00:18:58,570
+rabbi and that of a staff-commander who had
+
+446
+00:18:58,570 --> 00:19:00,450
+written a monograph upon the deep-sea
+
+447
+00:19:00,450 --> 00:19:00,950
+fishes.
+
+448
+00:19:00,950 --> 00:19:04,830
+"Let me see!" said Holmes.
+
+449
+00:19:04,830 --> 00:19:05,540
+"Hum!
+
+450
+00:19:05,539 --> 00:19:10,589
+Born in New Jersey in the year 1858.
+
+451
+00:19:10,590 --> 00:19:12,900
+Contralto--hum!
+
+452
+00:19:12,899 --> 00:19:15,739
+La Scala, hum!
+
+453
+00:19:15,740 --> 00:19:20,420
+Prima donna Imperial Opera of Warsaw--yes!
+
+454
+00:19:20,419 --> 00:19:23,119
+Retired from operatic stage--ha!
+
+455
+00:19:23,120 --> 00:19:25,510
+Living in London--quite so!
+
+456
+00:19:26,480 --> 00:19:29,500
+Your Majesty, as I understand, became
+
+457
+00:19:29,500 --> 00:19:32,290
+entangled with this young person, wrote her
+
+458
+00:19:32,289 --> 00:19:34,949
+some compromising letters, and is now
+
+459
+00:19:34,950 --> 00:19:39,110
+desirous of getting those letters back."
+
+460
+00:19:39,110 --> 00:19:40,130
+"Precisely so.
+
+461
+00:19:40,130 --> 00:19:41,090
+But how--"
+
+462
+00:19:41,090 --> 00:19:43,530
+"Was there a secret marriage?"
+
+463
+00:19:43,529 --> 00:19:44,729
+"None."
+
+464
+00:19:44,730 --> 00:19:48,380
+"No legal papers or certificates?"
+
+465
+00:19:48,380 --> 00:19:49,550
+"None."
+
+466
+00:19:49,549 --> 00:19:52,319
+"Then I fail to follow your Majesty.
+
+467
+00:19:52,320 --> 00:19:54,370
+If this young person should produce her
+
+468
+00:19:54,370 --> 00:19:57,060
+letters for blackmailing or other purposes,
+
+469
+00:19:57,059 --> 00:19:59,789
+how is she to prove their authenticity?"
+
+470
+00:19:59,789 --> 00:20:03,509
+"There is the writing."
+
+471
+00:20:03,510 --> 00:20:05,370
+"Pooh, pooh!
+
+472
+00:20:05,370 --> 00:20:06,310
+Forgery."
+
+473
+00:20:06,309 --> 00:20:08,489
+"My private note-paper."
+
+474
+00:20:08,490 --> 00:20:09,120
+"Stolen."
+
+475
+00:20:09,120 --> 00:20:12,650
+"My own seal."
+
+476
+00:20:12,649 --> 00:20:14,429
+"Imitated."
+
+477
+00:20:14,429 --> 00:20:16,049
+"My photograph."
+
+478
+00:20:16,049 --> 00:20:17,839
+"Bought."
+
+479
+00:20:17,840 --> 00:20:20,720
+"We were both in the photograph."
+
+480
+00:20:20,720 --> 00:20:22,190
+"Oh, dear!
+
+481
+00:20:22,190 --> 00:20:24,320
+That is very bad!
+
+482
+00:20:24,320 --> 00:20:26,360
+Your Majesty has indeed committed an
+
+483
+00:20:26,360 --> 00:20:27,220
+indiscretion."
+
+484
+00:20:27,220 --> 00:20:32,150
+"I was mad--insane."
+
+485
+00:20:32,149 --> 00:20:35,509
+"You have compromised yourself seriously."
+
+486
+00:20:35,510 --> 00:20:37,700
+"I was only Crown Prince then.
+
+487
+00:20:37,700 --> 00:20:38,840
+I was young.
+
+488
+00:20:38,840 --> 00:20:41,960
+I am but thirty now."
+
+489
+00:20:41,960 --> 00:20:44,010
+"It must be recovered."
+
+490
+00:20:44,010 --> 00:20:47,230
+"We have tried and failed."
+
+491
+00:20:47,230 --> 00:20:49,000
+"Your Majesty must pay.
+
+492
+00:20:49,000 --> 00:20:50,970
+It must be bought."
+
+493
+00:20:50,970 --> 00:20:53,120
+"She will not sell."
+
+494
+00:20:53,120 --> 00:20:54,880
+"Stolen, then."
+
+495
+00:20:54,880 --> 00:20:57,520
+"Five attempts have been made.
+
+496
+00:20:57,519 --> 00:20:59,929
+Twice burglars in my pay ransacked her
+
+497
+00:20:59,929 --> 00:21:01,079
+house.
+
+498
+00:21:01,080 --> 00:21:03,230
+Once we diverted her luggage when she
+
+499
+00:21:03,230 --> 00:21:04,400
+travelled.
+
+500
+00:21:04,399 --> 00:21:06,389
+Twice she has been waylaid.
+
+501
+00:21:06,389 --> 00:21:08,889
+There has been no result."
+
+502
+00:21:08,889 --> 00:21:09,889
+"No sign of it?"
+
+503
+00:21:09,889 --> 00:21:14,059
+"Absolutely none."
+
+504
+00:21:14,059 --> 00:21:14,529
+Holmes laughed.
+
+505
+00:21:15,549 --> 00:21:18,319
+"It is quite a pretty little problem," said
+
+506
+00:21:18,320 --> 00:21:18,570
+he.
+
+507
+00:21:18,320 --> 00:21:23,840
+"But a very serious one to me," returned
+
+508
+00:21:23,840 --> 00:21:26,040
+the King reproachfully.
+
+509
+00:21:26,039 --> 00:21:27,769
+"Very, indeed.
+
+510
+00:21:27,769 --> 00:21:30,509
+And what does she propose to do with the
+
+511
+00:21:30,510 --> 00:21:31,680
+photograph?"
+
+512
+00:21:31,679 --> 00:21:33,399
+"To ruin me."
+
+513
+00:21:33,399 --> 00:21:34,219
+"But how?"
+
+514
+00:21:34,220 --> 00:21:38,430
+"I am about to be married."
+
+515
+00:21:38,429 --> 00:21:41,679
+"So I have heard."
+
+516
+00:21:41,679 --> 00:21:44,399
+"To Clotilde Lothman von Saxe-Meningen,
+
+517
+00:21:44,399 --> 00:21:47,609
+second daughter of the King of Scandinavia.
+
+518
+00:21:47,610 --> 00:21:49,840
+You may know the strict principles of her
+
+519
+00:21:49,840 --> 00:21:51,020
+family.
+
+520
+00:21:51,019 --> 00:21:54,899
+She is herself the very soul of delicacy.
+
+521
+00:21:54,899 --> 00:21:57,569
+A shadow of a doubt as to my conduct would
+
+522
+00:21:57,570 --> 00:22:00,800
+bring the matter to an end."
+
+523
+00:22:00,799 --> 00:22:03,549
+"And Irene Adler?"
+
+524
+00:22:03,549 --> 00:22:05,229
+"Threatens to send them the photograph.
+
+525
+00:22:05,230 --> 00:22:07,710
+And she will do it.
+
+526
+00:22:07,710 --> 00:22:09,610
+I know that she will do it.
+
+527
+00:22:09,610 --> 00:22:13,040
+You do not know her, but she has a soul of
+
+528
+00:22:13,039 --> 00:22:13,549
+steel.
+
+529
+00:22:13,549 --> 00:22:15,389
+She has the face of the most beautiful of
+
+530
+00:22:15,389 --> 00:22:18,379
+women, and the mind of the most resolute of
+
+531
+00:22:18,380 --> 00:22:18,630
+men.
+
+532
+00:22:19,600 --> 00:22:21,750
+Rather than I should marry another woman,
+
+533
+00:22:21,750 --> 00:22:23,930
+there are no lengths to which she would not
+
+534
+00:22:23,929 --> 00:22:26,539
+go--none."
+
+535
+00:22:26,539 --> 00:22:28,589
+"You are sure that she has not sent it
+
+536
+00:22:28,590 --> 00:22:29,010
+yet?"
+
+537
+00:22:29,010 --> 00:22:32,390
+"I am sure."
+
+538
+00:22:32,389 --> 00:22:33,689
+"And why?"
+
+539
+00:22:33,690 --> 00:22:35,980
+"Because she has said that she would send
+
+540
+00:22:35,980 --> 00:22:38,290
+it on the day when the betrothal was
+
+541
+00:22:38,289 --> 00:22:40,069
+publicly proclaimed.
+
+542
+00:22:40,070 --> 00:22:42,600
+That will be next Monday."
+
+543
+00:22:42,600 --> 00:22:46,570
+"Oh, then we have three days yet," said
+
+544
+00:22:46,570 --> 00:22:47,930
+Holmes with a yawn.
+
+545
+00:22:47,929 --> 00:22:50,519
+"That is very fortunate, as I have one or
+
+546
+00:22:50,519 --> 00:22:53,139
+two matters of importance to look into just
+
+547
+00:22:53,139 --> 00:22:54,549
+at present.
+
+548
+00:22:54,549 --> 00:22:56,509
+Your Majesty will, of course, stay in
+
+549
+00:22:56,510 --> 00:22:57,580
+London for the present?"
+
+550
+00:22:57,580 --> 00:23:00,400
+"Certainly.
+
+551
+00:23:00,399 --> 00:23:02,459
+You will find me at the Langham under the
+
+552
+00:23:02,460 --> 00:23:04,830
+name of the Count Von Kramm."
+
+553
+00:23:04,830 --> 00:23:07,700
+"Then I shall drop you a line to let you
+
+554
+00:23:07,700 --> 00:23:10,220
+know how we progress."
+
+555
+00:23:10,220 --> 00:23:11,600
+"Pray do so.
+
+556
+00:23:11,600 --> 00:23:14,730
+I shall be all anxiety."
+
+557
+00:23:14,730 --> 00:23:17,910
+"Then, as to money?"
+
+558
+00:23:17,909 --> 00:23:20,119
+"You have carte blanche."
+
+559
+00:23:20,120 --> 00:23:21,390
+"Absolutely?"
+
+560
+00:23:21,389 --> 00:23:24,399
+"I tell you that I would give one of the
+
+561
+00:23:24,399 --> 00:23:27,729
+provinces of my kingdom to have that
+
+562
+00:23:27,730 --> 00:23:28,400
+photograph."
+
+563
+00:23:28,399 --> 00:23:29,889
+"And for present expenses?"
+
+564
+00:23:30,909 --> 00:23:33,449
+The King took a heavy chamois leather bag
+
+565
+00:23:33,450 --> 00:23:35,160
+from under his cloak and laid it on the
+
+566
+00:23:35,159 --> 00:23:35,509
+table.
+
+567
+00:23:35,510 --> 00:23:39,600
+"There are three hundred pounds in gold and
+
+568
+00:23:39,600 --> 00:23:42,400
+seven hundred in notes," he said.
+
+569
+00:23:42,399 --> 00:23:44,639
+Holmes scribbled a receipt upon a sheet of
+
+570
+00:23:44,639 --> 00:23:48,099
+his note-book and handed it to him.
+
+571
+00:23:48,100 --> 00:23:51,760
+"And Mademoiselle's address?" he asked.
+
+572
+00:23:51,759 --> 00:23:55,349
+"Is Briony Lodge, Serpentine Avenue, St.
+
+573
+00:23:55,350 --> 00:23:57,620
+John's Wood."
+
+574
+00:23:57,620 --> 00:23:59,610
+Holmes took a note of it.
+
+575
+00:23:59,610 --> 00:24:02,640
+"One other question," said he.
+
+576
+00:24:02,639 --> 00:24:05,599
+"Was the photograph a cabinet?"
+
+577
+00:24:05,600 --> 00:24:07,510
+"It was."
+
+578
+00:24:07,509 --> 00:24:10,019
+"Then, good-night, your Majesty, and I
+
+579
+00:24:10,019 --> 00:24:12,069
+trust that we shall soon have some good
+
+580
+00:24:12,070 --> 00:24:12,790
+news for you.
+
+581
+00:24:13,590 --> 00:24:16,460
+And good-night, Watson," he added, as the
+
+582
+00:24:16,460 --> 00:24:18,600
+wheels of the royal brougham rolled down
+
+583
+00:24:18,600 --> 00:24:19,020
+the street.
+
+584
+00:24:19,929 --> 00:24:22,019
+"If you will be good enough to call to-
+
+585
+00:24:22,019 --> 00:24:24,639
+morrow afternoon at three o'clock I should
+
+586
+00:24:24,639 --> 00:24:26,889
+like to chat this little matter over with
+
+587
+00:24:26,889 --> 00:24:27,139
+you."
+
+588
+00:24:27,009 --> 00:24:32,199
+II.
+
+589
+00:24:32,200 --> 00:24:35,140
+At three o'clock precisely I was at Baker
+
+590
+00:24:35,139 --> 00:24:37,169
+Street, but Holmes had not yet returned.
+
+591
+00:24:38,279 --> 00:24:40,559
+The landlady informed me that he had left
+
+592
+00:24:40,559 --> 00:24:42,519
+the house shortly after eight o'clock in
+
+593
+00:24:42,519 --> 00:24:43,639
+the morning.
+
+594
+00:24:43,639 --> 00:24:46,349
+I sat down beside the fire, however, with
+
+595
+00:24:46,350 --> 00:24:48,780
+the intention of awaiting him, however long
+
+596
+00:24:48,779 --> 00:24:49,299
+he might be.
+
+597
+00:24:49,299 --> 00:24:52,329
+I was already deeply interested in his
+
+598
+00:24:52,330 --> 00:24:54,980
+inquiry, for, though it was surrounded by
+
+599
+00:24:54,980 --> 00:24:57,200
+none of the grim and strange features which
+
+600
+00:24:57,200 --> 00:24:59,890
+were associated with the two crimes which I
+
+601
+00:24:59,889 --> 00:25:03,259
+have already recorded, still, the nature of
+
+602
+00:25:03,259 --> 00:25:05,849
+the case and the exalted station of his
+
+603
+00:25:05,850 --> 00:25:07,970
+client gave it a character of its own.
+
+604
+00:25:08,850 --> 00:25:11,360
+Indeed, apart from the nature of the
+
+605
+00:25:11,360 --> 00:25:14,360
+investigation which my friend had on hand,
+
+606
+00:25:14,360 --> 00:25:16,770
+there was something in his masterly grasp
+
+607
+00:25:16,769 --> 00:25:20,559
+of a situation, and his keen, incisive
+
+608
+00:25:20,559 --> 00:25:22,589
+reasoning, which made it a pleasure to me
+
+609
+00:25:22,590 --> 00:25:25,490
+to study his system of work, and to follow
+
+610
+00:25:25,490 --> 00:25:27,970
+the quick, subtle methods by which he
+
+611
+00:25:27,970 --> 00:25:30,690
+disentangled the most inextricable
+
+612
+00:25:30,690 --> 00:25:30,940
+mysteries.
+
+613
+00:25:31,769 --> 00:25:33,949
+So accustomed was I to his invariable
+
+614
+00:25:33,950 --> 00:25:36,660
+success that the very possibility of his
+
+615
+00:25:36,659 --> 00:25:40,389
+failing had ceased to enter into my head.
+
+616
+00:25:40,389 --> 00:25:42,669
+It was close upon four before the door
+
+617
+00:25:42,669 --> 00:25:45,679
+opened, and a drunken-looking groom, ill-
+
+618
+00:25:45,679 --> 00:25:48,679
+kempt and side-whiskered, with an inflamed
+
+619
+00:25:48,679 --> 00:25:51,489
+face and disreputable clothes, walked into
+
+620
+00:25:51,490 --> 00:25:53,010
+the room.
+
+621
+00:25:53,009 --> 00:25:55,989
+Accustomed as I was to my friend's amazing
+
+622
+00:25:55,990 --> 00:25:59,040
+powers in the use of disguises, I had to
+
+623
+00:25:59,039 --> 00:26:01,559
+look three times before I was certain that
+
+624
+00:26:01,559 --> 00:26:02,599
+it was indeed he.
+
+625
+00:26:03,659 --> 00:26:05,999
+With a nod he vanished into the bedroom,
+
+626
+00:26:06,000 --> 00:26:08,370
+whence he emerged in five minutes tweed-
+
+627
+00:26:08,370 --> 00:26:10,590
+suited and respectable, as of old.
+
+628
+00:26:11,700 --> 00:26:13,550
+Putting his hands into his pockets, he
+
+629
+00:26:13,549 --> 00:26:15,959
+stretched out his legs in front of the fire
+
+630
+00:26:15,960 --> 00:26:18,190
+and laughed heartily for some minutes.
+
+631
+00:26:19,220 --> 00:26:22,550
+"Well, really!" he cried, and then he
+
+632
+00:26:22,549 --> 00:26:24,529
+choked and laughed again until he was
+
+633
+00:26:24,529 --> 00:26:27,699
+obliged to lie back, limp and helpless, in
+
+634
+00:26:27,700 --> 00:26:29,390
+the chair.
+
+635
+00:26:29,389 --> 00:26:29,779
+"What is it?"
+
+636
+00:26:29,779 --> 00:26:33,299
+"It's quite too funny.
+
+637
+00:26:33,299 --> 00:26:35,769
+I am sure you could never guess how I
+
+638
+00:26:35,769 --> 00:26:38,429
+employed my morning, or what I ended by
+
+639
+00:26:38,429 --> 00:26:39,989
+doing."
+
+640
+00:26:39,990 --> 00:26:41,920
+"I can't imagine.
+
+641
+00:26:41,919 --> 00:26:44,339
+I suppose that you have been watching the
+
+642
+00:26:44,340 --> 00:26:47,570
+habits, and perhaps the house, of Miss
+
+643
+00:26:47,570 --> 00:26:49,310
+Irene Adler."
+
+644
+00:26:49,309 --> 00:26:51,239
+"Quite so; but the sequel was rather
+
+645
+00:26:51,240 --> 00:26:52,660
+unusual.
+
+646
+00:26:52,659 --> 00:26:54,699
+I will tell you, however.
+
+647
+00:26:54,700 --> 00:26:56,780
+I left the house a little after eight
+
+648
+00:26:56,779 --> 00:26:58,719
+o'clock this morning in the character of a
+
+649
+00:26:58,720 --> 00:26:59,880
+groom out of work.
+
+650
+00:27:00,740 --> 00:27:02,540
+There is a wonderful sympathy and
+
+651
+00:27:02,539 --> 00:27:05,159
+freemasonry among horsey men.
+
+652
+00:27:05,159 --> 00:27:07,779
+Be one of them, and you will know all that
+
+653
+00:27:07,779 --> 00:27:09,589
+there is to know.
+
+654
+00:27:09,590 --> 00:27:12,230
+I soon found Briony Lodge.
+
+655
+00:27:12,230 --> 00:27:14,840
+It is a bijou villa, with a garden at the
+
+656
+00:27:14,840 --> 00:27:17,200
+back, but built out in front right up to
+
+657
+00:27:17,200 --> 00:27:19,300
+the road, two stories.
+
+658
+00:27:19,299 --> 00:27:20,409
+Chubb lock to the door.
+
+659
+00:27:21,210 --> 00:27:23,580
+Large sitting-room on the right side, well
+
+660
+00:27:23,580 --> 00:27:26,510
+furnished, with long windows almost to the
+
+661
+00:27:26,509 --> 00:27:29,439
+floor, and those preposterous English
+
+662
+00:27:29,440 --> 00:27:31,820
+window fasteners which a child could open.
+
+663
+00:27:32,710 --> 00:27:35,060
+Behind there was nothing remarkable, save
+
+664
+00:27:35,059 --> 00:27:36,789
+that the passage window could be reached
+
+665
+00:27:36,789 --> 00:27:38,199
+from the top of the coach-house.
+
+666
+00:27:39,139 --> 00:27:41,719
+I walked round it and examined it closely
+
+667
+00:27:41,720 --> 00:27:44,060
+from every point of view, but without
+
+668
+00:27:44,059 --> 00:27:47,289
+noting anything else of interest.
+
+669
+00:27:47,289 --> 00:27:50,229
+"I then lounged down the street and found,
+
+670
+00:27:50,230 --> 00:27:53,240
+as I expected, that there was a mews in a
+
+671
+00:27:53,240 --> 00:27:55,470
+lane which runs down by one wall of the
+
+672
+00:27:55,470 --> 00:27:55,760
+garden.
+
+673
+00:27:56,600 --> 00:27:58,940
+I lent the ostlers a hand in rubbing down
+
+674
+00:27:58,940 --> 00:28:01,810
+their horses, and received in exchange
+
+675
+00:28:01,809 --> 00:28:04,839
+twopence, a glass of half and half, two
+
+676
+00:28:04,840 --> 00:28:07,370
+fills of shag tobacco, and as much
+
+677
+00:28:07,370 --> 00:28:09,890
+information as I could desire about Miss
+
+678
+00:28:09,889 --> 00:28:12,549
+Adler, to say nothing of half a dozen other
+
+679
+00:28:12,549 --> 00:28:14,839
+people in the neighbourhood in whom I was
+
+680
+00:28:14,840 --> 00:28:17,110
+not in the least interested, but whose
+
+681
+00:28:17,110 --> 00:28:21,010
+biographies I was compelled to listen to."
+
+682
+00:28:21,009 --> 00:28:22,929
+"And what of Irene Adler?"
+
+683
+00:28:22,929 --> 00:28:24,659
+I asked.
+
+684
+00:28:24,659 --> 00:28:27,049
+"Oh, she has turned all the men's heads
+
+685
+00:28:27,049 --> 00:28:28,959
+down in that part.
+
+686
+00:28:28,960 --> 00:28:31,010
+She is the daintiest thing under a bonnet
+
+687
+00:28:31,009 --> 00:28:32,449
+on this planet.
+
+688
+00:28:32,450 --> 00:28:35,790
+So say the Serpentine-mews, to a man.
+
+689
+00:28:35,789 --> 00:28:39,229
+She lives quietly, sings at concerts,
+
+690
+00:28:39,230 --> 00:28:41,690
+drives out at five every day, and returns
+
+691
+00:28:41,690 --> 00:28:43,400
+at seven sharp for dinner.
+
+692
+00:28:44,269 --> 00:28:46,479
+Seldom goes out at other times, except when
+
+693
+00:28:46,480 --> 00:28:47,830
+she sings.
+
+694
+00:28:47,830 --> 00:28:50,410
+Has only one male visitor, but a good deal
+
+695
+00:28:50,409 --> 00:28:50,759
+of him.
+
+696
+00:28:51,490 --> 00:28:54,350
+He is dark, handsome, and dashing, never
+
+697
+00:28:54,350 --> 00:28:56,960
+calls less than once a day, and often
+
+698
+00:28:56,960 --> 00:28:58,260
+twice.
+
+699
+00:28:58,259 --> 00:29:01,389
+He is a Mr. Godfrey Norton, of the Inner
+
+700
+00:29:01,389 --> 00:29:03,159
+Temple.
+
+701
+00:29:03,159 --> 00:29:05,149
+See the advantages of a cabman as a
+
+702
+00:29:05,149 --> 00:29:06,869
+confidant.
+
+703
+00:29:06,870 --> 00:29:09,310
+They had driven him home a dozen times from
+
+704
+00:29:09,309 --> 00:29:12,129
+Serpentine-mews, and knew all about him.
+
+705
+00:29:12,960 --> 00:29:14,670
+When I had listened to all they had to
+
+706
+00:29:14,669 --> 00:29:17,379
+tell, I began to walk up and down near
+
+707
+00:29:17,379 --> 00:29:20,199
+Briony Lodge once more, and to think over
+
+708
+00:29:20,200 --> 00:29:22,860
+my plan of campaign.
+
+709
+00:29:22,860 --> 00:29:25,530
+"This Godfrey Norton was evidently an
+
+710
+00:29:25,529 --> 00:29:28,029
+important factor in the matter.
+
+711
+00:29:28,029 --> 00:29:29,779
+He was a lawyer.
+
+712
+00:29:29,779 --> 00:29:30,809
+That sounded ominous.
+
+713
+00:29:31,649 --> 00:29:34,639
+What was the relation between them, and
+
+714
+00:29:34,639 --> 00:29:37,589
+what the object of his repeated visits?
+
+715
+00:29:37,590 --> 00:29:41,240
+Was she his client, his friend, or his
+
+716
+00:29:41,240 --> 00:29:41,630
+mistress?
+
+717
+00:29:42,779 --> 00:29:45,379
+If the former, she had probably transferred
+
+718
+00:29:45,379 --> 00:29:47,649
+the photograph to his keeping.
+
+719
+00:29:47,649 --> 00:29:49,969
+If the latter, it was less likely.
+
+720
+00:29:50,840 --> 00:29:52,780
+On the issue of this question depended
+
+721
+00:29:52,779 --> 00:29:55,469
+whether I should continue my work at Briony
+
+722
+00:29:55,470 --> 00:29:57,760
+Lodge, or turn my attention to the
+
+723
+00:29:57,759 --> 00:29:59,389
+gentleman's chambers in the Temple.
+
+724
+00:30:00,220 --> 00:30:03,010
+It was a delicate point, and it widened the
+
+725
+00:30:03,009 --> 00:30:04,209
+field of my inquiry.
+
+726
+00:30:04,990 --> 00:30:07,690
+I fear that I bore you with these details,
+
+727
+00:30:07,690 --> 00:30:09,760
+but I have to let you see my little
+
+728
+00:30:09,759 --> 00:30:12,399
+difficulties, if you are to understand the
+
+729
+00:30:12,399 --> 00:30:14,219
+situation."
+
+730
+00:30:14,220 --> 00:30:19,150
+"I am following you closely," I answered.
+
+731
+00:30:19,149 --> 00:30:21,179
+"I was still balancing the matter in my
+
+732
+00:30:21,179 --> 00:30:24,639
+mind when a hansom cab drove up to Briony
+
+733
+00:30:24,639 --> 00:30:26,429
+Lodge, and a gentleman sprang out.
+
+734
+00:30:27,210 --> 00:30:30,490
+He was a remarkably handsome man, dark,
+
+735
+00:30:30,490 --> 00:30:33,710
+aquiline, and moustached--evidently the man
+
+736
+00:30:33,710 --> 00:30:35,560
+of whom I had heard.
+
+737
+00:30:35,559 --> 00:30:38,399
+He appeared to be in a great hurry, shouted
+
+738
+00:30:38,399 --> 00:30:41,209
+to the cabman to wait, and brushed past the
+
+739
+00:30:41,210 --> 00:30:43,400
+maid who opened the door with the air of a
+
+740
+00:30:43,399 --> 00:30:44,829
+man who was thoroughly at home.
+
+741
+00:30:45,879 --> 00:30:48,189
+"He was in the house about half an hour,
+
+742
+00:30:48,190 --> 00:30:50,250
+and I could catch glimpses of him in the
+
+743
+00:30:50,250 --> 00:30:53,160
+windows of the sitting-room, pacing up and
+
+744
+00:30:53,159 --> 00:30:55,969
+down, talking excitedly, and waving his
+
+745
+00:30:55,970 --> 00:30:57,210
+arms.
+
+746
+00:30:57,210 --> 00:31:00,110
+Of her I could see nothing.
+
+747
+00:31:00,110 --> 00:31:02,120
+Presently he emerged, looking even more
+
+748
+00:31:02,120 --> 00:31:03,200
+flurried than before.
+
+749
+00:31:04,259 --> 00:31:06,739
+As he stepped up to the cab, he pulled a
+
+750
+00:31:06,740 --> 00:31:08,890
+gold watch from his pocket and looked at it
+
+751
+00:31:08,889 --> 00:31:12,129
+earnestly, 'Drive like the devil,' he
+
+752
+00:31:12,129 --> 00:31:14,799
+shouted, 'first to Gross &amp; Hankey's in
+
+753
+00:31:14,929 --> 00:31:17,239
+Regent Street, and then to the Church of
+
+754
+00:31:17,240 --> 00:31:19,810
+St. Monica in the Edgeware Road.
+
+755
+00:31:19,809 --> 00:31:21,909
+Half a guinea if you do it in twenty
+
+756
+00:31:21,909 --> 00:31:22,159
+minutes!'
+
+757
+00:31:21,909 --> 00:31:25,869
+"Away they went, and I was just wondering
+
+758
+00:31:25,870 --> 00:31:28,120
+whether I should not do well to follow them
+
+759
+00:31:28,120 --> 00:31:31,780
+when up the lane came a neat little landau,
+
+760
+00:31:31,779 --> 00:31:33,899
+the coachman with his coat only half-
+
+761
+00:31:33,899 --> 00:31:36,959
+buttoned, and his tie under his ear, while
+
+762
+00:31:36,960 --> 00:31:39,070
+all the tags of his harness were sticking
+
+763
+00:31:39,070 --> 00:31:40,800
+out of the buckles.
+
+764
+00:31:40,799 --> 00:31:42,739
+It hadn't pulled up before she shot out of
+
+765
+00:31:42,740 --> 00:31:44,200
+the hall door and into it.
+
+766
+00:31:44,929 --> 00:31:46,499
+I only caught a glimpse of her at the
+
+767
+00:31:46,499 --> 00:31:49,269
+moment, but she was a lovely woman, with a
+
+768
+00:31:49,269 --> 00:31:52,249
+face that a man might die for.
+
+769
+00:31:52,249 --> 00:31:54,659
+"'The Church of St. Monica, John,' she
+
+770
+00:31:54,659 --> 00:31:57,159
+cried, 'and half a sovereign if you reach
+
+771
+00:31:57,159 --> 00:32:00,079
+it in twenty minutes.'
+
+772
+00:32:00,080 --> 00:32:02,210
+"This was quite too good to lose, Watson.
+
+773
+00:32:02,210 --> 00:32:04,840
+I was just balancing whether I should run
+
+774
+00:32:04,840 --> 00:32:07,230
+for it, or whether I should perch behind
+
+775
+00:32:07,230 --> 00:32:09,500
+her landau when a cab came through the
+
+776
+00:32:09,499 --> 00:32:09,849
+street.
+
+777
+00:32:10,710 --> 00:32:13,060
+The driver looked twice at such a shabby
+
+778
+00:32:13,059 --> 00:32:14,769
+fare, but I jumped in before he could
+
+779
+00:32:14,769 --> 00:32:15,209
+object.
+
+780
+00:32:15,210 --> 00:32:18,620
+'The Church of St. Monica,' said I, 'and
+
+781
+00:32:18,620 --> 00:32:20,970
+half a sovereign if you reach it in twenty
+
+782
+00:32:20,970 --> 00:32:21,220
+minutes.'
+
+783
+00:32:21,960 --> 00:32:24,170
+It was twenty-five minutes to twelve, and
+
+784
+00:32:24,169 --> 00:32:26,029
+of course it was clear enough what was in
+
+785
+00:32:26,029 --> 00:32:27,249
+the wind.
+
+786
+00:32:27,249 --> 00:32:29,009
+"My cabby drove fast.
+
+787
+00:32:29,539 --> 00:32:32,299
+I don't think I ever drove faster, but the
+
+788
+00:32:32,299 --> 00:32:35,089
+others were there before us.
+
+789
+00:32:35,090 --> 00:32:36,770
+The cab and the landau with their steaming
+
+790
+00:32:36,769 --> 00:32:38,769
+horses were in front of the door when I
+
+791
+00:32:38,769 --> 00:32:39,399
+arrived.
+
+792
+00:32:39,399 --> 00:32:42,399
+I paid the man and hurried into the church.
+
+793
+00:32:42,399 --> 00:32:45,579
+There was not a soul there save the two
+
+794
+00:32:45,580 --> 00:32:47,730
+whom I had followed and a surpliced
+
+795
+00:32:47,730 --> 00:32:50,630
+clergyman, who seemed to be expostulating
+
+796
+00:32:50,629 --> 00:32:51,849
+with them.
+
+797
+00:32:51,850 --> 00:32:54,300
+They were all three standing in a knot in
+
+798
+00:32:54,299 --> 00:32:55,689
+front of the altar.
+
+799
+00:32:55,690 --> 00:32:58,150
+I lounged up the side aisle like any other
+
+800
+00:32:58,149 --> 00:32:59,959
+idler who has dropped into a church.
+
+801
+00:33:00,860 --> 00:33:03,650
+Suddenly, to my surprise, the three at the
+
+802
+00:33:03,649 --> 00:33:06,769
+altar faced round to me, and Godfrey Norton
+
+803
+00:33:06,769 --> 00:33:08,859
+came running as hard as he could towards
+
+804
+00:33:08,860 --> 00:33:09,850
+me.
+
+805
+00:33:09,850 --> 00:33:11,850
+"'Thank God,' he cried.
+
+806
+00:33:11,850 --> 00:33:12,720
+'You'll do.
+
+807
+00:33:12,720 --> 00:33:13,290
+Come!
+
+808
+00:33:13,289 --> 00:33:14,939
+Come!'
+
+809
+00:33:14,940 --> 00:33:16,020
+"'What then?'
+
+810
+00:33:16,019 --> 00:33:17,739
+I asked.
+
+811
+00:33:17,740 --> 00:33:20,260
+"'Come, man, come, only three minutes, or
+
+812
+00:33:20,259 --> 00:33:21,179
+it won't be legal.'
+
+813
+00:33:22,169 --> 00:33:25,269
+"I was half-dragged up to the altar, and
+
+814
+00:33:25,269 --> 00:33:27,709
+before I knew where I was I found myself
+
+815
+00:33:27,710 --> 00:33:29,930
+mumbling responses which were whispered in
+
+816
+00:33:29,929 --> 00:33:32,779
+my ear, and vouching for things of which I
+
+817
+00:33:32,779 --> 00:33:35,479
+knew nothing, and generally assisting in
+
+818
+00:33:35,480 --> 00:33:38,200
+the secure tying up of Irene Adler,
+
+819
+00:33:38,200 --> 00:33:41,240
+spinster, to Godfrey Norton, bachelor.
+
+820
+00:33:42,330 --> 00:33:45,030
+It was all done in an instant, and there
+
+821
+00:33:45,029 --> 00:33:46,869
+was the gentleman thanking me on the one
+
+822
+00:33:46,870 --> 00:33:49,890
+side and the lady on the other, while the
+
+823
+00:33:49,889 --> 00:33:51,839
+clergyman beamed on me in front.
+
+824
+00:33:52,809 --> 00:33:55,849
+It was the most preposterous position in
+
+825
+00:33:55,850 --> 00:33:58,680
+which I ever found myself in my life, and
+
+826
+00:33:58,679 --> 00:34:00,439
+it was the thought of it that started me
+
+827
+00:34:00,440 --> 00:34:01,860
+laughing just now.
+
+828
+00:34:03,350 --> 00:34:04,870
+It seems that there had been some
+
+829
+00:34:04,870 --> 00:34:07,660
+informality about their license, that the
+
+830
+00:34:07,659 --> 00:34:10,239
+clergyman absolutely refused to marry them
+
+831
+00:34:10,240 --> 00:34:12,940
+without a witness of some sort, and that my
+
+832
+00:34:12,940 --> 00:34:15,120
+lucky appearance saved the bridegroom from
+
+833
+00:34:15,119 --> 00:34:17,749
+having to sally out into the streets in
+
+834
+00:34:17,750 --> 00:34:19,560
+search of a best man.
+
+835
+00:34:19,559 --> 00:34:21,839
+The bride gave me a sovereign, and I mean
+
+836
+00:34:21,839 --> 00:34:24,389
+to wear it on my watch-chain in memory of
+
+837
+00:34:24,389 --> 00:34:25,769
+the occasion."
+
+838
+00:34:25,770 --> 00:34:28,160
+"This is a very unexpected turn of
+
+839
+00:34:28,159 --> 00:34:32,329
+affairs," said I; "and what then?"
+
+840
+00:34:32,329 --> 00:34:34,769
+"Well, I found my plans very seriously
+
+841
+00:34:34,770 --> 00:34:35,230
+menaced.
+
+842
+00:34:36,129 --> 00:34:37,969
+It looked as if the pair might take an
+
+843
+00:34:37,970 --> 00:34:40,880
+immediate departure, and so necessitate
+
+844
+00:34:40,879 --> 00:34:43,309
+very prompt and energetic measures on my
+
+845
+00:34:43,309 --> 00:34:43,879
+part.
+
+846
+00:34:43,879 --> 00:34:46,509
+At the church door, however, they
+
+847
+00:34:46,510 --> 00:34:49,900
+separated, he driving back to the Temple,
+
+848
+00:34:49,899 --> 00:34:52,449
+and she to her own house.
+
+849
+00:34:52,450 --> 00:34:55,620
+'I shall drive out in the park at five as
+
+850
+00:34:55,619 --> 00:34:57,729
+usual,' she said as she left him.
+
+851
+00:34:57,730 --> 00:34:59,580
+I heard no more.
+
+852
+00:34:59,579 --> 00:35:01,879
+They drove away in different directions,
+
+853
+00:35:01,880 --> 00:35:03,300
+and I went off to make my own
+
+854
+00:35:03,300 --> 00:35:04,910
+arrangements."
+
+855
+00:35:04,910 --> 00:35:06,610
+"Which are?"
+
+856
+00:35:06,609 --> 00:35:09,619
+"Some cold beef and a glass of beer," he
+
+857
+00:35:09,619 --> 00:35:11,839
+answered, ringing the bell.
+
+858
+00:35:11,839 --> 00:35:15,079
+"I have been too busy to think of food, and
+
+859
+00:35:15,079 --> 00:35:16,489
+I am likely to be busier still this
+
+860
+00:35:16,490 --> 00:35:17,520
+evening.
+
+861
+00:35:17,520 --> 00:35:20,210
+By the way, Doctor, I shall want your co-
+
+862
+00:35:20,210 --> 00:35:21,920
+operation."
+
+863
+00:35:21,920 --> 00:35:24,280
+"I shall be delighted."
+
+864
+00:35:24,280 --> 00:35:27,280
+"You don't mind breaking the law?"
+
+865
+00:35:27,280 --> 00:35:29,280
+"Not in the least."
+
+866
+00:35:29,280 --> 00:35:32,160
+"Nor running a chance of arrest?"
+
+867
+00:35:32,160 --> 00:35:34,510
+"Not in a good cause."
+
+868
+00:35:34,510 --> 00:35:37,500
+"Oh, the cause is excellent!"
+
+869
+00:35:37,500 --> 00:35:39,770
+"Then I am your man."
+
+870
+00:35:39,770 --> 00:35:42,990
+"I was sure that I might rely on you."
+
+871
+00:35:42,990 --> 00:35:46,200
+"But what is it you wish?"
+
+872
+00:35:46,200 --> 00:35:48,350
+"When Mrs. Turner has brought in the tray I
+
+873
+00:35:48,349 --> 00:35:49,519
+will make it clear to you.
+
+874
+00:35:50,380 --> 00:35:53,260
+Now," he said as he turned hungrily on the
+
+875
+00:35:53,260 --> 00:35:56,460
+simple fare that our landlady had provided,
+
+876
+00:35:56,460 --> 00:35:59,080
+"I must discuss it while I eat, for I have
+
+877
+00:35:59,079 --> 00:35:59,769
+not much time.
+
+878
+00:35:59,770 --> 00:36:01,950
+It is nearly five now.
+
+879
+00:36:01,950 --> 00:36:05,230
+In two hours we must be on the scene of
+
+880
+00:36:05,230 --> 00:36:06,560
+action.
+
+881
+00:36:06,559 --> 00:36:09,939
+Miss Irene, or Madame, rather, returns from
+
+882
+00:36:09,940 --> 00:36:11,710
+her drive at seven.
+
+883
+00:36:11,710 --> 00:36:14,970
+We must be at Briony Lodge to meet her."
+
+884
+00:36:14,970 --> 00:36:17,030
+"And what then?"
+
+885
+00:36:17,030 --> 00:36:19,060
+"You must leave that to me.
+
+886
+00:36:19,059 --> 00:36:22,349
+I have already arranged what is to occur.
+
+887
+00:36:22,349 --> 00:36:24,259
+There is only one point on which I must
+
+888
+00:36:24,260 --> 00:36:25,170
+insist.
+
+889
+00:36:25,170 --> 00:36:28,370
+You must not interfere, come what may.
+
+890
+00:36:28,369 --> 00:36:30,239
+You understand?"
+
+891
+00:36:30,240 --> 00:36:32,970
+"I am to be neutral?"
+
+892
+00:36:32,970 --> 00:36:34,010
+"To do nothing whatever.
+
+893
+00:36:34,869 --> 00:36:37,029
+There will probably be some small
+
+894
+00:36:37,030 --> 00:36:38,860
+unpleasantness.
+
+895
+00:36:38,859 --> 00:36:40,419
+Do not join in it.
+
+896
+00:36:40,420 --> 00:36:42,770
+It will end in my being conveyed into the
+
+897
+00:36:42,770 --> 00:36:43,900
+house.
+
+898
+00:36:43,900 --> 00:36:46,020
+Four or five minutes afterwards the
+
+899
+00:36:46,020 --> 00:36:48,200
+sitting-room window will open.
+
+900
+00:36:48,200 --> 00:36:50,490
+You are to station yourself close to that
+
+901
+00:36:50,490 --> 00:36:52,000
+open window."
+
+902
+00:36:52,000 --> 00:36:53,420
+"Yes."
+
+903
+00:36:53,420 --> 00:36:55,710
+"You are to watch me, for I will be visible
+
+904
+00:36:55,710 --> 00:36:57,060
+to you."
+
+905
+00:36:57,059 --> 00:36:57,399
+"Yes."
+
+906
+00:36:58,470 --> 00:37:01,510
+"And when I raise my hand--so--you will
+
+907
+00:37:01,510 --> 00:37:03,580
+throw into the room what I give you to
+
+908
+00:37:03,579 --> 00:37:06,809
+throw, and will, at the same time, raise
+
+909
+00:37:06,809 --> 00:37:08,769
+the cry of fire.
+
+910
+00:37:08,770 --> 00:37:09,770
+You quite follow me?"
+
+911
+00:37:09,770 --> 00:37:12,610
+"Entirely."
+
+912
+00:37:12,609 --> 00:37:15,579
+"It is nothing very formidable," he said,
+
+913
+00:37:15,579 --> 00:37:18,259
+taking a long cigar-shaped roll from his
+
+914
+00:37:18,260 --> 00:37:18,510
+pocket.
+
+915
+00:37:19,230 --> 00:37:22,120
+"It is an ordinary plumber's smoke-rocket,
+
+916
+00:37:22,119 --> 00:37:24,209
+fitted with a cap at either end to make it
+
+917
+00:37:24,210 --> 00:37:25,280
+self-lighting.
+
+918
+00:37:25,280 --> 00:37:27,520
+Your task is confined to that.
+
+919
+00:37:28,470 --> 00:37:30,980
+When you raise your cry of fire, it will be
+
+920
+00:37:30,980 --> 00:37:33,640
+taken up by quite a number of people.
+
+921
+00:37:33,640 --> 00:37:35,430
+You may then walk to the end of the street,
+
+922
+00:37:35,430 --> 00:37:38,480
+and I will rejoin you in ten minutes.
+
+923
+00:37:38,480 --> 00:37:40,380
+I hope that I have made myself clear?"
+
+924
+00:37:40,380 --> 00:37:44,810
+"I am to remain neutral, to get near the
+
+925
+00:37:44,809 --> 00:37:48,329
+window, to watch you, and at the signal to
+
+926
+00:37:48,329 --> 00:37:51,409
+throw in this object, then to raise the cry
+
+927
+00:37:51,410 --> 00:37:54,580
+of fire, and to wait you at the corner of
+
+928
+00:37:54,579 --> 00:37:55,889
+the street."
+
+929
+00:37:55,890 --> 00:37:57,820
+"Precisely."
+
+930
+00:37:57,819 --> 00:38:00,889
+"Then you may entirely rely on me."
+
+931
+00:38:00,890 --> 00:38:02,380
+"That is excellent.
+
+932
+00:38:02,380 --> 00:38:04,930
+I think, perhaps, it is almost time that I
+
+933
+00:38:04,930 --> 00:38:09,160
+prepare for the new role I have to play."
+
+934
+00:38:09,160 --> 00:38:11,460
+He disappeared into his bedroom and
+
+935
+00:38:11,460 --> 00:38:13,420
+returned in a few minutes in the character
+
+936
+00:38:13,420 --> 00:38:15,760
+of an amiable and simple-minded
+
+937
+00:38:15,760 --> 00:38:17,470
+Nonconformist clergyman.
+
+938
+00:38:18,430 --> 00:38:21,750
+His broad black hat, his baggy trousers,
+
+939
+00:38:21,750 --> 00:38:25,510
+his white tie, his sympathetic smile, and
+
+940
+00:38:25,510 --> 00:38:27,760
+general look of peering and benevolent
+
+941
+00:38:27,760 --> 00:38:31,250
+curiosity were such as Mr. John Hare alone
+
+942
+00:38:31,250 --> 00:38:32,760
+could have equalled.
+
+943
+00:38:32,760 --> 00:38:35,040
+It was not merely that Holmes changed his
+
+944
+00:38:35,040 --> 00:38:36,350
+costume.
+
+945
+00:38:36,349 --> 00:38:39,549
+His expression, his manner, his very soul
+
+946
+00:38:39,550 --> 00:38:41,910
+seemed to vary with every fresh part that
+
+947
+00:38:41,910 --> 00:38:43,380
+he assumed.
+
+948
+00:38:43,380 --> 00:38:46,490
+The stage lost a fine actor, even as
+
+949
+00:38:46,490 --> 00:38:48,770
+science lost an acute reasoner, when he
+
+950
+00:38:48,770 --> 00:38:50,750
+became a specialist in crime.
+
+951
+00:38:50,750 --> 00:38:54,850
+It was a quarter past six when we left
+
+952
+00:38:54,849 --> 00:38:57,549
+Baker Street, and it still wanted ten
+
+953
+00:38:57,550 --> 00:38:59,420
+minutes to the hour when we found ourselves
+
+954
+00:38:59,420 --> 00:39:00,710
+in Serpentine Avenue.
+
+955
+00:39:00,710 --> 00:39:03,900
+It was already dusk, and the lamps were
+
+956
+00:39:03,900 --> 00:39:06,540
+just being lighted as we paced up and down
+
+957
+00:39:06,540 --> 00:39:09,270
+in front of Briony Lodge, waiting for the
+
+958
+00:39:09,270 --> 00:39:10,450
+coming of its occupant.
+
+959
+00:39:11,520 --> 00:39:13,870
+The house was just such as I had pictured
+
+960
+00:39:13,869 --> 00:39:16,209
+it from Sherlock Holmes' succinct
+
+961
+00:39:16,210 --> 00:39:19,140
+description, but the locality appeared to
+
+962
+00:39:19,140 --> 00:39:20,930
+be less private than I expected.
+
+963
+00:39:21,800 --> 00:39:24,600
+On the contrary, for a small street in a
+
+964
+00:39:24,599 --> 00:39:27,069
+quiet neighbourhood, it was remarkably
+
+965
+00:39:27,069 --> 00:39:27,499
+animated.
+
+966
+00:39:28,450 --> 00:39:30,360
+There was a group of shabbily dressed men
+
+967
+00:39:30,359 --> 00:39:33,179
+smoking and laughing in a corner, a
+
+968
+00:39:33,180 --> 00:39:36,200
+scissors-grinder with his wheel, two
+
+969
+00:39:36,200 --> 00:39:37,690
+guardsmen who were flirting with a nurse-
+
+970
+00:39:37,690 --> 00:39:40,520
+girl, and several well-dressed young men
+
+971
+00:39:40,520 --> 00:39:42,680
+who were lounging up and down with cigars
+
+972
+00:39:42,680 --> 00:39:44,700
+in their mouths.
+
+973
+00:39:44,700 --> 00:39:47,740
+"You see," remarked Holmes, as we paced to
+
+974
+00:39:47,740 --> 00:39:50,220
+and fro in front of the house, "this
+
+975
+00:39:50,220 --> 00:39:53,190
+marriage rather simplifies matters.
+
+976
+00:39:53,190 --> 00:39:55,300
+The photograph becomes a double-edged
+
+977
+00:39:55,300 --> 00:39:56,950
+weapon now.
+
+978
+00:39:56,950 --> 00:39:59,570
+The chances are that she would be as averse
+
+979
+00:39:59,569 --> 00:40:02,939
+to its being seen by Mr. Godfrey Norton, as
+
+980
+00:40:02,940 --> 00:40:05,280
+our client is to its coming to the eyes of
+
+981
+00:40:05,280 --> 00:40:05,940
+his princess.
+
+982
+00:40:06,849 --> 00:40:10,359
+Now the question is, Where are we to find
+
+983
+00:40:10,359 --> 00:40:10,999
+the photograph?"
+
+984
+00:40:11,000 --> 00:40:14,510
+"Where, indeed?"
+
+985
+00:40:14,510 --> 00:40:16,680
+"It is most unlikely that she carries it
+
+986
+00:40:16,680 --> 00:40:17,800
+about with her.
+
+987
+00:40:17,799 --> 00:40:20,309
+It is cabinet size.
+
+988
+00:40:20,309 --> 00:40:22,689
+Too large for easy concealment about a
+
+989
+00:40:22,690 --> 00:40:24,330
+woman's dress.
+
+990
+00:40:24,329 --> 00:40:26,369
+She knows that the King is capable of
+
+991
+00:40:26,369 --> 00:40:28,749
+having her waylaid and searched.
+
+992
+00:40:28,750 --> 00:40:31,140
+Two attempts of the sort have already been
+
+993
+00:40:31,140 --> 00:40:32,250
+made.
+
+994
+00:40:32,250 --> 00:40:34,240
+We may take it, then, that she does not
+
+995
+00:40:34,240 --> 00:40:36,480
+carry it about with her."
+
+996
+00:40:36,480 --> 00:40:38,500
+"Where, then?"
+
+997
+00:40:38,500 --> 00:40:40,780
+"Her banker or her lawyer.
+
+998
+00:40:40,780 --> 00:40:43,730
+There is that double possibility.
+
+999
+00:40:43,730 --> 00:40:47,060
+But I am inclined to think neither.
+
+1000
+00:40:47,059 --> 00:40:49,479
+Women are naturally secretive, and they
+
+1001
+00:40:49,480 --> 00:40:52,120
+like to do their own secreting.
+
+1002
+00:40:52,119 --> 00:40:55,219
+Why should she hand it over to anyone else?
+
+1003
+00:40:55,220 --> 00:40:57,700
+She could trust her own guardianship, but
+
+1004
+00:40:57,700 --> 00:40:59,930
+she could not tell what indirect or
+
+1005
+00:40:59,930 --> 00:41:02,140
+political influence might be brought to
+
+1006
+00:41:02,140 --> 00:41:04,250
+bear upon a business man.
+
+1007
+00:41:04,250 --> 00:41:07,450
+Besides, remember that she had resolved to
+
+1008
+00:41:07,450 --> 00:41:09,760
+use it within a few days.
+
+1009
+00:41:09,760 --> 00:41:12,190
+It must be where she can lay her hands upon
+
+1010
+00:41:12,190 --> 00:41:12,850
+it.
+
+1011
+00:41:12,849 --> 00:41:15,639
+It must be in her own house."
+
+1012
+00:41:15,640 --> 00:41:18,500
+"But it has twice been burgled."
+
+1013
+00:41:18,500 --> 00:41:19,540
+"Pshaw!
+
+1014
+00:41:19,540 --> 00:41:21,440
+They did not know how to look."
+
+1015
+00:41:21,440 --> 00:41:25,380
+"But how will you look?"
+
+1016
+00:41:25,380 --> 00:41:27,390
+"I will not look."
+
+1017
+00:41:27,390 --> 00:41:28,940
+"What then?"
+
+1018
+00:41:28,940 --> 00:41:30,770
+"I will get her to show me."
+
+1019
+00:41:30,770 --> 00:41:34,560
+"But she will refuse."
+
+1020
+00:41:34,559 --> 00:41:37,459
+"She will not be able to.
+
+1021
+00:41:37,460 --> 00:41:39,890
+But I hear the rumble of wheels.
+
+1022
+00:41:39,890 --> 00:41:41,420
+It is her carriage.
+
+1023
+00:41:41,420 --> 00:41:45,860
+Now carry out my orders to the letter."
+
+1024
+00:41:45,859 --> 00:41:48,029
+As he spoke the gleam of the side-lights of
+
+1025
+00:41:48,030 --> 00:41:50,240
+a carriage came round the curve of the
+
+1026
+00:41:50,240 --> 00:41:51,580
+avenue.
+
+1027
+00:41:51,579 --> 00:41:53,899
+It was a smart little landau which rattled
+
+1028
+00:41:53,900 --> 00:41:56,890
+up to the door of Briony Lodge.
+
+1029
+00:41:56,890 --> 00:41:59,370
+As it pulled up, one of the loafing men at
+
+1030
+00:41:59,369 --> 00:42:01,729
+the corner dashed forward to open the door
+
+1031
+00:42:01,730 --> 00:42:04,110
+in the hope of earning a copper, but was
+
+1032
+00:42:04,109 --> 00:42:06,449
+elbowed away by another loafer, who had
+
+1033
+00:42:06,450 --> 00:42:08,750
+rushed up with the same intention.
+
+1034
+00:42:08,750 --> 00:42:11,050
+A fierce quarrel broke out, which was
+
+1035
+00:42:11,049 --> 00:42:13,319
+increased by the two guardsmen, who took
+
+1036
+00:42:13,319 --> 00:42:16,489
+sides with one of the loungers, and by the
+
+1037
+00:42:16,490 --> 00:42:19,050
+scissors-grinder, who was equally hot upon
+
+1038
+00:42:19,049 --> 00:42:20,609
+the other side.
+
+1039
+00:42:20,609 --> 00:42:23,389
+A blow was struck, and in an instant the
+
+1040
+00:42:23,390 --> 00:42:25,970
+lady, who had stepped from her carriage,
+
+1041
+00:42:25,970 --> 00:42:28,460
+was the centre of a little knot of flushed
+
+1042
+00:42:28,460 --> 00:42:31,420
+and struggling men, who struck savagely at
+
+1043
+00:42:31,420 --> 00:42:34,550
+each other with their fists and sticks.
+
+1044
+00:42:34,549 --> 00:42:36,709
+Holmes dashed into the crowd to protect the
+
+1045
+00:42:36,710 --> 00:42:40,120
+lady; but just as he reached her he gave a
+
+1046
+00:42:40,119 --> 00:42:42,269
+cry and dropped to the ground, with the
+
+1047
+00:42:42,270 --> 00:42:43,930
+blood running freely down his face.
+
+1048
+00:42:44,970 --> 00:42:46,930
+At his fall the guardsmen took to their
+
+1049
+00:42:46,930 --> 00:42:49,810
+heels in one direction and the loungers in
+
+1050
+00:42:49,809 --> 00:42:52,419
+the other, while a number of better-dressed
+
+1051
+00:42:52,420 --> 00:42:54,280
+people, who had watched the scuffle without
+
+1052
+00:42:54,280 --> 00:42:57,010
+taking part in it, crowded in to help the
+
+1053
+00:42:57,010 --> 00:42:59,240
+lady and to attend to the injured man.
+
+1054
+00:43:00,890 --> 00:43:04,070
+Irene Adler, as I will still call her, had
+
+1055
+00:43:04,069 --> 00:43:07,099
+hurried up the steps; but she stood at the
+
+1056
+00:43:07,099 --> 00:43:09,979
+top with her superb figure outlined against
+
+1057
+00:43:09,980 --> 00:43:12,640
+the lights of the hall, looking back into
+
+1058
+00:43:12,640 --> 00:43:14,680
+the street.
+
+1059
+00:43:14,680 --> 00:43:17,420
+"Is the poor gentleman much hurt?" she
+
+1060
+00:43:17,420 --> 00:43:18,520
+asked.
+
+1061
+00:43:18,520 --> 00:43:21,950
+"He is dead," cried several voices.
+
+1062
+00:43:21,950 --> 00:43:25,140
+"No, no, there's life in him!" shouted
+
+1063
+00:43:25,140 --> 00:43:26,240
+another.
+
+1064
+00:43:26,240 --> 00:43:28,170
+"But he'll be gone before you can get him
+
+1065
+00:43:28,170 --> 00:43:29,010
+to hospital."
+
+1066
+00:43:29,010 --> 00:43:33,180
+"He's a brave fellow," said a woman.
+
+1067
+00:43:33,180 --> 00:43:35,160
+"They would have had the lady's purse and
+
+1068
+00:43:35,160 --> 00:43:37,640
+watch if it hadn't been for him.
+
+1069
+00:43:37,640 --> 00:43:40,820
+They were a gang, and a rough one, too.
+
+1070
+00:43:40,819 --> 00:43:43,829
+Ah, he's breathing now."
+
+1071
+00:43:43,829 --> 00:43:45,769
+"He can't lie in the street.
+
+1072
+00:43:45,770 --> 00:43:48,130
+May we bring him in, marm?"
+
+1073
+00:43:48,130 --> 00:43:49,610
+"Surely.
+
+1074
+00:43:49,609 --> 00:43:51,499
+Bring him into the sitting-room.
+
+1075
+00:43:51,500 --> 00:43:53,530
+There is a comfortable sofa.
+
+1076
+00:43:53,530 --> 00:43:54,060
+This way, please!"
+
+1077
+00:43:54,059 --> 00:43:58,319
+Slowly and solemnly he was borne into
+
+1078
+00:43:58,319 --> 00:44:00,719
+Briony Lodge and laid out in the principal
+
+1079
+00:44:00,720 --> 00:44:02,840
+room, while I still observed the
+
+1080
+00:44:02,839 --> 00:44:05,909
+proceedings from my post by the window.
+
+1081
+00:44:05,910 --> 00:44:08,460
+The lamps had been lit, but the blinds had
+
+1082
+00:44:08,460 --> 00:44:10,940
+not been drawn, so that I could see Holmes
+
+1083
+00:44:10,940 --> 00:44:12,160
+as he lay upon the couch.
+
+1084
+00:44:12,160 --> 00:44:15,240
+I do not know whether he was seized with
+
+1085
+00:44:15,240 --> 00:44:17,400
+compunction at that moment for the part he
+
+1086
+00:44:17,400 --> 00:44:20,060
+was playing, but I know that I never felt
+
+1087
+00:44:20,059 --> 00:44:23,159
+more heartily ashamed of myself in my life
+
+1088
+00:44:23,160 --> 00:44:25,220
+than when I saw the beautiful creature
+
+1089
+00:44:25,220 --> 00:44:28,500
+against whom I was conspiring, or the grace
+
+1090
+00:44:28,500 --> 00:44:31,190
+and kindliness with which she waited upon
+
+1091
+00:44:31,190 --> 00:44:32,020
+the injured man.
+
+1092
+00:44:33,230 --> 00:44:35,270
+And yet it would be the blackest treachery
+
+1093
+00:44:35,270 --> 00:44:38,240
+to Holmes to draw back now from the part
+
+1094
+00:44:38,240 --> 00:44:39,460
+which he had intrusted to me.
+
+1095
+00:44:39,460 --> 00:44:43,030
+I hardened my heart, and took the smoke-
+
+1096
+00:44:43,030 --> 00:44:45,560
+rocket from under my ulster.
+
+1097
+00:44:45,559 --> 00:44:48,039
+After all, I thought, we are not injuring
+
+1098
+00:44:48,040 --> 00:44:49,050
+her.
+
+1099
+00:44:49,049 --> 00:44:51,469
+We are but preventing her from injuring
+
+1100
+00:44:51,470 --> 00:44:51,810
+another.
+
+1101
+00:44:53,270 --> 00:44:55,870
+Holmes had sat up upon the couch, and I saw
+
+1102
+00:44:55,869 --> 00:44:57,889
+him motion like a man who is in need of
+
+1103
+00:44:57,890 --> 00:44:58,140
+air.
+
+1104
+00:44:58,000 --> 00:45:01,490
+A maid rushed across and threw open the
+
+1105
+00:45:01,490 --> 00:45:02,040
+window.
+
+1106
+00:45:02,040 --> 00:45:04,460
+At the same instant I saw him raise his
+
+1107
+00:45:04,460 --> 00:45:07,300
+hand and at the signal I tossed my rocket
+
+1108
+00:45:07,299 --> 00:45:09,299
+into the room with a cry of "Fire!"
+
+1109
+00:45:10,480 --> 00:45:13,060
+The word was no sooner out of my mouth than
+
+1110
+00:45:13,059 --> 00:45:15,769
+the whole crowd of spectators, well dressed
+
+1111
+00:45:15,770 --> 00:45:19,180
+and ill--gentlemen, ostlers, and servant-
+
+1112
+00:45:19,180 --> 00:45:21,940
+maids--joined in a general shriek of
+
+1113
+00:45:21,940 --> 00:45:23,640
+"Fire!"
+
+1114
+00:45:23,640 --> 00:45:25,610
+Thick clouds of smoke curled through the
+
+1115
+00:45:25,609 --> 00:45:27,479
+room and out at the open window.
+
+1116
+00:45:28,230 --> 00:45:31,130
+I caught a glimpse of rushing figures, and
+
+1117
+00:45:31,130 --> 00:45:32,710
+a moment later the voice of Holmes from
+
+1118
+00:45:32,710 --> 00:45:36,340
+within assuring them that it was a false
+
+1119
+00:45:36,339 --> 00:45:36,589
+alarm.
+
+1120
+00:45:37,359 --> 00:45:39,539
+Slipping through the shouting crowd I made
+
+1121
+00:45:39,540 --> 00:45:42,290
+my way to the corner of the street, and in
+
+1122
+00:45:42,290 --> 00:45:44,410
+ten minutes was rejoiced to find my
+
+1123
+00:45:44,410 --> 00:45:47,450
+friend's arm in mine, and to get away from
+
+1124
+00:45:47,450 --> 00:45:49,260
+the scene of uproar.
+
+1125
+00:45:49,260 --> 00:45:51,950
+He walked swiftly and in silence for some
+
+1126
+00:45:51,950 --> 00:45:53,850
+few minutes until we had turned down one of
+
+1127
+00:45:53,849 --> 00:45:56,299
+the quiet streets which lead towards the
+
+1128
+00:45:56,299 --> 00:45:58,469
+Edgeware Road.
+
+1129
+00:45:58,470 --> 00:46:01,090
+"You did it very nicely, Doctor," he
+
+1130
+00:46:01,089 --> 00:46:02,189
+remarked.
+
+1131
+00:46:02,190 --> 00:46:03,880
+"Nothing could have been better.
+
+1132
+00:46:03,880 --> 00:46:06,360
+It is all right."
+
+1133
+00:46:06,359 --> 00:46:08,439
+"You have the photograph?"
+
+1134
+00:46:08,440 --> 00:46:10,820
+"I know where it is."
+
+1135
+00:46:10,819 --> 00:46:13,449
+"And how did you find out?"
+
+1136
+00:46:13,450 --> 00:46:16,070
+"She showed me, as I told you she would."
+
+1137
+00:46:16,069 --> 00:46:19,189
+"I am still in the dark."
+
+1138
+00:46:19,190 --> 00:46:23,310
+"I do not wish to make a mystery," said he,
+
+1139
+00:46:23,309 --> 00:46:24,349
+laughing.
+
+1140
+00:46:24,349 --> 00:46:26,699
+"The matter was perfectly simple.
+
+1141
+00:46:26,700 --> 00:46:29,290
+You, of course, saw that everyone in the
+
+1142
+00:46:29,290 --> 00:46:30,970
+street was an accomplice.
+
+1143
+00:46:30,970 --> 00:46:33,520
+They were all engaged for the evening."
+
+1144
+00:46:33,520 --> 00:46:34,660
+"I guessed as much."
+
+1145
+00:46:34,660 --> 00:46:37,910
+"Then, when the row broke out, I had a
+
+1146
+00:46:37,910 --> 00:46:39,900
+little moist red paint in the palm of my
+
+1147
+00:46:39,900 --> 00:46:40,580
+hand.
+
+1148
+00:46:40,579 --> 00:46:43,609
+I rushed forward, fell down, clapped my
+
+1149
+00:46:43,609 --> 00:46:45,919
+hand to my face, and became a piteous
+
+1150
+00:46:45,920 --> 00:46:47,310
+spectacle.
+
+1151
+00:46:47,309 --> 00:46:48,339
+It is an old trick."
+
+1152
+00:46:48,339 --> 00:46:52,389
+"That also I could fathom."
+
+1153
+00:46:52,390 --> 00:46:54,470
+"Then they carried me in.
+
+1154
+00:46:54,470 --> 00:46:56,140
+She was bound to have me in.
+
+1155
+00:46:56,140 --> 00:46:58,230
+What else could she do?
+
+1156
+00:46:58,230 --> 00:47:00,400
+And into her sitting-room, which was the
+
+1157
+00:47:00,400 --> 00:47:02,940
+very room which I suspected.
+
+1158
+00:47:02,940 --> 00:47:05,420
+It lay between that and her bedroom, and I
+
+1159
+00:47:05,420 --> 00:47:06,660
+was determined to see which.
+
+1160
+00:47:06,660 --> 00:47:10,250
+They laid me on a couch, I motioned for
+
+1161
+00:47:10,250 --> 00:47:12,970
+air, they were compelled to open the
+
+1162
+00:47:12,970 --> 00:47:16,020
+window, and you had your chance."
+
+1163
+00:47:16,020 --> 00:47:18,450
+"How did that help you?"
+
+1164
+00:47:18,450 --> 00:47:19,550
+"It was all-important.
+
+1165
+00:47:19,549 --> 00:47:22,299
+When a woman thinks that her house is on
+
+1166
+00:47:22,299 --> 00:47:25,519
+fire, her instinct is at once to rush to
+
+1167
+00:47:25,520 --> 00:47:28,160
+the thing which she values most.
+
+1168
+00:47:28,160 --> 00:47:30,830
+It is a perfectly overpowering impulse, and
+
+1169
+00:47:30,829 --> 00:47:33,119
+I have more than once taken advantage of
+
+1170
+00:47:33,119 --> 00:47:33,369
+it.
+
+1171
+00:47:34,140 --> 00:47:36,400
+In the case of the Darlington substitution
+
+1172
+00:47:36,400 --> 00:47:39,400
+scandal it was of use to me, and also in
+
+1173
+00:47:39,400 --> 00:47:40,830
+the Arnsworth Castle business.
+
+1174
+00:47:40,829 --> 00:47:44,099
+A married woman grabs at her baby; an
+
+1175
+00:47:44,099 --> 00:47:46,639
+unmarried one reaches for her jewel-box.
+
+1176
+00:47:46,640 --> 00:47:50,150
+Now it was clear to me that our lady of to-
+
+1177
+00:47:50,150 --> 00:47:52,460
+day had nothing in the house more precious
+
+1178
+00:47:52,460 --> 00:47:56,130
+to her than what we are in quest of.
+
+1179
+00:47:56,130 --> 00:47:58,230
+She would rush to secure it.
+
+1180
+00:47:58,230 --> 00:48:01,130
+The alarm of fire was admirably done.
+
+1181
+00:48:01,130 --> 00:48:03,140
+The smoke and shouting were enough to shake
+
+1182
+00:48:03,140 --> 00:48:04,910
+nerves of steel.
+
+1183
+00:48:04,910 --> 00:48:06,350
+She responded beautifully.
+
+1184
+00:48:07,099 --> 00:48:09,459
+The photograph is in a recess behind a
+
+1185
+00:48:09,460 --> 00:48:12,160
+sliding panel just above the right bell-
+
+1186
+00:48:12,160 --> 00:48:13,310
+pull.
+
+1187
+00:48:13,309 --> 00:48:15,729
+She was there in an instant, and I caught a
+
+1188
+00:48:15,730 --> 00:48:18,640
+glimpse of it as she half-drew it out.
+
+1189
+00:48:18,640 --> 00:48:21,300
+When I cried out that it was a false alarm,
+
+1190
+00:48:21,299 --> 00:48:24,269
+she replaced it, glanced at the rocket,
+
+1191
+00:48:24,270 --> 00:48:26,340
+rushed from the room, and I have not seen
+
+1192
+00:48:26,339 --> 00:48:26,899
+her since.
+
+1193
+00:48:27,880 --> 00:48:31,010
+I rose, and, making my excuses, escaped
+
+1194
+00:48:31,010 --> 00:48:31,510
+from the house.
+
+1195
+00:48:32,460 --> 00:48:34,780
+I hesitated whether to attempt to secure
+
+1196
+00:48:34,780 --> 00:48:37,260
+the photograph at once; but the coachman
+
+1197
+00:48:37,260 --> 00:48:39,520
+had come in, and as he was watching me
+
+1198
+00:48:39,520 --> 00:48:42,410
+narrowly it seemed safer to wait.
+
+1199
+00:48:42,410 --> 00:48:46,790
+A little over-precipitance may ruin all."
+
+1200
+00:48:46,789 --> 00:48:47,969
+"And now?"
+
+1201
+00:48:47,970 --> 00:48:49,570
+I asked.
+
+1202
+00:48:49,569 --> 00:48:52,129
+"Our quest is practically finished.
+
+1203
+00:48:52,130 --> 00:48:54,540
+I shall call with the King to-morrow, and
+
+1204
+00:48:54,539 --> 00:48:57,289
+with you, if you care to come with us.
+
+1205
+00:48:57,289 --> 00:48:59,159
+We will be shown into the sitting-room to
+
+1206
+00:48:59,160 --> 00:49:01,860
+wait for the lady, but it is probable that
+
+1207
+00:49:01,859 --> 00:49:05,009
+when she comes she may find neither us nor
+
+1208
+00:49:05,010 --> 00:49:05,640
+the photograph.
+
+1209
+00:49:06,460 --> 00:49:09,290
+It might be a satisfaction to his Majesty
+
+1210
+00:49:09,289 --> 00:49:12,309
+to regain it with his own hands."
+
+1211
+00:49:12,309 --> 00:49:14,949
+"And when will you call?"
+
+1212
+00:49:14,950 --> 00:49:16,280
+"At eight in the morning.
+
+1213
+00:49:16,780 --> 00:49:19,270
+She will not be up, so that we shall have a
+
+1214
+00:49:19,270 --> 00:49:20,680
+clear field.
+
+1215
+00:49:20,680 --> 00:49:23,050
+Besides, we must be prompt, for this
+
+1216
+00:49:23,049 --> 00:49:25,429
+marriage may mean a complete change in her
+
+1217
+00:49:25,430 --> 00:49:26,950
+life and habits.
+
+1218
+00:49:26,950 --> 00:49:30,750
+I must wire to the King without delay."
+
+1219
+00:49:30,750 --> 00:49:32,940
+We had reached Baker Street and had stopped
+
+1220
+00:49:32,940 --> 00:49:34,070
+at the door.
+
+1221
+00:49:34,069 --> 00:49:35,939
+He was searching his pockets for the key
+
+1222
+00:49:35,940 --> 00:49:38,710
+when someone passing said:
+
+1223
+00:49:38,710 --> 00:49:41,710
+"Good-night, Mister Sherlock Holmes."
+
+1224
+00:49:41,710 --> 00:49:43,680
+There were several people on the pavement
+
+1225
+00:49:43,680 --> 00:49:45,920
+at the time, but the greeting appeared to
+
+1226
+00:49:45,920 --> 00:49:48,550
+come from a slim youth in an ulster who had
+
+1227
+00:49:48,549 --> 00:49:49,719
+hurried by.
+
+1228
+00:49:49,720 --> 00:49:53,360
+"I've heard that voice before," said
+
+1229
+00:49:53,359 --> 00:49:56,249
+Holmes, staring down the dimly lit street.
+
+1230
+00:49:56,250 --> 00:49:58,760
+"Now, I wonder who the deuce that could
+
+1231
+00:49:58,760 --> 00:50:02,090
+have been."
+
+1232
+00:50:02,089 --> 00:50:03,759
+III.
+
+1233
+00:50:03,760 --> 00:50:06,390
+I slept at Baker Street that night, and we
+
+1234
+00:50:06,390 --> 00:50:08,820
+were engaged upon our toast and coffee in
+
+1235
+00:50:08,819 --> 00:50:11,329
+the morning when the King of Bohemia rushed
+
+1236
+00:50:11,329 --> 00:50:12,969
+into the room.
+
+1237
+00:50:12,970 --> 00:50:15,490
+"You have really got it!" he cried,
+
+1238
+00:50:15,490 --> 00:50:18,020
+grasping Sherlock Holmes by either shoulder
+
+1239
+00:50:18,020 --> 00:50:20,720
+and looking eagerly into his face.
+
+1240
+00:50:20,720 --> 00:50:22,210
+"Not yet."
+
+1241
+00:50:22,210 --> 00:50:24,210
+"But you have hopes?"
+
+1242
+00:50:24,210 --> 00:50:25,980
+"I have hopes."
+
+1243
+00:50:25,980 --> 00:50:27,170
+"Then, come.
+
+1244
+00:50:27,170 --> 00:50:29,850
+I am all impatience to be gone."
+
+1245
+00:50:29,849 --> 00:50:31,549
+"We must have a cab."
+
+1246
+00:50:31,549 --> 00:50:34,019
+"No, my brougham is waiting."
+
+1247
+00:50:34,020 --> 00:50:36,600
+"Then that will simplify matters."
+
+1248
+00:50:36,599 --> 00:50:39,559
+We descended and started off once more for
+
+1249
+00:50:39,559 --> 00:50:42,089
+Briony Lodge.
+
+1250
+00:50:42,089 --> 00:50:45,759
+"Irene Adler is married," remarked Holmes.
+
+1251
+00:50:45,760 --> 00:50:46,720
+"Married!
+
+1252
+00:50:46,720 --> 00:50:47,990
+When?"
+
+1253
+00:50:47,990 --> 00:50:49,820
+"Yesterday."
+
+1254
+00:50:49,819 --> 00:50:51,779
+"But to whom?"
+
+1255
+00:50:51,780 --> 00:50:54,870
+"To an English lawyer named Norton."
+
+1256
+00:50:54,869 --> 00:50:56,229
+"But she could not love him."
+
+1257
+00:50:56,230 --> 00:50:59,880
+"I am in hopes that she does."
+
+1258
+00:50:59,880 --> 00:51:02,880
+"And why in hopes?"
+
+1259
+00:51:02,880 --> 00:51:05,220
+"Because it would spare your Majesty all
+
+1260
+00:51:05,220 --> 00:51:06,570
+fear of future annoyance.
+
+1261
+00:51:07,430 --> 00:51:10,190
+If the lady loves her husband, she does not
+
+1262
+00:51:10,190 --> 00:51:11,770
+love your Majesty.
+
+1263
+00:51:11,770 --> 00:51:14,120
+If she does not love your Majesty, there is
+
+1264
+00:51:14,119 --> 00:51:16,039
+no reason why she should interfere with
+
+1265
+00:51:16,039 --> 00:51:18,559
+your Majesty's plan."
+
+1266
+00:51:18,559 --> 00:51:19,359
+"It is true.
+
+1267
+00:51:19,359 --> 00:51:21,249
+And yet--Well!
+
+1268
+00:51:21,250 --> 00:51:24,080
+I wish she had been of my own station!
+
+1269
+00:51:24,079 --> 00:51:27,309
+What a queen she would have made!"
+
+1270
+00:51:27,309 --> 00:51:29,629
+He relapsed into a moody silence, which was
+
+1271
+00:51:29,630 --> 00:51:32,350
+not broken until we drew up in Serpentine
+
+1272
+00:51:32,349 --> 00:51:33,629
+Avenue.
+
+1273
+00:51:33,630 --> 00:51:36,270
+The door of Briony Lodge was open, and an
+
+1274
+00:51:36,270 --> 00:51:38,870
+elderly woman stood upon the steps.
+
+1275
+00:51:38,869 --> 00:51:41,229
+She watched us with a sardonic eye as we
+
+1276
+00:51:41,230 --> 00:51:43,930
+stepped from the brougham.
+
+1277
+00:51:43,930 --> 00:51:46,710
+"Mr. Sherlock Holmes, I believe?" said she.
+
+1278
+00:51:46,710 --> 00:51:51,250
+"I am Mr. Holmes," answered my companion,
+
+1279
+00:51:51,250 --> 00:51:52,820
+looking at her with a questioning and
+
+1280
+00:51:52,819 --> 00:51:55,369
+rather startled gaze.
+
+1281
+00:51:55,369 --> 00:51:56,009
+"Indeed!
+
+1282
+00:51:56,609 --> 00:51:58,849
+My mistress told me that you were likely to
+
+1283
+00:51:58,849 --> 00:51:59,869
+call.
+
+1284
+00:51:59,869 --> 00:52:01,769
+She left this morning with her husband by
+
+1285
+00:52:01,770 --> 00:52:04,600
+the 5:15 train from Charing Cross for the
+
+1286
+00:52:04,599 --> 00:52:05,999
+Continent."
+
+1287
+00:52:06,000 --> 00:52:07,040
+"What!"
+
+1288
+00:52:07,039 --> 00:52:09,449
+Sherlock Holmes staggered back, white with
+
+1289
+00:52:09,450 --> 00:52:11,660
+chagrin and surprise.
+
+1290
+00:52:11,660 --> 00:52:14,920
+"Do you mean that she has left England?"
+
+1291
+00:52:14,920 --> 00:52:17,760
+"Never to return."
+
+1292
+00:52:17,760 --> 00:52:21,120
+"And the papers?" asked the King hoarsely.
+
+1293
+00:52:21,119 --> 00:52:23,449
+"All is lost."
+
+1294
+00:52:23,450 --> 00:52:24,180
+"We shall see."
+
+1295
+00:52:25,339 --> 00:52:27,459
+He pushed past the servant and rushed into
+
+1296
+00:52:27,460 --> 00:52:29,640
+the drawing-room, followed by the King and
+
+1297
+00:52:29,640 --> 00:52:30,120
+myself.
+
+1298
+00:52:30,789 --> 00:52:32,819
+The furniture was scattered about in every
+
+1299
+00:52:32,819 --> 00:52:35,559
+direction, with dismantled shelves and open
+
+1300
+00:52:35,559 --> 00:52:38,009
+drawers, as if the lady had hurriedly
+
+1301
+00:52:38,010 --> 00:52:39,840
+ransacked them before her flight.
+
+1302
+00:52:40,680 --> 00:52:43,280
+Holmes rushed at the bell-pull, tore back a
+
+1303
+00:52:43,280 --> 00:52:46,010
+small sliding shutter, and, plunging in his
+
+1304
+00:52:46,010 --> 00:52:49,910
+hand, pulled out a photograph and a letter.
+
+1305
+00:52:49,920 --> 00:52:52,540
+The photograph was of Irene Adler herself
+
+1306
+00:52:52,539 --> 00:52:54,619
+in evening dress, the letter was
+
+1307
+00:52:54,619 --> 00:52:58,369
+superscribed to "Sherlock Holmes, Esq. To
+
+1308
+00:52:58,369 --> 00:52:59,689
+be left till called for."
+
+1309
+00:53:00,680 --> 00:53:03,600
+My friend tore it open and we all three
+
+1310
+00:53:03,599 --> 00:53:05,119
+read it together.
+
+1311
+00:53:05,119 --> 00:53:07,229
+It was dated at midnight of the preceding
+
+1312
+00:53:07,230 --> 00:53:08,920
+night and ran in this way:
+
+1313
+00:53:10,480 --> 00:53:13,990
+"MY DEAR MR. SHERLOCK HOLMES,--You really
+
+1314
+00:53:13,990 --> 00:53:15,690
+did it very well.
+
+1315
+00:53:15,690 --> 00:53:18,010
+You took me in completely.
+
+1316
+00:53:18,010 --> 00:53:20,530
+Until after the alarm of fire, I had not a
+
+1317
+00:53:20,530 --> 00:53:21,730
+suspicion.
+
+1318
+00:53:21,730 --> 00:53:23,980
+But then, when I found how I had betrayed
+
+1319
+00:53:23,980 --> 00:53:26,340
+myself, I began to think.
+
+1320
+00:53:26,339 --> 00:53:29,939
+I had been warned against you months ago.
+
+1321
+00:53:29,940 --> 00:53:32,470
+I had been told that if the King employed
+
+1322
+00:53:32,470 --> 00:53:35,470
+an agent it would certainly be you.
+
+1323
+00:53:35,470 --> 00:53:38,010
+And your address had been given me.
+
+1324
+00:53:38,010 --> 00:53:40,720
+Yet, with all this, you made me reveal what
+
+1325
+00:53:40,720 --> 00:53:41,670
+you wanted to know.
+
+1326
+00:53:42,650 --> 00:53:45,910
+Even after I became suspicious, I found it
+
+1327
+00:53:45,910 --> 00:53:48,890
+hard to think evil of such a dear, kind old
+
+1328
+00:53:48,890 --> 00:53:50,260
+clergyman.
+
+1329
+00:53:50,260 --> 00:53:52,720
+But, you know, I have been trained as an
+
+1330
+00:53:52,720 --> 00:53:54,580
+actress myself.
+
+1331
+00:53:54,579 --> 00:53:57,139
+Male costume is nothing new to me.
+
+1332
+00:53:57,140 --> 00:53:59,080
+I often take advantage of the freedom which
+
+1333
+00:53:59,079 --> 00:54:00,469
+it gives.
+
+1334
+00:54:00,470 --> 00:54:03,470
+I sent John, the coachman, to watch you,
+
+1335
+00:54:03,470 --> 00:54:06,350
+ran up stairs, got into my walking-clothes,
+
+1336
+00:54:06,349 --> 00:54:09,429
+as I call them, and came down just as you
+
+1337
+00:54:09,430 --> 00:54:09,950
+departed.
+
+1338
+00:54:11,359 --> 00:54:14,589
+"Well, I followed you to your door, and so
+
+1339
+00:54:14,589 --> 00:54:16,899
+made sure that I was really an object of
+
+1340
+00:54:16,900 --> 00:54:19,580
+interest to the celebrated Mr. Sherlock
+
+1341
+00:54:19,579 --> 00:54:19,829
+Holmes.
+
+1342
+00:54:20,329 --> 00:54:23,539
+Then I, rather imprudently, wished you
+
+1343
+00:54:23,539 --> 00:54:25,739
+good-night, and started for the Temple to
+
+1344
+00:54:25,740 --> 00:54:26,610
+see my husband.
+
+1345
+00:54:27,539 --> 00:54:29,609
+"We both thought the best resource was
+
+1346
+00:54:29,609 --> 00:54:32,419
+flight, when pursued by so formidable an
+
+1347
+00:54:32,420 --> 00:54:35,610
+antagonist; so you will find the nest empty
+
+1348
+00:54:35,609 --> 00:54:36,739
+when you call to-morrow.
+
+1349
+00:54:37,660 --> 00:54:40,140
+As to the photograph, your client may rest
+
+1350
+00:54:40,140 --> 00:54:41,570
+in peace.
+
+1351
+00:54:41,569 --> 00:54:44,349
+I love and am loved by a better man than
+
+1352
+00:54:44,349 --> 00:54:44,599
+he.
+
+1353
+00:54:45,589 --> 00:54:47,379
+The King may do what he will without
+
+1354
+00:54:47,380 --> 00:54:49,250
+hindrance from one whom he has cruelly
+
+1355
+00:54:49,250 --> 00:54:49,850
+wronged.
+
+1356
+00:54:50,690 --> 00:54:53,740
+I keep it only to safeguard myself, and to
+
+1357
+00:54:53,740 --> 00:54:56,010
+preserve a weapon which will always secure
+
+1358
+00:54:56,010 --> 00:54:59,180
+me from any steps which he might take in
+
+1359
+00:54:59,180 --> 00:55:00,230
+the future.
+
+1360
+00:55:00,230 --> 00:55:02,510
+I leave a photograph which he might care to
+
+1361
+00:55:02,510 --> 00:55:06,180
+possess; and I remain, dear Mr. Sherlock
+
+1362
+00:55:06,180 --> 00:55:06,740
+Holmes,
+
+1363
+00:55:06,740 --> 00:55:11,550
+"Very truly yours, "IRENE NORTON, née
+
+1364
+00:55:11,549 --> 00:55:13,479
+ADLER."
+
+1365
+00:55:13,480 --> 00:55:17,190
+"What a woman--oh, what a woman!" cried the
+
+1366
+00:55:17,190 --> 00:55:19,680
+King of Bohemia, when we had all three read
+
+1367
+00:55:19,680 --> 00:55:21,170
+this epistle.
+
+1368
+00:55:21,170 --> 00:55:23,580
+"Did I not tell you how quick and resolute
+
+1369
+00:55:23,579 --> 00:55:25,069
+she was?
+
+1370
+00:55:25,069 --> 00:55:28,039
+Would she not have made an admirable queen?
+
+1371
+00:55:28,039 --> 00:55:30,379
+Is it not a pity that she was not on my
+
+1372
+00:55:30,380 --> 00:55:30,760
+level?"
+
+1373
+00:55:32,319 --> 00:55:34,089
+"From what I have seen of the lady she
+
+1374
+00:55:34,089 --> 00:55:36,839
+seems indeed to be on a very different
+
+1375
+00:55:36,839 --> 00:55:39,929
+level to your Majesty," said Holmes coldly.
+
+1376
+00:55:40,809 --> 00:55:42,809
+"I am sorry that I have not been able to
+
+1377
+00:55:42,809 --> 00:55:45,029
+bring your Majesty's business to a more
+
+1378
+00:55:45,029 --> 00:55:47,439
+successful conclusion."
+
+1379
+00:55:47,440 --> 00:55:50,620
+"On the contrary, my dear sir," cried the
+
+1380
+00:55:50,619 --> 00:55:53,869
+King; "nothing could be more successful.
+
+1381
+00:55:53,869 --> 00:55:56,419
+I know that her word is inviolate.
+
+1382
+00:55:56,420 --> 00:55:58,710
+The photograph is now as safe as if it were
+
+1383
+00:55:58,710 --> 00:55:59,370
+in the fire."
+
+1384
+00:55:59,369 --> 00:56:04,829
+"I am glad to hear your Majesty say so."
+
+1385
+00:56:04,829 --> 00:56:07,729
+"I am immensely indebted to you.
+
+1386
+00:56:07,730 --> 00:56:10,890
+Pray tell me in what way I can reward you.
+
+1387
+00:56:10,890 --> 00:56:13,910
+This ring--" He slipped an emerald snake
+
+1388
+00:56:13,910 --> 00:56:16,040
+ring from his finger and held it out upon
+
+1389
+00:56:16,039 --> 00:56:18,399
+the palm of his hand.
+
+1390
+00:56:18,400 --> 00:56:20,210
+"Your Majesty has something which I should
+
+1391
+00:56:20,210 --> 00:56:24,140
+value even more highly," said Holmes.
+
+1392
+00:56:24,140 --> 00:56:26,390
+"You have but to name it."
+
+1393
+00:56:26,390 --> 00:56:28,660
+"This photograph!"
+
+1394
+00:56:28,660 --> 00:56:31,120
+The King stared at him in amazement.
+
+1395
+00:56:31,119 --> 00:56:34,229
+"Irene's photograph!" he cried.
+
+1396
+00:56:34,230 --> 00:56:35,670
+"Certainly, if you wish it."
+
+1397
+00:56:35,670 --> 00:56:38,680
+"I thank your Majesty.
+
+1398
+00:56:38,680 --> 00:56:40,580
+Then there is no more to be done in the
+
+1399
+00:56:40,579 --> 00:56:41,549
+matter.
+
+1400
+00:56:41,549 --> 00:56:44,169
+I have the honour to wish you a very good-
+
+1401
+00:56:44,170 --> 00:56:44,590
+morning."
+
+1402
+00:56:45,960 --> 00:56:47,740
+He bowed, and, turning away without
+
+1403
+00:56:47,740 --> 00:56:49,500
+observing the hand which the King had
+
+1404
+00:56:49,500 --> 00:56:52,160
+stretched out to him, he set off in my
+
+1405
+00:56:52,160 --> 00:56:53,600
+company for his chambers.
+
+1406
+00:56:53,599 --> 00:56:57,109
+And that was how a great scandal threatened
+
+1407
+00:56:57,109 --> 00:57:00,149
+to affect the kingdom of Bohemia, and how
+
+1408
+00:57:00,150 --> 00:57:03,230
+the best plans of Mr. Sherlock Holmes were
+
+1409
+00:57:03,230 --> 00:57:04,750
+beaten by a woman's wit.
+
+1410
+00:57:05,880 --> 00:57:08,020
+He used to make merry over the cleverness
+
+1411
+00:57:08,020 --> 00:57:10,710
+of women, but I have not heard him do it of
+
+1412
+00:57:10,710 --> 00:57:10,960
+late.
+
+1413
+00:57:11,809 --> 00:57:14,449
+And when he speaks of Irene Adler, or when
+
+1414
+00:57:14,450 --> 00:57:17,420
+he refers to her photograph, it is always
+
+1415
+00:57:17,420 --> 00:57:20,290
+under the honourable title of the woman.
+

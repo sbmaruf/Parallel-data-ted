@@ -1,0 +1,43 @@
+1
+00:00:00,617 --> 00:00:04,629
+[Terbaru dalam Firefox] Sekarang lebih mudah dan pantas untuk melakukan apa yang anda mahukan dengan Firefox terbaru.
+
+2
+00:00:05,065 --> 00:00:10,565
+Dengan Laman Utama yang telah direka semula, anda lebih mudah mencapai dan mencari pilihan menu yang biasa anda gunakan.
+
+3
+00:00:10,719 --> 00:00:15,342
+Seperti Muat Turun (Downloads), Penanda, Sejarah lawatan, Tambahan, Sync dan Tetapan.
+
+4
+00:00:15,588 --> 00:00:18,868
+[Laman Tap Terbaru] Kami juga telah menambahbaik Laman Tab anda.
+
+5
+00:00:19,206 --> 00:00:25,530
+Dengan Laman Tab, anda lebih mudah mencari laman yang terbaru dan kerap anda lawati dengan satu klik.
+
+6
+00:00:25,823 --> 00:00:31,818
+Untuk mula menggunakan Laman Tab terbaru, buka tab terbaru dengan mengklik ikon '+' (tambah) di bahagian atas pelayar anda.
+
+7
+00:00:31,972 --> 00:00:38,911
+Laman tab baru akan memaparkan gambar kecil laman-laman yang terbaru dan kerap anda lawati dari sejarah lawatan.
+
+8
+00:00:39,034 --> 00:00:44,138
+Anda boleh mereka sendiri tab baru anda dengan cara menarik gambar kecil laman kebahagian lain bagi menukar kedudukan.
+
+9
+00:00:44,215 --> 00:00:49,030
+Klik pada pin penanda untuk mengekalkan kedudukan laman atau butang 'x' bagi membuang laman.
+
+10
+00:00:49,261 --> 00:00:54,830
+Anda juga boleh klik pada ikon 'grid' pada bahagian atas kanan laman untuk kembali ke tab baru yang kosong.
+
+11
+00:00:54,876 --> 00:00:59,473
+Dapatkan Firefox terbaru sekarang dan mula menggunakan fungsi terbaru hari ini!

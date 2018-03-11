@@ -1,0 +1,529 @@
+1
+00:00:00,000 --> 00:00:04,724
+Selamat datang ke perbincangan
+
+2
+00:00:04,724 --> 00:00:05,690
+tentang ASAS PENAMBAHAN!
+
+3
+00:00:12,606 --> 00:00:14,942
+Anda sudah bersedia?
+
+4
+00:00:14,942 --> 00:00:16,862
+Jom,mari kita mula dengan
+
+5
+00:00:16,862 --> 00:00:18,623
+menyelesaikan beberapa soalan mudah.
+
+6
+00:00:22,013 --> 00:00:26,192
+Contohnya, 1+1.
+
+7
+00:00:26,192 --> 00:00:28,468
+Ya,saya pasti anda tahu jawapannya.
+
+8
+00:00:28,468 --> 00:00:30,962
+Jadi saya cuma ingin kongsikan cara
+
+9
+00:00:30,962 --> 00:00:32,492
+untuk mendapat jawapan itu
+
+10
+00:00:32,492 --> 00:00:34,412
+jika anda belum mampu untuk mencongaknya.
+
+11
+00:00:34,412 --> 00:00:36,595
+Katakan saya ada
+
+12
+00:00:41,099 --> 00:00:42,771
+1 biji buah limau.
+
+13
+00:00:42,771 --> 00:00:46,765
+Anda pula memberi saya 1 lagi limau,
+
+14
+00:00:46,765 --> 00:00:49,041
+Sekarang, berapa biji limau yang saya ada ?
+
+15
+00:00:49,041 --> 00:00:51,548
+Mari kita kira.
+1..2.. biji limau.
+
+16
+00:00:51,548 --> 00:00:54,940
+Jadi 1+1 = 2!
+
+17
+00:00:54,940 --> 00:00:56,377
+Jika anda rasa contoh ini
+
+18
+00:00:56,377 --> 00:00:57,850
+terlalu mudah,
+
+19
+00:00:57,850 --> 00:01:00,030
+mari kita selesaikan contoh
+
+20
+00:01:00,030 --> 00:01:03,669
+yang lebih mencabar.
+
+21
+00:01:03,669 --> 00:01:09,010
+Berapakah jumlah 3+4?
+
+22
+00:01:12,214 --> 00:01:14,321
+Saya masih menggunakan limau
+
+23
+00:01:14,321 --> 00:01:16,500
+sebagai contoh.
+
+24
+00:01:23,994 --> 00:01:28,050
+Katakan saya ada 3 biji limau.
+
+25
+00:01:28,050 --> 00:01:32,418
+1...2...3...,
+
+26
+00:01:32,418 --> 00:01:35,561
+dan anda bagi saya 4 biji limau lagi.
+
+27
+00:01:35,561 --> 00:01:37,746
+Saya warnakan limau anda
+
+28
+00:01:37,746 --> 00:01:40,775
+dengan warna kuning.
+
+29
+00:01:40,775 --> 00:01:41,894
+1.....2....3...4...
+
+30
+00:01:45,976 --> 00:01:48,623
+Sekarang berapa jumlah lima yang saya ada?
+
+31
+00:01:48,623 --> 00:01:55,500
+1...2...(giliran anda!)
+6...7 biji limau!
+
+32
+00:01:55,500 --> 00:01:58,468
+Maka 3+4 = 7!
+
+33
+00:01:59,068 --> 00:02:00,252
+Ok. Sekarang saya ingin memperkenalkan
+
+34
+00:02:00,252 --> 00:02:01,755
+1 lagi cara penambahan
+
+35
+00:02:01,755 --> 00:02:03,135
+yang dipanggil "Garis Nombor".
+
+36
+00:02:03,166 --> 00:02:05,299
+Anda boleh guna cara ini
+
+37
+00:02:05,315 --> 00:02:08,267
+jika anda belum mampu mencongak.
+
+38
+00:02:08,267 --> 00:02:11,657
+Lukiskan 1 garisan dan 
+tulis nombor mengikut turutan.
+
+39
+00:02:11,657 --> 00:02:13,610
+Pastikan semua nombor 
+yang anda guna
+
+40
+00:02:13,610 --> 00:02:15,766
+ada pada garis nombor ini.
+
+41
+00:02:15,766 --> 00:02:17,364
+Nombor pertama ialah 0,
+
+42
+00:02:17,364 --> 00:02:18,040
+maknanya tiada nilai atau
+
+43
+00:02:19,061 --> 00:02:20,083
+tidak ada apa-apa.
+
+44
+00:02:21,132 --> 00:02:37,238
+1...2...(giliran anda!)
+9...10...11.
+
+45
+00:02:38,034 --> 00:02:41,119
+3+4. 
+Jadi kita mulakan dengan
+
+46
+00:02:41,150 --> 00:02:43,701
+3 disini.
+
+47
+00:02:43,701 --> 00:02:45,654
+Kita akan tambah 4 lagi.
+
+48
+00:02:45,654 --> 00:02:48,259
+Tambah bermaksud
+jumlah menjadi lebih besar.
+
+49
+00:02:48,275 --> 00:02:51,088
+Jadi kita anjakkan 4 titik
+
+50
+00:02:51,088 --> 00:02:59,162
+1..2..3..4!
+
+51
+00:02:59,162 --> 00:02:59,960
+Anda nampak tadi macam mana
+
+52
+00:02:59,960 --> 00:03:02,713
+kita anjakkan 4 titik 
+dari nombor 3
+
+53
+00:03:02,713 --> 00:03:04,254
+dan kita dapat 7!
+
+54
+00:03:06,106 --> 00:03:07,148
+Anda boleh cuba selesaikan
+
+55
+00:03:07,148 --> 00:03:09,762
+contoh lain juga seperti;
+
+56
+00:03:09,762 --> 00:03:12,655
+8+1=?
+
+57
+00:03:14,185 --> 00:03:15,315
+Sama saja seperti
+
+58
+00:03:15,315 --> 00:03:16,438
+contoh sebelumnya.
+
+59
+00:03:16,438 --> 00:03:20,056
+Anda mula dari nombor 8
+
+60
+00:03:20,056 --> 00:03:22,451
+dan anjakkan 1 titik.
+
+61
+00:03:22,451 --> 00:03:24,661
+8+1 = 9!
+
+62
+00:03:25,553 --> 00:03:28,400
+Mari kita selesaikan soalan yang mencabar.
+
+63
+00:03:30,246 --> 00:03:31,427
+Sedikit pengetahuan untuk anda,
+
+64
+00:03:31,427 --> 00:03:33,518
+kalau anda ragu-ragu dengan Penambahan,
+
+65
+00:03:33,518 --> 00:03:34,498
+anda boleh lukis bulatan atau objek,
+(seperti limau tadi)
+
+66
+00:03:34,498 --> 00:03:36,110
+ataupun "Garis Nombor".
+
+67
+00:03:36,110 --> 00:03:39,062
+Jika anda berlatih dengan lebih kerap
+
+68
+00:03:39,062 --> 00:03:40,717
+anda akan dapat menghafal cara ini
+
+69
+00:03:40,717 --> 00:03:42,446
+dan boleh mecongak jawapannya dengan pantas!
+
+70
+00:03:45,438 --> 00:03:46,769
+Kita teruskan lagi
+
+71
+00:03:46,769 --> 00:03:47,679
+dengan "Garis Nombor".
+
+72
+00:03:52,168 --> 00:03:54,866
+Lukiskan satu garisan,
+
+73
+00:04:01,133 --> 00:04:04,602
+dan masukkan nombor
+
+74
+00:04:04,602 --> 00:04:06,852
+mengikut turutan.
+
+75
+00:04:06,852 --> 00:04:07,844
+0
+
+76
+00:04:07,844 --> 00:04:08,975
+1...2...3...4...5...6...(giliran anda!)
+13...14...15.
+
+77
+00:04:35,400 --> 00:04:38,825
+Selesaikan 5+6.
+
+78
+00:04:42,202 --> 00:04:44,802
+Contoh ini sedikit mencabar
+
+79
+00:04:44,802 --> 00:04:47,300
+kerana jawapannya lebih dari 1 angka.
+
+80
+00:05:01,201 --> 00:05:03,829
+Dari 5,
+kita tambahkan 6 padanya.
+
+81
+00:05:03,829 --> 00:05:05,577
+Jadi kita anjakkan:
+
+82
+00:05:05,577 --> 00:05:07,590
+1...2...3...4...5...6
+
+83
+00:05:14,259 --> 00:05:16,674
+kita sampai ke titik nombor 11!
+
+84
+00:05:16,674 --> 00:05:19,307
+jadi 5+6 = !11
+
+85
+00:05:19,307 --> 00:05:21,197
+Sekarang saya terbalikkan
+
+86
+00:05:21,197 --> 00:05:24,500
+6+5=?
+
+87
+00:05:25,869 --> 00:05:28,659
+Anda rasa
+
+88
+00:05:28,659 --> 00:05:29,977
+boleh tak kita terbalikkan nombor tadi
+
+89
+00:05:29,977 --> 00:05:31,105
+dan dapat jawapan yang sama?
+
+90
+00:05:31,105 --> 00:05:32,159
+Jom kita selesaikan
+
+91
+00:05:32,159 --> 00:05:33,564
+kali ini dengan warna lain
+
+92
+00:05:33,564 --> 00:05:34,599
+supaya kita semua tak keliru.
+
+93
+00:05:34,599 --> 00:05:36,254
+Bermula dari titik nombor 6,
+
+94
+00:05:36,254 --> 00:05:39,987
+anjakkan 5 darinya.
+
+95
+00:05:39,987 --> 00:05:44,854
+1..2..3..4..5
+
+96
+00:05:44,854 --> 00:05:47,017
+Kita dapat jawapan di tempat yang sama!
+
+97
+00:05:47,017 --> 00:05:48,538
+Saya pasti anda hendak cuba buat cara ini
+
+98
+00:05:48,538 --> 00:05:49,185
+pada soalan-soalan yang lain.
+
+99
+00:05:49,185 --> 00:05:50,777
+Terbukti hasilnya yang mana
+
+100
+00:05:50,777 --> 00:05:53,300
+tidak kira urutan apa yang anda buat;
+
+101
+00:05:53,300 --> 00:05:56,069
+"5+6" sama sahaja dengan "6+5"
+
+102
+00:06:01,785 --> 00:06:04,238
+Ok, mari teruskan beberapa latihan lagi
+
+103
+00:06:04,238 --> 00:06:05,527
+untuk menambah kecekepan anda.
+
+104
+00:06:16,015 --> 00:06:22,507
+Berapakah jumlah 8+7?
+
+105
+00:06:22,507 --> 00:06:26,631
+Bermula dari 8,
+
+106
+00:06:26,631 --> 00:06:28,900
+tambahkan 7 lagi padanya.
+
+107
+00:06:28,900 --> 00:06:36,600
+1..2..3..4..5..6..7.
+
+108
+00:06:36,600 --> 00:06:39,007
+Kita akan dapat 15!
+
+109
+00:06:39,007 --> 00:06:42,465
+8+7 = 15!
+
+110
+00:06:42,465 --> 00:06:44,877
+Jadi saya harap anda dapat gambaran
+
+111
+00:06:44,877 --> 00:06:46,400
+macam mana nak selesaikan 
+latihan sebegini.
+
+112
+00:06:51,200 --> 00:06:53,673
+Dalam matapelajaran Matematik,
+
+113
+00:06:53,673 --> 00:06:55,424
+anda perlu banyak berlatih
+
+114
+00:06:55,424 --> 00:06:56,931
+soalan-soalan seperti latihan tadi.
+
+115
+00:06:56,931 --> 00:06:59,417
+Latihan yang banyak menjadikan anda
+
+116
+00:06:59,417 --> 00:07:02,300
+lebih cekap dan mampu mencongak
+
+117
+00:07:02,300 --> 00:07:03,937
+dengan pantas dan tepat.
+
+118
+00:07:19,615 --> 00:07:21,377
+Untuk menyemak jawapan
+
+119
+00:07:21,377 --> 00:07:22,625
+kepada mana-mana soalan penambahan
+
+120
+00:07:22,625 --> 00:07:23,869
+yang terdapat dalam latihan
+
+121
+00:07:23,869 --> 00:07:26,438
+anda boleh tekan "hints" dan 
+ia akan lukiskan bulatan
+
+122
+00:07:26,438 --> 00:07:28,582
+untuk anda kira;
+
+123
+00:07:28,582 --> 00:07:29,763
+atau sekiranya anda ingin mendapat
+
+124
+00:07:29,763 --> 00:07:31,208
+jawapan yang tepat
+
+125
+00:07:31,208 --> 00:07:32,584
+anda boleh lukiskan sendiri
+
+126
+00:07:32,584 --> 00:07:34,215
+bulatan atau garisan nombor
+
+127
+00:07:34,215 --> 00:07:36,805
+seperti yang kita lakukan dalam perbincangan ini.
+
+128
+00:07:36,805 --> 00:07:40,374
+Tahniah! 
+Sekarang anda sudah bersedia untuk menjawab soalan penambahan yang lain pula!
+
+129
+99:59:59,999 --> 99:59:59,999
+Selamat mencuba!

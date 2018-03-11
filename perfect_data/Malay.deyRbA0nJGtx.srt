@@ -1,0 +1,807 @@
+1
+00:00:00,000 --> 00:00:01,110
+....
+
+2
+00:00:01,110 --> 00:00:04,020
+Dalam video ini, kita akan belajar bagaimana untuk grafkan
+
+3
+00:00:04,020 --> 00:00:06,160
+fungsi trig tanpa ada
+
+4
+00:00:06,160 --> 00:00:07,970
+titik graf pada graf
+
+5
+00:00:07,970 --> 00:00:11,410
+diharapkan selepas ini anda juga boleh lihat
+
+6
+00:00:11,410 --> 00:00:15,120
+pada fungsi trig dan mampu cari
+
+7
+00:00:15,120 --> 00:00:17,740
+definisi analitik fungsi yang sebenar juga
+
+8
+00:00:17,740 --> 00:00:18,440
+Maka mari mulakan
+
+9
+00:00:18,440 --> 00:00:19,720
+Mari katakan daripada x
+
+10
+00:00:19,720 --> 00:00:22,550
+Mari pastikan saya gunakan alatan yang betul
+
+11
+00:00:22,550 --> 00:00:45,200
+Maka mari katakan f daripada x itu ialah sama dengan 2 sinus 1/2 x
+
+12
+00:00:45,200 --> 00:00:47,890
+Maka apabila kita lihat pada ini, ada beberapa perkara yang menarik di sini
+
+13
+00:00:47,890 --> 00:00:49,980
+Berapa banyak perbezaan daripada fungsi sinus yang biasa?
+
+14
+00:00:49,980 --> 00:00:55,170
+Baiklah, di sini kita darabkan kesemua fungsi dengan 2,
+
+15
+00:00:55,170 --> 00:00:57,780
+dan pekali pada terma x ialah 1/2
+
+16
+00:00:57,780 --> 00:01:00,650
+Da jika anda lihat beberapa video yang saya buat, anda tahu
+
+17
+00:01:00,650 --> 00:01:05,010
+bahawa terma ini beri kesan pada amplitude dan terma ini juga beri kesan
+
+18
+00:01:05,010 --> 00:01:08,070
+pada masa, atau masa songsang,
+
+19
+00:01:08,070 --> 00:01:08,730
+iaitu frekuensi
+
+20
+00:01:08,730 --> 00:01:09,130
+Mana-mana
+
+21
+00:01:09,130 --> 00:01:11,440
+Ia bergantung pada sama ada anda bercakap tentangnya atau songsang yang satu lagi
+
+22
+00:01:11,440 --> 00:01:12,750
+songsang yang satu lagi
+
+23
+00:01:12,750 --> 00:01:14,710
+Mari mulakan dengan amplitude
+
+24
+00:01:14,710 --> 00:01:17,670
+2 ini beritahu kita bahawa amplitude fungsi ini
+
+25
+00:01:17,670 --> 00:01:19,890
+akan menjadi 2
+
+26
+00:01:19,890 --> 00:01:22,320
+kerana jika ianya hanya 1, amplitude akan menjadi 1
+
+27
+00:01:22,320 --> 00:01:24,000
+Maka ia akan jadi 2 kali itu
+
+28
+00:01:24,000 --> 00:01:34,500
+Mari lukis garis putus-outus kecil di sini pada y sama dengan 2
+
+29
+00:01:34,500 --> 00:01:37,230
+Dan garis putus-putus yang lain pada y sama dengan -2
+
+30
+00:01:37,230 --> 00:01:45,780
+...
+
+31
+00:01:45,780 --> 00:01:46,740
+Maka kita tahu ini amplitude
+
+32
+00:01:46,740 --> 00:01:49,650
+Kita tahu bahawa fungsi akan menjadi beralun
+
+33
+00:01:49,650 --> 00:01:51,710
+antara 2 titik ini, tetapi kita harus cari seberapa cepat
+
+34
+00:01:51,710 --> 00:01:53,570
+ia akan beralun antara dua titik
+
+35
+00:01:53,570 --> 00:01:55,800
+atau apakah masanya
+
+36
+00:01:55,800 --> 00:01:57,330
+Saya akan berikan anda sedikit formula di sini
+
+37
+00:01:57,330 --> 00:02:00,060
+..
+
+38
+00:02:00,060 --> 00:02:06,390
+Fungsi ialah sama dengan amplitude darab... mari katakan
+
+39
+00:02:06,390 --> 00:02:08,890
+sinus, tetapi ia juga berkesan pada kosinus
+
+40
+00:02:08,890 --> 00:02:16,030
+Amplitude fungsi darab sinus daripada 2 pi dibahagikan
+
+41
+00:02:16,030 --> 00:02:20,800
+dengan masa fungsi, darab x
+
+42
+00:02:20,800 --> 00:02:22,850
+Di sini ialah 'p'
+
+43
+00:02:22,850 --> 00:02:26,340
+Maka ia mungkin tidak begitu jelas dari mana ia datang
+
+44
+00:02:26,340 --> 00:02:28,260
+Tetapi apa yang saya mahu anda lakukan ialah mungkin selepas video ini atau
+
+45
+00:02:28,260 --> 00:02:30,950
+mungkin pada masa akan datang, kita akan cuba apabila kita lihat
+
+46
+00:02:30,950 --> 00:02:33,770
+apa berlaku apabila kit tukar pekali ini pada terma x
+
+47
+00:02:33,770 --> 00:02:36,520
+Dan saya fikir ia mula diterima anda bagaimana
+
+48
+00:02:36,520 --> 00:02:38,910
+pegangan persamaan ini
+
+49
+00:02:38,910 --> 00:02:41,190
+Tetapi mari ambil ini sebagai jenis lakonan kepercayaan
+
+50
+00:02:41,190 --> 00:02:45,140
+sekaranng, 2pi bahagi dengan masa pekali pada x
+
+51
+00:02:45,140 --> 00:02:52,670
+Maka jika kita katakan 2pi bahagi dengan masa sama dengan
+
+52
+00:02:52,670 --> 00:02:56,100
+pekali, iaitu 1/2`
+
+53
+00:02:56,100 --> 00:02:57,440
+Saya tahu ini sangat berserabut
+
+54
+00:02:57,440 --> 00:02:59,040
+Dan ini memisahkan ini daripada ini
+
+55
+00:02:59,040 --> 00:03:01,760
+Maka 2 pi bahagi masa ialah sama dengan 1/2
+
+56
+00:03:01,760 --> 00:03:09,150
+atau kita boleh katakan 1/2 masa ialah sama dengan 2pi
+
+57
+00:03:09,150 --> 00:03:13,700
+atau masa ialah sama dengan 4pi
+
+58
+00:03:13,700 --> 00:03:17,110
+Maka kita tahu amplitude sama dengan 2
+
+59
+00:03:17,110 --> 00:03:19,750
+dan masa ialah sama dengan 4pi
+
+60
+00:03:19,750 --> 00:03:21,610
+Dan sekali lagi, bagaimana kita cari
+
+61
+00:03:21,610 --> 00:03:23,050
+masa ialah sama dengan 4pi?
+
+62
+00:03:23,050 --> 00:03:26,670
+Kita guna formula: 2pi bahagi masa ialah
+
+63
+00:03:26,670 --> 00:03:27,590
+pekali pada terma x
+
+64
+00:03:27,590 --> 00:03:31,020
+Maka kita set 2pi bahagi dengan masa sama dengan 1/2, dan kemudian
+
+65
+00:03:31,020 --> 00:03:33,620
+kita selesaikan masa ialah 4pi
+
+66
+00:03:33,620 --> 00:03:34,650
+Maka dimana kita mulakan?
+
+67
+00:03:34,650 --> 00:03:40,580
+Baiklah, apa ialah f daripada 0?
+
+68
+00:03:40,580 --> 00:03:43,330
+aiklah, apabila x ialah sama dengan 0, keseluruhan terma ialah 0
+
+69
+00:03:43,330 --> 00:03:45,210
+Maka apa sinus 0?
+
+70
+00:03:45,210 --> 00:03:48,650
+Sinus 0 ialah 0, jika anda ingat
+
+71
+00:03:48,650 --> 00:03:49,870
+Saya rasa anda boleh gunakan kalkulator, tetapi
+
+72
+00:03:49,870 --> 00:03:51,320
+itu sesuatu yang anda perlu ingat
+
+73
+00:03:51,320 --> 00:03:53,900
+Atau anda boleh lihat semula unit bulatan untuk ingatkan diri anda
+
+74
+00:03:53,900 --> 00:03:55,990
+Sinus 0 ialah 0
+
+75
+00:03:55,990 --> 00:03:59,140
+dan kemudian 0 darab 2 ialah 0
+
+76
+00:03:59,140 --> 00:04:02,640
+Maka f daripada 0 ialah 0
+
+77
+00:04:02,640 --> 00:04:02,920
+Betul?
+
+78
+00:04:02,920 --> 00:04:04,510
+Kita akan lukiskannya di sini
+
+79
+00:04:04,510 --> 00:04:07,290
+Dan kita tahu ia ada masa 4pi
+
+80
+00:04:07,290 --> 00:04:11,300
+Ia bermaksud fungsi akan berulang selepas 4pi
+
+81
+00:04:11,300 --> 00:04:17,166
+Maka jika kita keluar, ia patut diulang semula, pada 4pi
+
+82
+00:04:17,166 --> 00:04:20,020
+...
+
+83
+00:04:20,020 --> 00:04:21,930
+Dan sekarang kita boleh lukiskan fungsi
+
+84
+00:04:21,930 --> 00:04:24,594
+Dan ini perlukan latihan, tetap-- sebenarnya saya akan
+
+85
+00:04:24,594 --> 00:04:25,780
+lukiskannya, dan kita boleh memeriksanya
+
+86
+00:04:25,780 --> 00:04:26,490
+lebih banyak juga
+
+87
+00:04:26,490 --> 00:04:28,515
+Maka fungsi akan kelihatan seperti ini
+
+88
+00:04:28,515 --> 00:04:33,260
+...
+
+89
+00:04:33,260 --> 00:04:33,750
+Oh,
+
+90
+00:04:33,750 --> 00:04:35,280
+Ini lebih sukar daripada apa yang saya fikir
+
+91
+00:04:35,280 --> 00:04:37,350
+dan ia akan berterusan dalam arah ini juga
+
+92
+00:04:37,350 --> 00:04:42,920
+...
+
+93
+00:04:42,920 --> 00:04:51,980
+dan jika anda perasan, masa di sini anda boleh lakukannya dari sini ke sini
+
+94
+00:04:51,980 --> 00:04:54,170
+Jaraknya ialah 4pi
+
+95
+00:04:54,170 --> 00:04:56,490
+Itu masa yang diambil untuk fungsi berulang, atau
+
+96
+00:04:56,490 --> 00:04:57,800
+melalui satu kitaran
+
+97
+00:04:57,800 --> 00:05:01,840
+atau anda boleh juga, jika anda mahu, anda boleh ukur
+
+98
+00:05:01,840 --> 00:05:04,560
+jarak ini kepada jarak ini
+
+99
+00:05:04,560 --> 00:05:06,230
+Ini akan jadi 4pi
+
+100
+00:05:06,230 --> 00:05:07,860
+dan itu masa fungsi
+
+101
+00:05:07,860 --> 00:05:11,270
+Kemudian, pasti, fungsi ampltude
+
+102
+00:05:11,270 --> 00:05:15,590
+yang mana ianya di sini, ialah 2
+
+103
+00:05:15,590 --> 00:05:17,140
+Ini ialah amplitude
+
+104
+00:05:17,140 --> 00:05:22,590
+Dan kemudian masa 4pi yang kita telah cari dari persamaan ini
+
+105
+00:05:22,590 --> 00:05:25,100
+Cara lain kita boleh fikirkan, mari katakan
+
+106
+00:05:25,100 --> 00:05:29,710
+mari saya padamkan ini--- mari katakan saya tidak
+
+107
+00:05:29,710 --> 00:05:31,940
+ada benda ini di sini
+
+108
+00:05:31,940 --> 00:05:37,950
+Mari katakan saya tidak tahu apa fungsinya
+
+109
+00:05:37,950 --> 00:05:40,090
+Mari saya buangkan semua benda ini
+
+110
+00:05:40,090 --> 00:05:43,360
+Dan semua saya nampak ialah graf ini, dan saya tanyakan anda
+
+111
+00:05:43,360 --> 00:05:44,990
+untuk pergi ke arah yang lain
+
+112
+00:05:44,990 --> 00:05:48,440
+Gunakan graf ini, cuba cari apakah fungsinya
+
+113
+00:05:48,440 --> 00:05:51,910
+Kemudian kita boleh lihat, berapa lama masa yang di ambil
+
+114
+00:05:51,910 --> 00:05:52,750
+untuk fungsi berulang?
+
+115
+00:05:52,750 --> 00:05:56,140
+Baiklah ia ambil 4pi radian untuk fungsi berulang, maka
+
+116
+00:05:56,140 --> 00:05:58,960
+anda secara visual boleh sedar bahawa masa
+
+117
+00:05:58,960 --> 00:06:00,620
+fungsi ini ialah 4pi
+
+118
+00:06:00,620 --> 00:06:01,980
+Dan kemudian anda akan kata, apakah amplitudenya?
+
+119
+00:06:01,980 --> 00:06:03,180
+Amplitudenya senang
+
+120
+00:06:03,180 --> 00:06:06,320
+Anda boleh lihat berapa tinggi ia menaik atau menurun
+
+121
+00:06:06,320 --> 00:06:09,170
+Dan ia menaik, bukan?
+
+122
+00:06:09,170 --> 00:06:11,030
+Apabila anda melakukan amplitude, anda jangan lakukan keseluruhan ayunan
+
+123
+00:06:11,030 --> 00:06:13,120
+anda hanya lakukan berapa banyak ia berayun
+
+124
+00:06:13,120 --> 00:06:14,120
+dalam arah positif atau negatif
+
+125
+00:06:14,120 --> 00:06:17,840
+Maka amplitude ialah 2
+
+126
+00:06:17,840 --> 00:06:19,680
+Saya gunakan warna yang salah
+
+127
+00:06:19,680 --> 00:06:20,350
+Masa ialah 4pi
+
+128
+00:06:20,350 --> 00:06:22,930
+..
+
+129
+00:06:22,930 --> 00:06:24,430
+Dan soalan anda mungkin, baiklah ini beralun
+
+130
+00:06:24,430 --> 00:06:26,600
+ini ialah fungsi berkala
+
+131
+00:06:26,600 --> 00:06:30,080
+Adakah ia sinus atau ianya fungsi kosinus?
+
+132
+00:06:30,080 --> 00:06:34,610
+Baiklah, fungsi kosinus, andaikan kita tidak akan lakukan mana-mana perubahan
+
+133
+00:06:34,610 --> 00:06:38,070
+dan module akan datang saya akan mengubah paksi x tetapi
+
+134
+00:06:38,070 --> 00:06:43,320
+andaikan kita tidak lakukan perubahan, kosinus daripada 0 ialah 1
+
+135
+00:06:43,320 --> 00:06:44,500
+Betul?
+
+136
+00:06:44,500 --> 00:06:47,270
+Dan sinus daripada 0 ialah 0
+
+137
+00:06:47,270 --> 00:06:49,900
+dan apakah fungsi ini pada 0?
+
+138
+00:06:49,900 --> 00:06:50,970
+Baiklah, ianya 0
+
+139
+00:06:50,970 --> 00:06:51,370
+Betul?
+
+140
+00:06:51,370 --> 00:06:53,670
+Maka ini akan jadi fungsi sinus
+
+141
+00:06:53,670 --> 00:06:56,290
+Maka kita akan guna formula ini di sini
+
+142
+00:06:56,290 --> 00:07:00,120
+f daripada x ialah sama dengan amplitude darab sinus 2pi
+
+143
+00:07:00,120 --> 00:07:02,190
+bahagi dengan masa darab x
+
+144
+00:07:02,190 --> 00:07:07,780
+Maka kita akan tahu fungsi f daripada x ialah sama dengan
+
+145
+00:07:07,780 --> 00:07:19,690
+amplitude darab sinus 2pi per masa---4pi--x
+
+146
+00:07:19,690 --> 00:07:22,135
+dan, pastinya, ini dibatalkan
+
+147
+00:07:22,135 --> 00:07:26,900
+Kemudian ini akan dibatalkan dan menjadi 2 sinus daripada 1/2 x
+
+148
+00:07:26,900 --> 00:07:30,070
+Saya tahu ini sedikit susah untuk dibaca
+
+149
+00:07:30,070 --> 00:07:31,020
+Maafkan saya
+
+150
+00:07:31,020 --> 00:07:31,960
+dan saya akan tanya soalan
+
+151
+00:07:31,960 --> 00:07:35,720
+Apakah rupa fungsi ini?
+
+152
+00:07:35,720 --> 00:07:45,170
+f daripada x sama dengan 2 kosinus 1/2 x
+
+153
+00:07:45,170 --> 00:07:47,530
+Baiklah, ia akan kelihatan sama tetapi kita akan
+
+154
+00:07:47,530 --> 00:07:50,930
+mulakan pada titik yang berbeza
+
+155
+00:07:50,930 --> 00:07:52,430
+Apakah kosinus 0?
+
+156
+00:07:52,430 --> 00:07:56,430
+Apabila x sama dengan 0, keseluruhan terma ini sama dengan 0
+
+157
+00:07:56,430 --> 00:07:59,550
+Kosinus 0, kita telah belajar sebelum nie, ialah 1
+
+158
+00:07:59,550 --> 00:08:01,500
+Maka f daripada 0 ialah sama dengan 2
+
+159
+00:08:01,500 --> 00:08:06,470
+Mari saya tuliskan itu. f daripada 0 sama dengan 2
+
+160
+00:08:06,470 --> 00:08:07,600
+Mari saya tuliskan dalam warna berbeza
+
+161
+00:08:07,600 --> 00:08:09,530
+Mari saya lukiskan fungsi kosinus dalam warna yang berbeza
+
+162
+00:08:09,530 --> 00:08:11,560
+Kita patut mulakan dari sini
+
+163
+00:08:11,560 --> 00:08:14,270
+f daripada 0 sama dengan 2, tetapi semuanya sama
+
+164
+00:08:14,270 --> 00:08:17,670
+Ampltude sama dan masa juga sama
+
+165
+00:08:17,670 --> 00:08:20,110
+Maka sekarang ia akan kelihatan seperti ini
+
+166
+00:08:20,110 --> 00:08:21,600
+Saya harap ianya betul
+
+167
+00:08:21,600 --> 00:08:23,190
+Ini susah
+
+168
+00:08:23,190 --> 00:08:26,986
+Sekarang fungsinya akan kelihatan seperti ini
+
+169
+00:08:26,986 --> 00:08:30,090
+dan anda akan turun ke bawah ini, dan anda akan pergi
+
+170
+00:08:30,090 --> 00:08:34,030
+ke atas semula
+
+171
+00:08:34,030 --> 00:08:38,580
+dan pada bahagian ini anda akan lakukan perkara yang sama
+
+172
+00:08:38,580 --> 00:08:40,210
+dan berterusan
+
+173
+00:08:40,210 --> 00:08:42,510
+Maka, kosinus dan fungsi sinus
+
+174
+00:08:42,510 --> 00:08:44,120
+kelihatan sama
+
+175
+00:08:44,120 --> 00:08:47,780
+dan cara untuk membezakannya ialah apa yang mereka lakukan--baik,
+
+176
+00:08:47,780 --> 00:08:48,570
+apa yang mereka lakukan secara umum
+
+177
+00:08:48,570 --> 00:08:54,020
+Tetapi cara termudah ialah, apa berlaku apabila anda masukkan
+
+178
+00:08:54,020 --> 00:08:55,420
+0 ke dalam fungsi?
+
+179
+00:08:55,420 --> 00:08:59,260
+Apa berlaku pada paksi y, atau apabila x ialah sama dengan 0, atau apabila
+
+180
+00:08:59,260 --> 00:09:02,040
+sudut yang ada masukkan adalah sama dengan 0?
+
+181
+00:09:02,040 --> 00:09:04,270
+Melainkan kita lakukan penukaran--- jangan risau tentang penukaran
+
+182
+00:09:04,270 --> 00:09:07,610
+sekarang, saya akan lakukan dalam module akan datang-- sinus 0 ialah 0
+
+183
+00:09:07,610 --> 00:09:09,910
+manakala kosinus 0 akan jadi 1
+
+184
+00:09:09,910 --> 00:09:12,920
+dan sejak kita darabkan dengan faktor masa di sini,
+
+185
+00:09:12,920 --> 00:09:16,120
+darab nombor ini di sini, 1 menjadi 2
+
+186
+00:09:16,120 --> 00:09:18,900
+Dan ini graf kosinus x
+
+187
+00:09:18,900 --> 00:09:20,750
+Ini graf sinus x
+
+188
+00:09:20,750 --> 00:09:22,600
+Dan ini sedikit preview penukaran
+
+189
+00:09:22,600 --> 00:09:25,760
+Dalam graf merah jambu, atau kosinus x, ialah sangat sama
+
+190
+00:09:25,760 --> 00:09:27,210
+dengan graf berwarna hijau
+
+191
+00:09:27,210 --> 00:09:33,590
+dan ia bertukar ke arah ini-- baiklah, dalam kes ini
+
+192
+00:09:33,590 --> 00:09:36,120
+ia bertukar dengan pi
+
+193
+00:09:36,120 --> 00:09:36,870
+Betul?
+
+194
+00:09:36,870 --> 00:09:38,790
+dan ini sebenarnya ada kaitan dengan masa
+
+195
+00:09:38,790 --> 00:09:39,770
+pelaki
+
+196
+00:09:39,770 --> 00:09:42,450
+Umumnya, kosinus x sebenarnya sinus x bertukar
+
+197
+00:09:42,450 --> 00:09:44,810
+kepada bahagian kiri oleh pi
+
+198
+00:09:44,810 --> 00:09:47,050
+Tetapi saya tidak mahu mengelirukan anda lagi
+
+199
+00:09:47,050 --> 00:09:49,170
+Itu sahaja masa yang saya ada untuk video ini
+
+200
+00:09:49,170 --> 00:09:51,070
+Saya akan buat beberapa video
+
+201
+00:09:51,070 --> 00:09:53,030
+dengan contoh-contoh seperti ini
+
+202
+00:09:53,030 --> 00:09:54,000
+...

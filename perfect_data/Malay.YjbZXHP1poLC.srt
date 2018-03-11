@@ -1,0 +1,51 @@
+1
+00:00:00,000 --> 00:00:09,000
+Jawapan betul adalah "sup" terdapat dalam kebanyakan frasa-frasa ini
+
+2
+00:00:09,000 --> 00:00:11,000
+tetapi bukan 100% mereka.¾
+
+3
+00:00:11,000 --> 00:00:14,000
+Ia terhilang dalam frasa ini
+
+4
+00:00:14,000 --> 00:00:17,000
+Setarafnya, pada sebelah bahasa Cina,
+
+5
+00:00:17,000 --> 00:00:20,000
+kita melihat aksara ini
+
+6
+00:00:20,000 --> 00:00:23,000
+dalam kebanyakan frasa-frasa,
+
+7
+00:00:23,000 --> 00:00:27,000
+tetapi ia terhilang di sini.
+
+8
+00:00:27,000 --> 00:00:31,000
+Jadi, kami berlihat bahawa pemadanannya tidak seharusnya 100%
+
+9
+00:00:31,000 --> 00:00:34,000
+untuk memberitahu kita bahawa masih terdapat peluang baik untuk korelasi.
+
+10
+00:00:34,000 --> 00:00:37,000
+Apabila kita belajar membuat terjemahan secara mesin
+
+11
+00:00:37,000 --> 00:00:41,000
+kita menggunakan penjajaran ini untuk belajar kebarangkalian
+
+12
+00:00:41,000 --> 00:00:45,000
+suata frasa dalan bahasa tertentu
+
+13
+00:00:45,000 --> 99:59:59,999
+sepadan dengan frasa dalam bahasa lain.

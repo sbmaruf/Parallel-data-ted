@@ -1,0 +1,643 @@
+1
+00:00:00,920 --> 00:00:03,984
+Ini ialah masalah yang lain yang Kortaggio hantarkan kepada saya,
+
+2
+00:00:03,984 --> 00:00:05,190
+dan saya suka masalah ini
+
+3
+00:00:05,190 --> 00:00:08,146
+kerana ianya nampak mudah,
+
+4
+00:00:08,146 --> 00:00:10,010
+dan sebenarnya penyelesaiannya agak mudah
+
+5
+00:00:10,010 --> 00:00:13,300
+tetapi cuma meraka beri maklumat yang kurang lengkap
+
+6
+00:00:13,300 --> 00:00:16,314
+ia menjadi aga sukar walaupun baru mula menyelesaikan masalah ini
+
+7
+00:00:16,314 --> 00:00:18,820
+dan saya akan berterus terang, masalah ini, saya agak tergamam
+
+8
+00:00:18,820 --> 00:00:22,101
+dengannya untuk beberapa minit sehingga saya akhirnya sedar
+
+9
+00:00:22,101 --> 00:00:25,210
+apa yang mereka tanya dan bagaimana untuk selesaikannya
+
+10
+00:00:25,210 --> 00:00:27,491
+Maka dalam masalah ini, kita ada Bev,
+
+11
+00:00:27,491 --> 00:00:31,000
+dan dia ambil kereta api untuk pulang pada pukul 4
+
+12
+00:00:31,000 --> 00:00:33,760
+Dia sampai di stesen pada pukul 6
+
+13
+00:00:33,760 --> 00:00:36,132
+Setiap hari. memandu pada kadar yang sama,
+
+14
+00:00:36,132 --> 00:00:38,630
+suaminya jumpa dia pada stesen
+
+15
+00:00:38,630 --> 00:00:39,450
+Baiklah
+
+16
+00:00:39,450 --> 00:00:43,840
+Suatu hari, dia ambil kereta api sejam lebih awal dan sampai pada 5
+
+17
+00:00:43,840 --> 00:00:50,716
+Suaminya meninggalkan rumah untuk berjumpa dengannya pada masa yang sama
+
+18
+00:00:50,716 --> 00:00:53,860
+Suaminya meninggalkan rumah untuk berjumpa dengan dia pada masa yang sama
+
+19
+00:00:53,860 --> 00:00:56,180
+Ianya mungkin perkara menarik untuk difikirkan
+
+20
+00:00:56,180 --> 00:00:58,810
+Bilakah suaminya kebasaannya pergi?
+
+21
+00:00:58,810 --> 00:01:01,300
+Mari katakan ini ialah situasi yang normal
+
+22
+00:01:01,300 --> 00:01:02,700
+Saya akan lakukan dalam hijau
+
+23
+00:01:02,700 --> 00:01:06,000
+Pada pukul 6, dia tiba
+
+24
+00:01:06,000 --> 00:01:06,530
+Kita dapat di situ
+
+25
+00:01:06,530 --> 00:01:08,130
+Dia sampai di stesen pada pukul 6
+
+26
+00:01:08,130 --> 00:01:10,730
+Saya tidak tahu jika pukul 4 ini berguna
+
+27
+00:01:10,730 --> 00:01:14,530
+dan suami, dia sampai sana apabila isterinya sampai di sana
+
+28
+00:01:14,530 --> 00:01:18,776
+Maka dia bergerak--- dia sampai di sana dan saya tidak tahu jika saya---
+
+29
+00:01:18,776 --> 00:01:22,400
+mungkin saya patut lukiskan lebih
+
+30
+00:01:22,400 --> 00:01:23,537
+Baiklah, mari saya lukiskan cara ini
+
+31
+00:01:23,537 --> 00:01:27,150
+Saya rasa ini adalah jenis yang otak saya dapat selesaikan
+
+32
+00:01:27,150 --> 00:01:30,960
+Maka dia sampai ke sana
+
+33
+00:01:30,960 --> 00:01:32,760
+Dan bila dia harus pergi?
+
+34
+00:01:32,760 --> 00:01:33,610
+Apakah masanya?
+
+35
+00:01:33,610 --> 00:01:36,960
+Mari katakan ia mengambil t minit untuk pergi ke sana,
+
+36
+00:01:36,960 --> 00:01:38,750
+apa-apa pun, t telah diberikan
+
+37
+00:01:38,750 --> 00:01:40,267
+Maka jika dia sampai sana pada pukul 6
+
+38
+00:01:40,267 --> 00:01:43,260
+ia bermakna dia bergerak pada pukul 6 tolak t
+
+39
+00:01:43,260 --> 00:01:45,400
+Jika t ialah 30 minit, ia akan menjadi 5:30
+
+40
+00:01:45,400 --> 00:01:49,000
+Jika t ialah satu jam, ia akan menjadi pukul 5
+
+41
+00:01:49,000 --> 00:01:58,600
+Maka bergerak pada pukul 6 tolak t
+
+42
+00:01:58,600 --> 00:02:00,970
+dan t, apa-apa unit berkemungkinan ialah t
+
+43
+00:02:00,970 --> 00:02:02,450
+Kemudian dia mengambil Bev dan apa yang dia lakukan?
+
+44
+00:02:02,450 --> 00:02:05,150
+Dia pulang ke rumah, bukan?
+
+45
+00:02:05,150 --> 00:02:06,910
+Dia pulang ke rumah
+
+46
+00:02:06,910 --> 00:02:10,250
+Mari saya lakukan dengan garis yang lebih kecil
+
+47
+00:02:10,250 --> 00:02:13,936
+Dia puang ke rumah, jarak yang sama
+
+48
+00:02:13,936 --> 00:02:16,890
+Kita andaikan bahawa kereta itu berpusing dengan cepat
+
+49
+00:02:16,890 --> 00:02:18,530
+dan tiada masa untuk mengambil isterinya
+
+50
+00:02:18,530 --> 00:02:21,960
+Isterinya melompat dari kereta semasa suaminya berpusig
+
+51
+00:02:21,960 --> 00:02:24,520
+Maka itu patut ambil masa yang sama, t.
+
+52
+00:02:24,520 --> 00:02:25,890
+Maka bila dia sampai ke rumah?
+
+53
+00:02:25,890 --> 00:02:28,940
+Jika ia mengambil masa--- dia bergerak t minit sebelum pukul 6 dan
+
+54
+00:02:28,940 --> 00:02:31,020
+sampai di sana, maka bila dia bergerak?
+
+55
+00:02:31,020 --> 00:02:32,720
+Baiklah, ia mengambil masa t minit untuk dia pulang,
+
+56
+00:02:32,720 --> 00:02:39,020
+Maka dia akan sampai pada pukul 6 tambah t
+
+57
+00:02:39,020 --> 00:02:40,670
+dan berapakah jumlah masa
+
+58
+00:02:40,670 --> 00:02:41,280
+dia bergerak?
+
+59
+00:02:41,280 --> 00:02:43,650
+Dan ini agak mudah
+
+60
+00:02:43,650 --> 00:02:47,420
+Baiklah, jika anda--- pukul 6 tambah t tolak pukul 6 tolak t,
+
+61
+00:02:47,420 --> 00:02:49,180
+bezanya dari segi masa ialah 2t
+
+62
+00:02:49,180 --> 00:02:52,830
+Dia bergerak dalam jarak--- atau jumlah masa 2t minit,
+
+63
+00:02:52,830 --> 00:02:54,120
+dan ianya jelas
+
+64
+00:02:54,120 --> 00:02:56,310
+Jika ia ambil dia t minit untuk pergi dan t minit untuk pulang,
+
+65
+00:02:56,310 --> 00:02:58,130
+dia bergerak t minit
+
+66
+00:02:58,130 --> 00:02:59,240
+Bagus
+
+67
+00:02:59,240 --> 00:03:01,370
+Sekarang, apa berlaku pada hari ini?
+
+68
+00:03:01,370 --> 00:03:04,420
+Ia mengatakan dia meninggalkan--- suaminya meninggalkan rumah
+
+69
+00:03:04,420 --> 00:03:05,790
+untuk berjumpa isterinya pada masa yang sama
+
+70
+00:03:05,790 --> 00:03:09,810
+Maka sekali lagi, dia akan bergerak---
+
+71
+00:03:09,810 --> 00:03:11,520
+Saya akan lakukan ini dalam merah
+
+72
+00:03:11,520 --> 00:03:22,780
+Dia bergerak pada pukul 6 tolak t, bukan?
+
+73
+00:03:22,780 --> 00:03:25,147
+dan kemudian, dia sampai awal
+
+74
+00:03:25,147 --> 00:03:26,622
+Maka dia akan berjalan kembali
+
+75
+00:03:26,622 --> 00:03:28,510
+Ia akan menjadi masa yang lebih singkat
+
+76
+00:03:28,510 --> 00:03:30,250
+daripada ia masa dia ambil untuk sampai pada isterinya
+
+77
+00:03:30,250 --> 00:03:33,530
+Maka mari tinggalkania tidak berlabel sekarang
+
+78
+00:03:33,530 --> 00:03:35,254
+Maka jika saya ada garisan di sini---
+
+79
+00:03:35,254 --> 00:03:37,204
+Dia akan bergerak pada jarak yang pendek,
+
+80
+00:03:37,204 --> 00:03:39,350
+dan, semestinya, ia akan mengambil dia masa yang kurang
+
+81
+00:03:39,350 --> 00:03:41,150
+kerana isterinya mula berjalan
+
+82
+00:03:41,150 --> 00:03:44,440
+Itu adalah apa yang masalah beritahu kita, bukan?
+
+83
+00:03:44,440 --> 00:03:47,420
+Hari ini, dia sampai pada pukul 5 dan dia mula berjalan pulang ke rumah
+
+84
+00:03:47,420 --> 00:03:48,995
+Maka dia akan menghasilkan jarak
+
+85
+00:03:48,995 --> 00:03:51,650
+Suaminya tidak akan bergerak sejauh itu
+
+86
+00:03:51,650 --> 00:03:54,810
+kemudian walau apa pun masa ketika itu
+
+87
+00:03:54,810 --> 00:03:57,710
+dia balik menggunakan jalan yang lain
+
+88
+00:03:57,710 --> 00:04:01,360
+Ia akan menjadi jumlah masa yang sama
+
+89
+00:04:01,360 --> 00:04:03,670
+Ianya jumlah masa yang sama
+
+90
+00:04:03,670 --> 00:04:06,130
+Dan apa yang ia beritahu kita?
+
+91
+00:04:06,130 --> 00:04:07,735
+Dia jumpa isterinya dalam perjalanan,
+
+92
+00:04:07,735 --> 00:04:09,870
+dan kemudian mereka sampa rumah 20 minit lebih awal
+
+93
+00:04:09,870 --> 00:04:13,910
+Maka biasanya, mereka sampai pada pukul 6 tambah t, bukan?
+
+94
+00:04:13,910 --> 00:04:14,820
+Itu adalah normal
+
+95
+00:04:14,820 --> 00:04:17,800
+Maka hari ini, mereka akan sampai 20 minit lebih awal
+
+96
+00:04:17,800 --> 00:04:23,930
+Mereka akan sampai pada, anda boleh katakan, pukul 6
+
+97
+00:04:23,930 --> 00:04:27,830
+tambah t-- itu hanyalah--- tolak 20 minit, bukan?
+
+98
+00:04:27,830 --> 00:04:29,690
+Mereka akan sampai 20 minit lebih awal
+
+99
+00:04:29,690 --> 00:04:31,059
+Maka apakah jumlah masa
+
+100
+00:04:31,059 --> 00:04:33,220
+yang dia akan bergerak pada hari itu?
+
+101
+00:04:33,220 --> 00:04:35,110
+Jumlah masanya?
+
+102
+00:04:35,110 --> 00:04:39,480
+Baiklah, dia bergerak 20 minit kurang saripada
+
+103
+00:04:39,480 --> 00:04:40,480
+dia lakukan dalam hari yang normal, bukan?
+
+104
+00:04:40,480 --> 00:04:42,630
+Dia bergerak pada masa yang sama dan sampai di sana 20 minit lebih awal
+
+105
+00:04:42,630 --> 00:04:47,234
+dan jika anda ambil perbezaan antara 6+t-20 dan 6-t,
+
+106
+00:04:47,234 --> 00:04:50,490
+anda akan dapat 2t-20
+
+107
+00:04:50,490 --> 00:04:51,501
+dan ianya hampir---
+
+108
+00:04:51,501 --> 00:04:53,750
+Saya mungkin tidak perlu melukis semua ini
+
+109
+00:04:53,750 --> 00:04:55,545
+Anda boleh katakan, baiklah, anda tahu, pada hari yang biasa,
+
+110
+00:04:55,545 --> 00:04:57,990
+jika t ialah jumlah masa,
+
+111
+00:04:57,990 --> 00:04:59,564
+ia biasanya mengambil dia pergi ke stesen,
+
+112
+00:04:59,564 --> 00:05:03,080
+pada hari biasa, dia bergerak 2t minit
+
+113
+00:05:03,080 --> 00:05:06,140
+Hari ini, dia bergerak pada masa yang sama, dapat 20 minit lebih awal
+
+114
+00:05:06,140 --> 00:05:09,870
+Maka dia bergerak 2t tolak 20 minit
+
+115
+00:05:09,870 --> 00:05:10,950
+Baiklah
+
+116
+00:05:10,950 --> 00:05:12,110
+Sekarang, apa yang ia beritahu kita?
+
+117
+00:05:12,110 --> 00:05:14,630
+Baiklah, berapa lama masa yang dia ambil untuk dapatkan isterinya?
+
+118
+00:05:14,630 --> 00:05:17,200
+Berapa lama masa yang diambil olehnya?
+
+119
+00:05:17,200 --> 00:05:20,410
+Untuk mengambil isterinya mengambil jumlah masa yang sama
+
+120
+00:05:20,410 --> 00:05:23,620
+dengan masa pulang, maka dia perlu ambil separuh dari ini untuk pergi
+
+121
+00:05:23,620 --> 00:05:25,940
+dan separuh dari masa ini untuk kembali
+
+122
+00:05:25,940 --> 00:05:29,650
+Maka ia mestilah t tolak 10 untuk pergi
+
+123
+00:05:29,650 --> 00:05:32,340
+dan kemudian t tolak 10 untuk kembali
+
+124
+00:05:32,340 --> 00:05:35,800
+Dia mengambil 10 minit untuk sampai pada isterinya pada kali ini
+
+125
+00:05:35,800 --> 00:05:37,630
+Maka apakah masa dia mengambil isterinya?
+
+126
+00:05:37,630 --> 00:05:39,570
+dan ini ialah kuncinya
+
+127
+00:05:39,570 --> 00:05:43,090
+Biasanya, apabila dia mengambil t minit,
+
+128
+00:05:43,090 --> 00:05:44,820
+dia sampai sana pada pukul 6
+
+129
+00:05:44,820 --> 00:05:48,040
+Kali ini, isterinya mula berjalan kerana dia sampai sana awal,
+
+130
+00:05:48,040 --> 00:05:49,590
+dan suaminya sampai sana 10 minit---
+
+131
+00:05:49,590 --> 00:05:51,851
+Dia sampai pada isterinya 10 minit lebih awal daripada
+
+132
+00:05:51,851 --> 00:05:54,910
+dia biasanya smpai pada isterinya, betul? t - 10
+
+133
+00:05:54,910 --> 00:05:57,020
+Biasanya, dia sampai pada isterinya pada pukul 6
+
+134
+00:05:57,020 --> 00:05:59,340
+Hari ini, dia sampai padanya 10 minit lebih awal
+
+135
+00:05:59,340 --> 00:06:05,740
+Maka dia sampai padanya pada 5.50
+
+136
+00:06:05,740 --> 00:06:10,750
+Sekarang, persoalannya ialah, berapa minit Bev berjalan?
+
+137
+00:06:10,750 --> 00:06:13,500
+Berapa banyak minit Bev berjalan?
+
+138
+00:06:13,500 --> 00:06:17,340
+Ingat, dia sampai sejam lebih awal dan sampai pada pukul 5
+
+139
+00:06:17,340 --> 00:06:19,550
+dan kemudian dia mula berjalan
+
+140
+00:06:19,550 --> 00:06:24,250
+Dia sampai pada pukul 5, dan mula berjalan
+
+141
+00:06:24,250 --> 00:06:25,330
+dan kemudian adakah suaminya mengambil dia?
+
+142
+00:06:25,330 --> 00:06:26,950
+Suaminya mengambil dia pada 5.50
+
+143
+00:06:26,950 --> 00:06:30,540
+Jadi, dia berjalan selama 50 minit
+
+144
+00:06:30,540 --> 00:06:31,900
+Itu adalah masalah yang kemas
+
+145
+00:06:31,900 --> 00:06:34,246
+Kerana pada peringkat tertentu, ianya sangat senang,
+
+146
+00:06:34,246 --> 00:06:35,463
+tetapi pada peringkat yang lain pula,
+
+147
+00:06:35,463 --> 00:06:39,110
+mereka beri anda maklumat yang tidak diperlukan
+
+148
+00:06:39,110 --> 00:06:40,870
+Sebagai contoh, anda tidak perlu tahu
+
+149
+00:06:40,870 --> 00:06:43,287
+dia bergerak pada pukul 4, Itu sebenarnya mungkin
+
+150
+00:06:43,287 --> 00:06:45,670
+maklumat yang paling tidak diperrlukan
+
+151
+00:06:45,670 --> 00:06:47,480
+Tetapi semuanya ditinggalkan abstrak
+
+152
+00:06:47,480 --> 00:06:48,472
+Walaupun anda boleh---
+
+153
+00:06:48,472 --> 00:06:50,030
+mereka tidak berikan begitu banyak maklumat
+
+154
+00:06:50,030 --> 00:06:52,780
+Anda sebenarnya boleh dapat tahu berapa jauh dia berjalan
+
+155
+00:06:52,780 --> 00:06:54,697
+tanpa mengetahui berapa pantas dia berjalan,
+
+156
+00:06:54,697 --> 00:06:56,560
+atau berapa pantas suaminya memandu
+
+157
+00:06:56,560 --> 00:06:58,640
+atau berapa jauh meraka dari stesen kereta api
+
+158
+00:06:58,640 --> 00:07:00,670
+atau berapa jauh rumah daripada stesen kereta api, atau mana-mana daripadanya
+
+159
+00:07:00,670 --> 00:07:02,970
+Anda masih boleh tahu berapa jauh dia berjalan.
+
+160
+00:07:02,970 --> 00:07:04,620
+Walaubagaimanapun, masalah yang kemas.
+
+161
+00:07:04,620 --> 00:07:07,172
+Terima kasih sekali lagi kepada Kortaggio

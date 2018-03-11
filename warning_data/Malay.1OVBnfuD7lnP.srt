@@ -1,0 +1,79 @@
+1
+00:00:01,333 --> 00:00:09,200
+Bandingkan 156.378 dengan 156.348.
+
+2
+00:00:09,200 --> 00:00:13,800
+Jadi saya anggapkan mereka menanya yang mana satu antara ini adalah lebih besar.
+
+3
+00:00:13,800 --> 00:00:20,400
+Jadi izinkan saya menulis 156.378 ini. Kita mahu
+
+4
+00:00:20,400 --> 00:00:27,400
+membandingkan itu dengan 156.348.
+
+5
+00:00:27,400 --> 00:00:31,200
+Saya akan membincangkan ini langkah demi langkah walaupun anda mungkin sudah mengetahuiya.
+
+6
+00:00:31,200 --> 00:00:39,800
+Mari kita pergi ke tempat ratus dahulu.
+
+7
+00:00:39,800 --> 00:00:47,000
+1 pada tempat ratus mewakili ratus sebanyak itu.
+
+8
+00:00:47,000 --> 00:00:54,000
+Kita mempunyai 1 pada tempat ratus dalam kedua-dua nombor itu.
+
+9
+00:00:54,000 --> 00:00:59,000
+Mari kita pergi ke tempat puluh. Kita mempunyai 5 puluh iaitu 50.
+
+10
+00:00:59,000 --> 00:01:06,200
+Dalam kedua-dua nombor itu kita mempunyai 5 puluh yang sama.
+
+11
+00:01:06,200 --> 00:01:10,800
+Mari kita pergi ke tempat sa, kita mempunyai 6 sa dalam kedua-dua
+
+12
+00:01:10,800 --> 00:01:14,400
+nombor yang sekali lagi adalah sama.
+
+13
+00:01:14,400 --> 00:01:19,200
+Mari kita pergi ke tempat persepuluh, 3 persepuluh dalam kedua-dua nombor.
+
+14
+00:01:19,200 --> 00:01:27,200
+Mari kita pergi ke tempat perseratus. Kita mempunyai 7 perseratus
+
+15
+00:01:27,200 --> 00:01:31,400
+dalam satu nombor dan 4 perseratus dalam nombor yang lagi satu, yang
+
+16
+00:01:31,400 --> 00:01:34,800
+nilai perseratusnya lagi kecil. Mari kita pergi ke tempat perseribu.
+
+17
+00:01:34,800 --> 00:01:40,800
+Ia adalah sama dan tidak kira jika mereka berbeza
+
+18
+00:01:40,800 --> 00:01:45,200
+kerana di tempat perseratus ia adalah berbeza.
+
+19
+00:01:45,200 --> 00:01:52,400
+7 > 4, jadi 7 perseratus adalah lagi besar daripada 4 perseratus.
+
+20
+00:01:52,400 --> 99:59:59,999
+Jadi 156.378 > 156.348.

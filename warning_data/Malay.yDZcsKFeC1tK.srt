@@ -1,0 +1,635 @@
+1
+00:00:00,000 --> 00:00:00,480
+....
+
+2
+00:00:00,480 --> 00:00:03,190
+Dalam video ini, saya mahu beri anda satu contoh tentang
+
+3
+00:00:03,190 --> 00:00:06,170
+apa maksud untuk menyesuaikan data kepada garis.
+
+4
+00:00:06,170 --> 00:00:08,730
+Selain dari melakukan video tradisional saya menggunakan
+
+5
+00:00:08,730 --> 00:00:11,840
+pen tablet kecil saya, saya akan lakukannya terus ke Excel jadi
+
+6
+00:00:11,840 --> 00:00:14,250
+anda dapat lihat bagaimana untuk melakukannya sendiri, oleh itu jika anda ada
+
+7
+00:00:14,250 --> 00:00:18,090
+Excel atau jenis program kertas bentang yang lain.
+
+8
+00:00:18,090 --> 00:00:19,380
+Kita tidak akan lakukan matematik daripadanya.
+
+9
+00:00:19,380 --> 00:00:21,540
+Saya hanya mahu anda untuk dapatkan konsep pemahaman
+
+10
+00:00:21,540 --> 00:00:26,840
+tentang apa maksud untuk menyesuaikan data dengan garis, atau lakukan satu linear
+
+11
+00:00:26,840 --> 00:00:27,880
+regrasi
+
+12
+00:00:27,880 --> 00:00:29,550
+Maka di sini, mari baca permasalahan.
+
+13
+00:00:29,550 --> 00:00:33,550
+Jadual ini menunjukkan median pendapatan California--
+
+14
+00:00:33,550 --> 00:00:37,190
+Ingat bahawa median ialah tengah, pendapatan tengah California
+
+15
+00:00:37,190 --> 00:00:40,850
+--dari 1995 kepada 2002 sebagaimana yang dilaporkan
+
+16
+00:00:40,850 --> 00:00:42,680
+oleh banci Biro U.S
+
+17
+00:00:42,680 --> 00:00:45,320
+Lukis satu plot yang berselerak dan cari persamaan.
+
+18
+00:00:45,320 --> 00:00:47,540
+Apa yang akan anda jangkakan dari median pendapatan tahunan dari
+
+19
+00:00:47,540 --> 00:00:50,370
+keluarga California pada tahun 2010?
+
+20
+00:00:50,370 --> 00:00:52,970
+Apa maksud cerun dan pintasan-y
+
+21
+00:00:52,970 --> 00:00:53,580
+dari masalah ini?
+
+22
+00:00:53,580 --> 00:00:56,050
+Jadi perkara pertama yang anda mahu lakukan-- saya hanya menyalin da
+
+23
+00:00:56,050 --> 00:00:59,060
+melekatkan gambar ini-- kita harus mendapatkan data dalam bentuk yang
+
+24
+00:00:59,060 --> 00:01:00,920
+kertas bentang dapat faham.
+
+25
+00:01:00,920 --> 00:01:03,830
+Oleh itu, mari buatkan beberapa jadual di sini.
+
+26
+00:01:03,830 --> 00:01:08,800
+Mari katakan tahun dari 1995.
+
+27
+00:01:08,800 --> 00:01:10,710
+Mari buat satu jajaran.
+
+28
+00:01:10,710 --> 00:01:13,670
+Mari lakukannya sedikit lebar.
+
+29
+00:01:13,670 --> 00:01:16,670
+Kemudian, mari saya letak median pendapatan.
+
+30
+00:01:16,670 --> 00:01:20,100
+Ini ialah median pendapatan dalam California untuk satu keluarga.
+
+31
+00:01:20,100 --> 00:01:23,560
+Maka, mari kita mulakan dengan 1 tahun, atau 0 tahun sejak
+
+32
+00:01:23,560 --> 00:01:28,100
+1995, 0, 1, 2, 3, 4.
+
+33
+00:01:28,100 --> 00:01:32,710
+Sebenarnya jika anda mahu, ia akan dapatkan aliran(trend) jika anda
+
+34
+00:01:32,710 --> 00:01:33,590
+terus turun ke bawah.
+
+35
+00:01:33,590 --> 00:01:36,650
+Ia akan dapatkan bahawa anda hanya menaikkan dangan 1.
+
+36
+00:01:36,650 --> 00:01:38,340
+Kemudian pendapatan, saya akan menyalin di sini
+
+37
+00:01:38,340 --> 00:01:39,300
+nombor-nombor itu.
+
+38
+00:01:39,300 --> 00:01:54,710
+Jadi ianya $53,807, $55,217, $55,209, $55,415, $63,100
+
+39
+00:01:54,710 --> 00:02:08,680
+$63,206, $63,761, dan kemudian kita ada $65,766.
+
+40
+00:02:08,680 --> 00:02:10,520
+Maka saya tidak perlukan ini di sini.
+
+41
+00:02:10,520 --> 00:02:13,380
+Jadi saya akan buangkan ia.
+
+42
+00:02:13,380 --> 00:02:14,810
+Saya boleh padamkan ia.
+
+43
+00:02:14,810 --> 00:02:16,180
+Oleh itu, mari saya pastikan saya ada catatan yang cukup.
+
+44
+00:02:16,180 --> 00:02:24,040
+Ini ialah 1, 2, 3, 4, 5, 6, 7, 8, dan saya ada 1, 2, 3, 4, 5,
+
+45
+00:02:24,040 --> 00:02:25,570
+6, 7, 8 catatan.
+
+46
+00:02:25,570 --> 00:02:29,930
+Saya mahu pastikan saya dapat data yang betul. $53,807, $55,217
+
+47
+00:02:29,930 --> 00:02:34,510
+$55,209, 415, 100, 206, 761, 766.
+
+48
+00:02:34,510 --> 00:02:36,040
+Ok, kita mulakan.
+
+49
+00:02:36,040 --> 00:02:38,880
+Sekarang, anda akan tahu bahawa daam Excel, ini ialah sangat
+
+50
+00:02:38,880 --> 00:02:41,080
+mudah jika anda tahu apa yang patut ditekan.
+
+51
+00:02:41,080 --> 00:02:44,430
+Satu, plotkan data ini, buat satu plot berselerak, dan kemudian
+
+52
+00:02:44,430 --> 00:02:46,220
+lebi baik, buat satu regresi data.
+
+53
+00:02:46,220 --> 00:02:48,970
+Jadi apa yang perlu anda lakukan ialah memilih data.
+
+54
+00:02:48,970 --> 00:02:51,480
+Kemudian anda masukkan, dan saya akan
+
+55
+00:02:51,480 --> 00:02:53,170
+masukkan plot yang berselerak.
+
+56
+00:02:53,170 --> 00:02:54,390
+Kemudian anda boleh pilih yang berbeza
+
+57
+00:02:54,390 --> 00:02:56,160
+jenis plot yang berselerak.
+
+58
+00:02:56,160 --> 00:02:58,820
+Saya mahu plotkan data.
+
+59
+00:02:58,820 --> 00:02:59,670
+Mari kita mulakan.
+
+60
+00:02:59,670 --> 00:03:02,470
+Ia plotkan data untuk saya.
+
+61
+00:03:02,470 --> 00:03:03,050
+Di sini.
+
+62
+00:03:03,050 --> 00:03:07,320
+Jika anda katakan in ialah pendapatan sebenar, dan ini ialah pda
+
+63
+00:03:07,320 --> 00:03:08,870
+tahun dari 1995.
+
+64
+00:03:08,870 --> 00:03:10,570
+Jadi ini ialah 1995.
+
+65
+00:03:10,570 --> 00:03:13,710
+Ianya ialah $53,807.
+
+66
+00:03:13,710 --> 00:03:17,370
+Pada 1996 ianya $55,217.
+
+67
+00:03:17,370 --> 00:03:19,250
+Maka, plotkan semua data.
+
+68
+00:03:19,250 --> 00:03:22,110
+Sekarang apa yang saya mahu lakukan ialah menyesuaikan satu garis
+
+69
+00:03:22,110 --> 00:03:24,000
+Jadi, ini bukanlah satu garis yang tepat.
+
+70
+00:03:24,000 --> 00:03:27,580
+Tetapi mari lihat, jika kita andaikan itu aialh satu garis yang boleh dijadikan contoh
+
+71
+00:03:27,580 --> 00:03:31,500
+data yang baik, saya akan dapatkan Excel untuk menyesuaikan satu garis untuk saya.
+
+72
+00:03:31,500 --> 00:03:34,580
+Jad apa yang saya boleh lakukan ialah saya mempunyai banyak pilihan di sini untuk
+
+73
+00:03:34,580 --> 00:03:37,720
+cara yang berbeza untuk menyesuaikan satu garis, dari
+
+74
+00:03:37,720 --> 00:03:38,710
+semua pilihan yang berbeza.
+
+75
+00:03:38,710 --> 00:03:39,780
+Saya akan memilih satu di sini.
+
+76
+00:03:39,780 --> 00:03:40,940
+Anda mugkin tidak dapat melihatnya.
+
+77
+00:03:40,940 --> 00:03:42,460
+Ia kelihatan seperti ia mempunyai satu garis di antara titik-titik
+
+78
+00:03:42,460 --> 00:03:45,450
+Ia juga mempunyai fx yang memberitahu saya persamaan
+
+79
+00:03:45,450 --> 00:03:46,470
+garisan
+
+80
+00:03:46,470 --> 00:03:49,520
+Oleh itu jika saya tekan itu, mari mulakan.
+
+81
+00:03:49,520 --> 00:03:52,570
+Ia bukan hanya sesuai, ia plotkan semula data yang sama
+
+82
+00:03:52,570 --> 00:03:54,530
+di atas graf yang berbeza.
+
+83
+00:03:54,530 --> 00:03:55,830
+Mari lakukan ia sedikit besar.
+
+84
+00:03:55,830 --> 00:03:58,430
+....
+
+85
+00:03:58,430 --> 00:03:59,930
+Tidak, saya tidak mahu melakukannya.
+
+86
+00:03:59,930 --> 00:04:01,060
+Mari saya lakukannya sedikit besar.
+
+87
+00:04:01,060 --> 00:04:04,430
+Kita boleh menutupi data sekarang, hanya kerana saya fikir kita tahu
+
+88
+00:04:04,430 --> 00:04:06,410
+apa yang berlaku.
+
+89
+00:04:06,410 --> 00:04:09,460
+Jadi mari saya tutup seperti itu.
+
+90
+00:04:09,460 --> 00:04:12,620
+Maka ia tidak hanya plotkan pelbagai titik data, ia
+
+91
+00:04:12,620 --> 00:04:16,029
+sebenarnya sesuaikan satu garis kepada data dan ia beri saya
+
+92
+00:04:16,029 --> 00:04:17,355
+persamaan garis itu.
+
+93
+00:04:17,355 --> 00:04:21,279
+....
+
+94
+00:04:21,279 --> 00:04:22,975
+Mari saya lihat jika saya boleh buat ini sedikit besar.
+
+95
+00:04:22,975 --> 00:04:27,330
+....
+
+96
+00:04:27,330 --> 00:04:30,910
+Saya akan pidahkan ia keluar supaya sekurang-kurangnya anda dapat baca.
+
+97
+00:04:30,910 --> 00:04:33,400
+Maka ia memberitahu saya di sini, bahawa persamaan untuk
+
+98
+00:04:33,400 --> 00:04:40,400
+garis ini ialah y bersamaan dengan 1,882.3x tambah 52,847.
+
+99
+00:04:40,400 --> 00:04:43,250
+Oleh itu, jika anda ingat apa yang kita tahu tentang cerun dan
+
+100
+00:04:43,250 --> 00:04:50,660
+pintasan-y, pintasan-y ialah 52,847, iaitu ialah, jika anda
+
+101
+00:04:50,660 --> 00:04:55,000
+gunakan garis ini sebagai ukuran, di mana garis ini bersilang pada
+
+102
+00:04:55,000 --> 00:04:57,470
+tahun 0, atau pada 1995.
+
+103
+00:04:57,470 --> 00:05:01,830
+Jadi jika anda guna garis ini sebagai contoh, pada 1995 garis akan
+
+104
+00:05:01,830 --> 00:05:05,580
+menjadi $52,847.
+
+105
+00:05:05,580 --> 00:05:07,280
+Data yang sebenar ialah sedikit berbeza dari itu.
+
+106
+00:05:07,280 --> 00:05:09,970
+Ianya sedikit tinggi, $53,807.
+
+107
+00:05:09,970 --> 00:05:11,250
+Maka ianya sedikit tinggi.
+
+108
+00:05:11,250 --> 00:05:13,850
+Tetapi kita cuba dapatkan satu garis yang paling hampir
+
+109
+00:05:13,850 --> 00:05:14,980
+dengan semua data ini.
+
+110
+00:05:14,980 --> 00:05:17,530
+Ia sebenarnya cuba untuk mengecilkan jarak,
+
+111
+00:05:17,530 --> 00:05:20,470
+jarak segi empat, di antara titik-titik
+
+112
+00:05:20,470 --> 00:05:20,970
+dalam garis.
+
+113
+00:05:20,970 --> 00:05:22,440
+Kita tidak akan pergi pada matematik di situ.
+
+114
+00:05:22,440 --> 00:05:23,830
+Teapi ia beri kita persamaan yang baik.
+
+115
+00:05:23,830 --> 00:05:26,810
+Sekarang kita boleh guna persamaan yang baik ini untuk menjangkakan sesuatu.
+
+116
+00:05:26,810 --> 00:05:30,290
+Jika kita katakan ini ialah satu contoh yang baik untuk data-- mari saya
+
+117
+00:05:30,290 --> 00:05:31,400
+bawakan ke bawah sedikit-- mari cuba.
+
+118
+00:05:31,400 --> 00:05:32,400
+untuk menjawab soalan kita.
+
+119
+00:05:32,400 --> 00:05:35,210
+Jadi kita lukis satu ploy berselerak-- Excel akan lakukannya untuk kita.
+
+120
+00:05:35,210 --> 00:05:38,000
+Kita jumpa persamaan di situ.
+
+121
+00:05:38,000 --> 00:05:40,060
+Mereka kata, apa akan anda jangka median tahunan
+
+122
+00:05:40,060 --> 00:05:44,490
+pendapatan dari satu keluarga California pada tahun 2010?
+
+123
+00:05:44,490 --> 00:05:50,010
+Maka di sini, kita boleh gunakan persamaan yang diberikan kepada kita.
+
+124
+00:05:50,010 --> 00:05:51,770
+Di sini, ialah 2002.
+
+125
+00:05:51,770 --> 00:05:52,850
+Jadi saya boleh tuliskan tahun.
+
+126
+00:05:52,850 --> 00:05:57,240
+Ini ialah tahun 2002.
+
+127
+00:05:57,240 --> 00:06:02,490
+Jadi tahun 2010 ialah 8 tahun lagi.
+
+128
+00:06:02,490 --> 00:06:04,350
+Mari kita buat sedikit jajaran di sini.
+
+129
+00:06:04,350 --> 00:06:08,390
+....
+
+130
+00:06:08,390 --> 00:06:13,540
+Maka ini ialah tahun, 1995, 1996.
+
+131
+00:06:13,540 --> 00:06:15,710
+Kemudian Excel akan mampu dapatkan jika saya pilih itu.
+
+132
+00:06:15,710 --> 00:06:18,950
+dan saya pergi sedikit ke bawah segi empat yang betul dan saya pusingkan
+
+133
+00:06:18,950 --> 00:06:23,920
+ke bawah, Excel akan dapatkan apa saya mahu untuk
+
+134
+00:06:23,920 --> 00:06:26,980
+menambahkan 1 tahun setiap masa.
+
+135
+00:06:26,980 --> 00:06:31,670
+Jika saya kata tahun sejak 1995, sekali lagi saya hanya sambungkan
+
+136
+00:06:31,670 --> 00:06:33,550
+aliran di sini.
+
+137
+00:06:33,550 --> 00:06:36,600
+Maka 2010 akan jadi 15 tahun.
+
+138
+00:06:36,600 --> 00:06:38,660
+Jadi kita boleh hanya meletakkan persamaan ini.
+
+139
+00:06:38,660 --> 00:06:41,760
+Kita boleh katakan ia akan menjadi bersamaan dengan, merujuk kepada
+
+140
+00:06:41,760 --> 00:06:44,570
+garis ini-- saya akan taipkan ia, diharapkan anda dapat baca
+
+141
+00:06:44,570 --> 00:06:51,000
+apa yang saya katakan-- 1,882.3 darab x.
+
+142
+00:06:51,000 --> 00:06:55,500
+x di sini ialah tahun sejak 1995.
+
+143
+00:06:55,500 --> 00:06:58,430
+Saya boleh pilih sel ini, atau saya boleh taip
+
+144
+00:06:58,430 --> 00:06:59,320
+nombor 15.
+
+145
+00:06:59,320 --> 00:07:03,590
+Ia bermaksud darabkan sel ini, darab 15.
+
+146
+00:07:03,590 --> 00:07:11,390
+Kemudian tambah 52,847, tambahkan itu di sini.
+
+147
+00:07:11,390 --> 00:07:17,600
+Tekan 'enter' dan it jangkakan $81,081.50.
+
+148
+00:07:17,600 --> 00:07:21,610
+Jadi jika anda teruskan garis ini untuk 8 yang lain atau tahun seterusnya,
+
+149
+00:07:21,610 --> 00:07:24,550
+ia jangkakan bahawa median pendapatan di California
+
+150
+00:07:24,550 --> 00:07:27,730
+untuk satu keluarga akan menjadi $$81,000.
+
+151
+00:07:27,730 --> 00:07:30,270
+Walau bagaimanapun, saya berharap anda lihat ianya menarik.
+
+152
+00:07:30,270 --> 00:07:33,340
+Kertas bentang merupakan alat yang sangat berguna untuk memanipulasi data.
+
+153
+00:07:33,340 --> 00:07:36,520
+Saya akan berikan anda rasa kenapa contoh linear adalah menarik.
+
+154
+00:07:36,520 --> 00:07:39,130
+kenapa garis adalah menarik, dan bagaimana anda sebenarnya dapat gunakan
+
+155
+00:07:39,130 --> 00:07:42,600
+alat ini untuk membaca data dan mungkin juga mengekstrapolasi beberapa
+
+156
+00:07:42,600 --> 00:07:43,370
+jenis jangkaan.
+
+157
+00:07:43,370 --> 00:07:45,450
+Di sini, ialah satu ekstrapolasi menggunakan
+
+158
+00:07:45,450 --> 00:07:47,260
+regrasi linear ini.
+
+159
+00:07:47,260 --> 00:07:47,333
+...

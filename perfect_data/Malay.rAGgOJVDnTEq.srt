@@ -1,0 +1,359 @@
+1
+00:00:00,750 --> 00:00:04,490
+Kita ada satu ketidaksamaan 2/3 lebig besar daripada negatif
+
+2
+00:00:04,490 --> 00:00:08,380
+4y tolak 8 dan 1/3.
+
+3
+00:00:08,380 --> 00:00:10,410
+Sekarang, pertama sekali saya akan, oleh kerana nombor
+
+4
+00:00:10,410 --> 00:00:12,770
+campur agak sukar -- sebenarnya ia susah untuk diselaikan
+
+5
+00:00:12,770 --> 00:00:13,470
+secara matematik.
+
+6
+00:00:13,470 --> 00:00:14,950
+Ianya senang untung bayangkan -- oh, ianya lebih
+
+7
+00:00:14,950 --> 00:00:16,079
+daripada 8.
+
+8
+00:00:16,079 --> 00:00:18,910
+Mari kita tukarkannya kepada pecahan tak wajar.
+
+9
+00:00:18,910 --> 00:00:23,910
+Jadi 8 dan 1/3 sama dengan -- penyebutnya adalah 3.
+
+10
+00:00:23,910 --> 00:00:28,080
+3 darab 8 adalah 24, tambah 1 adalah 25.
+
+11
+00:00:28,080 --> 00:00:30,920
+Jadi di sini ianya sama dengan 25 per 3.
+
+12
+00:00:30,920 --> 00:00:32,240
+Biar saya tunjukkan di sini.
+
+13
+00:00:32,240 --> 00:00:42,340
+jadi 2/3 lebih besar daripada 4y tolak 25 per 3.
+
+14
+00:00:42,340 --> 00:00:44,730
+Sekarang, perkara seterusnya saya akan, sebab pecahan
+
+15
+00:00:44,730 --> 00:00:48,260
+agak menyusahkan disini, darabkan kedua-dua belah
+
+16
+00:00:48,260 --> 00:00:50,430
+ketidaksamaan ini dengan sesuatu nilai yang akan
+
+17
+00:00:50,430 --> 00:00:51,550
+memansuhkan pecahan ini.
+
+18
+00:00:51,550 --> 00:00:53,610
+Dan cara yang paling mudah saya darabkan kedua-dua
+
+19
+00:00:53,610 --> 00:00:54,480
+belah dengan 3.
+
+20
+00:00:54,480 --> 00:00:56,870
+Ini akan memansuhkan '3' pada penyebut di sini.
+
+21
+00:00:56,870 --> 00:00:59,430
+Mari darabkan kedua-dua belah ketidaksamaan ini dengan 3.
+
+22
+00:00:59,430 --> 00:01:00,850
+Di sebelah kiri ini.
+
+23
+00:01:00,850 --> 00:01:03,520
+Dan saya akan darab di sebelah kanan pula.
+
+24
+00:01:03,520 --> 00:01:07,750
+3, saya akan letak kurungan seperti ini.
+
+25
+00:01:07,750 --> 00:01:11,870
+Satu perkara yang saya hendak tekankan di sini saya tidak
+
+26
+00:01:11,870 --> 00:01:15,160
+perlu menukarkan simbol ketidaksamaan, kerana saya mendarabkan
+
+27
+00:01:15,160 --> 00:01:17,300
+kedua-dua belah bahagian dengan nombor positif.
+
+28
+00:01:17,300 --> 00:01:19,600
+Jika 3 adalah nombor negatif, jika saya darab kedua-dua
+
+29
+00:01:19,600 --> 00:01:21,650
+belah dengan negatif 3, atau negatif 1, atau ape-ape
+
+30
+00:01:21,650 --> 00:01:24,920
+nombor negaitf, barulah saya kena tukar simbol ketidaksamaan ini.
+
+31
+00:01:24,920 --> 00:01:26,290
+Apa-apa pon, mari kita permudahkannya.
+
+32
+00:01:26,290 --> 00:01:31,040
+jadi di sebelah kiri, kita ada 3 darab 2/3, dimana sama dengan 2.
+
+33
+00:01:31,040 --> 00:01:32,660
+2 lebih besar daripada.
+
+34
+00:01:32,660 --> 00:01:34,050
+Dan kita boleh gunakan 3 ini.
+
+35
+00:01:34,050 --> 00:01:38,580
+3 darab negatif 4y adalah negatif 12y.
+
+36
+00:01:38,580 --> 00:01:44,880
+Kemudian 3 darab negatif 25 per 3 adalah 25.
+
+37
+00:01:44,880 --> 00:01:48,450
+Sekarang, kita nak letakkan semua konstan pada sebelah bahagian
+
+38
+00:01:48,450 --> 00:01:50,830
+saja dalam ketidaksamaan ini dan kesemua pemboleh ubah
+
+39
+00:01:50,830 --> 00:01:53,660
+-- hanya pemboleh ubah 'y' berada di bahagian berlawanan --
+
+40
+00:01:53,660 --> 00:01:56,070
+'y' telah pon berada di sini, jadi mari kita alih kan 25 ini
+
+41
+00:01:56,070 --> 00:01:56,820
+ke sebelah ketidaksamaan ini.
+
+42
+00:01:56,820 --> 00:01:59,490
+Dan kita boleh buat dengan menambah kedua-dua
+
+43
+00:01:59,490 --> 00:02:01,310
+bahagian persamaan ini.
+
+44
+00:02:01,310 --> 00:02:05,755
+Jadi mari tambah 25 pada kedua-dua belah persamaan ini.
+
+45
+00:02:05,755 --> 00:02:09,300
+-- tambahkan 25 --
+
+46
+00:02:09,300 --> 00:02:13,642
+Dan di sebelah kiri, 2 tambah 25 adalah 27 dan kita
+
+47
+00:02:13,642 --> 00:02:16,070
+akan dapat 27 lebih besar daripada.
+
+48
+00:02:16,070 --> 00:02:21,030
+Di sebelah kanan ketidaksamaan ini adalah negatif 12y.
+
+49
+00:02:21,030 --> 00:02:23,930
+Seterusnya negatif 25 tambah 25, mansuhkannya, inilah
+
+50
+00:02:23,930 --> 00:02:27,300
+tujuan utama, supaya hanya tinggal 27 lebih besar daripada
+
+51
+00:02:27,300 --> 00:02:29,190
+negatif 12y.
+
+52
+00:02:29,190 --> 00:02:34,970
+Sekarang, asingkan 'y', awak boleh darab kedua-dua belah
+
+53
+00:02:34,970 --> 00:02:38,710
+dengan negatif 1/12 atau awak boleh bahagikan kedua-dua belah
+
+54
+00:02:38,710 --> 00:02:40,180
+dengan negatif 12.
+
+55
+00:02:40,180 --> 00:02:43,630
+Sekarang, sebab saya darab atau bahagi dengan nombor
+
+56
+00:02:43,630 --> 00:02:46,950
+negatif di sini, saya perlu tukarkan ketidaksamaan ini.
+
+57
+00:02:46,950 --> 00:02:48,030
+Biar saya tulis di sini.
+
+58
+00:02:48,030 --> 00:02:51,690
+Jika saya bahagikan kedua-dua belah persamaan in dengan 12,
+
+59
+00:02:51,690 --> 00:02:57,055
+ianya menjadi 27 per negatif 12 lebih kurang daripada -- saya tukarkan
+
+60
+00:02:57,055 --> 00:02:59,900
+ketidaksamaan ini, biar saya gunakan warna lain -- adalah
+
+61
+00:02:59,900 --> 00:03:05,190
+lebih kurang daripada negatif 12y per negatif 12.
+
+62
+00:03:05,190 --> 00:03:08,280
+Perhatikan, bila saya bahagi kedua-dua belah ketidaksamaan dengan
+
+63
+00:03:08,280 --> 00:03:12,150
+nombor negatif, saya tukarkan ketidaksamaan, lebih daripada
+
+64
+00:03:12,150 --> 00:03:13,950
+menjadi kurang daripada.
+
+65
+00:03:13,950 --> 00:03:16,620
+Bila ianya positif, saya tidak perlu tukarkannya.
+
+66
+00:03:16,620 --> 00:03:20,280
+Jadi 27 dibahagikan dengan negatif 12, sebenarnya, kedua-dua
+
+67
+00:03:20,280 --> 00:03:22,520
+boleh dibahagikan dengan 3.
+
+68
+00:03:22,520 --> 00:03:24,850
+Jadi kita akan dapat, jika kita bahagikan penyebut dan
+
+69
+00:03:24,850 --> 00:03:30,960
+pengangka dengan 3, kita dapat negatif 9 per 4 lebih
+
+70
+00:03:30,960 --> 00:03:33,580
+kurang daripada -- mansuhkan -- y.
+
+71
+00:03:33,580 --> 00:03:37,260
+jadi y lebih besar daripda negatif 9/4, atau negatif 9/4
+
+72
+00:03:37,260 --> 00:03:39,220
+kurang daripada y.
+
+73
+00:03:39,220 --> 00:03:40,740
+Dan jika awak nak tuliskannya -- biar saya tuliskan di sini --
+
+74
+00:03:40,740 --> 00:03:45,110
+jawapan kita adalah y lebih besar daripada negatif 9/4.
+
+75
+00:03:45,110 --> 00:03:47,660
+Saya hanya tukarkan arahnya, awak juga boleh sebutkannya
+
+76
+00:03:47,660 --> 00:03:48,870
+sebagai negatif 9/4 kurang daripada y.
+
+77
+00:03:48,870 --> 00:03:51,590
+Atau jika awak nak nampak lebih jelas, 9/4
+
+78
+00:03:51,590 --> 00:03:55,140
+adalah 2 dan 1/4, jadi kita juga boleh katakan y lebih besar daripada negatif
+
+79
+00:03:55,140 --> 00:03:58,300
+2 dan 1/4 jika kita hendak gunakan nombor bercampur.
+
+80
+00:03:58,300 --> 00:04:01,410
+Dan jika kita grafkan pada garis nombor -- biar saya
+
+81
+00:04:01,410 --> 00:04:04,620
+lukis garis nombor di sini, mudah saja.
+
+82
+00:04:04,620 --> 00:04:06,820
+Anggarkan 0 di sini.
+
+83
+00:04:06,820 --> 00:04:10,870
+Negatif 2 di sini, letakkan negatif 1, negatif
+
+84
+00:04:10,870 --> 00:04:14,450
+2, kemudian negatif 3 di sini.
+
+85
+00:04:14,450 --> 00:04:17,610
+Negatif 2 dan 1/4 akan berada di sini, dan
+
+86
+00:04:17,610 --> 00:04:19,930
+lebih besar daripada, jadi kita tak akan masukkannya di dalam
+
+87
+00:04:19,930 --> 00:04:21,170
+penyelesaian ini.
+
+88
+00:04:21,170 --> 00:04:23,700
+Jadi kita akan gunakan bulat kosong di sini.
+
+89
+00:04:23,700 --> 00:04:27,560
+Dan semua lebih besar daripada y, adalah y yang
+
+90
+00:04:27,560 --> 00:04:30,450
+akan memenuhi ketidaksamaan ini.

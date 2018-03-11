@@ -1,0 +1,443 @@
+1
+00:00:00,750 --> 00:00:01,580
+J.T suka burger dan suka
+
+2
+00:00:01,580 --> 00:00:05,320
+melanggan plan mesej bersama tiga
+
+3
+00:00:05,320 --> 00:00:06,760
+ahli keluarganya.
+
+4
+00:00:06,760 --> 00:00:11,160
+Di dalam sesuatu bulan. mereka tidak boleh mengirim lebih daripada 500 mesej
+
+5
+00:00:11,160 --> 00:00:12,040
+secara keseluruhannya.
+
+6
+00:00:12,040 --> 00:00:17,330
+Jadi mereka tidak boleh hantar lebih daripada 500 jumlah mesej.
+
+7
+00:00:17,330 --> 00:00:19,370
+Pada hujung bulan ini, J.T.
+
+8
+00:00:19,370 --> 00:00:22,500
+telah menghantar 25 mesej lebih daripada kakaknya.
+
+9
+00:00:22,500 --> 00:00:23,310
+Biar saya gariskan.
+
+10
+00:00:23,310 --> 00:00:25,140
+Saya gunakan warna yang berlainan.
+
+11
+00:00:25,140 --> 00:00:27,540
+Jadi pada hujung bulan, J.T.
+
+12
+00:00:27,540 --> 00:00:32,870
+telah menghantar 25 mesej lebih daripada kakaknya, 50 kurang
+
+13
+00:00:32,870 --> 00:00:41,860
+daripada adiknya dan 125 lebih daripada
+
+14
+00:00:41,860 --> 00:00:44,010
+ibunya.
+
+15
+00:00:44,010 --> 00:00:46,430
+Berapa banyak mesej yang J.T.
+
+16
+00:00:46,430 --> 00:00:55,130
+telah hantar jika mereka tidak melebihi had 500 mesej.
+
+17
+00:00:55,130 --> 00:01:00,030
+Mari kita gunakan beberapa pemboleh ubah di sini.
+
+18
+00:01:00,030 --> 00:01:01,790
+mari kita letak o.
+
+19
+00:01:01,790 --> 00:01:07,120
+katakan o adalah kakaknya.
+
+20
+00:01:07,120 --> 00:01:13,383
+Jadi ini adalah bilangan mesej oleh kakaknya.
+
+21
+00:01:17,880 --> 00:01:23,420
+Mari kita katakan yang y adalah jumlah mesej
+
+22
+00:01:23,420 --> 00:01:24,670
+bagi adiknya.
+
+23
+00:01:30,170 --> 00:01:37,150
+Dan kita gunakan m sama dengan bilangan
+
+24
+00:01:37,150 --> 00:01:39,910
+mesej oleh ibunya.
+
+25
+00:01:42,740 --> 00:01:45,540
+Dan kita akan gunakan j untuk bilangan mesej untuk J.T.
+
+26
+00:01:51,790 --> 00:01:55,400
+Jadi jumlah bilangan mesej yang semua telah hantar mestilah
+
+27
+00:01:55,400 --> 00:01:56,910
+tidak lebih daripada 500.
+
+28
+00:01:56,910 --> 00:02:01,140
+Jadi jika kita amek jumlah mesej J.T. tambah mesej
+
+29
+00:02:01,140 --> 00:02:06,360
+kakaknya, tambah mesej adiknya, tambah
+
+30
+00:02:06,360 --> 00:02:12,580
+mesej emaknya, keseluruhannya mestilah kurang daripada
+
+31
+00:02:12,580 --> 00:02:15,410
+500.
+
+32
+00:02:15,410 --> 00:02:18,420
+Betul, ianya tidak boleh melebihi 500, jadi jumlahnya mestilah lebih kurang daripada
+
+33
+00:02:18,420 --> 00:02:21,230
+atau sama dengan 500.
+
+34
+00:02:21,230 --> 00:02:24,290
+Sekarang, bagaimana kita hendak gambarkannya
+
+35
+00:02:24,290 --> 00:02:25,410
+menggunakan bilangan mesej
+
+36
+00:02:25,410 --> 00:02:25,790
+yang dihantar J.T.
+
+37
+00:02:25,790 --> 00:02:28,060
+Ada beberapa maklumat di sini.
+
+38
+00:02:28,060 --> 00:02:29,560
+Penyataan pertama, J.T.
+
+39
+00:02:29,560 --> 00:02:32,910
+telah menghantar 24 mesej lebih daripada kakaknya.
+
+40
+00:02:32,910 --> 00:02:39,570
+Jadi j adalah sama dengan 25 tambah mesej kakaknya,
+
+41
+00:02:39,570 --> 00:02:41,550
+iaitu di sini adalah o.
+
+42
+00:02:41,550 --> 00:02:44,640
+ini bukan 0, ini adalah o untuk kakak.
+
+43
+00:02:44,640 --> 00:02:46,250
+Ia juga disebut yang J.T.
+
+44
+00:02:46,250 --> 00:02:52,510
+telah menghantar 50 mesej kurang daripada adiknya, maka j juga
+
+45
+00:02:52,510 --> 00:02:57,130
+sama dengan adiknya tolak 50, betul tak?
+
+46
+00:02:57,130 --> 00:02:59,600
+50 mesej kurang daripada adiknya.
+
+47
+00:02:59,600 --> 00:03:03,880
+dan akhir sekali, dinyatakan 125 mesej lebih daripada ibunya,
+
+48
+00:03:03,880 --> 00:03:09,410
+maka j adalah sama dengan ibu tambah 125.
+
+49
+00:03:09,410 --> 00:03:12,250
+Sekarang, saya mahukan persamaan ini dalam bentuk j,kerana kita
+
+50
+00:03:12,250 --> 00:03:14,430
+nak tahu berapa mesej yang J.T
+
+51
+00:03:14,430 --> 00:03:15,140
+telah hantar.
+
+52
+00:03:15,140 --> 00:03:17,990
+Jadi saya nak semua persamaan dalam j, jadi mari
+
+53
+00:03:17,990 --> 00:03:22,600
+selesaikan satu persatu untuk o dalam bentu j, selesaikan y
+
+54
+00:03:22,600 --> 00:03:25,110
+dalam bentuk j, m dalam bentuk j, dan kemudian kita boleh
+
+55
+00:03:25,110 --> 00:03:27,910
+gantikan kembali di sini.
+
+56
+00:03:27,910 --> 00:03:32,640
+jadi jika j sama dengan 25 tambah 0, kita tolak 25 di kedua-dua
+
+57
+00:03:32,640 --> 00:03:38,920
+belah persamaan ini, kita dapat j tolak 25 sama dengan o.
+
+58
+00:03:38,920 --> 00:03:40,460
+Ini juga sama untuk.
+
+59
+00:03:40,460 --> 00:03:43,090
+Jika awak ambil di sini dan tolak 25 dikedua-dua belah,
+
+60
+00:03:43,090 --> 00:03:45,490
+awak dapat disini.
+
+61
+00:03:45,490 --> 00:03:49,160
+Sekarang, jika awak tambah 50 kedua-dua belah persamaan ini,
+
+62
+00:03:49,160 --> 00:03:54,000
+jika awak tambah 50 dikedua-dua belah, j tambah 50 adalah
+
+63
+00:03:54,000 --> 00:03:56,840
+sama dengan bilangan mesej yang dihantar adiknya.
+
+64
+00:03:56,840 --> 00:03:59,520
+Saya tambahkan 50 dikedua-dua belah
+
+65
+00:03:59,520 --> 00:04:02,490
+Dan disini, tolak 125 dikedua-dua belah
+
+66
+00:04:02,490 --> 00:04:06,570
+persamaan ini -- skrol ke bawah -- jika awak tolak
+
+67
+00:04:06,570 --> 00:04:11,130
+125 dari kedua-dua belah, awak dapat j tolak 125 sama dengan
+
+68
+00:04:11,130 --> 00:04:13,210
+bilangan mesej yang dihantar ibunya.
+
+69
+00:04:13,210 --> 00:04:14,370
+Dan kita terus ke sini.
+
+70
+00:04:14,370 --> 00:04:17,829
+Penyataan pertama, J.T telah hantar 25 mesej lebih daripada
+
+71
+00:04:17,829 --> 00:04:18,730
+kakaknya.
+
+72
+00:04:18,730 --> 00:04:20,290
+Jadi jika kita ambil bilangan mesej J.T.
+
+73
+00:04:20,290 --> 00:04:23,620
+telah hantar, tolak 25, awak dapat bilangan mesej oleh
+
+74
+00:04:23,620 --> 00:04:24,430
+kakaknya.
+
+75
+00:04:24,430 --> 00:04:26,320
+Iaitu o, bukan 0.
+
+76
+00:04:26,320 --> 00:04:27,720
+o untuk orang tua.
+
+77
+00:04:27,720 --> 00:04:30,600
+Seperti biasa, die telah hantar 50 mesej kurang daripada adiknya,
+
+78
+00:04:30,600 --> 00:04:33,150
+jadi awak ambil bilangan mesej yang telah dihantar, tambah 50,
+
+79
+00:04:33,150 --> 00:04:35,560
+awak akan dapat berapa bilagan mesej yang telah dihantar oleh adiknya.
+
+80
+00:04:35,560 --> 00:04:38,545
+Dan akhir sekali, dia telah hantar 125 lebih daripada ibunya, jadi
+
+81
+00:04:38,545 --> 00:04:42,010
+awak ambil J.T, awak tolak 125, inilah
+
+82
+00:04:42,010 --> 00:04:43,750
+bilangan mesej yang dihantar ibunya.
+
+83
+00:04:43,750 --> 00:04:47,180
+Jadi sekarang, kita boleh gantikan kesemua
+
+84
+00:04:47,180 --> 00:04:49,530
+pemboleh uabh kedalam persamaan asal.
+
+85
+00:04:49,530 --> 00:04:53,505
+Jadi awak ada mesej J.T, tambak mesek kakakya.
+
+86
+00:04:53,505 --> 00:04:56,790
+Tetapi kita tahu yang o sama dengan mesej J.T. tolak
+
+87
+00:04:56,790 --> 00:05:01,080
+25, jadi kita tulis mesej J.T. tolak 25.
+
+88
+00:05:01,080 --> 00:05:03,920
+Dan awak perlu tambah mesej adiknya, tetapi
+
+89
+00:05:03,920 --> 00:05:09,650
+kita tahu yang mesej J.T tambah 50.
+
+90
+00:05:09,650 --> 00:05:12,540
+Kemudian, mesej ibunya, mesej ibunya
+
+91
+00:05:12,540 --> 00:05:18,680
+hanyalah mesej J.T. tolak 125, jadi tambah j tolak 125.
+
+92
+00:05:18,680 --> 00:05:23,560
+Dan kesemuanya mesti kurang atau sama dengan 500.
+
+93
+00:05:23,560 --> 00:05:24,590
+jadi kita tambah j.
+
+94
+00:05:24,590 --> 00:05:29,290
+Kita ade 1,2,3,4 j, jadi kita ade 4j.
+
+95
+00:05:29,290 --> 00:05:30,880
+Dan tambah kesemua konstan.
+
+96
+00:05:30,880 --> 00:05:38,520
+Awak dapat negatif 25 tambah 50, iaitu 25.
+
+97
+00:05:38,520 --> 00:05:44,140
+Kemudian awak ada 25 tolak 125, jadi 25 tolak 125
+
+98
+00:05:44,140 --> 00:05:45,010
+sama dengan negatif 100.
+
+99
+00:05:45,010 --> 00:05:49,120
+Jadi 4j tolak 100 -- saya tambah semua konstan --
+
+100
+00:05:49,120 --> 00:05:54,610
+kurang daripada atau sama dengan 500.
+
+101
+00:05:54,610 --> 00:05:57,810
+Sekarang semuanya dah jelas.
+
+102
+00:05:57,810 --> 00:06:05,030
+tambah 100 kedua-dua belah dan kita dapat 4j -- mansuh kan --
+
+103
+00:06:05,030 --> 00:06:09,530
+kita dapat 4j kurang daripada atau sama dengan 600.
+
+104
+00:06:09,530 --> 00:06:12,640
+Bahagikan kedua-dua belah dengan 4 -- tidak perlu risam sebab 4 adalah nombor positif --
+
+105
+00:06:12,640 --> 00:06:18,080
+dan kita akan dapat j
+
+106
+00:06:18,080 --> 00:06:21,850
+lebih kurang daripada atau sama dengan 150.
+
+107
+00:06:21,850 --> 00:06:22,720
+Jadi J.T
+
+108
+00:06:22,720 --> 00:06:28,560
+telah menghantar kurang daripada atau sama dengan 150
+
+109
+00:06:28,560 --> 00:06:32,210
+dalam bulan ini untuk memastikan
+
+110
+00:06:32,210 --> 00:06:36,280
+ianya seragam dengan unit gabungan bagi kelurganya
+
+111
+00:06:36,280 --> 00:06:38,630
+kurang daripada 500.

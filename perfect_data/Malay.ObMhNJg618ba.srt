@@ -1,0 +1,24 @@
+1
+00:00:00,000 --> 00:00:04,000
+[Perawi lelaki] - Ini suatu kegemaran saya, kereta robotik.
+
+2
+00:00:04,000 --> 00:00:06,000
+Saya ingin tahu sama ada ia boleh diperhatikan separuh,
+
+3
+00:00:06,000 --> 00:00:11,000
+stokastik, berterusan, atau pertentangan.
+
+4
+00:00:11,000 --> 00:00:16,000
+Iaitu, masalah panduan secara robotik -
+
+5
+00:00:16,000 --> 00:00:20,000
+katakan, di bandar - ditakluk oleh mana-mana kategori tersebut?
+
+6
+00:00:20,000 --> 09:59:59,000
+Sila tandakan mana-mana atau semua yang benar.
+

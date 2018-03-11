@@ -1,0 +1,447 @@
+1
+00:00:00,490 --> 00:00:07,760
+Kita dikehendaki membahagi 0.25 ke dalam 1.03075.
+
+2
+00:00:07,760 --> 00:00:11,260
+Sekarang perkara pertama yang anda perlu buat apabila pembahagi anda,
+
+3
+00:00:11,260 --> 00:00:13,690
+nombor yang anda membahagi ke dalam nombor yang lagi satu, adalah suatu
+
+4
+00:00:13,690 --> 00:00:17,850
+perpuluhan, adalah untuk mendarabkannya dengan 10 kali yang mencukupi supaya ia
+
+5
+00:00:17,850 --> 00:00:19,990
+menjadi suatu nombor bulat jadi anda boleh menggerakkan
+
+6
+00:00:19,990 --> 00:00:21,220
+perpuluhan itu ke sebelah kanan.
+
+7
+00:00:21,220 --> 00:00:23,620
+Jadi setiap kali anda mendarab sesuatu dengan 10, anda
+
+8
+00:00:23,620 --> 00:00:26,170
+menggerakkan perpuluhan itu ke sebelah kanan sebanyak sekali.
+
+9
+00:00:26,170 --> 00:00:27,620
+Jadi dalam kes ini, kita mahu menggerakkannya ke sebelah
+
+10
+00:00:27,620 --> 00:00:29,310
+kanan sekali dan dua kali.
+
+11
+00:00:29,310 --> 00:00:34,690
+Jadi 0.25 darab 10 sebanyak dua kali adalah sama dengan 0.25 darab dengan 100,
+
+12
+00:00:34,690 --> 00:00:38,190
+dan kita akan menukarkan 0.25 ke 25.
+
+13
+00:00:38,190 --> 00:00:41,250
+Sekarang jikalau anda melakukan itu dengan pembahaginya, anda juga perlu melakukan
+
+14
+00:00:41,250 --> 00:00:42,860
+itu dengan dividennya, nombor yang
+
+15
+00:00:42,860 --> 00:00:43,920
+anda membahagi ke dalam.
+
+16
+00:00:43,920 --> 00:00:47,220
+Jadi kita juga perlu mendarab ini dengan 10 sebanyak dua kali, atau lagi
+
+17
+00:00:47,220 --> 00:00:49,190
+satu cara untuk melakukannya adalah dengan mengalihkan perpuluhan itu
+
+18
+00:00:49,190 --> 00:00:50,560
+ke sebelah kanan sebanyak dua kali.
+
+19
+00:00:50,560 --> 00:00:52,680
+Jadi kita alihkannya sekali, dua kali.
+
+20
+00:00:52,680 --> 00:00:55,440
+Ia akan duduk di sini.
+
+21
+00:00:55,440 --> 00:00:57,180
+Dan untuk melihat kenapa ia adalah begitu, anda hanya perlu
+
+22
+00:00:57,180 --> 00:01:00,700
+sedar bahawa ungkapan ini, masalah
+
+23
+00:01:00,700 --> 00:01:14,840
+pembahagian ini, adalah sama dengan 1.03075
+
+24
+00:01:14,840 --> 00:01:21,310
+dibahagi dengan 0.25.
+
+25
+00:01:21,310 --> 00:01:25,650
+Dan jadi kita mendarab 0.25 ini dengan 10 sebanyak dua kali.
+
+26
+00:01:25,650 --> 00:01:28,590
+Kita mendarabkan ia dengan 100.
+
+27
+00:01:28,590 --> 00:01:30,960
+Saya akan melakukan itu dengan warna yang berlainan.
+
+28
+00:01:30,960 --> 00:01:34,750
+Kita mendarabkan ia dengan 100 dalam penyebutnya.
+
+29
+00:01:34,750 --> 00:01:35,760
+Ini adalah pembahaginya.
+
+30
+00:01:35,760 --> 00:01:38,670
+Kita mendarabkannya dengan 100, jadi kita juga perlu melakukan perkara yang
+
+31
+00:01:38,670 --> 00:01:41,040
+sama pada pengangkanya, jikalau kita tidak mahu menukarkan ungkapan
+
+32
+00:01:41,040 --> 00:01:42,720
+ini, jikalau kita tidak mahu menukarkan nombornya.
+
+33
+00:01:42,720 --> 00:01:45,400
+Jadi kita juga perlu mendarabkan itu dengan 100.
+
+34
+00:01:45,400 --> 00:01:48,050
+Dan apabila anda melakukan itu, ini menjadi 25, dan
+
+35
+00:01:48,050 --> 00:01:52,200
+ini menjadi 103.075.
+
+36
+00:01:52,200 --> 00:01:53,400
+Sekarang saya akan menulis semula ini.
+
+37
+00:01:53,400 --> 00:01:55,520
+Kadang kala kalau anda melakukan ini di dalam suatu buku kerja atau yang lain,
+
+38
+00:01:55,520 --> 00:01:57,240
+anda tidak perlu menulis semula itu asalkan anda mengingati di mana
+
+39
+00:01:57,240 --> 00:01:57,910
+perpuluhan itu.
+
+40
+00:01:57,910 --> 00:01:59,340
+Tetapi saya akan menulis semula itu, supaya ia menjadi
+
+41
+00:01:59,340 --> 00:02:00,480
+lagi kemas.
+
+42
+00:02:00,480 --> 00:02:03,330
+Jadi kita telah mendarab kedua-dua pembahagi dan
+
+43
+00:02:03,330 --> 00:02:05,040
+dividen dengan 100.
+
+44
+00:02:05,040 --> 00:02:17,590
+Masalah ini menjadi 25 dibahagi ke dalam 103.075.
+
+45
+00:02:17,590 --> 00:02:20,130
+Ini akan memberikan hasil bahagi yang sama.
+
+46
+00:02:20,130 --> 00:02:22,160
+Ia adalah pecahan yang sama, jikalau anda melihatnya
+
+47
+00:02:22,160 --> 00:02:22,580
+dengan cara itu.
+
+48
+00:02:22,580 --> 00:02:26,430
+Kita baru sahaja mendarabkan kedua-dua pengangka dan penyebut
+
+49
+00:02:26,430 --> 00:02:29,720
+dengan 100 untuk mengalihkan perpuluhan itu ke sebelah kanan sebanyak dua kali.
+
+50
+00:02:29,720 --> 00:02:32,560
+Setelah kita melakukan itu, kita sudah bersedia untuk membahagi.
+
+51
+00:02:32,560 --> 00:02:35,520
+Jadi perkara yang pertama, kita mempunyai 25 di sini, dan selalunya ada
+
+52
+00:02:35,520 --> 00:02:38,160
+sedikit seni yang terlibat dalam pembahagian sesuatu dengan
+
+53
+00:02:38,160 --> 00:02:41,660
+nombor yang digitnya banyak, jadi kita akan melihat betapa baiknya kita boleh menyelesaikan ini.
+
+54
+00:02:41,660 --> 00:02:43,810
+Jadi 25 tidak boleh dibahagi ke dalam 1.
+
+55
+00:02:43,810 --> 00:02:45,750
+25 tidak boleh dibahagi ke dalam 10.
+
+56
+00:02:45,750 --> 00:02:48,410
+25 boleh dibahagi ke dalam 103.
+
+57
+00:02:48,410 --> 00:02:51,400
+Kita mengetahui bahawa 4 darab 25 adalah 100, jadi 25 boleh dibahagi
+
+58
+00:02:51,400 --> 00:02:53,880
+ke dalam 100 sebanyak empat kali.
+
+59
+00:02:53,880 --> 00:02:56,540
+4 darab 5 adalah 20.
+
+60
+00:02:56,540 --> 00:02:59,840
+4 darab 2 adalah 8, tambah 2 adalah 100.
+
+61
+00:02:59,840 --> 00:03:00,990
+Kita sudah mengetahui itu.
+
+62
+00:03:00,990 --> 00:03:02,600
+Empat kuarter adalah $1.00.
+
+63
+00:03:02,600 --> 00:03:04,130
+Ia adalah 100 sen.
+
+64
+00:03:04,130 --> 00:03:05,590
+Dan sekarang kita menolak.
+
+65
+00:03:05,590 --> 00:03:11,920
+103 tolak 100 akan menjadi 3, dan sekarang kita boleh
+
+66
+00:03:11,920 --> 00:03:14,100
+membawa turun 0 ini.
+
+67
+00:03:14,100 --> 00:03:16,640
+Jadi kita membawa turun 0 itu di sana.
+
+68
+00:03:16,640 --> 00:03:20,710
+25 boleh dibahagi ke dalam 30 sebanyak satu kali.
+
+69
+00:03:20,710 --> 00:03:22,210
+Dan jikalau kita mahu, kita boleh dengan serta-merta meletakkan
+
+70
+00:03:22,210 --> 00:03:23,070
+perpuluhan itu di sini.
+
+71
+00:03:23,070 --> 00:03:25,400
+Kita tidak perlu menunggu sehingga pengakhiran masalah itu.
+
+72
+00:03:25,400 --> 00:03:27,930
+Perpuluhan ini berada di tempat itu, jadi
+
+73
+00:03:27,930 --> 00:03:30,730
+perpuluhan itu boleh berada dalam hasil bahagi kita atau
+
+74
+00:03:30,730 --> 00:03:31,980
+dalam jawapan kita.
+
+75
+00:03:34,010 --> 00:03:36,690
+Jadi kita tadi berada di mana 25 boleh dibahagi ke dalam 30 sebanyak satu kali.
+
+76
+00:03:36,690 --> 00:03:43,970
+1 darab 25 adalah 25, dan kemudian kita boleh menolak.
+
+77
+00:03:43,970 --> 00:03:46,550
+30 tolak 25, itu adalah 5.
+
+78
+00:03:46,550 --> 00:03:48,510
+Kita boleh melakukan semua hal meminjam ini, atau
+
+79
+00:03:48,510 --> 00:03:49,140
+pengumpulan semula.
+
+80
+00:03:49,140 --> 00:03:50,410
+Ini boleh menjadi 10.
+
+81
+00:03:50,410 --> 00:03:51,570
+Ini menjadi 2.
+
+82
+00:03:51,570 --> 00:03:53,350
+10 tolak 5 adalah 5.
+
+83
+00:03:53,350 --> 00:03:55,200
+2 tolak 2 adalah kosong.
+
+84
+00:03:55,200 --> 00:03:59,250
+Tetapi, 30 tolak 25 adalah 5.
+
+85
+00:03:59,250 --> 00:04:02,860
+Sekarang kita boleh menurunkan 7 ini.
+
+86
+00:04:02,860 --> 00:04:06,270
+25 boleh dibahagi ke dalam 57 sebanyak 2 kali, bukan?
+
+87
+00:04:06,270 --> 00:04:08,780
+25 darab 2 adalah 50.
+
+88
+00:04:08,780 --> 00:04:11,940
+25 boleh dibahagi ke dalam 57 sebanyak 2 kali.
+
+89
+00:04:11,940 --> 00:04:15,130
+2 darab 25 adalah 50.
+
+90
+00:04:15,130 --> 00:04:16,940
+Dan sekarang kita menolak sekali lagi.
+
+91
+00:04:16,940 --> 00:04:19,950
+57 tolak 50 adalah 7.
+
+92
+00:04:19,950 --> 00:04:21,760
+Dan sekarang kita hampir menyelesaikannya.
+
+93
+00:04:24,360 --> 00:04:28,280
+Kita membawa turun 5 itu di sana.
+
+94
+00:04:28,280 --> 00:04:34,150
+25 boleh dibahagi ke dalam 75 sebanyak tiga kali.
+
+95
+00:04:34,150 --> 00:04:36,610
+3 darab 25 adalah 75.
+
+96
+00:04:36,610 --> 00:04:39,390
+3 darab 5 adalah 15.
+
+97
+00:04:39,390 --> 00:04:40,240
+Kumpulkan semula 1 itu.
+
+98
+00:04:40,240 --> 00:04:40,980
+Kita boleh mengabaikan itu.
+
+99
+00:04:40,980 --> 00:04:41,920
+Itu adalah dari dulu.
+
+100
+00:04:41,920 --> 00:04:44,960
+3 darab 2 adalah 6, tambah 1 adalah 7.
+
+101
+00:04:44,960 --> 00:04:46,260
+Jadi anda boleh melihat itu.
+
+102
+00:04:46,260 --> 00:04:51,540
+Dan kemudian kita menolak, dan kemudian kita tidak mempunyai apa-apa baki.
+
+103
+00:04:51,540 --> 00:04:59,110
+Jadi 25 boleh dibahagi ke dalam 103.075 sebanyak 4.123 kali, yang
+
+104
+00:04:59,110 --> 00:05:02,100
+boleh diterima, kerana 25 boleh dibahagi ke dalam 100 sebanyak 4 kali.
+
+105
+00:05:02,100 --> 00:05:04,080
+Ini adalah lebih besar daripada 100, jadi ia akan menjadi
+
+106
+00:05:04,080 --> 00:05:05,740
+lebih sedikit daripada 4 kali.
+
+107
+00:05:05,740 --> 00:05:07,920
+Dan itu akan menjadi jawapan yang sama dengan
+
+108
+00:05:07,920 --> 00:05:16,600
+berapa kali 0.25 boleh dibahagi ke dalam 1.03075.
+
+109
+00:05:16,600 --> 00:05:21,520
+Ini juga akan menjadi 4.123.
+
+110
+00:05:21,520 --> 00:05:24,580
+Jadi pecahan ini, atau ungkapan ini, adalah sama
+
+111
+00:05:24,580 --> 00:05:29,730
+dengan 4.123.
+
+112
+00:05:29,730 --> 00:05:31,340
+Dan kita sudah menyelesaikannya!

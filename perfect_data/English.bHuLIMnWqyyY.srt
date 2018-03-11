@@ -1,0 +1,83 @@
+1
+00:00:00,870 --> 00:00:02,250
+GLOBAL
+
+2
+00:00:02,250 --> 00:00:03,207
+IMPACT
+
+3
+00:00:03,207 --> 00:00:04,127
+AWARDS
+
+4
+00:00:04,127 --> 00:00:06,012
+Google
+
+5
+00:00:06,669 --> 00:00:08,675
+Imagine if
+
+6
+00:00:15,158 --> 00:00:21,376
+real-time monitoring technology could improve access to clean water
+
+7
+00:00:22,636 --> 00:00:24,543
+Imagine if
+
+8
+00:00:27,358 --> 00:00:32,411
+aerial survey systems could prevent the poaching of endangered animals
+
+9
+00:00:33,406 --> 00:00:35,292
+Imagine if
+
+10
+00:00:37,455 --> 00:00:42,758
+DNA indexing could protect rare species from illegal trafficking
+
+11
+00:00:43,749 --> 00:00:45,713
+Imagine if
+
+12
+00:00:47,422 --> 00:00:51,214
+direct mobile payments could help lift families from extreme poverty
+
+13
+00:00:53,242 --> 00:00:54,847
+Imagine if
+
+14
+00:00:56,970 --> 00:01:02,065
+disadvantaged students could receive equal access to advanced science and math classes
+
+15
+00:01:02,768 --> 00:01:04,364
+Imagine if
+
+16
+00:01:05,939 --> 00:01:11,546
+kids could grow up seeing positive portrayals of women and girls in media
+
+17
+00:01:12,579 --> 00:01:14,113
+At Google
+
+18
+00:01:14,113 --> 00:01:22,461
+we're providing tens of millions of dollars to innovators who aren't just imagining these ideas but making them a reality
+
+19
+00:01:27,915 --> 00:01:29,546
+GLOBAL IMPACT AWARDS
+
+20
+00:01:29,546 --> 00:01:32,805
+Google
+
+21
+00:01:33,634 --> 00:01:39,874
+g.co/globalimpactawards

@@ -1,0 +1,679 @@
+1
+00:00:00,460 --> 00:00:03,040
+mari kita fikirkan ape kegunaan fungsi kemudian
+
+2
+00:00:03,040 --> 00:00:06,590
+kita akan fikir tentang fungsi terbalik
+
+3
+00:00:06,590 --> 00:00:08,450
+mari kita mula dengan fungsi yang terus-terang
+
+4
+00:00:08,450 --> 00:00:13,510
+katakan f daripada x bersamaan dengan 2x tambah 4
+
+5
+00:00:13,510 --> 00:00:20,340
+jadinya jika saya ambil f daripada 2, f daripada 2 akan bersamaan dengan 2 kali
+
+6
+00:00:20,340 --> 00:00:24,560
+2 tambah 4, adalah 4 tambah 4 adalah 8
+
+7
+00:00:24,560 --> 00:00:32,470
+saya boleh ambil f daripada 3, bersamma dengan 2 kali 3 tambah 4
+
+8
+00:00:32,470 --> 00:00:35,920
+in bersamaan dengan 10
+
+9
+00:00:35,920 --> 00:00:36,960
+6 tambah 4
+
+10
+00:00:36,960 --> 00:00:38,280
+mari kita fikirkan lagi
+
+11
+00:00:38,280 --> 00:00:39,800
+dari segi rasa abstrak
+
+12
+00:00:39,800 --> 00:00:42,990
+jadinya terdapat bebrapa pekara yang saya dapat masukan dalam fungsi ini
+
+13
+00:00:42,990 --> 00:00:44,700
+anda mungkin sudah biasa dengan tangapan tersebut
+
+14
+00:00:44,700 --> 00:00:46,050
+ini adalah domain
+
+15
+00:00:46,050 --> 00:00:48,760
+set semua perkara yang saya boleh input ke dalam bahawa
+
+16
+00:00:48,760 --> 00:00:52,760
+fungsi, iaitu domain
+
+17
+00:00:52,760 --> 00:00:57,290
+Dan dalam domain tersebut, 2 adalah di sana, anda mempunyai 3 lebih
+
+18
+00:00:57,290 --> 00:00:59,700
+input cukup banyak anda boleh mana-mana nombor nyata
+
+19
+00:00:59,700 --> 00:01:00,850
+dalam fungsi ini
+
+20
+00:01:00,850 --> 00:01:02,810
+Jadi ini akan menjadi nyata semua, tetapi kami menjadikannya
+
+21
+00:01:02,810 --> 00:01:05,150
+set yang terkandung di sini hanya untuk membantu anda membayangkan.
+
+22
+00:01:05,150 --> 00:01:07,830
+Kini, apabila anda mengunakan fungsi itu, mari kita fikirkan tentang
+
+23
+00:01:07,830 --> 00:01:10,000
+ia bermaksud untuk ambik f dari 2
+
+24
+00:01:10,000 --> 00:01:13,900
+Kami memasukkan nombor, 2, dan kemudian fungsi adalah
+
+25
+00:01:13,900 --> 00:01:15,790
+keluarkan nombor 8.
+
+26
+00:01:15,790 --> 00:01:19,270
+Ia adalah pemetaan kita 2 hinggga 8.
+
+27
+00:01:19,270 --> 00:01:22,490
+Oleh itu, mari kita membuat satu lagi di sini semua nilai yang mungkin
+
+28
+00:01:22,490 --> 00:01:23,930
+bahawa fungsi saya boleh mengambil.
+
+29
+00:01:27,780 --> 00:01:30,300
+Dan kita boleh memanggilnya julat.
+
+30
+00:01:30,300 --> 00:01:33,320
+Terdapat lebih formal cara-cara untuk bercakap tentang perkara ini, dan terdapat
+
+31
+00:01:33,320 --> 00:01:36,640
+perbincangan yang lebih ketat ini di kemudian hari, terutama dalam
+
+32
+00:01:36,640 --> 00:01:39,060
+senarai main algebra linear, tetapi ini adalah semua berbeza
+
+33
+00:01:39,060 --> 00:01:40,200
+nilai-nilai yang boleh saya ambil.
+
+34
+00:01:40,200 --> 00:01:44,550
+Jadi jika saya mengambil nombor 2 dari domain kita, saya input ke
+
+35
+00:01:44,550 --> 00:01:48,270
+fungsi, kami mendapat dipetakan kepada bilangan 8.
+
+36
+00:01:48,270 --> 00:01:50,260
+izinkan saya melukiskan ini
+
+37
+00:01:50,260 --> 00:01:56,210
+jadi kita akan pergi dari 2 kepada nombor 8 di sini
+
+38
+00:01:56,210 --> 00:01:59,060
+Dan ia dilakukan oleh fungsi.
+
+39
+00:01:59,060 --> 00:02:01,210
+Fungsi ini melakukan pemetaan itu.
+
+40
+00:02:01,210 --> 00:02:05,190
+Fungsi yang pemetaan kita 2 hingga 8.
+
+41
+00:02:05,190 --> 00:02:09,180
+di sini, yang sama dengan f daripada 2.
+
+42
+00:02:09,180 --> 00:02:10,080
+idea yang sama
+
+43
+00:02:10,080 --> 00:02:18,810
+Anda bermula dengan 3, 3 adalah dipetakan oleh fungsi hingga 10.
+
+44
+00:02:18,810 --> 00:02:20,480
+Ia mewujudkan persatuan.
+
+45
+00:02:20,480 --> 00:02:25,320
+Fungsi pemetaan kita 3 hingga 10.
+
+46
+00:02:25,320 --> 00:02:28,400
+Sekarang, ini menimbulkan satu persoalan yang menarik.
+
+47
+00:02:28,400 --> 00:02:32,840
+Adakah terdapat cara untuk mendapatkan kembali dari 8 ke 2, atau adakah
+
+48
+00:02:32,840 --> 00:02:35,220
+cara untuk kembali daripada 10 kepada 3?
+
+49
+00:02:35,220 --> 00:02:37,340
+Atau adakah terdapat beberapa fungsi lain?
+
+50
+00:02:37,340 --> 00:02:39,870
+Adakah terdapat beberapa fungsi lain, kita boleh memanggil bahawa songsang
+
+51
+00:02:39,870 --> 00:02:41,660
+f, yang akan membawa kita kembali?
+
+52
+00:02:41,660 --> 00:02:44,260
+Adakah terdapat beberapa fungsi lain yang akan mengambil
+
+53
+00:02:44,260 --> 00:02:46,200
+kita dari 10 kembali ke 3
+
+54
+00:02:46,200 --> 00:02:48,970
+Kami akan hubungi bahawa songsang f, dan kami akan menggunakan sebagai
+
+55
+00:02:48,970 --> 00:02:52,790
+notasi, dan ia akan membawa kita kembali 10 hingga 3.
+
+56
+00:02:52,790 --> 00:02:54,360
+Adakah terdapat cara untuk berbuat demikian?
+
+57
+00:02:54,360 --> 00:02:58,070
+Adakah yang songsang yang sama-f, ia akan membawa kita kembali dari -
+
+58
+00:02:58,070 --> 00:03:02,290
+jika kita memohon 8 adakah ia akan membawa kita kembali ke 2?
+
+59
+00:03:07,230 --> 00:03:10,760
+Sekarang, semua ini seolah-olah sangat abstrak dan sukar.
+
+60
+00:03:10,760 --> 00:03:13,990
+Apa yang anda akan dapati ia sebenarnya sangat mudah untuk menyelesaikan
+
+61
+00:03:13,990 --> 00:03:17,030
+ini songsang f, dan saya fikir sebaik sahaja kami menyelesaikan, ia akan
+
+62
+00:03:17,030 --> 00:03:18,540
+menjelaskan apa yang saya bercakap tentang.
+
+63
+00:03:18,540 --> 00:03:20,820
+Yang berfungsi membawa anda 2 hingga 8, songsang akan
+
+64
+00:03:20,820 --> 00:03:23,360
+membawa kita kembali 8 hingga 2.
+
+65
+00:03:23,360 --> 00:03:25,470
+Jadi untuk berfikir tentang itu, mari kita hanya mentakrifkan - mari kita hanya
+
+66
+00:03:25,470 --> 00:03:27,790
+katakan y adalah bersamman dengan f dari x
+
+67
+00:03:30,620 --> 00:03:33,510
+Oleh itu, y adalah sama dengan f x, adalah sama dengan 2x tambah 4.
+
+68
+00:03:33,510 --> 00:03:39,110
+Jadi saya boleh menulis hanya y adalah sama 2x plus 4, dan ini sekali
+
+69
+00:03:39,110 --> 00:03:40,420
+sekali lagi, ini adalah fungsi kita.
+
+70
+00:03:40,420 --> 00:03:42,470
+Anda memberi saya x, ia akan memberikan saya y.
+
+71
+00:03:42,470 --> 00:03:43,990
+Tetapi kita mahu berkembang ke cara lain di seluruh.
+
+72
+00:03:43,990 --> 00:03:46,760
+Kami mahu memberi anda y dan mendapatkan x.
+
+73
+00:03:46,760 --> 00:03:50,490
+Oleh itu, semua yang perlu kita lakukan ialah menyelesaikan x dalam segi y.
+
+74
+00:03:50,490 --> 00:03:51,160
+Oleh itu, biarlah yang berbuat demikian.
+
+75
+00:03:51,160 --> 00:03:54,460
+Jika kita tolak 4 dari kedua-dua belah persamaan ini - biarlah saya
+
+76
+00:03:54,460 --> 00:03:57,350
+bertukar warna - jika kita tolak 4 dari kedua-dua belah ini
+
+77
+00:03:57,350 --> 00:04:02,310
+persamaan kita akan mendapat y tolak 4 adalah sama dengan 2x, dan kemudian jika kita
+
+78
+00:04:02,310 --> 00:04:08,270
+membahagikan kedua-dua belah persamaan ini dengan 2, kita akan mendapat y lebih 2
+
+79
+00:04:08,270 --> 00:04:12,750
+tolak 2 - 4 dibahagikan dengan 2 ialah 2 - sama dengan x.
+
+80
+00:04:12,750 --> 00:04:15,160
+Atau jika kita hanya mahu menulis cara itu, kita boleh swap
+
+81
+00:04:15,160 --> 00:04:20,100
+belah pihak, kita akan mendapat x adalah sama 1/2y-- perkara yang sama seperti
+
+82
+00:04:20,100 --> 00:04:23,190
+y lebih 2 - tolak 2.
+
+83
+00:04:23,190 --> 00:04:26,270
+Jadi, apa yang kami ada di sini adalah fungsi y yang
+
+84
+00:04:26,270 --> 00:04:28,750
+memberikan kita x, yang betul-betul apa yang kita mahukan.
+
+85
+00:04:28,750 --> 00:04:33,510
+Kita mahu fungsi nilai-nilai yang peta kembali ke x.
+
+86
+00:04:33,510 --> 00:04:38,100
+Oleh itu, kita boleh memanggil ini - kita boleh mengatakan bahawa ini adalah sama dengan -
+
+87
+00:04:38,100 --> 00:04:41,840
+Saya akan melakukannya dalam warna yang sama - ini adalah sama dengan f songsang
+
+88
+00:04:41,840 --> 00:04:43,570
+sebagai fungsi y.
+
+89
+00:04:43,570 --> 00:04:45,080
+Atau biarkan saya menulis lebih kemas sedikit.
+
+90
+00:04:45,080 --> 00:04:49,050
+Kita boleh katakan songsang f sebagai fungsi y - jadi kami boleh mempunyai
+
+91
+00:04:49,050 --> 00:04:52,650
+10 atau 8 - kini julat kini domain bagi f songsang.
+
+92
+00:04:52,650 --> 00:04:58,120
+f songsang sebagai fungsi y adalah sama 1/2y tolak 2.
+
+93
+00:04:58,120 --> 00:05:00,570
+Jadi semua yang kita lakukan ialah kita bermula dengan fungsi asal kita, y
+
+94
+00:05:00,570 --> 00:05:05,300
+bersamaan dengan 2x plus 4, kita diselesaikan untuk - di sini, kami telah
+
+95
+00:05:05,300 --> 00:05:07,870
+diselesaikan untuk y dalam sebutan x - maka kita hanya melakukan sedikit
+
+96
+00:05:07,870 --> 00:05:12,250
+algebra, menyelesaikan untuk x dari segi y, dan kita katakan bahawa yang
+
+97
+00:05:12,250 --> 00:05:15,580
+songsang kita sebagai fungsi y.
+
+98
+00:05:15,580 --> 00:05:17,370
+yang terdapat di sini.
+
+99
+00:05:17,370 --> 00:05:19,570
+Dan kemudian, jika kita, anda tahu, anda boleh mengatakan ini adalah - anda boleh
+
+100
+00:05:19,570 --> 00:05:22,640
+menggantikan y dengan a, ab, x, apa sahaja yang anda mahu lakukan,
+
+101
+00:05:22,640 --> 00:05:26,240
+maka kita hanya boleh menamakan semula y sebagai x.
+
+102
+00:05:26,240 --> 00:05:29,000
+Oleh itu, jika anda meletakkan x 1 ke dalam fungsi ini, anda akan mendapat f
+
+103
+00:05:29,000 --> 00:05:34,660
+songsang x sama 1/2x tolak 2.
+
+104
+00:05:34,660 --> 00:05:38,340
+Jadi semua yang anda lakukan, anda menyelesaikan untuk x, dan kemudian anda swap y dan
+
+105
+00:05:38,340 --> 00:05:39,720
+x, jika anda mahu berbuat begitu.
+
+106
+00:05:39,720 --> 00:05:41,240
+Itu cara yang paling mudah untuk berfikir mengenainya.
+
+107
+00:05:41,240 --> 00:05:44,110
+Dan satu perkara yang saya ingin menunjukkan apa yang berlaku apabila anda
+
+108
+00:05:44,110 --> 00:05:46,255
+graf fungsi dan songsang.
+
+109
+00:05:46,255 --> 00:05:48,420
+Jadi biarlah saya hanya melakukan dengan cepat
+
+110
+00:05:48,420 --> 00:05:50,160
+sesuatu graf di sini.
+
+111
+00:05:50,160 --> 00:05:52,190
+Dan kemudian saya akan melakukan yang mempunyai banyak contoh yang menyelesaikan
+
+112
+00:05:52,190 --> 00:05:53,580
+untuk inverses, tetapi saya benar-benar hanya ingin memberi
+
+113
+00:05:53,580 --> 00:05:55,030
+anda idea umum.
+
+114
+00:05:55,030 --> 00:05:57,010
+Fungsi membawa anda dari domain untuk julat,
+
+115
+00:05:57,010 --> 00:05:59,570
+songsang akan membawa anda dari sudut itu kembali ke nilai asal
+
+116
+00:05:59,570 --> 00:06:01,810
+jika ia wujud.
+
+117
+00:06:01,810 --> 00:06:04,500
+Jadi jika saya kepada graf ini - hanya izinkan saya menarik sedikit
+
+118
+00:06:04,500 --> 00:06:08,790
+menyelaras paksi yang betul di sini, menarik sedikit
+
+119
+00:06:08,790 --> 00:06:12,040
+menyelaras paksi di sana.
+
+120
+00:06:12,040 --> 00:06:16,630
+Fungsi pertama ini, 2x ditambah 4, memintas y yang akan
+
+121
+00:06:16,630 --> 00:06:24,520
+1, 2, 3, 4, sama seperti itu, dan kemudian cerun yang akan
+
+122
+00:06:24,520 --> 00:06:25,610
+kelihatan seperti ini.
+
+123
+00:06:25,610 --> 00:06:31,470
+Ia mempunyai kecerunan 2, jadi ia akan melihat sesuatu seperti - graf yang
+
+124
+00:06:31,470 --> 00:06:33,870
+akan nampak - biar saya membuat ia lebih kemas sedikit daripada itu-
+
+125
+00:06:33,870 --> 00:06:36,400
+ia akan nampak seperti itu.
+
+126
+00:06:36,400 --> 00:06:38,450
+Bahawa apa yang kelihatan seperti fungsi itu.
+
+127
+00:06:38,450 --> 00:06:40,390
+Apakah fungsi ini kelihatan seperti?
+
+128
+00:06:40,390 --> 00:06:43,680
+Apakah fungsi songsang kelihatan seperti, sebagai fungsi x?
+
+129
+00:06:43,680 --> 00:06:46,980
+Ingat kita diselesaikan untuk x, dan kemudian kami bertukar x
+
+130
+00:06:46,980 --> 00:06:47,900
+dan y, pada asasnya.
+
+131
+00:06:47,900 --> 00:06:51,570
+Kita boleh katakan bahawa y adalah sama dengan f songsang x.
+
+132
+00:06:51,570 --> 00:06:56,400
+Jadi kita mempunyai y pintasan negatif 2, 1, 2, dan
+
+133
+00:06:56,400 --> 00:07:00,150
+kini cerun 1 / 2.
+
+134
+00:07:00,150 --> 00:07:02,230
+Cerun kelihatan seperti ini.
+
+135
+00:07:02,230 --> 00:07:04,120
+Biar saya lihat jika saya boleh melukiskanya
+
+136
+00:07:04,120 --> 00:07:08,510
+Cerun kelihatan atau garisan kelihatan seperti itu.
+
+137
+00:07:08,510 --> 00:07:10,170
+Dan apa hubungan di sini?
+
+138
+00:07:10,170 --> 00:07:12,060
+Maksud saya, anda tahu, ini jenis rupa yang berkaitan, ia kelihatan
+
+139
+00:07:12,060 --> 00:07:14,080
+seperti mereka digambarkan tentang sesuatu.
+
+140
+00:07:14,080 --> 00:07:15,990
+Ia akan menjadi sedikit lebih jelas apa yang mereka sedang dicerminkan
+
+141
+00:07:15,990 --> 00:07:19,530
+kira-kira jika kita menarik y selaras sama dengan x.
+
+142
+00:07:19,530 --> 00:07:22,250
+Jadi y selaras sama dengan x kelihatan seperti itu.
+
+143
+00:07:22,250 --> 00:07:23,420
+Saya akan lakukan ia sebagai garis putus-putus.
+
+144
+00:07:29,740 --> 00:07:32,620
+Dan anda boleh lihat, anda mempunyai fungsi dan songsang,
+
+145
+00:07:32,620 --> 00:07:36,780
+ia mencerminkan tentang y selaras sama dengan x.
+
+146
+00:07:36,780 --> 00:07:39,100
+Dan diharap, yang masuk akal di sini.
+
+147
+00:07:39,100 --> 00:07:41,330
+Kerana di sini, secara on-line ini, mari kita mengambil
+
+148
+00:07:41,330 --> 00:07:42,530
+satu contoh mudah.
+
+149
+00:07:42,530 --> 00:07:49,610
+Fungsi kami, apabila anda mengambil 0 - jadi f 0 sama hingga 4.
+
+150
+00:07:49,610 --> 00:07:54,130
+Fungsi kami adalah pemetaan 0-4.
+
+151
+00:07:54,130 --> 00:08:00,050
+Fungsi songsang, jika anda mengambil f songsang 4, f
+
+152
+00:08:00,050 --> 00:08:02,920
+songsang daripada 4 adalah sama dengan 0.
+
+153
+00:08:02,920 --> 00:08:08,120
+Atau fungsi songsang pemetaan kita 4-0.
+
+154
+00:08:08,120 --> 00:08:10,210
+Iaitu betul-betul apa yang kami jangkakan.
+
+155
+00:08:10,210 --> 00:08:14,720
+Fungsi membawa kita dari x ke dunia y, dan kemudian kita
+
+156
+00:08:14,720 --> 00:08:17,240
+swap, kami bertukar-tukar x dan itu y.
+
+157
+00:08:17,240 --> 00:08:18,060
+Kami akan mengambil songsang.
+
+158
+00:08:18,060 --> 00:08:21,055
+Dan sebab itulah ia mencerminkan sekitar y sama dengan x.
+
+159
+00:08:21,055 --> 00:08:24,030
+Jadi contoh ini bahawa saya hanya menunjukkan anda di sini, fungsi
+
+160
+00:08:24,030 --> 00:08:30,070
+membawa anda dari 0 hingga 4 - mungkin saya patut berbuat demikian dalam fungsi
+
+161
+00:08:30,070 --> 00:08:35,810
+warna - supaya majlis itu akan membawa anda 0-4, yang
+
+162
+00:08:35,810 --> 00:08:39,680
+fungsi f 0 ialah 4, anda akan melihat bahawa di sana, begitu seterusnya
+
+163
+00:08:39,680 --> 00:08:42,550
+0-4, dan kemudian songsang membawa kita
+
+164
+00:08:42,550 --> 00:08:45,830
+balik dari 4 hingga 0.
+
+165
+00:08:45,830 --> 00:08:49,380
+Jadi songsang f membawa kita kembali 4 hingga 0
+
+166
+00:08:49,380 --> 00:08:50,430
+Anda melihatkanya di sana.
+
+167
+00:08:50,430 --> 00:08:55,750
+Apabila anda menilai 4 di sini, 1 / 2 kali 4 tolak 2 adalah 0.
+
+168
+00:08:55,750 --> 00:08:57,730
+Pasangan video seterusnya, kami akan melakukan sejambak contoh supaya anda
+
+169
+00:08:57,730 --> 00:09:00,180
+benar-benar memahami bagaimana untuk menyelesaikan masalah ini dan boleh lakukan
+
+170
+00:09:00,180 --> 00:09:05,010
+latihan atas permohonan kami ini.

@@ -1,0 +1,155 @@
+1
+00:00:01,401 --> 00:00:03,150
+Hey, welcome to Twitter
+
+2
+00:00:03,150 --> 00:00:05,618
+Let's quickly go over some basics
+
+3
+00:00:05,618 --> 00:00:06,817
+at the heart of Twitter there are
+
+4
+00:00:06,817 --> 00:00:09,050
+small bursts of information called Tweets
+
+5
+00:00:09,050 --> 00:00:11,567
+quick updates like a text message
+
+6
+00:00:11,567 --> 00:00:13,467
+but a Tweet can be more than just text
+
+7
+00:00:13,467 --> 00:00:15,700
+it can include a photo uploaded to Twitter
+
+8
+00:00:15,700 --> 00:00:17,750
+a video you can watch inside the Tweet
+
+9
+00:00:17,750 --> 00:00:19,935
+or a link to great content on the web
+
+10
+00:00:19,935 --> 00:00:22,002
+the stream of of Tweets is your Twitter
+
+11
+00:00:22,002 --> 00:00:23,484
+and you create it by following accounts
+
+12
+00:00:23,484 --> 00:00:25,200
+that are interesting to you
+
+13
+00:00:25,200 --> 00:00:27,367
+when you first join, your Twitter is empty
+
+14
+00:00:27,367 --> 00:00:29,551
+but during the signup we'll help you find great accounts
+
+15
+00:00:29,551 --> 00:00:31,101
+that match your interests.
+
+16
+00:00:31,101 --> 00:00:33,218
+Just pick categories you like such as
+
+17
+00:00:33,218 --> 00:00:37,034
+entertainment, news, sports, or enter your favorite hobby
+
+18
+00:00:37,034 --> 00:00:39,950
+and then we will show you some recommended accounts in those areas
+
+19
+00:00:39,950 --> 00:00:42,352
+when you click on the Follow button you'll start seeing
+
+20
+00:00:42,352 --> 00:00:44,651
+Tweets from that account on your Twitter
+
+21
+00:00:44,651 --> 00:00:46,134
+clicking on someone's name or picture
+
+22
+00:00:46,134 --> 00:00:47,700
+will tell you more about the account
+
+23
+00:00:47,700 --> 00:00:51,116
+It will also give you the option to follow or unfollow them
+
+24
+00:00:51,116 --> 00:00:52,801
+Following is not permanent, you can always
+
+25
+00:00:52,801 --> 00:00:54,951
+unfollow accounts that you're not that into
+
+26
+00:00:54,951 --> 00:00:56,584
+or search for accounts that you may have missed
+
+27
+00:00:56,584 --> 00:00:58,451
+after you're done signing up
+
+28
+00:00:58,451 --> 00:01:00,450
+It's important to know that you don't need to Tweet
+
+29
+00:01:00,450 --> 00:01:01,818
+to enjoy Twitter
+
+30
+00:01:01,818 --> 00:01:04,701
+many use it just to listen, rather than share
+
+31
+00:01:04,701 --> 00:01:06,284
+Once you finish your Twitter profile
+
+32
+00:01:06,284 --> 00:01:08,735
+by uploading a picture and completing your bio
+
+33
+00:01:08,735 --> 00:01:10,204
+consider downloading the app
+
+34
+00:01:10,204 --> 00:01:12,352
+to take Twitter with you on your smartphone
+
+35
+00:01:12,352 --> 00:01:13,551
+It's a great way to stay up to date with
+
+36
+00:01:13,551 --> 00:01:15,967
+everything you care about while you're on the go
+
+37
+00:01:15,967 --> 00:01:17,051
+So there you have it!
+
+38
+00:01:17,051 --> 00:01:18,295
+Just click the Next button below
+
+39
+00:01:18,295 --> 00:01:20,132
+and we'll take you through the rest

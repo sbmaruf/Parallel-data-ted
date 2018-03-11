@@ -1,0 +1,255 @@
+1
+00:00:00,000 --> 00:00:05,000
+Rajah sisi empat ABCD ialah satu rombus
+
+2
+00:00:05,010 --> 00:00:08,760
+Apa yang mereka mahu buktikan ialah penjuru meraka ialah serenjang
+
+3
+00:00:08,770 --> 00:00:11,580
+AC ialah serenjang dengan BD
+
+4
+00:00:11,590 --> 00:00:14,170
+Mari kita fikirkan tentang semua yang kita tahu tentang rombus
+
+5
+00:00:14,180 --> 00:00:17,400
+Pertama sekali, rombus ialah kes istimewa daripada segi empat selari
+
+6
+00:00:17,410 --> 00:00:20,770
+Dalam segi empat selari, bahagian yang bertentangan ialah selari
+
+7
+00:00:20,780 --> 00:00:22,390
+Bahagian itu ialah selari dengan bahagian itu
+
+8
+00:00:22,400 --> 00:00:24,900
+2 bahagian ini ialah selari
+
+9
+00:00:24,910 --> 00:00:28,090
+Dalam rombus, bukan hanya bahagian bertentangan ialah selari,
+
+10
+00:00:28,100 --> 00:00:31,690
+tetapi juga semua bahagian ada panjang yang sama
+
+11
+00:00:31,700 --> 00:00:36,560
+Bahagian ini ialah bersamaan dengan bahagian ini, iaitu bersamaan dengan bahagian itu,
+
+12
+00:00:36,570 --> 00:00:38,960
+iaitu sama dengan bahagian di situ
+
+13
+00:00:38,970 --> 00:00:41,610
+Ada sesuatu yang menarik yang kita tahu tentang
+
+14
+00:00:41,620 --> 00:00:43,780
+penjuru pada segi empat selari
+
+15
+00:00:43,790 --> 00:00:46,090
+Yang mana kita tahu semua rombus ialah segi empat selari
+
+16
+00:00:46,100 --> 00:00:48,720
+Perkara ini tidak semestinya benar
+
+17
+00:00:48,730 --> 00:00:52,560
+Kita tahu untuk mana-mana segi empat selari, dan rombus ialah segi empat selari
+
+18
+00:00:52,570 --> 00:00:55,590
+yang penjurunya membahagi dua sama antara satu sama lain
+
+19
+00:00:55,600 --> 00:00:59,640
+Sebagai contoh, mari saya labelkan titik ini pada tengah, titik E
+
+20
+00:00:59,650 --> 00:01:04,390
+Kita tahu AE akan menjadi sama dengan EC,
+
+21
+00:01:04,400 --> 00:01:06,250
+Saya akan letakkan jalur di sini
+
+22
+00:01:06,260 --> 00:01:13,350
+Kita juga tahu EB akan menjadi sama dengan ED
+
+23
+00:01:13,360 --> 00:01:18,840
+Ini semua daripada apa yang kita tahu, apabila seseorang katakan ABCD ialah rombus,
+
+24
+00:01:18,850 --> 00:01:22,040
+berdasarkan perkara yang lain yang kita telah buktikannya
+
+25
+00:01:22,050 --> 00:01:26,840
+Sekarang kita akan buktikan bahawa AC ialah serenjang dengan BD
+
+26
+00:01:26,850 --> 00:01:29,010
+Cara yang menarik untuk buktikannya
+
+27
+00:01:29,020 --> 00:01:30,930
+dan anda boleh tahu hanya dengan melihatnya,
+
+28
+00:01:30,940 --> 00:01:34,510
+jika kita tunjukkan bahawa segi tiga ini ialah sepadan dengan segi tiga ini
+
+29
+00:01:34,520 --> 00:01:38,360
+dan 2 sudut di sini sama antara satu dengan yang lain
+
+30
+00:01:38,370 --> 00:01:40,840
+kemudian mereka perlulah sama dan tambahan
+
+31
+00:01:40,850 --> 00:01:43,270
+dan mereka perlulah 90 darjah, maka mari buktikannya
+
+32
+00:01:43,280 --> 00:01:47,940
+Perkara pertama yang kita lihat ialah kita ada satu bahagian, satu bahagian, dan satu bahagian
+
+33
+00:01:47,950 --> 00:01:50,270
+satu bahagian, satu bahagian dan satu bahagian
+
+34
+00:01:50,280 --> 00:01:55,500
+Maka kita boleh lihat segi tiga itu, mari saya tuliskan di sini dengan warna yang baru
+
+35
+00:01:55,510 --> 00:02:09,810
+ABE ialah sepadan dengan segi tiga CBE
+
+36
+00:02:19,620 --> 00:02:21,650
+Sebaik sahaja kita tahu itu,
+
+37
+00:02:21,660 --> 00:02:24,550
+kita tahu bahawa sudut berkaitan adalah sepadan
+
+38
+00:02:24,560 --> 00:02:32,650
+Lebih tepat lagi, kta tahu bahawa sudut AEB akan menjadi sepadan
+
+39
+00:02:32,660 --> 00:02:42,370
+dengan sudut CEB kerana mereka ialah sudut yang berkaitan
+
+40
+00:02:42,380 --> 00:02:48,440
+dengan segi tiga sepadan
+
+41
+00:02:48,450 --> 00:02:52,050
+Sudut di sini akan menjadi sama dengan
+
+42
+00:02:52,060 --> 00:02:53,450
+sudut di situ
+
+43
+00:02:53,460 --> 00:02:55,660
+Kita juga tahu mereka ialah tambahan
+
+44
+00:03:02,510 --> 00:03:03,340
+Mari saya tuliskan dengan cara ini
+
+45
+00:03:03,350 --> 00:03:06,240
+Mereka sepadan dan mereka ialah tambahan
+
+46
+00:03:06,250 --> 00:03:11,350
+2 ini akan mempunyai ukuran yang sama
+
+47
+00:03:11,360 --> 00:03:13,280
+dan mereka perlu bertambah kepada 180 darjah
+
+48
+00:03:13,290 --> 00:03:15,970
+Jika saya ada 2 benda yang sama dan
+
+49
+00:03:15,980 --> 00:03:18,180
+ditambahkan kepada 180 darjah, apa yang ia beritahu saya?
+
+50
+00:03:18,190 --> 00:03:25,750
+Ia beritahu saya bahawa ukuran sudut AEB ialah bersamaan dengan
+
+51
+00:03:25,760 --> 00:03:31,640
+ukuran sudut CEB yang mana haruslah sama dengan 90 darjah
+
+52
+00:03:31,650 --> 00:03:34,730
+Mereka ada ukuran yang sama dan mereka ialah tambahan
+
+53
+00:03:34,740 --> 00:03:37,640
+Ini ialah sudut yang betul dan kemudian, ini ialah sudut yang betul
+
+54
+00:03:37,650 --> 00:03:39,360
+Jelasnya, ini ialah sudut yang betul
+
+55
+00:03:39,370 --> 00:03:41,320
+Sudut di bawah ini ialah sudut menegak,
+
+56
+00:03:41,330 --> 00:03:42,270
+ia akan menjadi sudut yang benar
+
+57
+00:03:42,280 --> 00:03:44,720
+Sudut di sini akan menjadi sudut menegak
+
+58
+00:03:44,730 --> 00:03:48,850
+Anda lihat jejari bersilang pada sudut 90 darjah
+
+59
+00:03:48,860 --> 00:03:49,940
+Maka kita telah buktikannya
+
+60
+00:03:49,950 --> 00:03:51,330
+Ini ialah menarik
+
+61
+00:03:51,340 --> 00:03:53,990
+Satu segi empat selari, jejarinya membahagi dua antara satu sama lain
+
+62
+00:03:54,000 --> 00:03:57,490
+Untuk rombus, yang mana semua bahagian ialah sama,
+
+63
+00:03:57,500 --> 00:03:59,870
+Kita telah tunjukkan bahawa ianya bukan sahaja membahagi dua sama
+
+64
+00:03:59,880 --> 00:04:02,810
+tetapi ereka juga permbahagi dua sama serenjang

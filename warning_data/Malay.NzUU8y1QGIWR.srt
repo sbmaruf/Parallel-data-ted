@@ -1,0 +1,40 @@
+1
+00:00:00,250 --> 00:00:02,750
+Profil ialah wajah anda kepada dunia
+
+2
+00:00:03,000 --> 00:00:04,750
+Mula-mula, tambahkan gambar anda
+
+3
+00:00:15,000 --> 00:00:16,650
+Kemudian, pilih foto rentang anda
+
+4
+00:00:25,000 --> 00:00:26,750
+Dan tambahkan sedikit butiran
+
+5
+00:00:28,000 --> 00:00:33,000
+[Memilih ‘Pekerjaan.’ Memasukkan ‘Ketua Reka Bentuk Produk, Coastline Sportswear.']
+
+6
+00:00:37,500 --> 00:00:39,500
+Pilih siapa dapat lihat maklumat apa
+
+7
+00:00:41,000 --> 00:00:46,000
+[Memilih ‘Telefon Rumah’. Memilih untuk berkongsi dengan ‘Rakan Karib’ dan ‘Keluarga’]
+
+8
+00:00:48,000 --> 00:00:51,300
+Kotak ‘Lihat sebagai’ menunjukkan penampilan profil anda
+
+9
+00:00:53,000 --> 00:00:56,000
+[Memilih untuk melihat sebagai ‘Awam’.]
+
+10
+00:00:58,750 --> 00:01:02,500
+Jadi, tidak sukar untuk berkongsi butiran yang sesuai dengan kesemua kalangan yang berbeza-beza
+

@@ -1,0 +1,107 @@
+1
+00:00:01,324 --> 00:00:09,636
+nombor apakah yang anda boleh tambah pada kuasa dua x tolak 6x untuk menyelesaikan trinomial kuasa dua sempurna
+
+2
+00:00:09,636 --> 00:00:15,163
+jadi trinomial ialah polinonial dengan 3 terma jadi sekarang kita ada 2 terma maka mereka adalah penting untuk kita tambah
+
+3
+00:00:15,163 --> 00:00:21,000
+satu terma disini seharusnya satu nombor tetap maka jadilah sebuah ekspresi kuasa dua sempurna yang sebelum ini
+
+4
+00:00:21,000 --> 00:00:27,562
+adalah trinomial menjadi sebuah kuasa dua sempurna maka biar saya tulis disini x kuasa dua tolak 6x jadi kita akan
+
+5
+00:00:27,562 --> 00:00:34,992
+tambah sesuatu disini maka ekspresi menjadi kuasa dua sempurna bagi sebuah binomial
+
+6
+00:00:34,992 --> 00:00:41,633
+dan untuk fikir tentang itu mari fikir tentang apa kuasa dua sempurna akan kelihatan jadi mari bayangkan jika
+
+7
+00:00:41,633 --> 00:00:56,633
+kita ada x tambah satu kuasa dua apa akan jadi jika kita perlu kembangkan ia biar saya buat dengan warna lain untuk tunjuk kan anda ia adalah nota sampingan jadi saya akan buat dengan biru jadi jika saya ada x tambah sesuatu
+
+8
+00:00:56,633 --> 00:01:05,217
+pemalar kuasa dua maka sama juga dengan x tambah darab bagi x tambah a dan ini sama juga seperti
+
+9
+00:01:05,233 --> 00:01:10,635
+yang anda mungkin ingat corak dengan hanya darabkan ia dan darabkan x dengan semuanya
+
+10
+00:01:10,666 --> 00:01:22,667
+jadi x darab x bersamaan dengan x kuasa dua kemudian x darab a bersamaan dengan ax kemudian kita ada darab a yang mana
+
+11
+00:01:22,667 --> 00:01:26,494
+ialah kuasa dua yang semua keluar daripada melakukan pengedaran sifat dua kali atau anda boleh fikirkan ia sebagai
+
+12
+00:01:26,494 --> 00:01:37,176
+gagal jika anda dapat sedikit senang dan ini memberikan anda kuasa dua x tambah 2ax tambah kuasa dua a jika
+
+13
+00:01:37,176 --> 00:01:43,306
+anda ada satu trinomial dalam bentuk ia kuasa dua sempurna dan ia boleh difaktorkan dalam x tambah kuasa dua a
+
+14
+00:01:43,306 --> 00:01:50,504
+dan kita boleh nampak corak kedua-duanya disini yang mana koefisien a di kuasa dua x adalah 1 dan kemudian kita boleh lihat
+
+15
+00:01:50,504 --> 00:02:00,628
+apa saja koefisien adalah pada terma tahap pertama pada x apa saja separuh daripada nombor itu dan
+
+16
+00:02:00,628 --> 00:02:06,400
+kita kuasa duakan ia dan jadikan itu pemalar kemudian ia akan jadi kuasa dua sempurna sebagai contoh 1/2 daripada 2a ialah a
+
+17
+00:02:06,400 --> 00:02:12,377
+dan kita kuasa duakan a disini dan ini akan jadikan ia kuasa dua sempurna jadi mari buat perkara yang sama dengan
+
+18
+00:02:12,377 --> 00:02:21,225
+binomial yang tidak lama lagi menjadi trinomial mari lihat pada koefisien tahap pertama ialah -6 anda boleh melihat
+
+19
+00:02:21,256 --> 00:02:29,049
+ia disini seperti 2a dan bagaimana jika separuh daripada itu atau kata lain 2a bersamaan dengan -6 jika kita
+
+20
+00:02:29,049 --> 00:02:37,733
+hanya sepadankan corak disini jadi apa akan jadi ? a akan bersamaan dengan -3 dan jika kita tambahkan kuasa dua a
+
+21
+00:02:37,733 --> 00:02:44,560
+pada pernyataan ini ia akan jadi kuasa dua sempurna jadi kita betul-betul hanya ambil separuh daripada ini yang mana -3
+
+22
+00:02:44,560 --> 00:02:52,800
+dan kemudian kita akan kuasa duakan ia jadi kuasa dua -3 ialah +9 jadi disini hanya kenyataan kuasa dua
+
+23
+00:02:52,800 --> 00:02:58,733
+Saya panggil ini 2a dan ambil separuh daripadanya untuk mencari apa a dan saya kuasa duakan ia untuk dapat 9 jadi
+
+24
+00:02:58,733 --> 00:03:05,644
+Saya hanya ambil -6 dibahagikan dengan 2 ialah -3 kuasa duakan ia dan dapat 9 dan jika anda ingin untuk faktorkan kita perlu ada kuasa dua x
+
+25
+00:03:05,644 --> 00:03:14,235
+tolak 6x tambah 9 jadi apa 2 nombor bila anda ambil akan memberi baki 9 dan bila anda tambah bersama
+
+26
+00:03:14,235 --> 00:03:22,660
+anda dapat -6 baik -3 dan -3 jadi ini akan jadi x-3 darab x-3 atau anda boleh fikirkan ia sebagai
+
+27
+00:03:22,660 --> 00:03:27,583
+kuasa dua x-3 jadi ia adalah trinomial kuasa dua sempurna

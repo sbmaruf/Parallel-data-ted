@@ -1,0 +1,323 @@
+1
+00:00:02,000 --> 00:00:08,000
+Bagaimana Smartphone Tahu Up Dari Bawah Seri EngineerGuy
+
+2
+00:00:08,000 --> 00:00:11,000
+Saya rasa ini adalah salah satu fitur keren dari smartphone saat ini.
+
+3
+00:00:11,000 --> 00:00:12,000
+Ia tahu naik dari bawah.
+
+4
+00:00:12,000 --> 00:00:15,000
+Membangun ke sirkuit adalah perangkat kecil yang dapat
+
+5
+00:00:15,000 --> 00:00:19,000
+mendeteksi perubahan orientasi dan memberitahu layar untuk memutar.
+
+6
+00:00:19,000 --> 00:00:25,000
+Mari saya tunjukkan apa yang tampak seperti di iPhone tua.
+
+7
+00:00:25,000 --> 00:00:26,000
+Itu dia
+
+8
+00:00:26,000 --> 00:00:28,000
+Ini accelerometer.
+
+9
+00:00:28,000 --> 00:00:30,000
+Aku akan memberitahu Anda bagaimana jenis karya chip dan cara pembuatannya yang
+
+10
+00:00:30,000 --> 00:00:32,000
+tapi pertama, beberapa dasar-dasar accelerometers.
+
+11
+00:00:32,000 --> 00:00:34,000
+Mereka memiliki dua bagian dasar
+
+12
+00:00:34,000 --> 00:00:38,000
+Sebuah perumahan yang menempel pada objek yang percepatan kita ingin mengukur
+
+13
+00:00:38,000 --> 00:00:41,000
+dan massa bahwa, sementara ditambatkan ke rumah, masih bisa bergerak.
+
+14
+00:00:41,000 --> 00:00:43,000
+Berikut pegas dengan bola logam berat.
+
+15
+00:00:43,000 --> 00:00:46,000
+Jika Anda memindahkan perumahan bola tertinggal
+
+16
+00:00:46,000 --> 00:00:47,000
+peregangan pegas.
+
+17
+00:00:47,000 --> 00:00:49,000
+Jika kita mengukur berapa banyak musim semi yang membentang
+
+18
+00:00:49,000 --> 00:00:51,000
+kita dapat menghitung gaya gravitasi.
+
+19
+00:00:51,000 --> 00:00:54,000
+Anda dapat dengan mudah melihat bahwa ketiga dapat menentukan
+
+20
+00:00:54,000 --> 00:00:56,000
+orientasi objek 3-dimensi.
+
+21
+00:00:56,000 --> 00:01:00,000
+Sambil berbaring dengan tegak lurus sumbu z gravitasi hanya
+
+22
+00:01:00,000 --> 00:01:03,000
+bola pada musim semi sumbu x menunjukkan ekstensi.
+
+23
+00:01:03,000 --> 00:01:06,000
+Hidupkan ini di atasnya sisi sehingga sumbu z titik dan hanya
+
+24
+00:01:06,000 --> 00:01:10,000
+accelerometer sepanjang pegas pada peregangan sumbu.
+
+25
+00:01:10,000 --> 00:01:13,000
+Jadi, bagaimana ponsel ini dan ini perubahan ukuran chip di gravitasi.
+
+26
+00:01:13,000 --> 00:01:17,000
+Sementara kompleks lebih dari bola sederhana dan model pegas
+
+27
+00:01:17,000 --> 00:01:19,000
+memiliki elemen dasar yang sama.
+
+28
+00:01:19,000 --> 00:01:24,000
+Di dalam chip insinyur telah menciptakan sebuah akselerometer kecil dari silikon.
+
+29
+00:01:24,000 --> 00:01:26,000
+Ini, tentu saja, sebuah perumahan yang sudah tetap ke telepon
+
+30
+00:01:26,000 --> 00:01:30,000
+dan \\\"sisir-seperti\\\" bagian dapat bergerak maju mundur.
+
+31
+00:01:30,000 --> 00:01:32,000
+Itulah massa seismik setara dengan bola.
+
+32
+00:01:32,000 --> 00:01:34,000
+Musim semi dalam hal ini adalah fleksibilitas dari
+
+33
+00:01:34,000 --> 00:01:37,000
+silikon tipis penarikan ke perumahan.
+
+34
+00:01:37,000 --> 00:01:40,000
+Jelas jika kita dapat mengukur gerakan dari bagian pusat
+
+35
+00:01:40,000 --> 00:01:43,000
+kita dapat mendeteksi perubahan orientasi.
+
+36
+00:01:43,000 --> 00:01:47,000
+Untuk melihat bagaimana itu selesai memeriksa tiga dari jari pada accelerometer.
+
+37
+00:01:47,000 --> 00:01:49,000
+Tiga jari membentuk sebuah kapasitor diferensial.
+
+38
+00:01:49,000 --> 00:01:54,000
+Itu berarti bahwa jika bergerak bagian tengah dari arus akan mengalir.
+
+39
+00:01:54,000 --> 00:01:57,000
+Insinyur berkorelasi jumlah mengalir saat ini untuk percepatan.
+
+40
+00:01:57,000 --> 00:01:59,000
+Accelerometer ini mempesona saya
+
+41
+00:01:59,000 --> 00:02:02,000
+tetapi bahkan lebih menakjubkan adalah bagaimana mereka membuat hal seperti itu.
+
+42
+00:02:02,000 --> 00:02:05,000
+Tampaknya hampir tidak mungkin untuk membuat semacam perangkat yang rumit
+
+43
+00:02:05,000 --> 00:02:08,000
+as the tiny smartphone accelerometer.
+
+44
+00:02:08,000 --> 00:02:12,000
+Pada hanya 500 mikron seberang ada alat kecil bisa kerajinan seperti itu.
+
+45
+00:02:12,000 --> 00:02:15,000
+Sebaliknya, insinyur menggunakan beberapa sifat kimia unik dari
+
+46
+00:02:15,000 --> 00:02:19,000
+silikon untuk jari etch accelerometer dan H berbentuk bagian.
+
+47
+00:02:19,000 --> 00:02:21,000
+Untuk mendapatkan gambaran bagaimana mereka melakukan hal ini
+
+48
+00:02:21,000 --> 00:02:24,000
+saya menunjukkan bagaimana membuat balok kantilever tunggal
+
+49
+00:02:24,000 --> 00:02:25,000
+seperti papan menyelam
+
+50
+00:02:25,000 --> 00:02:27,000
+dalam sepotong solid silikon.
+
+51
+00:02:27,000 --> 00:02:31,000
+Secara empiris, insinyur menyadari bahwa jika mereka tuangkan kalium hidroksida
+
+52
+00:02:31,000 --> 00:02:33,000
+pada permukaan tertentu dari silikon kristal
+
+53
+00:02:33,000 --> 00:02:38,000
+itu akan menggerogoti silikon sampai membentuk lubang berbentuk piramida.
+
+54
+00:02:38,000 --> 00:02:41,000
+Hal ini terjadi karena struktur kristal yang unik dari silikon.
+
+55
+00:02:41,000 --> 00:02:43,000
+Untuk membuat lubang di piramida insinyur silikon mencakup semua tetapi
+
+56
+00:02:43,000 --> 00:02:48,000
+sebuah kotak kecil dengan masker tahan terhadap KOH.
+
+57
+00:02:48,000 --> 00:02:52,000
+Sekarang, hanya cetak etsa dalam bentuk persegi dikepung oleh topeng.
+
+58
+00:02:52,000 --> 00:02:56,000
+Para KOH larut silikon lebih cepat di vertikal
+
+59
+00:02:56,000 --> 00:02:57,000
+dibandingkan pada arah horisontal.
+
+60
+00:02:57,000 --> 00:02:59,000
+Hal ini mengapa itu membuat lubang berbentuk piramida.
+
+61
+00:02:59,000 --> 00:03:02,000
+Sekarang, untuk membuat insinyur balok kantilever ikuti langkah berikut.
+
+62
+00:03:02,000 --> 00:03:07,000
+Pertama, menutupi permukaan kecuali bagian berbentuk u.
+
+63
+00:03:07,000 --> 00:03:11,000
+Pada awalnya KOH akan memotong dua piramida terbalik dengan sisi-sisi.
+
+64
+00:03:11,000 --> 00:03:15,000
+Sebagai etching melanjutkan KOH mulai larut
+
+65
+00:03:15,000 --> 00:03:17,000
+silikon antara lubang.
+
+66
+00:03:17,000 --> 00:03:19,000
+Jika kita mencuci ia pergi di hanya titik yang tepat
+
+67
+00:03:19,000 --> 00:03:22,000
+sebelum larut silikon persis di bawah topeng
+
+68
+00:03:22,000 --> 00:03:26,000
+akan meninggalkan balok kantilever kecil tergantung di atas sebuah lubang dengan dasar persegi.
+
+69
+00:03:26,000 --> 00:03:30,000
+Insinyur membuat accelerometer smartphone menggunakan metode yang sama
+
+70
+00:03:30,000 --> 00:03:34,000
+tetapi karena Anda dapat membayangkan dibutuhkan serangkaian masker rinci
+
+71
+00:03:34,000 --> 00:03:37,000
+untuk menciptakan struktur yang rumit dari accelerometer smartphone.
+
+72
+00:03:37,000 --> 00:03:40,000
+Sementara kompleks, titik kunci adalah bahwa seluruh proses dapat otomatis.
+
+73
+00:03:40,000 --> 00:03:44,000
+Ini benar-benar penting dalam miniaturisasi teknologi
+
+74
+00:03:44,000 --> 00:03:49,000
+insinyur sekarang membuat segala macam hal yang menakjubkan pada skala kecil
+
+75
+00:03:49,000 --> 00:03:53,000
+microengines dengan roda gigi yang memutar 300.000 kali per menit
+
+76
+00:03:53,000 --> 00:03:55,000
+nozel dengan tinta-jet printer, dan favorit saya
+
+77
+00:03:55,000 --> 00:03:59,000
+micromirrors yang memfokuskan cahaya di laser semikonduktor.
+
+78
+00:03:59,000 --> 00:04:01,000
+Saya Bill Hammack, orang Engineer.
+
+79
+00:04:01,000 --> 00:04:03,000
+Video ini didasarkan pada bab dalam buku
+
+80
+00:04:03,000 --> 00:04:06,000
+Delapan Cerita Teknik Menakjubkan
+
+81
+00:04:06,000 --> 99:59:59,999
+Bab-bab fitur informasi lebih lanjut tentang subjek ini.

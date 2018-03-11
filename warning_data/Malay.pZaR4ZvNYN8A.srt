@@ -1,0 +1,1992 @@
+1
+00:00:00,000 --> 00:00:06,060
+memandangkan saya selsema sekarang topik yang paling bagus untuk kita bincangkan sekarang ialah
+
+2
+00:00:06,064 --> 00:00:07,164
+mengenai virus
+
+3
+00:00:09,542 --> 00:00:11,382
+virus
+
+4
+00:00:13,929 --> 00:00:16,919
+virus
+
+5
+00:00:16,920 --> 00:00:19,080
+virus adalah sesuatu yang amat
+
+6
+00:00:19,080 --> 00:00:21,450
+menakjubkan dalam biologi
+
+7
+00:00:21,450 --> 00:00:25,560
+kerana mereka megaburkan sempadan antara
+
+8
+00:00:25,560 --> 00:00:27,440
+bende tidak bernyawa dan bernyawa
+
+9
+00:00:30,080 --> 00:00:33,410
+maksudnya jika kita lihat
+
+10
+00:00:33,410 --> 00:00:35,210
+semua yang bernyawa disekeliling kita
+
+11
+00:00:35,210 --> 00:00:39,300
+kita akan dapati ianya
+
+12
+00:00:39,300 --> 00:00:40,460
+akan sentiasa berubah
+
+13
+00:00:40,460 --> 00:00:41,510
+mungkin ia akan bergerak
+
+14
+00:00:41,510 --> 00:00:42,260
+mungkin tidak
+
+15
+00:00:42,260 --> 00:00:44,400
+tetapi ia menjalani metabolisma sendiri
+
+16
+00:00:44,400 --> 00:00:46,310
+ia membiak dan kemudian mati
+
+17
+00:00:46,310 --> 00:00:48,300
+maka itulah kehidupan
+
+18
+00:00:48,300 --> 00:00:50,960
+jika kita lihat manusia
+
+19
+00:00:52,815 --> 00:00:55,365
+bacteria
+
+20
+00:00:55,360 --> 00:00:57,120
+tumbuhan
+
+21
+00:00:57,120 --> 00:01:00,830
+kita tahu itu adalah benda hidup
+
+22
+00:01:00,830 --> 00:01:03,280
+kita cenderung untuk mengetahui bahawa itu adalah benda hidup apabila kita melihatnya
+
+23
+00:01:03,275 --> 00:01:07,485
+tetapi semua virus adalah sekumpulan informasi
+
+24
+00:01:07,480 --> 00:01:09,740
+genetic yang berada didalam protein
+
+25
+00:01:09,740 --> 00:01:11,230
+didalam kapsul protein
+
+26
+00:01:11,230 --> 00:01:13,490
+jadi mari saya lukiskan
+
+27
+00:01:13,490 --> 00:01:16,340
+informasi genetik boleh datang dalam apa2 bentuk
+
+28
+00:01:16,340 --> 00:01:22,240
+ia boleh jadi RNA atau DNA sama ada
+
+29
+00:01:22,240 --> 00:01:24,670
+berbenang tunggal (single stranded) atau berbenang kembar (double stranded)
+
+30
+00:01:24,670 --> 00:01:27,260
+kadangkala untuk berbenang tunggal (single stranded) ia ditulis
+
+31
+00:01:27,260 --> 00:01:29,250
+S's didepannya
+
+32
+00:01:29,250 --> 00:01:30,950
+ok katakan kita bercakap mengenai berbenang kembar(double stranded) DNA
+
+33
+00:01:30,950 --> 00:01:32,910
+biasanya ds diletakkan didepannya
+
+34
+00:01:32,910 --> 00:01:35,330
+secara amnya virus boleh datang dalam pelbagai
+
+35
+00:01:35,330 --> 00:01:38,110
+bentuk ini--jika mereka mempunyai informasi genetik,
+
+36
+00:01:38,110 --> 00:01:40,530
+atau rangkaian acid nucleic.
+
+37
+00:01:40,530 --> 00:01:43,730
+sama ada RNA berbenang tunggal atau kembar atau
+
+38
+00:01:43,730 --> 00:01:44,560
+DNA berbenang kembar
+
+39
+00:01:44,560 --> 00:01:47,970
+dan ia hanya terkandung didalam structure
+
+40
+00:01:47,970 --> 00:01:49,880
+protein yang dipanggil capsid
+
+41
+00:01:49,880 --> 00:01:53,240
+yang biasa dilukis ialah
+
+42
+00:01:53,240 --> 00:01:56,650
+jenis icosahedron
+
+43
+00:01:56,650 --> 00:01:58,200
+biar saya lukis
+
+44
+00:01:58,200 --> 00:02:00,610
+ia kelihatan seperti ini
+
+45
+00:02:00,610 --> 00:02:02,800
+tidak semua virus kelihatan seperti ini
+
+46
+00:02:02,800 --> 00:02:05,160
+terdapat beribu2 jenis virus yang wujud
+
+47
+00:02:05,160 --> 00:02:06,850
+dan kita akan cuba untuk
+
+48
+00:02:06,850 --> 00:02:09,630
+memahami virus ini
+
+49
+00:02:09,630 --> 00:02:14,800
+dan pelbagai cara yang digunakan mereka untuk
+
+50
+00:02:14,800 --> 00:02:15,220
+melakukan proses replikasi
+
+51
+00:02:15,220 --> 00:02:16,620
+kita akan bincangkan kemudian
+
+52
+00:02:16,620 --> 00:02:19,110
+didalam dunia virus
+
+53
+00:02:19,110 --> 00:02:21,530
+proses replikasi
+
+54
+00:02:21,530 --> 00:02:22,750
+sentiasa wujud.
+
+55
+00:02:22,750 --> 00:02:25,260
+virus sebenarnya ialah protein atau protein capsid yang
+
+56
+00:02:25,260 --> 00:02:27,450
+terdiri daripada sekumpulan protein
+
+57
+00:02:27,450 --> 00:02:29,070
+yang dikumpulkan bersama
+
+58
+00:02:29,070 --> 00:02:31,250
+didalamnya,mereka mempunyai informasi genetik
+
+59
+00:02:31,250 --> 00:02:33,700
+sama ada DNA atau RNA
+
+60
+00:02:33,700 --> 00:02:35,870
+jadi biar saya lukis bahan genetiknya.
+
+61
+00:02:35,870 --> 00:02:38,420
+protein ini tidak semestinya lutsinar tapi jika ia lutsinar
+
+62
+00:02:38,420 --> 00:02:42,960
+anda boleh melihat informasi genetik didalamnya
+
+63
+00:02:42,960 --> 00:02:48,440
+persoalannya, adakah virus ini merupakan kehidupan/benda hidup?
+
+64
+00:02:48,440 --> 00:02:49,580
+ia kelihatan seperti tidak bernyawa
+
+65
+00:02:49,580 --> 00:02:50,540
+ia tidak membesar
+
+66
+00:02:50,540 --> 00:02:51,510
+tidak mengalami perubahan
+
+67
+00:02:51,510 --> 00:02:53,200
+dan tidak melakukan proses metabolisma
+
+68
+00:02:53,200 --> 00:02:55,200
+virus ini hanya melakukan kerjanya
+
+69
+00:02:55,200 --> 00:02:55,850
+sendiri
+
+70
+00:02:55,850 --> 00:02:59,600
+ia tetap begitu seperti buku diatas meja yang hanya
+
+71
+00:02:59,600 --> 00:03:00,690
+terpaku disitu
+
+72
+00:03:00,690 --> 00:03:02,280
+ia tidak mengubah apa2
+
+73
+00:03:02,280 --> 00:03:06,560
+tetapi virus telah menimbulkan pelbagai perdebatan.
+
+74
+00:03:06,560 --> 00:03:08,470
+ini kerana virus
+
+75
+00:03:08,470 --> 00:03:10,690
+kelihatan seperti sekumpulan molekul yang diletakkan bersama
+
+76
+00:03:10,690 --> 00:03:11,740
+itu bukannya kehidupan
+
+77
+00:03:11,740 --> 00:03:14,350
+tetapi virus mula kelihatan seperti benda hidup apabila
+
+78
+00:03:14,350 --> 00:03:17,100
+ia berhubung dengan benda
+
+79
+00:03:17,100 --> 00:03:18,220
+hidup
+
+80
+00:03:18,220 --> 00:03:22,480
+apa yang virus lakukan ialah
+
+81
+00:03:22,480 --> 00:03:24,680
+dengan melekatkan dirinya dengan sel
+
+82
+00:03:24,680 --> 00:03:28,590
+ok mari saya lukiskan
+
+83
+00:03:28,590 --> 00:03:30,260
+katakan ini adalah virus
+
+84
+00:03:30,260 --> 00:03:32,560
+saya lukis bentuk hexagon
+
+85
+00:03:32,562 --> 00:03:34,982
+apa yang virus lakukan ialah melekatkan dirinya pada sel
+
+86
+00:03:34,980 --> 00:03:35,800
+apa2 sel pon boleh
+
+87
+00:03:35,795 --> 00:03:39,155
+sama ada sel bacteria,sel tumbuhan
+
+88
+00:03:39,155 --> 00:03:41,195
+atau sel manusia
+
+89
+00:03:41,190 --> 00:03:43,820
+saya lukiskan sel disini
+
+90
+00:03:43,820 --> 00:03:48,540
+sel biasanya lebih besar dari virus
+
+91
+00:03:48,540 --> 00:03:51,610
+sekiranya sel mempunyai lapisa membren yang lembut virus
+
+92
+00:03:51,610 --> 00:03:53,850
+akan mencari jalan untuk memasukinya
+
+93
+00:03:53,850 --> 00:03:58,780
+kadang2 ia akan gabungkan dirinnya
+
+94
+00:03:58,780 --> 00:04:01,390
+dengan sel. virus juga mempunyai
+
+95
+00:04:01,390 --> 00:04:02,480
+lapisan membrane sendiri
+
+96
+00:04:02,480 --> 00:04:03,740
+kita akan bincangkan selepas ini bagaimana ia
+
+97
+00:04:03,740 --> 00:04:04,760
+mempunyai lapisan membran
+
+98
+00:04:04,760 --> 00:04:08,270
+jadi virus mempunyai lapisan membrannya sendiri
+
+99
+00:04:08,270 --> 00:04:10,520
+yang mengelilingi capsidnya
+
+100
+00:04:10,520 --> 00:04:13,470
+dan lapisan membran ini akan bergabung
+
+101
+00:04:13,470 --> 00:04:16,790
+membolehkan virus untuk memasuki sel
+
+102
+00:04:16,785 --> 00:04:18,005
+itu salah satu caranya
+
+103
+00:04:18,000 --> 00:04:19,670
+tidak semua virus
+
+104
+00:04:19,670 --> 00:04:20,590
+menggunakan cara yang sama
+
+105
+00:04:20,589 --> 00:04:24,019
+cara yang lain ialah virus akan
+
+106
+00:04:24,020 --> 00:04:26,910
+menyakinkan--berdasarkan receptor protein pada virus tersebut
+
+107
+00:04:26,910 --> 00:04:29,810
+atau receptor protein yang terdapat pada sel--
+
+108
+00:04:29,810 --> 00:04:31,650
+seperti virus trojan
+
+109
+00:04:31,650 --> 00:04:33,600
+sel semestinya tidak mahu/suka akan virus
+
+110
+00:04:33,600 --> 00:04:36,390
+maka virus akan menyakinkan cell yang ianya ialah
+
+111
+00:04:36,390 --> 00:04:38,050
+benda bukan asing
+
+112
+00:04:38,050 --> 00:04:41,770
+kita boleh menghasilkan beratus video mengenai bagaimana virus bekerja dan
+
+113
+00:04:41,770 --> 00:04:43,430
+ia melibatkan kajian yang panjang
+
+114
+00:04:43,430 --> 00:04:47,580
+kadangkala terdapat juga virus yang dimakan
+
+115
+00:04:47,580 --> 00:04:48,120
+oleh sel
+
+116
+00:04:48,120 --> 00:04:49,930
+sel mungkin terfikir yang virus itu ialah sesuatu yang perlu
+
+117
+00:04:49,930 --> 00:04:50,960
+sel perlu makan/ambil
+
+118
+00:04:50,960 --> 00:04:53,130
+jadi sel akan membaluti virus seperti ini
+
+119
+00:04:56,780 --> 00:04:58,930
+dan bahagian ini akhirnya akan bergabung
+
+120
+00:04:58,930 --> 00:05:01,670
+kemudian sel dan virus akan masuk kedalamnya
+
+121
+00:05:01,670 --> 00:05:03,160
+proses ini dipanggil endocitosis
+
+122
+00:05:03,160 --> 00:05:04,020
+saya akan bercakap mengenainya
+
+123
+00:05:04,020 --> 00:05:06,640
+sel akan membawa virus kedalam cytoplasmnya
+
+124
+00:05:06,640 --> 00:05:11,020
+ini bukannya terjadi pada virus sahaja
+
+125
+00:05:11,020 --> 00:05:12,890
+tapi satu daripada mekanisma untuk masuk kedalam sel
+
+126
+00:05:12,890 --> 00:05:17,320
+dalam kes dimana sel--dengan bakteria
+
+127
+00:05:17,320 --> 00:05:20,280
+misalnya sel mempunyai
+
+128
+00:05:20,280 --> 00:05:25,520
+lapisan luar yang sangat keras---biar saya lukis dalam warna terang
+
+129
+00:05:25,520 --> 00:05:29,040
+ok katakan bakteria disini
+
+130
+00:05:29,040 --> 00:05:30,510
+ia mempunyai lapisan luar yang keras
+
+131
+00:05:30,510 --> 00:05:32,830
+virus tidak mampu untuk memasuki sel
+
+132
+00:05:32,830 --> 00:05:36,440
+jadi ia akan berada diluar sel seperti ini
+
+133
+00:05:36,440 --> 00:05:37,740
+saya melukis tidak mengikut nisbah sebenar
+
+134
+00:05:37,740 --> 00:05:40,690
+virus akan suntik bahan genetiknya kedalam sel
+
+135
+00:05:40,690 --> 00:05:43,790
+terdapat pelbagai cara
+
+136
+00:05:43,790 --> 00:05:45,680
+bagaimana virus boleh masuk kedalam sel
+
+137
+00:05:45,680 --> 00:05:46,780
+tapi itu bukan persoalannya
+
+138
+00:05:46,780 --> 00:05:49,420
+perkara yang menarik ialah virus tetap akan cuba memasuki kedalam sel
+
+139
+00:05:49,420 --> 00:05:52,240
+sebaik saja virus masuk kedalam sel,mereka akan melepaskan
+
+140
+00:05:52,240 --> 00:05:54,570
+bahan genetiknya kedalam sel
+
+141
+00:05:54,570 --> 00:05:56,970
+jadi bahan genetik itu akan terapung disekeliling
+
+142
+00:05:56,970 --> 00:06:01,390
+jika bahan genetik virus tersebut dalam bentuk RNA
+
+143
+00:06:01,390 --> 00:06:05,700
+maka pelbagai variasi/kaedah berbeza yang boleh wujud
+
+144
+00:06:05,700 --> 00:06:08,160
+untuk virus bagi menjalankan kerjanya didalam sel
+
+145
+00:06:08,160 --> 00:06:09,400
+kita belum memahami untuk sepenuhnya
+
+146
+00:06:09,400 --> 00:06:11,630
+tapi virus akan cuba pelbagai cara
+
+147
+00:06:11,630 --> 00:06:13,880
+untuk terus hidup
+
+148
+00:06:13,880 --> 00:06:20,720
+jika virus mempunyai RNA,maka dengan serta merta RNA
+
+149
+00:06:20,720 --> 00:06:23,170
+akan digunakan untuk---ok katakan ini
+
+150
+00:06:23,170 --> 00:06:25,540
+nucleus sel
+
+151
+00:06:25,540 --> 00:06:28,850
+ini ialah nucleus sel dan nucleus biasanya mepunyai
+
+152
+00:06:28,850 --> 00:06:29,480
+DNA didalamnya
+
+153
+00:06:29,480 --> 00:06:30,720
+saya buat DNA berlainan warna
+
+154
+00:06:30,720 --> 00:06:37,260
+DNA biasanya akan disalin /(transcribe) kepada RNA
+
+155
+00:06:37,260 --> 00:06:39,940
+maka dalam sel yang normal RNAnya akan
+
+156
+00:06:39,940 --> 00:06:43,540
+keluar dari nucleus, pergi ke ribosome,kemudian
+
+157
+00:06:43,540 --> 00:06:46,690
+RNA bersama-sama tRNA akan menghasilkan
+
+158
+00:06:46,690 --> 00:06:49,260
+protein2 ini.
+
+159
+00:06:49,260 --> 00:06:51,030
+RNA ini akan kodkan protein yang berlainan
+
+160
+00:06:51,030 --> 00:06:53,670
+saya akan bercakap mengenainya dalam video yang lain
+
+161
+00:06:53,670 --> 00:06:57,000
+jadi protein ini akan terbentuk dan akhirnya mereka akan membentuk
+
+162
+00:06:57,000 --> 00:06:58,800
+struktur berbeza dalam sel
+
+163
+00:06:58,800 --> 00:07:03,190
+apa yang virus lakukan ialah ia akan merampas/memintas proses ini
+
+164
+00:07:03,190 --> 00:07:04,490
+memintas mekanisma ini.
+
+165
+00:07:04,490 --> 00:07:08,550
+RNA virus ini kemudiannya akan melakukan apa yang RNA
+
+166
+00:07:08,550 --> 00:07:09,230
+sel patut lakukan.
+
+167
+00:07:09,230 --> 00:07:11,140
+ia akan mula kodkan protein virusnya sendiri
+
+168
+00:07:11,140 --> 00:07:12,250
+jelas ia tidak akan kodkan
+
+169
+00:07:12,250 --> 00:07:13,260
+benda yang sama disini
+
+170
+00:07:13,260 --> 00:07:15,790
+kebiasaannya ia akan kodkan protein yang akan
+
+171
+00:07:15,790 --> 00:07:19,670
+memusnahkan DNA/RNA sel atau
+
+172
+00:07:19,670 --> 00:07:20,380
+bersaing dengannya
+
+173
+00:07:20,380 --> 00:07:22,390
+jadi ia akan kodkan proteinnya sendiri
+
+174
+00:07:22,390 --> 00:07:26,860
+yang mana protein ini akan mula membuat lebih banyak cenkerang(shell)virus
+
+175
+00:07:26,860 --> 00:07:31,520
+protein ini akan mula membina lebih banyak
+
+176
+00:07:31,520 --> 00:07:33,840
+cengkerang virus
+
+177
+00:07:33,840 --> 00:07:36,000
+pada masa sama RNA akan terus melakukan replikasi.
+
+178
+00:07:36,000 --> 00:07:39,730
+virus ini menggunakan mekanisma sel.meninggalkan
+
+179
+00:07:39,730 --> 00:07:40,820
+perantinya disitu
+
+180
+00:07:40,820 --> 00:07:43,800
+sebaik sahaja RNA memasuki sel ia akan menggunakan
+
+181
+00:07:43,800 --> 00:07:47,000
+semua jentera sel untuk melakukan replikasi
+
+182
+00:07:47,000 --> 00:07:51,360
+dan ini melibatkan proses biokimia
+
+183
+00:07:51,360 --> 00:07:54,810
+molekul RNA kemudian akan mencari semula dirinya
+
+184
+00:07:54,810 --> 00:07:57,470
+didalam capsid.
+
+185
+00:07:57,470 --> 00:08:00,290
+sekiranya semuanya telah cukup dan sel telah
+
+186
+00:08:00,290 --> 00:08:05,620
+kekurangan semua sumber
+
+187
+00:08:05,620 --> 00:08:09,990
+virus,iaitu virus2 baru yang telah mereplikasikan
+
+188
+00:08:09,990 --> 00:08:15,410
+dirinya menggunakan mekanisma sel
+
+189
+00:08:15,410 --> 00:08:17,370
+akan mencari jalan untuk keluar dari sel
+
+190
+00:08:17,370 --> 00:08:20,860
+perkara yang paling biasa dilakukan ialah---ok kerana kita
+
+191
+00:08:20,860 --> 00:08:23,110
+belum lagi mengetahui semua jenis2 virus
+
+192
+00:08:23,110 --> 00:08:26,750
+yang wujud--tetapi kebanyakan virus apabila mereka
+
+193
+00:08:26,750 --> 00:08:28,760
+hendak keluar dari sel,mereka akan mengeluarkan
+
+194
+00:08:28,760 --> 00:08:30,880
+protein atau membina protein
+
+195
+00:08:30,880 --> 00:08:32,390
+kerana virus tidak boleh membuat protein sendiri
+
+196
+00:08:32,390 --> 00:08:35,860
+protein ini akan menyebabkan sel untuk membunuh dirinya sendiri
+
+197
+00:08:35,860 --> 00:08:37,140
+atau menyebakan lapisan membrane dibubarkan/larut
+
+198
+00:08:37,140 --> 00:08:39,260
+maka lapisan membran akan hilang
+
+199
+00:08:39,260 --> 00:08:41,480
+dan sel akan pecah/lyses
+
+200
+00:08:41,480 --> 00:08:42,410
+biar saya tulis
+
+201
+00:08:42,409 --> 00:08:43,839
+sel ini pecah
+
+202
+00:08:43,840 --> 00:08:46,110
+dan lyses/pecah juga bermaksud membran sel
+
+203
+00:08:46,110 --> 00:08:46,900
+akan hilang
+
+204
+00:08:46,900 --> 00:08:50,480
+dan virus2 ini boleh keluar dari sel
+
+205
+00:08:50,480 --> 00:08:53,470
+saya pernah katakan sebelum ini sesetengah virus ini
+
+206
+00:08:53,470 --> 00:08:54,750
+mempunyai lapisan membrannya sendiri
+
+207
+00:08:54,750 --> 00:08:56,710
+jadi bagaimana mereka mendapatkan
+
+208
+00:08:56,710 --> 00:08:58,400
+bilipid /dwilapisan lipid membran ini
+
+209
+00:08:58,400 --> 00:09:00,900
+ok sesetengah mereka, apa yang mereka buat ialah,setelah mereka replikasi
+
+210
+00:09:00,900 --> 00:09:07,380
+didalam sel,mereka keluar tanpa membunuh sel--sel
+
+211
+00:09:07,380 --> 00:09:08,650
+tidak akan pecah
+
+212
+00:09:08,650 --> 00:09:11,620
+semua yang saya katakan,terdapat cara spesifik yang virus
+
+213
+00:09:11,620 --> 00:09:12,150
+lakukan
+
+214
+00:09:12,150 --> 00:09:15,630
+tapi virus suka meneroka--pelbagai jenis virus
+
+215
+00:09:15,630 --> 00:09:17,620
+melakukan hampir setiap kombinasi berbeza
+
+216
+00:09:17,620 --> 00:09:22,610
+untuk proses replikasi dan protein yang dikodkan untuk
+
+217
+00:09:22,610 --> 00:09:23,400
+keluar dari sel
+
+218
+00:09:23,400 --> 00:09:24,720
+sesetengah mereka cuma berputik/bud
+
+219
+00:09:24,720 --> 00:09:26,560
+apabila mereka berputik/budding mereka akan
+
+220
+00:09:26,560 --> 00:09:28,070
+menolak dinding sel
+
+221
+00:09:28,070 --> 00:09:29,670
+atau lapisan membran
+
+222
+00:09:29,670 --> 00:09:30,740
+saya tidak patut kata dinding sel
+
+223
+00:09:30,740 --> 00:09:32,630
+ianya lapisan membran luar sel
+
+224
+00:09:32,630 --> 00:09:36,130
+apabila mereka menolaknya,mereka akan mengambil sedikit
+
+225
+00:09:36,130 --> 00:09:38,070
+membran bersama
+
+226
+00:09:38,070 --> 00:09:41,260
+sehingga akhirnya sel akan--apabila ini pergi keatas
+
+227
+00:09:41,260 --> 00:09:43,810
+ia akan keluar bersama mengambil sedikit
+
+228
+00:09:43,810 --> 00:09:44,570
+membran ini
+
+229
+00:09:44,565 --> 00:09:47,285
+lapisan membran ini mempunyai
+
+230
+00:09:47,280 --> 00:09:49,030
+banyak kebaikan
+
+231
+00:09:49,030 --> 00:09:51,260
+sekiranya virus mempunyai lapisan membran ini,maka ia akan
+
+232
+00:09:51,260 --> 00:09:52,520
+kelihatan seperti sel ini
+
+233
+00:09:52,520 --> 00:09:55,300
+maka jika virus hendak menjangkiti sel yang lain pula,virus
+
+234
+00:09:55,300 --> 00:09:58,530
+ia tidak perlu untuk kelihatan seperti bendasing
+
+235
+00:09:58,530 --> 00:10:02,780
+jadi ianya amat
+
+236
+00:10:02,780 --> 00:10:03,470
+berguna
+
+237
+00:10:03,470 --> 00:10:06,940
+selain daripada boleh merampas/hijack
+
+238
+00:10:06,940 --> 00:10:10,780
+DNA organisma, virus juga boleh
+
+239
+00:10:10,780 --> 00:10:14,740
+mengubah DNA organisma tersebut
+
+240
+00:10:14,740 --> 00:10:18,830
+contoh yang paling biasa ialah virus HIV
+
+241
+00:10:18,830 --> 00:10:21,480
+biar saya tulis dahulu
+
+242
+00:10:21,480 --> 00:10:27,480
+HIV,sejenis virus retro yang amat
+
+243
+00:10:27,480 --> 00:10:28,280
+menakjubkan
+
+244
+00:10:28,280 --> 00:10:31,930
+kerana apa yang mereka buat ialah--ok mereka ada RNA didalamnya
+
+245
+00:10:35,810 --> 00:10:38,030
+apabila mereka memasuki sel.katakam mereka dah masuk
+
+246
+00:10:38,030 --> 00:10:39,430
+kedalam sel
+
+247
+00:10:39,430 --> 00:10:42,950
+jadi ia didalam sel seperti ini
+
+248
+00:10:42,950 --> 00:10:46,570
+HIV sebenarnya membawa bersama protein
+
+249
+00:10:46,570 --> 00:10:49,600
+anda akan kata.dimana mereka dapat protein ini.
+
+250
+00:10:49,600 --> 00:10:51,390
+semuanya berasal dari sel yang berlainan
+
+251
+00:10:51,390 --> 00:10:54,490
+mereka menggunakan asid amino, ribosom dan asid nukleik sel lain
+
+252
+00:10:54,490 --> 00:10:56,800
+untuk membina diri mereka sendiri
+
+253
+00:10:56,800 --> 00:10:58,780
+jadi semua protein yang ada didalamnya datang
+
+254
+00:10:58,780 --> 00:11:00,080
+dari sel lain
+
+255
+00:11:00,080 --> 00:11:04,610
+mereka juga membawa bersama reverse trancriptase protein
+
+256
+00:11:04,610 --> 00:11:07,850
+yang akan kodkan RNA
+
+257
+00:11:07,850 --> 00:11:11,490
+kepada DNA
+
+258
+00:11:11,490 --> 00:11:14,790
+jadi RNA kepada DNA
+
+259
+00:11:14,790 --> 00:11:16,810
+sebelum ini ramai yang yang yakin bahawa DNA yang akan
+
+260
+00:11:16,810 --> 00:11:19,950
+kodkan RNA--DNA ke RNA tapi protein ini
+
+261
+00:11:19,950 --> 00:11:22,110
+telah mematahkan paradigma ini
+
+262
+00:11:22,110 --> 00:11:23,850
+ia kodkan RNA kepada DNA
+
+263
+00:11:23,850 --> 00:11:29,020
+selain dari itu ia juga akan menggabungkan DNA tersebut
+
+264
+00:11:29,020 --> 00:11:31,350
+kedalam DNA sel tuan rumah/host sel
+
+265
+00:11:31,350 --> 00:11:34,500
+jadi DNA akan gabungkan dirinya kedalam
+
+266
+00:11:34,500 --> 00:11:35,200
+DNA sel tuan rumah
+
+267
+00:11:35,200 --> 00:11:37,690
+katakan kuning ialah DNA sel tuan rumah
+
+268
+00:11:37,690 --> 00:11:41,000
+ini pula nukleus
+
+269
+00:11:41,000 --> 00:11:44,070
+jadi ia akan huruharakan genetik sel
+
+270
+00:11:44,070 --> 00:11:46,030
+yang ia jangkiti
+
+271
+00:11:46,030 --> 00:11:51,570
+ok setiap satu sel manusia
+
+272
+00:11:51,570 --> 00:11:53,790
+kita akan ada 20 sel bakteria
+
+273
+00:11:53,790 --> 00:11:56,420
+bakteria hidup dan berguna kepada kita dan mereka juga merupakan
+
+274
+00:11:56,420 --> 00:12:00,100
+sebahagian dari kita yang menyumbang 10% kepada berat kering(dry mass)
+
+275
+00:12:00,100 --> 00:12:02,170
+bakteria adalah sesuatu yang baik
+
+276
+00:12:02,170 --> 00:12:03,860
+dan tidak akan mengubah apa2
+
+277
+00:12:03,860 --> 00:12:07,010
+akan tetapi virus retro/retrovirus sebenarnya mengubah
+
+278
+00:12:07,010 --> 00:12:07,940
+gentik kita
+
+279
+00:12:07,940 --> 00:12:10,650
+ataupun gene
+
+280
+00:12:10,650 --> 00:12:12,380
+yang menentukan siapa kita
+
+281
+00:12:12,380 --> 00:12:14,630
+tetapi virus ini masuk kedalam sel dan
+
+282
+00:12:14,630 --> 00:12:16,240
+mengubah genetik kita
+
+283
+00:12:16,240 --> 00:12:19,300
+sekali mereka menjadi sebahagian daripada DNA,maka DNA
+
+284
+00:12:19,300 --> 00:12:25,330
+akan kodkan RNA yang mana akan menghasilkan protein
+
+285
+00:12:25,330 --> 00:12:27,180
+mereka sendiri
+
+286
+00:12:27,180 --> 00:12:30,160
+kadangkala virus ini juga akan kekal tidak aktif/dormant
+
+287
+00:12:30,160 --> 00:12:31,420
+dan tidak melakukan apa2.
+
+288
+00:12:31,420 --> 00:12:33,730
+dan sekiranya berlaku sesuatu yang merbahaya disekeliling mereka
+
+289
+00:12:33,730 --> 00:12:35,790
+mereka akan mula kodkan
+
+290
+00:12:35,790 --> 00:12:37,110
+diri sendiri semula
+
+291
+00:12:37,110 --> 00:12:38,620
+dengan menghasilkannya lebih banyak lagi
+
+292
+00:12:38,620 --> 00:12:41,980
+menggunakan DNA sel organisma ini
+
+293
+00:12:41,980 --> 00:12:43,110
+secara terus
+
+294
+00:12:43,110 --> 00:12:45,120
+mereka menjadi sebahagian dari organisma ini.
+
+295
+00:12:49,280 --> 00:12:51,530
+dengan menjadi sebahagian daripada DNAnya
+
+296
+00:12:51,530 --> 00:12:52,870
+Saya tidak boleh bayangkan apa-apa cara lain
+
+297
+00:12:52,870 --> 00:12:55,680
+untuk benar-benar menentukan organisma.
+
+298
+00:12:55,680 --> 00:13:00,910
+untuk pengetahuan anda
+
+299
+00:13:00,910 --> 00:13:06,770
+apabila virus menjadi sebahagian daripada
+
+300
+00:13:06,770 --> 00:13:09,430
+DNA organisma,ia dipanggil provirus
+
+301
+00:13:13,180 --> 00:13:16,890
+sekiranya provirus ini
+
+302
+00:13:16,890 --> 00:13:23,500
+menjangkiti sel dalam badan kita, ok sel yang normal
+
+303
+00:13:23,500 --> 00:13:27,250
+akan mengalami mitosis,maka semua sel anak yang sama genetiknya
+
+304
+00:13:27,250 --> 00:13:29,030
+akan mempunyai
+
+305
+00:13:29,030 --> 00:13:30,600
+DNA virus ini
+
+306
+00:13:30,600 --> 00:13:32,060
+mungkinini baik, tetapi sekurang-kurangnya
+
+307
+00:13:32,060 --> 00:13:33,120
+anak-anak saya tidak akan mendapatnya
+
+308
+00:13:33,120 --> 00:13:35,980
+sekurang-kurangnya ia tidak menjadi sebahagian dari spesis saya
+
+309
+00:13:35,980 --> 00:13:38,710
+tetapi, selain daripada menjangkiti sel somatik, virus juga boleh
+
+310
+00:13:38,710 --> 00:13:41,170
+menjangkiti sel gamet
+
+311
+00:13:41,170 --> 00:13:44,510
+jadi ia boleh masuk dalam sel gamet
+
+312
+00:13:44,510 --> 00:13:46,850
+ok kita tahu yang sel gamet ialah sel
+
+313
+00:13:46,850 --> 00:13:49,380
+yang menghasilkan gamet
+
+314
+00:13:49,380 --> 00:13:52,930
+iaitu sperma untuk lelaki dan telur untuk perempuan
+
+315
+00:13:52,930 --> 00:13:55,180
+sekiranya virus menjangkiti sel gamet
+
+316
+00:13:55,180 --> 00:13:59,010
+dan menjadi sebahagian dari DNAnya maka DNA virus
+
+317
+00:13:59,010 --> 00:14:02,600
+akan diturunkan kepada anak lelaki atau anak perempuan
+
+318
+00:14:02,600 --> 00:14:05,540
+mereka akan mewariskannya kepada anak2 mereka
+
+319
+00:14:05,540 --> 00:14:10,260
+dan ini sangat menyeramkan
+
+320
+00:14:12,130 --> 00:14:16,050
+kajian menganggarkan bahawa 5 hingga 8%--ini secara kabur/secara kasar
+
+321
+00:14:16,050 --> 00:14:19,480
+tentang apa yang menjadikan kita sebagai manusia yang sebenar-benarnya
+
+322
+00:14:19,480 --> 00:14:26,800
+tetapi dianggarkan 5-8% daripada genome manusia
+
+323
+00:14:35,210 --> 00:14:35,990
+ini semua anggaran
+
+324
+00:14:35,990 --> 00:14:37,650
+kerana mereka yang melakukan kajian ia berdasarkan
+
+325
+00:14:37,650 --> 00:14:40,690
+DNA manusia dan DNA organisma lain yang dianggap agak sama
+
+326
+00:14:40,690 --> 00:14:47,390
+dianggarkan 5-8% genom manusia berasal dari virus,
+
+327
+00:14:47,390 --> 00:14:51,760
+atau virus retro purba yang telah menggabungkan dirinya
+
+328
+00:14:51,760 --> 00:14:53,530
+kedalam keturunan manusia
+
+329
+00:14:53,530 --> 00:14:55,730
+kedalam DNA manusia
+
+330
+00:14:55,725 --> 00:14:57,865
+ini dipanggil virus retro dalaman/ endogenous retrovirus
+
+331
+00:15:04,800 --> 00:15:07,150
+ini menganggu saya kerana
+
+332
+00:15:10,070 --> 00:15:14,000
+hal ini mengatakan bahawa 5-8% dari DNA manusia sebenarnya
+
+333
+00:15:14,000 --> 00:15:16,390
+datang dari virus
+
+334
+00:15:16,390 --> 00:15:17,850
+ini menyumbang kepada
+
+335
+00:15:17,850 --> 00:15:19,720
+variasi genetik
+
+336
+00:15:19,720 --> 00:15:24,210
+ini disebabkan virus melakukan sesuatu--ia dipanggil
+
+337
+00:15:24,210 --> 00:15:27,760
+pemindahan mendatar (horizontal transfer) DNA
+
+338
+00:15:27,760 --> 00:15:30,480
+anda boleh bayangkan,sekiranya virus berpindah dari satu spesis
+
+339
+00:15:30,480 --> 00:15:37,220
+ke satu spesis,contohnya dari spesis A ke spesis B,jika ia bermutasi
+
+340
+00:15:37,220 --> 00:15:41,310
+dan menyusup kedalam sel ini,maka ia akan mengambil sedikit
+
+341
+00:15:41,310 --> 00:15:43,810
+DNAnya dan mengubahnya
+
+342
+00:15:45,490 --> 00:15:48,180
+kadangkala,apabila virus mula kodkan untuk sesuatu yang lain
+
+343
+00:15:48,180 --> 00:15:52,830
+ok katakan provirus disini
+
+344
+00:15:52,830 --> 00:15:55,860
+dimana bahagian biru adalah virus asal
+
+345
+00:15:55,860 --> 00:16:00,960
+kuning pula DNA asal organisma.
+
+346
+00:16:00,960 --> 00:16:04,230
+apabila virus mula mengekod,ia akan mengambil sedikit
+
+347
+00:16:04,230 --> 00:16:07,200
+bahagian DNA organisma yang lain
+
+348
+00:16:07,200 --> 00:16:11,810
+jadi mungkin keseluruhannya DNA virus tetapi mungkin juga terdapat,
+
+349
+00:16:11,810 --> 00:16:14,070
+bila DNA disalin (transcribed) dan diterjemah(translated) ia mungkin
+
+350
+00:16:14,070 --> 00:16:16,710
+mengambil sedikit
+
+351
+00:16:18,460 --> 00:16:20,540
+DNA organisma sebelumnya
+
+352
+00:16:20,540 --> 00:16:23,690
+maka ia sebenarnya memotong sebahagian daripada DNA organisma sebelumnya dan
+
+353
+00:16:23,690 --> 00:16:24,950
+membawa kepada organisma lain
+
+354
+00:16:24,950 --> 00:16:27,490
+mengambil dari spesis lain ke
+
+355
+00:16:27,490 --> 00:16:27,810
+spesis lain
+
+356
+00:16:27,810 --> 00:16:29,750
+ia menyeberangi spesis lain
+
+357
+00:16:29,750 --> 00:16:32,860
+jadi anda mempunyai idea yang DNA boleh bergerak antara
+
+358
+00:16:32,860 --> 00:16:34,090
+spesis berbeza
+
+359
+00:16:34,090 --> 00:16:36,410
+ini membuatkan saya bersyukur
+
+360
+00:16:36,410 --> 00:16:39,930
+dan menghargai bagaimana kita saling berkaitan--sebagai satu species
+
+361
+00:16:39,930 --> 00:16:41,950
+kita membayangkan yang kita hanya sendiri dan hanya boleh
+
+362
+00:16:41,950 --> 00:16:45,110
+membiak sesama kita dan mempunyai variasi genetik dalam
+
+363
+00:16:45,110 --> 00:16:45,860
+satu populasi
+
+364
+00:16:45,860 --> 00:16:50,190
+tetapi virus telah memperkenalkan pemindahan mendatar
+
+365
+00:16:50,190 --> 00:16:53,090
+melalui transduksi
+
+366
+00:16:53,090 --> 00:16:57,640
+pemindahan mendatar hanyalah idea,,ok lihat bila virus ini
+
+367
+00:16:57,640 --> 00:17:00,660
+melakukan replikasi sedikit DNA organisma yang
+
+368
+00:17:00,660 --> 00:17:04,350
+dijangkiti mungkin diambil bersama.
+
+369
+00:17:06,010 --> 00:17:09,160
+dan menjangkiti DNA tersebut kepada organisma seterusnya
+
+370
+00:17:09,160 --> 00:17:11,330
+jadi anda sebenarnya mempunyai DNA yang melompat ini
+
+371
+00:17:11,329 --> 00:17:13,119
+dari organisma ke organisma lain
+
+372
+00:17:13,119 --> 00:17:17,299
+jadi ia menyatukan semua kehidupan berasakan DNA
+
+373
+00:17:17,300 --> 00:17:20,610
+iaitu semua kehidupan yang kita tahu dalam planet ini
+
+374
+00:17:28,540 --> 00:17:30,800
+kita boleh bercakap mengenai pelbagai kelas virus
+
+375
+00:17:30,800 --> 00:17:31,670
+yang berbeza
+
+376
+00:17:31,670 --> 00:17:33,810
+tetapi hanya sehingga anda sudah biasa dengan beberapa istilah
+
+377
+00:17:33,810 --> 00:17:37,900
+apabila virus menyerang bacteria yang mana mereka sering lakukan
+
+378
+00:17:37,895 --> 00:17:41,155
+kita paling banyak belajar perkara ini kerana ia bagus
+
+379
+00:17:41,150 --> 00:17:42,630
+sebagai alternatif kepada antibiotik
+
+380
+00:17:42,630 --> 00:17:45,430
+kerana virus yang menyerang bakteria mungkin--kadangkala
+
+381
+00:17:45,430 --> 00:17:47,820
+bakteria akan menyusahkan virus--ia dipanggil
+
+382
+00:17:47,820 --> 00:17:49,070
+bacteriaphages
+
+383
+00:17:52,610 --> 00:17:55,320
+saya telah katakan sebelum ini bagaimana mereka mempunyai DNA
+
+384
+00:17:55,320 --> 00:17:57,890
+tapi disebabkan bakteria mempunyai dinding yang keras,mereka akan menyuntik
+
+385
+00:17:57,890 --> 00:18:00,940
+DNA kedalam bakteria
+
+386
+00:18:00,940 --> 00:18:06,630
+apabila bercakap mengenai DNA,ia idea tentang provirus
+
+387
+00:18:06,630 --> 00:18:09,170
+jadi apabila virus pecaah seperti ini,ia dipanggil
+
+388
+00:18:09,170 --> 00:18:11,090
+kitaran lytic
+
+389
+00:18:11,090 --> 00:18:13,760
+ia merupakan istilah dan bagus juga untuk anda mengetahuinya
+
+390
+00:18:13,760 --> 00:18:16,250
+jika mahu mengambil ujian biologi memgenai perkara ini
+
+391
+00:18:16,250 --> 00:18:18,600
+apabila virus bergabung dengan DNA
+
+392
+00:18:18,600 --> 00:18:22,350
+dan kekal tidak aktif,bergabung dengan DNA sel perumah
+
+393
+00:18:22,350 --> 00:18:25,420
+dan kekal dorman for beberapa ketika ia dipanggil
+
+394
+00:18:25,420 --> 00:18:28,030
+kitaran lysogenik
+
+395
+00:18:28,030 --> 00:18:32,030
+normalnya.provirus akan menjalani
+
+396
+00:18:32,030 --> 00:18:35,910
+kitaran lysogenik dalam eukaryote,dalam organisma yang
+
+397
+00:18:35,910 --> 00:18:38,250
+mempunyai membran nuclear
+
+398
+00:18:38,250 --> 00:18:40,890
+biasanya apabila orang bercakap tentang kitaran lysogenik
+
+399
+00:18:40,890 --> 00:18:44,750
+mereka berkata tentang DNA viral yang kekal dorman dalam
+
+400
+00:18:44,750 --> 00:18:45,600
+DNA bakteria
+
+401
+00:18:45,600 --> 00:18:48,600
+atau DNA bakteriophage yang dorman
+
+402
+00:18:48,600 --> 00:18:51,050
+dalam DNA bakteria
+
+403
+00:18:51,050 --> 00:18:53,380
+tapi untuk memberikan idea yang lebih jelas lagi
+
+404
+00:18:53,380 --> 00:18:59,480
+disini
+
+405
+00:18:59,480 --> 00:19:01,550
+dua gambar ini saya dapat dari wikipedia
+
+406
+00:19:01,550 --> 00:19:02,800
+ini dari CDC
+
+407
+00:19:11,360 --> 00:19:14,200
+titik kecil hijau yang anda lihat diseluruh permukaan ini
+
+408
+00:19:14,200 --> 00:19:17,540
+benda besar ini,ia adalah sel darah
+
+409
+00:19:17,540 --> 00:19:20,330
+putih
+
+410
+00:19:20,330 --> 00:19:21,760
+ia sebahagian daripada sistem immunisasi manusia
+
+411
+00:19:21,760 --> 00:19:23,050
+ini ialah sel darah putih
+
+412
+00:19:27,540 --> 00:19:31,060
+Dan apa yang anda lihat muncul dari permukaan, pada dasarnya
+
+413
+00:19:31,060 --> 00:19:34,510
+tunas dari permukaan sel darah putih ini - dan
+
+414
+00:19:34,510 --> 00:19:36,300
+ini memberikan anda idea--
+
+415
+00:19:36,300 --> 00:19:39,700
+ini ialah virus HIV-1
+
+416
+00:19:39,700 --> 00:19:46,970
+jika anda biasa dengan istilah, HIV ialah sejenis
+
+417
+00:19:46,970 --> 00:19:51,810
+virus yang menjangkiti sel darah putih
+
+418
+00:19:51,810 --> 00:19:54,890
+AIDS ialah sindrom yang anda akan dapat sekiranya sistem immunisasi
+
+419
+00:19:54,890 --> 00:19:55,900
+anda menjadi lemah
+
+420
+00:19:55,900 --> 00:19:58,860
+dan akan senang dijangkiti penyakit berbanding dengan orang normal
+
+421
+00:19:58,860 --> 00:20:01,450
+yang mempunyai sistem immunisasi yang kuat
+
+422
+00:20:01,450 --> 00:20:03,050
+ini menyeramkan
+
+423
+00:20:03,050 --> 00:20:06,360
+virus ini akan memasuki sel yang besar ini dan menggunakan
+
+424
+00:20:06,360 --> 00:20:11,560
+mekanisma sel perumah untuk menghasilkan DNA atau
+
+425
+00:20:11,555 --> 00:20:14,305
+RNA sendiri dan protein capsid ini
+
+426
+00:20:14,300 --> 00:20:16,270
+kemudian ia akan keluar dari sel dan mengambil sedikit
+
+427
+00:20:16,270 --> 00:20:17,490
+lapisan membran bersamanya
+
+428
+00:20:17,490 --> 00:20:20,990
+virus ini juga akan meninggalkan sedikit DNAnya didalam
+
+429
+00:20:20,990 --> 00:20:22,340
+DNA sel perumah
+
+430
+00:20:22,340 --> 00:20:25,280
+maka mereka akan mengubah sel itu sendiri
+
+431
+00:20:26,890 --> 00:20:28,140
+ini merupakan bacteriaphage
+
+432
+00:20:34,500 --> 00:20:36,110
+Dan ini menunjukkan kepada anda apa yang saya katakan sebelum ini
+
+433
+00:20:36,110 --> 00:20:38,450
+bakteria ini disini
+
+434
+00:20:38,450 --> 00:20:41,360
+ini ialah dinding sel
+
+435
+00:20:41,360 --> 00:20:42,100
+ia sangat keras
+
+436
+00:20:42,100 --> 00:20:45,020
+Jadi ia sukar untuk hanya muncul ke dalamnya.
+
+437
+00:20:45,020 --> 00:20:47,040
+Atau anda tidak boleh bergabung, menggabungkan membran dengannya.
+
+438
+00:20:47,040 --> 00:20:52,290
+jadi mereka hanya berada diluar bakteria ini
+
+439
+00:20:52,290 --> 00:20:55,410
+mereka pada dasarnya akan mrnyuntik genetik
+
+440
+00:20:55,410 --> 00:20:58,280
+mereka kedalam bakteria
+
+441
+00:20:58,280 --> 00:20:59,890
+bayangkan,dengan hanya melihat
+
+442
+00:20:59,890 --> 00:21:01,000
+size
+
+443
+00:21:01,000 --> 00:21:02,090
+sel ini
+
+444
+00:21:02,090 --> 00:21:04,350
+sel ini kelihatan sangat besar
+
+445
+00:21:04,350 --> 00:21:05,650
+ini pula bacteria dan benda ini
+
+446
+00:21:05,650 --> 00:21:06,620
+sangatlah kecil
+
+447
+00:21:06,620 --> 00:21:08,170
+secara kasarnya 1/100 dari bacteria
+
+448
+00:21:08,170 --> 00:21:10,570
+Dan ini adalah kurang daripada 1/100 daripada sel kita
+
+449
+00:21:11,110 --> 00:21:15,510
+mereka amat sukar untuk ditapis
+
+450
+00:21:15,510 --> 00:21:16,520
+dan diasingkan
+
+451
+00:21:16,520 --> 00:21:20,780
+kerana mereka seperti partikel kecil
+
+452
+00:21:20,780 --> 00:21:23,290
+Jika anda berfikir bahawa ini adalah perkara-perkara yang eksotik yang wujud untuk
+
+453
+00:21:23,290 --> 00:21:31,360
+HIV atau Ebola, atau SARS,
+
+454
+00:21:31,360 --> 00:21:32,340
+ianya benar
+
+455
+00:21:32,340 --> 00:21:33,730
+mereka mempunyai persamaan
+
+456
+00:21:33,730 --> 00:21:35,490
+saya katakan dipermulaan video yang saya
+
+457
+00:21:35,490 --> 00:21:36,300
+selsema
+
+458
+00:21:36,300 --> 00:21:40,040
+saya selsema kerana terdapat virus yang menjangkiti
+
+459
+00:21:40,040 --> 00:21:42,610
+tisu dilaluan hidung saya
+
+460
+00:21:42,610 --> 00:21:46,190
+mereka menyebabkan saya mempunyai hidung berair
+
+461
+00:21:46,190 --> 00:21:48,540
+virus juga menyebabkan demam campak (chicken pox)
+
+462
+00:21:48,540 --> 00:21:50,550
+mereka menyebabkan virus herpes simplex
+
+463
+00:21:50,550 --> 00:21:51,540
+menyebabkan demam teruk
+
+464
+00:21:51,540 --> 00:21:53,430
+virus sentiasa wujud disekeliling kita
+
+465
+00:21:53,430 --> 00:21:56,000
+saya pasti anda mempunyai vrus
+
+466
+00:21:56,000 --> 00:21:57,740
+dengan anda ketika anda bercakap
+
+467
+00:21:57,740 --> 00:21:58,630
+mereka disekelilig kita
+
+468
+00:21:58,630 --> 00:22:04,320
+tetapi ia merupakan
+
+469
+00:22:04,320 --> 00:22:06,480
+falsafah soalan yang membinggungkan
+
+470
+00:22:06,480 --> 00:22:09,090
+kerana pada permulaan adakah benda ini kehidupan/bernyawa
+
+471
+00:22:09,090 --> 00:22:11,500
+pada permulaan,ia kelihatan
+
+472
+00:22:11,495 --> 00:22:13,745
+seperti protein bersama molekul asid nukleik
+
+473
+00:22:13,740 --> 00:22:15,280
+didalamnya
+
+474
+00:22:15,280 --> 00:22:16,340
+dan tidak melakukan apa2
+
+475
+00:22:16,340 --> 00:22:17,780
+ia tidak kelihatan sperti kehidupan bernyawa
+
+476
+00:22:17,780 --> 00:22:18,610
+ia tidak bergerak
+
+477
+00:22:18,610 --> 00:22:19,660
+tidak mempunyai metabolisma
+
+478
+00:22:19,660 --> 00:22:20,390
+ia tidak makan
+
+479
+00:22:20,390 --> 00:22:21,560
+tidak membiak
+
+480
+00:22:21,560 --> 00:22:23,120
+tetapi secara tiba-tiba,jika anda fikir apa yang ia lakukan
+
+481
+00:22:23,120 --> 00:22:27,130
+kepada sel dan bagaimana ia menggunakan sel untuk membiak
+
+482
+00:22:27,130 --> 00:22:29,700
+ia seperti--didalam istilah bisnes ia ialah asset light
+
+483
+00:22:29,700 --> 00:22:31,920
+ia tidak memerlukan jentera kerana ia boleh menggunakan
+
+484
+00:22:31,920 --> 00:22:35,850
+jentera orang lain untuk replikasikan dirinya
+
+485
+00:22:35,850 --> 00:22:38,080
+anda boleh lihat ini sebagai
+
+486
+00:22:38,080 --> 00:22:39,520
+bentuk kehidupan yang bijak
+
+487
+00:22:39,520 --> 00:22:42,480
+kerana ia tidak perlu untuk menghadapi segala kesusahan
+
+488
+00:22:42,480 --> 00:22:44,110
+yang kehidupan lain lalui
+
+489
+00:22:44,110 --> 00:22:47,570
+ini menyebabkan anda tertanya apakah kehidupan itu
+
+490
+00:22:47,570 --> 00:22:51,510
+Adakah kita benda yang mengandungi DNA
+
+491
+00:22:51,510 --> 00:22:54,170
+atau kita hanya mekanisama pengangkut bagi DNA?
+
+492
+00:22:54,170 --> 00:22:56,260
+dan ini ialah perkara yang lebih penting
+
+493
+00:22:56,260 --> 00:22:59,710
+jangkitan virus ini hanya merupakan pertempuran antara
+
+494
+00:22:59,710 --> 00:23:02,340
+jenis DNA dan RNA yang berbeza
+
+495
+00:23:03,335 --> 00:23:04,335
+saya tidak mahu terlalu berfalsafah
+
+496
+00:23:04,330 --> 00:23:08,840
+harapnya ini akan memberi pemahaman yang bagus
+
+497
+00:23:08,840 --> 00:23:12,940
+tentang virus yang merupakan organisma
+
+498
+00:23:12,940 --> 00:23:15,870
+samar yang menakjubkan dalam biologi
+

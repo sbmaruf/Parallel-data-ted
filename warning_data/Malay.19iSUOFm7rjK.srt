@@ -1,0 +1,660 @@
+1
+00:00:00,900 --> 00:00:03,820
+mari kita mulakan dengan beberapa contoh
+
+2
+00:00:03,810 --> 00:00:04,610
+mari kita lihat
+
+3
+00:00:04,620 --> 00:00:19,800
+contoh pertama, berapakah 15% daripada 40?
+
+4
+00:00:19,800 --> 00:00:22,600
+caranya adalah dengan menukarkan
+
+5
+00:00:22,600 --> 00:00:25,610
+peratus kepada perpuluhan dan kemudian darab dengan
+
+6
+00:00:25,620 --> 00:00:27,700
+nombor yang anda ingin dapatkan peratusnya
+
+7
+00:00:27,710 --> 00:00:32,810
+jadi, 15% dalam perpuluhan ialah .15
+
+8
+00:00:32,820 --> 00:00:36,350
+anda telah belajar dari video penukaran peratus ke perpuluhan
+
+9
+00:00:36,350 --> 00:00:37,630
+sebelum ini
+
+10
+00:00:37,640 --> 00:00:39,540
+dan kita hanya darab dengan 40
+
+11
+00:00:39,540 --> 00:00:47,980
+jadi, sekiranya 40 darab .15
+
+12
+00:00:47,990 --> 00:00:49,500
+5 darab 0 ialah 0
+
+13
+00:00:49,500 --> 00:00:53,090
+5 darab 4 ialah 20
+
+14
+00:00:53,100 --> 00:00:54,610
+letakkan 0 disini
+
+15
+00:00:54,610 --> 00:00:56,640
+kemudian, 1 darab 0 ialah 0
+
+16
+00:00:56,650 --> 00:00:59,250
+1 darab 4 ialah 4
+
+17
+00:00:59,260 --> 00:01:02,710
+anda dapat 6.00
+
+18
+00:01:02,710 --> 00:01:04,470
+kemudian, kira titik perpuluhan
+
+19
+00:01:04,480 --> 00:01:05,660
+1,2
+
+20
+00:01:05,670 --> 00:01:08,730
+tiada perpuluhan diatas , jadi ke 1,2 dan anda
+
+21
+00:01:08,730 --> 00:01:10,220
+letak perpuluhan disini
+
+22
+00:01:10,230 --> 00:01:18,870
+jadi, 15% daripada 40 bersamaan .15 darab 40 , sama dengan 6.00
+
+23
+00:01:18,870 --> 00:01:22,470
+jadi , itu sama sahaja dengan 6
+
+24
+00:01:22,480 --> 00:01:23,630
+mari buat contoh yanh lain pula,
+
+25
+00:01:23,640 --> 00:01:25,700
+harap2 , contoh tadi tidak mengelirukan sangat
+
+26
+00:01:25,700 --> 00:01:27,950
+dan kali ini saya akan cuba mengelirukan anda
+
+27
+00:01:27,950 --> 00:01:31,040
+sekiranya anda tidak fokus tadi
+
+28
+00:01:31,040 --> 00:01:47,850
+berapa .2% daripada... 7..?
+
+29
+00:01:47,850 --> 00:01:50,050
+ramai dari kita menganggap
+
+30
+00:01:50,060 --> 00:01:55,010
+.2% adalah sama dengan .2
+
+31
+00:01:55,010 --> 00:01:58,940
+dan kalau itu anggapan anda , itu adalah salah
+
+32
+00:01:58,950 --> 00:02:00,600
+kerana ingat , ini bukan .2
+
+33
+00:02:00,600 --> 00:02:03,280
+ini adalah .2%
+
+34
+00:02:03,290 --> 00:02:04,750
+ada 2 cara untuk anda fikirkan nya
+
+35
+00:02:04,760 --> 00:02:10,340
+anda boleh katakan .2/100 adalah sama kalau
+
+36
+00:02:10,340 --> 00:02:13,260
+didarabkan pengangka dan penyebutnya dengan 10,
+
+37
+00:02:13,270 --> 00:02:17,830
+sama seperti 2/1000
+
+38
+00:02:17,830 --> 00:02:19,250
+atau anda boleh cuba cara lain seperti
+
+39
+00:02:19,250 --> 00:02:22,250
+gerakkan titik perpuluhan 2 kekiri
+
+40
+00:02:22,250 --> 00:02:26,350
+sekirannya, anda mulakan dengan .2 dan anda
+
+41
+00:02:26,360 --> 00:02:29,610
+gerakkan titik perpuluhan 2 kekiri
+
+42
+00:02:32,090 --> 00:02:33,160
+disini titik perpuluhannya
+
+43
+00:02:33,160 --> 00:02:37,360
+jadi, .002
+
+44
+00:02:38,400 --> 00:02:43,360
+.2% sama dengan .002
+
+45
+00:02:43,370 --> 00:02:46,110
+ini akan selalu perangkap anda
+
+46
+00:02:46,110 --> 00:02:47,880
+tapi tak mengapa
+
+47
+00:02:47,880 --> 00:02:49,450
+sentiasa berhati2 kalau anda mendapat
+
+48
+00:02:49,460 --> 00:02:52,050
+perpuluhan dan peratus serentak
+
+49
+00:02:52,050 --> 00:02:55,390
+sekarang, kita kita cuba kira peratus
+
+50
+00:02:55,400 --> 00:02:58,210
+dalam perpuluhan, dan kita hanya perlu darabkannya dengan nombor
+
+51
+00:02:58,210 --> 00:02:59,990
+yang ingin diperatuskan
+
+52
+00:03:00,000 --> 00:03:09,180
+katakan .002 darab 7
+
+53
+00:03:10,490 --> 00:03:15,060
+7 darab 2 ialah 14
+
+54
+00:03:15,060 --> 00:03:17,700
+dan berapakah jumlah no yang kita dapat atau berapa jumlah
+
+55
+00:03:17,710 --> 00:03:19,830
+digit yang ada sebelum titik perpuluhan
+
+56
+00:03:19,830 --> 00:03:20,230
+mari kita lihat
+
+57
+00:03:20,240 --> 00:03:22,920
+1,2,3
+
+58
+00:03:22,930 --> 00:03:28,590
+jadi, kita memerlukan 1,2,3 digit sebelum titik perpuluhan
+
+59
+00:03:28,590 --> 00:03:36,160
+jadi, .2% daripada 7 bersamaan .014
+
+60
+00:03:36,170 --> 00:03:38,190
+anda mungkin fikir nombor
+
+61
+00:03:38,190 --> 00:03:39,350
+itu sangat kecil
+
+62
+00:03:39,360 --> 00:03:44,540
+ini memang logik kerana .2%, kalau anda fikirkannya
+
+63
+00:03:44,540 --> 00:03:46,850
+ianya lebih kecil dari 1%
+
+64
+00:03:46,860 --> 00:03:48,580
+dan lebih kecil dari 1/100
+
+65
+00:03:48,580 --> 00:03:52,440
+dan kalau anda fikirkan, .2% ialah 1/500
+
+66
+00:03:52,440 --> 00:03:55,750
+jika anda kira , 1/500 daripada 7
+
+67
+00:03:55,750 --> 00:03:58,180
+akan menjadi no ini
+
+68
+00:03:58,180 --> 00:03:59,490
+ini sangat penting
+
+69
+00:03:59,500 --> 00:04:01,240
+sentiasa periksa kembali kerana
+
+70
+00:04:01,240 --> 00:04:04,550
+bila anda kira perpuluhan dan peratus
+
+71
+00:04:04,560 --> 00:04:09,270
+sangat mudah untuk anda hilang dan dapat
+
+72
+00:04:09,280 --> 00:04:10,240
+faktor 10
+
+73
+00:04:10,240 --> 00:04:14,610
+jadi sentiasa periksa kembali jawapan anda agar ianya logik
+
+74
+00:04:14,620 --> 00:04:18,620
+sekarang saya akan mengelirukan anda lebih lagi
+
+75
+00:04:18,620 --> 00:04:27,930
+jika anda ditanya , 4 ialah 20% daripada berapa..?
+
+76
+00:04:31,600 --> 00:04:33,720
+ramai dari kita hanya
+
+77
+00:04:33,730 --> 00:04:34,850
+beranggapan 20%
+
+78
+00:04:34,850 --> 00:04:36,350
+menjadi .20
+
+79
+00:04:36,360 --> 00:04:37,850
+dan darabnya dengan 4
+
+80
+00:04:37,850 --> 00:04:41,560
+sekiranya begitu, anda salah lagi
+
+81
+00:04:41,560 --> 00:04:42,060
+kerana, cuba fikirkannya
+
+82
+00:04:42,070 --> 00:04:44,690
+saya tidak kata berapa 20% daripada 4
+
+83
+00:04:44,690 --> 00:04:49,550
+saya kata 20% dari mana2 no ialah 4
+
+84
+00:04:49,560 --> 00:04:51,470
+sekarang kita akan buat sedikit algebra
+
+85
+00:04:51,470 --> 00:04:54,080
+anda mungkin tidak agak dalam peratus
+
+86
+00:04:54,080 --> 00:04:59,070
+contoh, x = nombor
+
+87
+00:05:05,750 --> 00:05:14,620
+soalan ini seperti mengatakan 20% daripada x = 4
+
+88
+00:05:14,620 --> 00:05:17,490
+saya rasa bentuk ini anda mungkin kenal
+
+89
+00:05:17,500 --> 00:05:19,240
+jadi, bagaimana kita tulis 20% dalam perpuluhan
+
+90
+00:05:19,240 --> 00:05:21,970
+jadi ianya 0.20 atau 0.2
+
+91
+00:05:21,970 --> 00:05:23,880
+kita hanya darabnya dengan x untuk dapatkan 4
+
+92
+00:05:23,880 --> 00:05:28,060
+20%, sama nilainya dengan .2
+
+93
+00:05:28,070 --> 00:05:30,440
+ianya sama sahaja dengan .20, tapi 0 diakhir tidak dikira
+
+94
+00:05:31,720 --> 00:05:36,150
+.2 darab x = 4
+
+95
+00:05:36,160 --> 00:05:38,070
+sekarang, kita ada persamaan linear
+
+96
+00:05:38,070 --> 00:05:39,660
+anda mungkin tidak agak ini
+
+97
+00:05:39,670 --> 00:05:42,540
+jadi apa yang kita buat
+
+98
+00:05:42,540 --> 00:05:43,540
+terdapat 2 kaedah
+
+99
+00:05:43,550 --> 00:05:45,810
+anda boleh bahagi kedua2 bahagian dari persamaan ini
+
+100
+00:05:45,810 --> 00:05:47,680
+dengan pekali pada x
+
+101
+00:05:47,690 --> 00:05:54,000
+jadi, jika anda bahagi disini dan bahagi disini dengan .2
+
+102
+00:05:54,000 --> 00:05:59,440
+anda dapat x = 4 bahagikan dengan .2
+
+103
+00:05:59,450 --> 00:06:03,340
+jadi, berapakah 4 dibahagikan dengan .2
+
+104
+00:06:05,120 --> 00:06:12,490
+.2 akan pergi ke 4---saya letak perpuluhan disini.
+
+105
+00:06:12,500 --> 00:06:14,300
+kita gerakkan
+
+106
+00:06:14,300 --> 00:06:16,300
+titik perpuluhan disini ke kanan
+
+107
+00:06:16,310 --> 00:06:18,510
+dan kita dapat 2 kemudian gerakkan titik perpuluhan
+
+108
+00:06:18,510 --> 00:06:20,410
+disini kekanan
+
+109
+00:06:20,420 --> 00:06:23,670
+jadi .2 ke 4 sama dengan
+
+110
+00:06:23,680 --> 00:06:26,010
+2 ke 40
+
+111
+00:06:27,520 --> 00:06:29,660
+2 ke 40 , berapa kali?
+
+112
+00:06:29,670 --> 00:06:32,150
+2 ke 4 2 kali dan 2 ke
+
+113
+00:06:32,150 --> 00:06:32,970
+0,
+
+114
+00:06:32,980 --> 00:06:34,040
+semua ini anda boleh fikirkan sendiri
+
+115
+00:06:34,050 --> 00:06:36,520
+2 ke 40 ialah 20 kali
+
+116
+00:06:36,520 --> 00:06:40,570
+jadi, 4 bahagi .2 ialah 20
+
+117
+00:06:40,570 --> 00:06:44,560
+jawapannya 4 ialah 20% daripada 20
+
+118
+00:06:47,120 --> 00:06:48,270
+adakah ini logik?
+
+119
+00:06:48,270 --> 00:06:49,630
+terdapat beberapa cara untuk fikirkannya
+
+120
+00:06:49,630 --> 00:06:53,600
+20% ialah 1/5
+
+121
+00:06:53,610 --> 00:06:55,800
+dan 4 darab 5 = 20
+
+122
+00:06:55,810 --> 00:06:56,810
+ini logik
+
+123
+00:06:56,810 --> 00:06:59,430
+kalau anda tidak pasti , kita boleh periksa semula
+
+124
+00:06:59,430 --> 00:07:02,620
+20% daripada 20
+
+125
+00:07:02,620 --> 00:07:12,870
+20% daripada 20 bersamaan .2 darab 20
+
+126
+00:07:12,870 --> 00:07:16,170
+kalau anda kira , ini juga bersamaan 4
+
+127
+00:07:16,180 --> 00:07:18,400
+anda pasti dapat jawapan betul
+
+128
+00:07:18,410 --> 00:07:19,480
+mari buat yang lain pula
+
+129
+00:07:24,000 --> 00:07:25,810
+saya pilih no secara rambang
+
+130
+00:07:25,810 --> 00:07:36,130
+3 adalah 9% daripada berapa..?
+
+131
+00:07:40,430 --> 00:07:52,300
+sekali lagi katakan x = no yang kita cari
+
+132
+00:07:53,680 --> 00:08:00,980
+kita tahu ,.09x ...
+
+133
+00:08:00,980 --> 00:08:04,420
+sama dengan 9% daripada x ...= 3
+
+134
+00:08:04,430 --> 00:08:10,760
+atau x = 3 bahagi dengan .09
+
+135
+00:08:10,760 --> 00:08:15,430
+jika kita buat pembahagian , .09 ke 3
+
+136
+00:08:15,430 --> 00:08:17,280
+mari letak titik perpuluhan disini
+
+137
+00:08:17,290 --> 00:08:19,250
+saya x tahu berapa 0 saya perlukan
+
+138
+00:08:19,250 --> 00:08:22,210
+jadi saya gerakkan perpuluhan ini kekanan 2 kali ,dan
+
+139
+00:08:22,220 --> 00:08:24,970
+gerakkan perpuluhan ini kekanan 2 kali
+
+140
+00:08:24,980 --> 00:08:27,570
+.09 ke 3 sama bilangan kalinya
+
+141
+00:08:27,570 --> 00:08:29,940
+9 ke 300
+
+142
+00:08:29,950 --> 00:08:32,060
+9 ke 30, 3 kali
+
+143
+00:08:32,070 --> 00:08:33,820
+3 darab 9 = 27
+
+144
+00:08:33,820 --> 00:08:36,040
+saya boleh nampak coraknya bagaimana
+
+145
+00:08:36,040 --> 00:08:41,290
+30, 3, 3 darab 9 = 27
+
+146
+00:08:41,300 --> 00:08:45,000
+kekalkan 33 disana , 3 itu
+
+147
+00:08:45,000 --> 00:08:46,480
+kekal disana
+
+148
+00:08:46,490 --> 00:08:50,960
+jadi, 3 ialah 9% daripada , anda boleh tulis
+
+149
+00:08:50,960 --> 00:08:58,860
+33.3 atau .3 ialah
+
+150
+00:08:58,870 --> 00:09:00,300
+sama dengan 1/3
+
+151
+00:09:00,300 --> 00:09:05,370
+jadi, 9% daripada 33 dan 1/3
+
+152
+00:09:05,370 --> 00:09:08,210
+salah satu daripada jawapan tersebut boleh diterima
+
+153
+00:09:18,050 --> 00:09:19,380
+jadi, didalam ujian anda mestilah
+
+154
+00:09:19,380 --> 00:09:20,930
+tepat
+
+155
+00:09:24,340 --> 00:09:26,760
+yang penting sekali, beri perhatian kepada
+
+156
+00:09:26,760 --> 00:09:28,730
+soalan
+
+157
+00:09:28,740 --> 00:09:32,480
+jika 10% daripada 100
+
+158
+00:09:32,480 --> 00:09:33,040
+itu senang
+
+159
+00:09:33,040 --> 00:09:36,000
+anda hanya tukarkan kepada perpuluhan dan darab dengan 100
+
+160
+00:09:36,000 --> 00:09:39,560
+kalau , 100 ialah 10% daripada berapa?
+
+161
+00:09:39,570 --> 00:09:41,330
+ingat itu ialah masalah yang lain
+
+162
+00:09:41,340 --> 00:09:45,440
+yang mana 100 ialah 10 % dan jika anda kira
+
+163
+00:09:45,440 --> 00:09:46,840
+ia akan menjadi 1000
+
+164
+00:09:46,850 --> 00:09:50,720
+saya agak laju dalam permasaalahan ini
+
+165
+00:09:50,730 --> 00:09:51,980
+sila jangan keliru
+

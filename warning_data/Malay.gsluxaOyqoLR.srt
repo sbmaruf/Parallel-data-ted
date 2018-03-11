@@ -1,0 +1,160 @@
+1
+00:00:02,000 --> 00:00:04,870
+Carikan Luas dan Perimeter poligon ini.
+
+2
+00:00:04,867 --> 00:00:06,937
+Kita mulakan dengan mencari Luas dahulu.
+
+3
+00:00:08,733 --> 00:00:10,463
+Poligon ini terdiri dari 2 bahagian;
+
+4
+00:00:10,467 --> 00:00:13,267
+yang pertama ialah Segi Empat Sama,
+
+5
+00:00:15,000 --> 00:00:16,670
+iaitu bahagian ini.
+
+6
+00:00:16,667 --> 00:00:18,337
+Mudah saja pengiraannya;
+
+7
+00:00:18,333 --> 00:00:20,333
+Luas = Tapak x Tinggi.
+
+8
+00:00:20,333 --> 00:00:22,603
+Maka, Luas bagi Segi Empat Sama ini
+
+9
+00:00:22,600 --> 00:00:25,730
+ialah (L) = 8 x 4.
+
+10
+00:00:25,733 --> 00:00:28,603
+Seterusnya untuk Segi Tiga pula.
+
+11
+00:00:28,600 --> 00:00:30,530
+Luas bagi Segi Tiga sama dengan
+
+12
+00:00:30,533 --> 00:00:36,003
+Tapak x Tinggi x (1/2).
+
+13
+00:00:36,000 --> 00:00:37,270
+Apa logiknya kita darabkan dengan (1/2)?
+
+14
+00:00:37,267 --> 00:00:39,137
+Sebab, jika hanya Tapak x Tinggi,
+
+15
+00:00:39,133 --> 00:00:39,633
+anda dapat keseluruhan Luas ini;
+
+16
+00:00:39,633 --> 00:00:43,663
+iatu Luas Segi Empat Sama.
+
+17
+00:00:43,667 --> 00:00:46,267
+Perhatikan, Segi Tiga itu sebenarnya cuma separuh saja.
+
+18
+00:00:46,267 --> 00:00:47,667
+Kalau anda pindahkan Segi Tiga kecil ini,
+
+19
+00:00:47,667 --> 00:00:49,597
+sama dengan bahagian ini.
+
+20
+00:00:49,600 --> 00:00:51,000
+Anda pindahkan yang sebelah sini pula,
+
+21
+00:00:51,000 --> 00:00:52,930
+sama dengan bahagian ini.
+
+22
+00:00:52,933 --> 00:00:54,863
+Jelas? Maka Segi Tiga itu ialah
+
+23
+00:00:54,867 --> 00:00:57,597
+(1/2) x Tapak x Tinggi.
+
+24
+00:00:57,600 --> 00:01:03,070
+Maka di sini, 
++ (1/2) x 8 (Tapak)
+
+25
+00:01:03,067 --> 00:01:06,267
+x 4 (Tinggi).
+
+26
+00:01:06,267 --> 00:01:09,597
+Selesaikan pengiraan ini;
+
+27
+00:01:09,600 --> 00:01:24,400
+Tinggi = 3, bukan 4. 
+(Maaf!) Jadi tuliskan semula;
+
+28
+00:01:24,400 --> 00:01:37,330
+A = 32 + 12
+
+29
+00:01:37,333 --> 00:01:40,003
+Maka Luas poligon ini ialah 44.
+
+30
+00:01:40,000 --> 00:01:42,270
+Sekarang, kirakan Perimeter poligon ini pula.
+
+31
+00:01:42,267 --> 00:01:45,467
+Perimeter ialah jumlah kesemua sisi
+
+32
+00:01:45,467 --> 00:01:51,197
+yang membentuk poligon ini.
+
+33
+00:01:51,200 --> 00:02:13,000
+Maka Perimeter = 8 + 4 + 5 + 5 + 4 = 26 inci.
+
+34
+00:02:13,000 --> 00:02:32,530
+Saya akan tuliskan unit dengan betul.
+
+35
+00:02:32,533 --> 00:02:38,203
+8 inci x 4 inci = 32 inci persegi.
+
+36
+00:02:38,200 --> 00:02:40,000
+8 inci x 3 inci = 24 inci persegi.
+
+37
+00:02:40,000 --> 00:02:43,070
+24 inci² ÷ 2 = 12 inci²
+
+38
+00:02:43,067 --> 00:02:46,597
+Maka unit Luas ialah 44 inci², 
+Perimeter pula ialah 26 inci.
+
+39
+00:02:46,600 --> 100:00:00,000
+Luas ialah 2 dimensi, dan 
+Perimeter ialah 1 dimensi.
+

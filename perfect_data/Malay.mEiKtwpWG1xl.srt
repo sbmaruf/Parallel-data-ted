@@ -1,0 +1,243 @@
+1
+00:00:00,000 --> 00:00:03,000
+Sekarang kita telah selesai dengan pengenalan kepada AI.
+
+2
+00:00:03,000 --> 00:00:06,000
+Kami telah diajar tentang beberapa ciri-ciri persekitaran,
+
+3
+00:00:06,000 --> 00:00:10,000
+dan kita telah melihat beberapa reka bentuk yang mungkin bagi agen.
+
+4
+00:00:10,000 --> 00:00:13,000
+Seterusnya, saya ingin menunjukkan anda beberapa contoh pengunaan AI.
+
+5
+00:00:13,000 --> 00:00:18,000
+Dan Sebastian dan saya mempunyai pengalaman AI semasa kami
+
+6
+00:00:18,000 --> 00:00:21,000
+di Google, di NASA, dan di Stanford.
+
+7
+00:00:21,000 --> 00:00:25,000
+Dan saya ingin memberitahu anda sedikit tentang pengalaman-pengalaman itu.
+
+8
+00:00:25,000 --> 00:00:28,000
+Salah satu kejayaan terbaik teknologi AI di Google
+
+9
+00:00:28,000 --> 00:00:31,000
+adalah sistem terjemahan mesin.
+
+10
+00:00:31,000 --> 00:00:37,000
+Di sini terlihat contoh artikel dalam bahasa Itali diterjemahkan secara automatik ke dalam bahasa Inggeris.
+
+11
+00:00:37,000 --> 00:00:41,000
+Kini, sistem ini dibina untuk 50 bahasa yang berbeza,
+
+12
+00:00:41,000 --> 00:00:46,000
+dan kita boleh menterjemahkan daripada mana-mana bahasa ke dalam mana-mana bahasa lain.
+
+13
+00:00:46,000 --> 00:00:51,000
+Jadi, itu melebihi 2,500 sistem yang berbeza, dan kami telah mencipta kesemuanya
+
+14
+00:00:51,000 --> 00:00:55,000
+melalui teknik pembelajaran mesin, menggunakan teknik AI,
+
+15
+00:00:55,000 --> 00:00:58,000
+dan kami tidak cuba membina mereka secara manual.
+
+16
+00:00:58,000 --> 00:01:03,000
+Dan cara ia berfungsi ialah: kita bermula mengumpul contoh-contoh teks
+
+17
+00:01:03,000 --> 00:01:06,000
+yang dilukis sebagai garisan di antara 2 bahasa itu.
+
+18
+00:01:06,000 --> 00:01:11,000
+Andai kata kita dapat cari akhbar yang menerbitkan 2 edisi,
+
+19
+00:01:11,000 --> 00:01:16,000
+edisi bahasa Itali dan edisi bahasa Inggeris. Kini, kita memperolehi contoh-contoh terjemahan
+
+20
+00:01:16,000 --> 00:01:22,000
+Dan jika sesiapa meminta penterjemahan tepat artikel spesifik ini,
+
+21
+00:01:22,000 --> 00:01:25,000
+kita boleh membuat rujukan dan membalas: "Kami ada terjemahan itu"
+
+22
+00:01:25,000 --> 00:01:27,000
+Tetapi kita akan jarang diminta terjemahan itu
+
+23
+00:01:27,000 --> 00:01:30,000
+Sebaliknya, kami akan diminta bahagian-bahagian kecilnya.
+
+24
+00:01:30,000 --> 00:01:34,000
+Berikut adalah beberapa perkataan yang pernah kita lihat, dan kita perlu memikirkan
+
+25
+00:01:34,000 --> 00:01:40,000
+perkataan dalam artikel ini yang sepadan dengan perkataan dalam artikel terjemahan.
+
+26
+00:01:40,000 --> 00:01:45,000
+Dan apabila kita membuat demikian dengan memeriksa berjuta-juta perkataan teks
+
+27
+00:01:45,000 --> 00:01:49,000
+dalam 2 bahasa tersebut dan memadankan mereka,
+
+28
+00:01:49,000 --> 00:01:51,000
+maka kita boleh mengumpulkan kesemua bahasa itu.
+
+29
+00:01:51,000 --> 00:01:54,000
+Dan kemudian apabila kita melihat contoh teks baru yang belum ditemui,
+
+30
+00:01:54,000 --> 00:01:58,000
+kita hanya perlu merujuk kepada bagaimana kita memadankan perkataan-perkataan yang lalu.
+
+31
+00:01:58,000 --> 00:02:01,000
+Jadi, tugas ini sebenarnya boleh dibahagi kepada dua.
+
+32
+00:02:01,000 --> 00:02:05,000
+Off-line, sebelum kita mengaji contoh teks yang perlu diterjemahkan,
+
+33
+00:02:05,000 --> 00:02:07,000
+kita bermula dengan membina model terjemahan kami.
+
+34
+00:02:07,000 --> 00:02:10,000
+Kami berbuat demikian dengan memeriksa semua contoh-contoh yang berbeza
+
+35
+00:02:10,000 --> 00:02:14,000
+dan menentukan bagaimana bahagian-bahagiannya boleh dipadankan.
+
+36
+00:02:14,000 --> 00:02:18,000
+Sekarang, apabila kami diberikan teks untuk diterjemahkan, kami menggunakan model itu,
+
+37
+00:02:18,000 --> 00:02:22,000
+dan kita mencari terjemahan yang paling mungkin.
+
+38
+00:02:22,000 --> 00:02:24,000
+Jadi, bagaimana rupanya proses ini?
+
+39
+00:02:24,000 --> 00:02:26,000
+Mari kita melihat suatu contoh teks.
+
+40
+00:02:26,000 --> 00:02:29,000
+Saya akan menggunakan teks yang mudah, bukan artikel berita.
+
+41
+00:02:29,000 --> 00:02:35,000
+Saya akan menterjemah dari Bahasa Itali ke Bahasa Cina.
+
+42
+00:02:35,000 --> 00:02:37,000
+Berikut adalah teks dwibahasa.
+
+43
+00:02:37,000 --> 00:02:41,000
+Kini, untuk terjemahan mesin dalam skala besar-besaran, contoh-contoh terdapat di Web.
+
+44
+00:02:41,000 --> 00:02:46,000
+Contoh ini dicari oleh Adam Lopez dalam suatu restoran Cina.
+
+45
+00:02:46,000 --> 00:02:49,000
+Bagi teks dalam bentuk ini,
+
+46
+00:02:49,000 --> 00:02:55,000
+satu baris perkataan bahasa Cina sepadan dengan satu baris bahasa Inggeris,
+
+47
+00:02:55,000 --> 00:02:59,000
+dan sedemikian bagi setiap baris.
+
+48
+00:02:59,000 --> 00:03:02,000
+Tetapi, untuk mendapat pengetahuan dari teks ini, apa yang kita benar-benar ingin tahu
+
+49
+00:03:02,000 --> 00:03:07,000
+adalah apatah perkataan bahasa Cina yang sepadan dengan perkataan individu
+
+50
+00:03:07,000 --> 00:03:09,000
+atau frasa kecil dalam Bahasa Inggeris.
+
+51
+00:03:09,000 --> 00:03:16,000
+Saya telah memulakan proses itu dengan memilih perkataan "wonton" dalam bahasa Inggeris.
+
+52
+00:03:16,000 --> 00:03:18,000
+Ia hadir 3 kali dalam seluruh teks.
+
+53
+00:03:18,000 --> 00:03:23,000
+Dalam setiap baris, ada suatu aksara Cina yang muncul,
+
+54
+00:03:23,000 --> 00:03:27,000
+dan aksara Cina itu hanya muncul di satu tempat.
+
+55
+00:03:27,000 --> 00:03:33,000
+Jadi, ada terdapat kebarangkalian tinggi bahawa aksara Cina ini
+
+56
+00:03:33,000 --> 00:03:36,000
+sepadan dengan perkataan "wonton" dalam bahasa Inggeris.
+
+57
+00:03:36,000 --> 00:03:38,000
+Mari kita lihat jikalau kita boleh meneruskan pengajian kita.
+
+58
+00:03:38,000 --> 00:03:44,000
+Soalan saya untuk anda adalah: apa aksara atau perkataan Cina
+
+59
+00:03:44,000 --> 00:03:47,000
+yang sepadan dengan perkataan "chicken (ayam)" dalam bahasa Inggeris?
+
+60
+00:03:47,000 --> 00:03:54,000
+Dan di sini kita lihat "ayam" muncul di lokasi-lokasi tersebut.
+
+61
+00:03:54,000 --> 99:59:59,999
+Klik pada perkataan atau perkataan-perkataan Cina yang sepadan dengan "ayam."

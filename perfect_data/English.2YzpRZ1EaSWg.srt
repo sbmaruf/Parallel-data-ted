@@ -1,0 +1,11 @@
+1
+00:00:00,000 --> 00:00:06,000
+[Male narrator] The game of poker--is this partially observable, stochastic,
+
+2
+00:00:06,000 --> 00:00:09,000
+continuous, or adversarial?
+
+3
+00:00:09,000 --> 99:59:59,999
+Please check any or all of those that apply.

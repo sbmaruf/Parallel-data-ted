@@ -1,0 +1,404 @@
+1
+00:00:00,760 --> 00:00:04,050
+Berapa peratuskah 100 daripada 80?
+
+2
+00:00:04,050 --> 00:00:07,080
+Soalan jenis ini selalunya adalah satu perangkap kerana
+
+3
+00:00:07,080 --> 00:00:09,260
+ia nampak senang, hanya melibatkan 100 dan 80,
+
+4
+00:00:09,260 --> 00:00:11,130
+dan ia menyoalkan peratusnya.
+
+5
+00:00:11,130 --> 00:00:12,530
+Tetapi ia mengelirukan.
+
+6
+00:00:12,530 --> 00:00:14,210
+Kamu mungkin akan tanya, adakah ia 100 bahagi 80?
+
+7
+00:00:14,210 --> 00:00:15,080
+Ataupun 80 bahagi 100?
+
+8
+00:00:15,080 --> 00:00:16,570
+Atau mungkin ada cara yang lain?
+
+9
+00:00:16,570 --> 00:00:18,630
+Kamu perlu fikirkan soalannya
+
+10
+00:00:18,630 --> 00:00:19,660
+dengan lebih teliti.
+
+11
+00:00:19,660 --> 00:00:24,410
+Soalan ini telah nyatakan yang 100 ini
+
+12
+00:00:24,410 --> 00:00:27,480
+adalah sesuatu peratus daripada 80, dan peratus inilah
+
+13
+00:00:27,480 --> 00:00:28,310
+yang kita perlu carikan.
+
+14
+00:00:28,310 --> 00:00:30,020
+Berapa peratusnya?
+
+15
+00:00:30,020 --> 00:00:35,370
+Kalau kita darabkan 80 dengan peratus ini, kita akan dapat 100.
+
+16
+00:00:35,370 --> 00:00:36,720
+Jadi kita boleh fikirkan dengan cara ini.
+
+17
+00:00:39,380 --> 00:00:40,200
+Kita ada 80.
+
+18
+00:00:40,200 --> 00:00:43,510
+Jika kita darabkannya dengan sesuatu nombor,
+
+19
+00:00:43,510 --> 00:00:45,700
+saya akan namakannya x.
+
+20
+00:00:45,700 --> 00:00:46,900
+Biar saya tukar warna.
+
+21
+00:00:46,900 --> 00:00:50,350
+Jika kita darabkan 80 dengan sesuatu nombor, kita
+
+22
+00:00:50,350 --> 00:00:52,180
+akan dapat 100.
+
+23
+00:00:52,180 --> 00:00:53,960
+Dan kita perlu carikan nombor
+
+24
+00:00:53,960 --> 00:00:56,510
+yang perlu didarabkan dengan 80 untuk dapat 100.
+
+25
+00:00:56,510 --> 00:00:59,040
+Dan kita akan dapatkan nilai bagi x dengan menyelesaikan
+
+26
+00:00:59,040 --> 00:01:01,920
+ungkapan ini.
+
+27
+00:01:01,920 --> 00:01:05,460
+Kemudian, kita hanya perlu tukarkannya kepada peratus.
+
+28
+00:01:05,459 --> 00:01:08,539
+Cara lainnya ialah kamu boleh fikirkan apakah nombor yang perlu didarabkan
+
+29
+00:01:08,540 --> 00:01:10,670
+dengan 80 untuk mendapatkan 100?
+
+30
+00:01:10,670 --> 00:01:12,750
+Dan kamu akan dapat nilai nombor ini, dan
+
+31
+00:01:12,750 --> 00:01:14,800
+seterusnya ia boleh ditukarkan kepada peratus.
+
+32
+00:01:14,800 --> 00:01:16,540
+Maka inilah persamaan yang kita perlu selesaikan
+
+33
+00:01:16,540 --> 00:01:17,520
+untuk dapatkan jawapan.
+
+34
+00:01:17,520 --> 00:01:21,280
+Kalau kita bahagikan dua-dua belah persamaan ini dengan 80,
+
+35
+00:01:21,280 --> 00:01:24,210
+bahagi 80 di sebelah kiri, bahagi 80
+
+36
+00:01:24,210 --> 00:01:26,620
+di sebelah kanan, kamu akan dapat x.
+
+37
+00:01:26,615 --> 00:01:30,955
+x adalah bersamaan dengan 100/80.
+
+38
+00:01:30,950 --> 00:01:36,150
+20 adalah faktor sepunya bagi dua nombor ini, maka 100 bahagi 20
+
+39
+00:01:36,150 --> 00:01:44,010
+adalah 5, dan 80 bahagi 20 adalah 4.
+
+40
+00:01:44,010 --> 00:01:48,180
+Dalam bentuk termudah, x adalah bersamaan dengan 5/4.
+
+41
+00:01:48,180 --> 00:01:50,210
+Ini adalah dalam bentuk pecahan.
+
+42
+00:01:50,210 --> 00:01:52,290
+Kita diminta untuk carikan sesuatu peratus daripada 80.
+
+43
+00:01:52,290 --> 00:01:54,720
+Kalau soalannya adalah carikan pecahan 100 daripada 80,
+
+44
+00:01:54,720 --> 00:01:55,680
+maka kita sudah dapat jawapannya.
+
+45
+00:01:55,680 --> 00:01:58,570
+Iaitu, kita boleh katakan yang 100 adalah
+
+46
+00:01:58,570 --> 00:02:00,470
+5/4 daripada 80.
+
+47
+00:02:00,470 --> 00:02:02,130
+Tetapi soalan ini inginkan peratusnya.
+
+48
+00:02:02,130 --> 00:02:05,080
+Maka kita perlu tukarkannya kepada peratus, dan cara yang paling mudah
+
+49
+00:02:05,080 --> 00:02:08,570
+ialah mula-mula tukarkan kepada perpuluhan dahulu.
+
+50
+00:02:08,570 --> 00:02:09,200
+Jadi biar kita tukarkan.
+
+51
+00:02:09,199 --> 00:02:16,699
+5/4 adalah bermaksud 5 dibahagi dengan 4.
+
+52
+00:02:16,700 --> 00:02:18,560
+Kita boleh dapatkan jawapannya dengan senang.
+
+53
+00:02:18,560 --> 00:02:22,010
+Saya akan lakukan dalam warna merah.
+
+54
+00:02:22,010 --> 00:02:25,950
+Jadi 5 bahagi dengan 4.
+
+55
+00:02:25,950 --> 00:02:28,190
+Kita tambahkan beberapa 0
+
+56
+00:02:28,190 --> 00:02:29,860
+di belakangnya.
+
+57
+00:02:29,860 --> 00:02:32,200
+4 dapat masuk 1 kali kepada 5.
+
+58
+00:02:32,200 --> 00:02:35,370
+Biar saya tukar warna.
+
+59
+00:02:35,370 --> 00:02:37,200
+1 kali 4 adalah 4.
+
+60
+00:02:37,200 --> 00:02:38,410
+Kemudian tolakkan.
+
+61
+00:02:38,410 --> 00:02:40,690
+5 tolak 4 adalah 1.
+
+62
+00:02:40,690 --> 00:02:42,290
+Turunkan 0 seterusnya.
+
+63
+00:02:42,290 --> 00:02:44,350
+Titik perpuluhan ini perlulah duduk di
+
+64
+00:02:44,350 --> 00:02:45,880
+tempat yang sama di atas.
+
+65
+00:02:45,880 --> 00:02:49,950
+Jadi kita turunkan 0 ini.
+
+66
+00:02:49,950 --> 00:02:53,170
+4 masuk 2 kali ke 10.
+
+67
+00:02:53,170 --> 00:02:55,450
+2 kali 4 adalah 8.
+
+68
+00:02:55,450 --> 00:02:56,610
+Kita tolakkan.
+
+69
+00:02:56,610 --> 00:02:58,690
+10 tolak 8 adalah 2.
+
+70
+00:02:58,690 --> 00:03:00,880
+Turunkan 0 yang seterusnya.
+
+71
+00:03:03,590 --> 00:03:06,700
+4 masuk 5 kali ke 20.
+
+72
+00:03:06,700 --> 00:03:09,920
+5 kali 4 adalah 20.
+
+73
+00:03:09,920 --> 00:03:10,670
+Tolakkan.
+
+74
+00:03:10,670 --> 00:03:11,820
+Tiada bakinya.
+
+75
+00:03:11,820 --> 00:03:16,090
+Jadi ia adalah bersamaan dengan 1.25.
+
+76
+00:03:16,090 --> 00:03:18,820
+5/4 adalah sama dengan 5 bahagi 4,
+
+77
+00:03:18,820 --> 00:03:21,050
+yang juga bersamaan dengan 1.25.
+
+78
+00:03:21,050 --> 00:03:28,220
+Maka, kita dapat tahu yang 100 adalah 1.25 kali 80, atau dengan kata lain,
+
+79
+00:03:28,220 --> 00:03:31,170
+1.25 daripada 80. Tetapi kita masih belum tukarkannya
+
+80
+00:03:31,170 --> 00:03:31,770
+kepada peratus.
+
+81
+00:03:31,770 --> 00:03:34,650
+Yang kita dapat hanyalah suatu nombor.
+
+82
+00:03:34,650 --> 00:03:37,900
+Atau kita boleh kata ia hanyalah suatu perpuluhan.
+
+83
+00:03:37,900 --> 00:03:38,680
+Satu nombor bulat dan perpuluhan.
+
+84
+00:03:38,680 --> 00:03:40,750
+Ia juga adalah nombor bercampur,
+
+85
+00:03:40,750 --> 00:03:44,670
+kerana ia adalah juga 1 dan 1/4, atau
+
+86
+00:03:44,670 --> 00:03:45,580
+1 dan 25 perseratus,
+
+87
+00:03:45,580 --> 00:03:50,500
+Untuk tukarkannya kepada peratus, kamu perlu
+
+88
+00:03:50,500 --> 00:03:55,450
+darabkannya dengan 100, atau kita boleh gerakkan saja titik perpuluhan ke kanan.
+
+89
+00:03:55,450 --> 00:03:58,530
+Maka dalam bentuk peratus, ia adalah,
+
+90
+00:03:58,530 --> 00:04:11,930
+gerakkan titik perpuluhan 2 tempat ke kanan, ia adalah bersamaan dengan 125%.
+
+91
+00:04:11,930 --> 00:04:12,980
+Dan ia masuk akal,
+
+92
+00:04:12,980 --> 00:04:17,470
+kerana 100 adalah 125% daripada 80.
+
+93
+00:04:17,470 --> 00:04:19,890
+80 adalah 100% daripada 80.
+
+94
+00:04:19,890 --> 00:04:21,780
+Dan 100 adalah lebih besar daripada 80.
+
+95
+00:04:21,779 --> 00:04:24,659
+Ia adalah 1 dan 1/4 daripada 80, dan kita boleh lihat di sini.
+
+96
+00:04:24,660 --> 00:04:25,510
+Jadi ia masuk akal.
+
+97
+00:04:25,510 --> 00:04:27,470
+Ia adalah 125%.
+
+98
+00:04:27,470 --> 00:04:29,810
+Ia adalah lebih besar daripada 100%.
+
+99
+00:04:29,810 --> 00:04:30,740
+Dan selesailah
+
+100
+00:04:30,740 --> 00:04:31,950
+masalah ini.
+
+101
+00:04:31,950 --> 00:04:35,850
+Ia adalah 125% daripada 80.
+

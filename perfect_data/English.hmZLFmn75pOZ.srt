@@ -1,0 +1,39 @@
+1
+00:00:00,000 --> 00:00:05,000
+Let's talk about the problem of finding a path through a maze.
+
+2
+00:00:05,000 --> 00:00:10,000
+Let me draw you a maze.
+
+3
+00:00:10,000 --> 00:00:15,000
+Suppose you wish to find the path from the start to your goal.
+
+4
+00:00:15,000 --> 00:00:19,000
+I don't want to you to solve this problem.
+
+5
+00:00:19,000 --> 00:00:23,000
+Rather I want you to tell me whether it's partially observable.
+
+6
+00:00:23,000 --> 00:00:25,000
+Yes or no.
+
+7
+00:00:25,000 --> 00:00:27,000
+It is stochastic?
+
+8
+00:00:27,000 --> 00:00:29,000
+Yes or no.
+
+9
+00:00:29,000 --> 00:00:31,000
+Is it continuous?
+
+10
+00:00:31,000 --> 99:59:59,999
+Yes or no.

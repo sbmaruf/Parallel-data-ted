@@ -1,0 +1,92 @@
+1
+00:00:00,000 --> 00:00:00,000
+Cari faktor sepunya terbesar monomial-monomial ini
+
+2
+00:00:00,000 --> 00:00:00,000
+Faktor sepunya terbesar apa-apa ialah faktor terbesar yang dibahagikan
+
+3
+00:00:00,000 --> 00:00:00,000
+ke dalam kedua-duanya, jika kita bercakap tentang nombor-nombor tulen
+
+4
+00:00:00,000 --> 00:00:00,000
+ke dalam kedua-dua nombor, atau dalam kes ini ke dalam kedua-dua monomial.
+
+5
+00:00:00,000 --> 00:00:00,000
+Kita perlu berhati-hati apabila kita bercakap tentang
+
+6
+00:00:00,000 --> 00:00:00,000
+terbesar dalam konteks ungkapan algebra seperti ini kerana
+
+7
+00:00:00,000 --> 00:00:00,000
+ia terbesar pada sudut pandangan yang meliputi faktor paling banyak
+
+8
+00:00:00,000 --> 00:00:00,000
+untuk setiap monomial ini, ia tidak semestinya nombor
+
+9
+00:00:00,000 --> 00:00:00,000
+terbesar kerana mungkin beberapa pembolehubah boleh wujud dalam nilai negatif
+
+10
+00:00:00,000 --> 00:00:00,000
+mingkin ia wujud dalam nilai kurang daripada satu
+
+11
+00:00:00,000 --> 00:00:00,000
+oleh itu, d kuasa dua sebenarnya sedang cuba untuk menjadi angka yang lebih kecil
+
+12
+00:00:00,000 --> 00:00:00,000
+tetapi saya fikir, tanpa bercakap terlalu terperinci
+
+13
+00:00:00,000 --> 00:00:00,000
+Saya fikir jika kita menjalankan proses ini
+
+14
+00:00:00,000 --> 00:00:00,000
+Kamu akan memahami lebih teliti
+
+15
+00:00:00,000 --> 00:00:00,000
+untuk mencari faktor sepunya terbesar
+
+16
+00:00:00,000 --> 00:00:00,000
+Mari kita memecahkan
+
+17
+00:00:00,000 --> 00:00:00,000
+setiap nombor ini menjadi
+
+18
+00:00:00,000 --> 00:00:00,000
+apa yang kita boleh panggil pemfaktoran perdana
+
+19
+00:00:00,000 --> 00:00:00,000
+tetapi ia seperti kombinasi pemfaktoran perdana
+
+20
+00:00:00,000 --> 00:00:00,000
+bahagian-bahagian angka nombor
+
+21
+00:00:00,000 --> 00:00:00,000
+termasuk pemfaktoran pembolehubah
+
+22
+00:00:00,000 --> 00:00:00,000
+Oleh itu, jika kita ingin menulis 10, kita boleh kata, atau kita ingin menulis 10cd kuasa 2
+
+23
+00:00:00,000 --> 00:00:00,000
+kita boleh menulis semula produk daripada faktor-faktor 10
+

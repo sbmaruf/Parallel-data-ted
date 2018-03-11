@@ -1,0 +1,163 @@
+1
+00:00:00,400 --> 00:00:03,580
+Have you ever wondered how the earth stays
+in orbit around the sun? I mean, the pull
+
+2
+00:00:03,580 --> 00:00:06,760
+of gravity is stronger the closer you are
+to the sun, so you'd think that if the earth
+
+3
+00:00:06,759 --> 00:00:09,919
+got bumped slightly towards the sun (like,
+if you jumped, or something), then the sun
+
+4
+00:00:09,919 --> 00:00:13,349
+would pull just a little bit stronger, tugging
+the earth yet closer still, at which point
+
+5
+00:00:13,349 --> 00:00:16,899
+the sun's pull would be stronger yet again,
+… and the earth would spiral in to its eventual
+
+6
+00:00:16,900 --> 00:00:17,690
+doom.
+
+7
+00:00:17,689 --> 00:00:20,719
+But you and I and swiss cheese are clearly
+evidence that the earth doesn't just spiral
+
+8
+00:00:20,720 --> 00:00:24,700
+in to its doom – so why not? Well, when
+the earth does get pushed a little bit towards
+
+9
+00:00:24,699 --> 00:00:28,549
+the sun, the sun's pull speeds it up a little
+bit, too - so even though the nearby sun's
+
+10
+00:00:28,550 --> 00:00:32,030
+pull is stronger, the earth will be going
+fast enough that it overshoots and ends up
+
+11
+00:00:32,029 --> 00:00:36,109
+farther away from the sun. Of course, the
+sun's pull slows it down again in the process…
+
+12
+00:00:36,110 --> 00:00:39,040
+at which point the earth turns back and starts
+the cycle all over again.
+
+13
+00:00:39,040 --> 00:00:42,210
+The amazing thing is that the two effects
+of speeding up plus stronger gravitational
+
+14
+00:00:42,210 --> 00:00:46,130
+attraction perfectly balance, so that the
+earth stays in its orbit the same way a marble
+
+15
+00:00:46,130 --> 00:00:49,120
+stays at the bottom of a bowl even if it gets
+knocked around a little bit.
+
+16
+00:00:49,120 --> 00:00:53,010
+This balance is very special indeed - it's
+highly dependent on the strength of the gravitational
+
+17
+00:00:53,010 --> 00:00:56,890
+force and the number of dimensions we live
+in, and in fact, these stable orbits only
+
+18
+00:00:56,890 --> 00:00:59,040
+exist in a three dimensional universe.
+
+19
+00:00:59,040 --> 00:01:02,250
+The details are a bit subtle, but if gravity
+were just slightly steeper, as it would be
+
+20
+00:01:02,250 --> 00:01:05,970
+if we lived in four spatial dimensions, you
+could never orbit the sun because you'd get
+
+21
+00:01:05,970 --> 00:01:09,160
+pulled in without picking up enough speed
+to escape and you WOULD spiral in to your
+
+22
+00:01:09,160 --> 00:01:12,690
+doom. And if we lived in fewer dimensions
+so that gravity were a bit tamer, then you
+
+23
+00:01:12,690 --> 00:01:15,760
+could ALSO never orbit the sun, because as
+you approached it, you wouldn't be pulled
+
+24
+00:01:15,760 --> 00:01:18,510
+enough and would merely pass by with your
+path slightly bent.
+
+25
+00:01:18,510 --> 00:01:21,670
+So we're incredibly lucky to live in a three
+dimensional universe where there ARE stable
+
+26
+00:01:21,670 --> 00:01:25,670
+orbits that allow planets, solar systems,
+and galaxies to exist at all! Thank you, stable
+
+27
+00:01:25,670 --> 00:01:31,160
+orbits, for without you, life as we know it,
+and especially cheese, would be impossible.
+
+28
+00:01:31,159 --> 00:01:34,419
+ps An awesome down-to-earth example of stable
+orbits are the hyperbolic funnels that you
+
+29
+00:01:34,420 --> 00:01:38,390
+often see at museums or in shopping malls:
+the physics is almost identical to the stable
+
+30
+00:01:38,390 --> 00:01:41,740
+orbits of planets, satellites, and moons,
+and the only reason the coins in the funnels
+
+31
+00:01:41,740 --> 00:01:45,050
+(or satellites around the earth) eventually
+DO spiral in to their doom is because they
+
+32
+00:01:45,049 --> 00:01:49,479
+lose energy to friction and thus shift down
+from one stable orbit to another, until eventually,
+
+33
+00:01:49,479 --> 00:01:52,209
+their orbit coincides with the ground. Which
+is called crashing.
+

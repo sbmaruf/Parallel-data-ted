@@ -1,0 +1,311 @@
+1
+00:00:00,740 --> 00:00:03,310
+Darabkan 6 dengan 1/4.
+
+2
+00:00:03,310 --> 00:00:07,160
+Permudahkan jawapan anda dan tuliskan dalam bentuk nombor bercampur.
+
+3
+00:00:07,160 --> 00:00:09,170
+Mari kita darabkan.
+
+4
+00:00:09,170 --> 00:00:12,470
+Kita perlu darabkan 6 dengan 1/4.
+
+5
+00:00:12,470 --> 00:00:14,340
+Kamu mungkin tahu bagaimana untuk
+
+6
+00:00:14,340 --> 00:00:15,720
+darabkan pecahan dengan pecahan lain.
+
+7
+00:00:15,720 --> 00:00:18,110
+Kamu mungkin juga tahu bagaimana untuk darabkan nombor bulat dengan nombor bulat lain.
+
+8
+00:00:18,110 --> 00:00:20,580
+Tetapi macam mana pula dengan pendaraban suatu nombor bulat dengan pecahan?
+
+9
+00:00:20,580 --> 00:00:23,110
+Satu poin penting yang perlu kamu ingat ialah
+
+10
+00:00:23,110 --> 00:00:25,430
+nombor bulat sebenarnya juga boleh dituliskan dalam bentuk pecahan.
+
+11
+00:00:25,430 --> 00:00:31,720
+Kita boleh tuliskan 6 sebagai 6/1, kan?
+
+12
+00:00:31,720 --> 00:00:34,020
+6 bahagi dengan 1 adalah 6.
+
+13
+00:00:34,020 --> 00:00:36,220
+6 persatu adalah 6.
+
+14
+00:00:36,220 --> 00:00:38,360
+Tak kira bagaimana kita nak fikirkannya, ini adalah
+
+15
+00:00:38,360 --> 00:00:39,720
+bersamaan dengan 6.
+
+16
+00:00:39,720 --> 00:00:42,210
+Maka kita telah menuliskan nombor bulat sebagai pecahan.
+
+17
+00:00:42,210 --> 00:00:43,320
+Kamu boleh lakukannnya bagi apa-apa nombor saja.
+
+18
+00:00:43,320 --> 00:00:45,610
+10 adalah bersamaan dengan 10/1.
+
+19
+00:00:45,610 --> 00:00:54,930
+Jadi kita ada 6/1 kali 1/4, dan kita
+
+20
+00:00:54,930 --> 00:00:56,160
+darabkan saja pecahan ini.
+
+21
+00:00:56,160 --> 00:01:00,740
+Kita darabkan pengangkanya, maka pengangkanya adalah bersamaan dengan
+
+22
+00:01:00,740 --> 00:01:01,590
+6 kali 1.
+
+23
+00:01:01,590 --> 00:01:03,519
+Biar saya tuliskan dalam warna lain.
+
+24
+00:01:03,519 --> 00:01:08,270
+Jadi pengangkanya adalah 6 kali 1 dan penyebutnya,
+
+25
+00:01:08,270 --> 00:01:11,190
+iaitu nombor di bawah, adalah 1 kali 4.
+
+26
+00:01:11,190 --> 00:01:14,260
+Dan ia akan memberi jawapan 6/4.
+
+27
+00:01:14,260 --> 00:01:17,000
+Sekarang, jawapan ini adalah dalam bentuk pecahan tak wajar, dan
+
+28
+00:01:17,000 --> 00:01:19,900
+ia juga bukan dalam sebutan terendah. Kita tahu yang 6 dan 4
+
+29
+00:01:19,900 --> 00:01:23,190
+boleh dibahagi dengan 2, jadi mari kita bahagikan.
+
+30
+00:01:23,190 --> 00:01:25,334
+Kalau kamu bahagikan 6 dengan 2 -- saya akan
+
+31
+00:01:25,334 --> 00:01:26,370
+tuliskan dalam warna lain.
+
+32
+00:01:26,370 --> 00:01:29,515
+Kalau kamu bahagikan 6 dengan 2, hasilnya 3.
+
+33
+00:01:29,515 --> 00:01:35,290
+Kalau kamu bahagikan 4 dengan 2, hasilnya 2, maka ia adalah bersamaan dengan 3/2.
+
+34
+00:01:35,290 --> 00:01:37,300
+Sekarang ia masih dalam bentuk pecahan tak wajar.
+
+35
+00:01:37,300 --> 00:01:39,570
+Kita perlu tuliskannya dalam bentuk nombor bercampur.
+
+36
+00:01:39,570 --> 00:01:42,350
+Dan cara untuk lakukannya adalah dengan membahagikan
+
+37
+00:01:42,350 --> 00:01:45,820
+pengangka dengan penyebutnya, jadi dalam pecahan ini,
+
+38
+00:01:45,820 --> 00:01:50,920
+3 bahagi dengan 2.
+
+39
+00:01:50,920 --> 00:01:53,820
+3 bahagi dengan 2.
+
+40
+00:01:53,820 --> 00:01:55,560
+Hasil bahaginya 1.
+
+41
+00:01:55,560 --> 00:01:56,880
+1 kali 2 adalah 2.
+
+42
+00:01:56,880 --> 00:01:57,930
+Kemudian tolakkan.
+
+43
+00:01:57,930 --> 00:02:00,680
+Bakinya 1.
+
+44
+00:02:00,680 --> 00:02:10,474
+Maka kita dapat 1 dan bakinya 1/2.
+
+45
+00:02:14,760 --> 00:02:16,610
+Jadi ini adalah 1 1/2.
+
+46
+00:02:16,610 --> 00:02:17,900
+Dan inilah jawapannya.
+
+47
+00:02:17,900 --> 00:02:20,040
+Kita telah permudahkan hasil daraban dan tuliskannya dalam
+
+48
+00:02:20,040 --> 00:02:22,810
+bentuk nombor bercampur, ataupun kita boleh permudahkannya sebelum mendarab.
+
+49
+00:02:22,810 --> 00:02:25,830
+Kita boleh perhatikan yang nombor di atas yang juga pengangka hasil darabnya
+
+50
+00:02:25,830 --> 00:02:29,310
+boleh dibahagi dengan 2 untuk mendapatkan 3,
+
+51
+00:02:29,310 --> 00:02:31,660
+dan nombor di bawah yang juga penyebut hasil darabnya
+
+52
+00:02:31,660 --> 00:02:33,990
+boleh juga dibahagi 2 untuk dapatkan 2.
+
+53
+00:02:33,990 --> 00:02:36,370
+3 kali 1 adalah 3.
+
+54
+00:02:36,370 --> 00:02:38,985
+1 kali 2 adalah 2, maka jawapannya 3/2.
+
+55
+00:02:38,985 --> 00:02:40,830
+Kemudian kamu lakukan operasi yang sama.
+
+56
+00:02:40,830 --> 00:02:44,040
+Kamu tukarkan 3/2 kepada 1 1/2.
+
+57
+00:02:44,040 --> 00:02:47,120
+Dua-dua cara ini boleh digunakan.
+
+58
+00:02:47,120 --> 00:02:48,910
+Sekarang, mari kita fikirkan logiknya.
+
+59
+00:02:48,910 --> 00:02:52,500
+Mari kita fikirkan apakah sebenarnya 6 kali 1/4.
+
+60
+00:02:52,500 --> 00:02:54,410
+Biar saya lukiskan 1/4.
+
+61
+00:02:54,410 --> 00:02:57,130
+Katakanlah ini 1/4, dan saya akan
+
+62
+00:02:57,130 --> 00:02:58,120
+lukiskan 6 lagi yang sama.
+
+63
+00:02:58,120 --> 00:03:04,450
+Jadi inilah 1/4, ini 2/4, ini 3/4, ini 4/4, yang bermaksud
+
+64
+00:03:04,450 --> 00:03:08,150
+satu, kemudian ini 5/4, dan
+
+65
+00:03:08,150 --> 00:03:09,320
+akhir sekali, inilah 6/4.
+
+66
+00:03:09,320 --> 00:03:10,710
+Maka dapatlah jawapan untuk 6 kali 1/4.
+
+67
+00:03:13,580 --> 00:03:15,590
+Seluruh ini adalah 4/4.
+
+68
+00:03:15,590 --> 00:03:21,090
+4/4 juga bersamaan dengan 1. Maka ini adalah bersamaan
+
+69
+00:03:21,090 --> 00:03:22,600
+dengan 1.
+
+70
+00:03:22,600 --> 00:03:25,580
+Dan di sini kita ada dua 1/4, ataupun
+
+71
+00:03:25,580 --> 00:03:28,710
+dengan kata lain, 2/4.
+
+72
+00:03:28,710 --> 00:03:31,600
+Kamu boleh bayangkan yang dua ini adalah daripada satu seluruh yang tak lengkap.
+
+73
+00:03:31,600 --> 00:03:34,300
+Untuk lengkapkannya, kita perlukan 2 1/4 lagi.
+
+74
+00:03:34,300 --> 00:03:42,860
+Maka, biar saya tuliskan dalam warna yang sama, ini adalah
+
+75
+00:03:42,860 --> 00:03:45,270
+1 1/2, kan?
+
+76
+00:03:45,270 --> 00:03:49,720
+2/4 adalah bersamaan dengan 1/2,
+
+77
+00:03:49,720 --> 00:03:55,930
+kerana ia adalah 1 daripada 2 ini.
+
+78
+00:03:55,930 --> 00:04:02,990
+Maka kita dapat 1 1/2, seperti yang kita dapat tadi.

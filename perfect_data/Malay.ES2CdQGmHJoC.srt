@@ -1,0 +1,327 @@
+1
+00:00:00,000 --> 00:00:04,000
+Baik saya perkenalkan beberapa istilah asas
+
+2
+00:00:04,000 --> 00:00:09,000
+yang biasa diguna dalam Kecerdasan Buatan untuk membezakan jenis-jenis masalah.
+
+3
+00:00:09,000 --> 00:00:16,000
+Perkataan yang pertama saya mahu ajar anda adalah pemerhatian "sepenuh" berbanding dengan pemerhatian "sebahagian".
+
+4
+00:00:16,000 --> 00:00:19,000
+Suata persekitaran dipanggil "boleh diperhatikan sepenuhnya" jika maklumat dari sensor-sensor
+
+5
+00:00:19,000 --> 00:00:26,000
+sepanjang hayat eksperimen, adalah mencukupi untuk membuat keputusan optimum.
+
+6
+00:00:26,000 --> 00:00:29,000
+Contohnya, dalam banyak permainan daun terup,
+
+7
+00:00:29,000 --> 00:00:36,000
+apabila semua daun terup di atas meja, lokasi kesemua daun-daun itu
+
+8
+00:00:36,000 --> 00:00:40,000
+adalah benar-benar mencukupi untuk membuat pilihan optimum.
+
+9
+00:00:40,000 --> 00:00:46,000
+Ini berbeza daripada beberapa persekitaran lain di mana anda perlu peringatan
+
+10
+00:00:46,000 --> 00:00:50,000
+dalam ejen untuk membuat keputusan terbaik.
+
+11
+00:00:50,000 --> 00:00:55,000
+Contohnya, dalam permainan poker, daun-daun terup bukan kesemuanya terbuka di atas meja
+
+12
+00:00:55,000 --> 00:01:00,000
+dan menghafal gerak-gerak yang lalu akan membantu anda membuat keputusan yang lebih baik.
+
+13
+00:01:00,000 --> 00:01:04,000
+Untuk penuh memahami perbezaan ini, timbangkan interaksi ejen
+
+14
+00:01:04,000 --> 00:01:08,000
+dengan persekitaran melalui penderia dan penggeraknya,
+
+15
+00:01:08,000 --> 00:01:11,000
+dan interaksi ini melalui banyak kitaran,
+
+16
+00:01:11,000 --> 00:01:16,000
+yang sering dipanggil kitaran tindakan persepsi.
+
+17
+00:01:16,000 --> 00:01:19,000
+Bagi kebanyakan persekitaran, ia mudah untuk mengandai bahawa
+
+18
+00:01:19,000 --> 00:01:22,000
+persekitaran mempunyai keadaan dalaman.
+
+19
+00:01:22,000 --> 00:01:28,000
+Contohnya, dalam permainan daun terup di mana daun-daun bukan terbuka di atas meja,½
+
+20
+00:01:28,000 --> 00:01:33,000
+keadaan ini mungkin berkaitan dengan daun-daun dalam tangan anda.
+
+21
+00:01:33,000 --> 00:01:37,000
+Persekitaran yang penuh dapat diperhatikan jika sensor sentiasa boleh melihat
+
+22
+00:01:37,000 --> 00:01:41,000
+seluruh keadaan persekitaran.
+
+23
+00:01:41,000 --> 00:01:46,000
+Ia hanya dapat diperhatikan separuh, jika sensor hanya dapat melihat sebahagian kecil daripada keadaan itu,
+
+24
+00:01:46,000 --> 00:01:52,000
+tetapi menghafal pemerhatian yang lalu memberikan kita maklumat tambahan tentang keadaan itu
+
+25
+00:01:52,000 --> 00:01:55,000
+yang tidak dapat diperhatikan sekarang.
+
+26
+00:01:55,000 --> 00:02:01,000
+Jadi mana-mana permainan, contohnya, di mana pergerakan lalu mengandungi maklumat tentang
+
+27
+00:02:01,000 --> 00:02:06,000
+apa yang mungkin berada dalam tangan seseorang, permainan-permainan itu boleh diperhatikan separuh,
+
+28
+00:02:06,000 --> 00:02:08,000
+dan mereka memerlukan tindakan yang berbeza.
+
+29
+00:02:08,000 --> 00:02:12,000
+Selalunya, ejen yang berurusan dengan persekitaran yang diperhatikan separuh
+
+30
+00:02:12,000 --> 00:02:15,000
+perlu memperoleh memori dalaman untuk memahami apanya
+
+31
+00:02:15,000 --> 00:02:18,000
+keadaan persekitaran pada masa itu, dan kita akan membincang secara meluas
+
+32
+00:02:18,000 --> 00:02:21,000
+apabila kita bercakap tentang model Markov tersembunyi, tentang bagaimana struktur ini
+
+33
+00:02:21,000 --> 00:02:23,000
+mengandungi memori dalaman.
+
+34
+00:02:23,000 --> 00:02:26,000
+Istilah kedua untuk persekitaran berhubung kepada sama ada persekitaran
+
+35
+00:02:26,000 --> 00:02:29,000
+adalah berketentuan atau stokastik.
+
+36
+00:02:29,000 --> 00:02:35,000
+Persekitaran berketentuan adalah suatu di mana tindakan ejen anda
+
+37
+00:02:35,000 --> 00:02:37,000
+menentukan keputusan akhir, secara unik.
+
+38
+00:02:37,000 --> 00:02:42,000
+Jadi, contohnya, dalam permainan catur, sebenarnya tiada rawakan apabila anda membuat gerakan.
+
+39
+00:02:42,000 --> 00:02:46,000
+Kesan pergerakan itu tetap,
+
+40
+00:02:46,000 --> 00:02:50,000
+dan tidak kira kemana saya membuat gerakan itu, keputusannya sama.
+
+41
+00:02:50,000 --> 00:02:52,000
+Ini dipanggil berketentuan.
+
+42
+00:02:52,000 --> 00:02:56,000
+Permainan dengan dadu, contohnya, seperti backgammon, adalah stokastik.
+
+43
+00:02:56,000 --> 00:03:00,000
+Walaupun anda masih boleh membuat keputusan bagaimana menggerakan buah-buah anda,
+
+44
+00:03:00,000 --> 00:03:03,000
+pergerak juga terhad, kerana ia melibatkan keputusan balingan dadu,
+
+45
+00:03:03,000 --> 00:03:05,000
+dan anda tidak boleh meramalkan balingan dadu itu.
+
+46
+00:03:05,000 --> 00:03:08,000
+Keputusan dadu melibatkan perawakan,
+
+47
+00:03:08,000 --> 00:03:10,000
+dan oleh itu, kami memanggilnya stokastik.
+
+48
+00:03:10,000 --> 00:03:14,000
+Izinkan saya bercakap tentang diskret berbanding dengan berterusan.
+
+49
+00:03:14,000 --> 00:03:18,000
+Persekitaran diskret adalah suatu di mana anda mempunyai pilihan tindakan yang terhad,
+
+50
+00:03:18,000 --> 00:03:21,000
+dan jumlah perkara yang anda dapat merasa juga terhad.
+
+51
+00:03:21,000 --> 00:03:25,000
+Jadi, contohnya, dalam permainan catur, sekali lagi, kedudukan buah-buah dalam papan catur adalah terhad,
+
+52
+00:03:25,000 --> 00:03:28,000
+dan gerakan yang boleh anda lakukan juga terhad.
+
+53
+00:03:28,000 --> 00:03:30,000
+Ini berbeza daripada persekitaran yang berterusan
+
+54
+00:03:30,000 --> 00:03:35,000
+di mana ruang tindakan atau perkara yang sensor anda boleh merasa mungkin tidak terhingga.
+
+55
+00:03:35,000 --> 00:03:41,000
+Jadi, contohnya, jika anda membaling damak, julat sudut trajektori damak-damak adalah tidak terhingga
+
+56
+00:03:41,000 --> 00:03:43,000
+begini juga julat akselerasi damak-damak itu.
+
+57
+00:03:43,000 --> 00:03:49,000
+Akhirnya, kita membezakan persekitaran-persekitaran bukan-bertentangan berbanding persekitaran-persekitaran pertentangan.
+
+58
+00:03:49,000 --> 00:03:53,000
+Dalam persekitaran bukan-pertentangan, persekitaran itu mungkin rawak.
+
+59
+00:03:53,000 --> 00:03:57,000
+Ia mungkin stokastik, tetapi ia tidak mempunyai matlamat sendiri
+
+60
+00:03:57,000 --> 00:03:59,000
+yang akan bercanggah dengan matlamat-matlaman lainnya.
+
+61
+00:03:59,000 --> 00:04:02,000
+Contohnya, cuaca adalah perseketiran tidak-bertentangan.
+
+62
+00:04:02,000 --> 00:04:06,000
+Ia mungkin rawak. Ia mungkin boleh mengubahkan keputusan tindakan anda.
+
+63
+00:04:06,000 --> 00:04:08,000
+Tetapi sebenarnya, persekitaran itu tidak berniat untuk bertentang dengan anda.
+
+64
+00:04:08,000 --> 00:04:14,000
+Sebaliknya ini dalam persekitaran pertentangan, contohnya banyak permainan, seperti catur,
+
+65
+00:04:14,000 --> 00:04:16,000
+di mana lawan anda adalah benar-benar berniat untuk mengalahkan kamu.
+
+66
+00:04:16,000 --> 00:04:21,000
+Adalah jauh lebih sukar untuk mencari tindakan yang baik dalam persekitaran pertentangan
+
+67
+00:04:21,000 --> 00:04:26,000
+di mana lawan aktif memerhati anda dan mengemukakan reaksi kepada apa yang anda cuba mencapai
+
+68
+00:04:26,000 --> 00:04:30,000
+berbanding dengan persekitaran bukan-pertentangan, di mana persekitaran semata-mata bertindak secara stokastik
+
+69
+00:04:30,000 --> 00:04:35,000
+tetapi tidak benar-benar berminat menjadikan hidup anda lebih teruk.
+
+70
+00:04:35,000 --> 00:04:38,000
+Jadi, mari kita lihat sejauh apa ungkapan-ungkapan ini masuk akal kepada anda
+
+71
+00:04:38,000 --> 00:04:40,000
+melalui kuiz berikut.
+
+72
+00:04:40,000 --> 00:04:45,000
+Ulang kata, terdapat 4 konsep: pemerhatian separuh berbanding dengan pemerhatian sepenuh,
+
+73
+00:04:45,000 --> 00:04:50,000
+stokastik berbanding dengan berketentuan, berterusan berbanding dengan diskret,
+
+74
+00:04:50,000 --> 00:04:52,000
+pertentangan berbanding dengan bukan-pertentangan.
+
+75
+00:04:52,000 --> 00:04:56,000
+Dan izinkan saya bertanya anda tentang permainan dam.
+
+76
+00:04:56,000 --> 00:05:00,000
+Pilih salah satu atau semua sifat yang benar.
+
+77
+00:05:00,000 --> 00:05:03,000
+Jadi, jika anda berfikir permainan dam boleh diperhatikan separuh, tanda di sini
+
+78
+00:05:03,000 --> 00:05:05,000
+Jika tidak, jangan tanda di sini.
+
+79
+00:05:05,000 --> 00:05:07,000
+Jika anda berfikir ia stokastik, tanda di sini,
+
+80
+00:05:07,000 --> 00:05:11,000
+jika ia berterusan, tanda di sini; pertentangan, tanda di sini.
+
+81
+00:05:11,000 --> 00:05:15,000
+Jika anda memahami permainan dam, anda boleh menyemak Web melalui Google
+
+82
+00:05:15,000 --> 99:59:59,999
+untuk mencari sedikit maklumat tentang permainan dam.

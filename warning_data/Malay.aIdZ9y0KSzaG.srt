@@ -1,0 +1,651 @@
+1
+00:00:01,010 --> 00:00:04,520
+Selamat datang ke suatu perbentangan video tentang cara menggunakan persamaan quadratik.
+
+2
+00:00:04,520 --> 00:00:06,730
+Persamaan quadratik... istilah ini kedengaran seolah-olah sesuatu
+
+3
+00:00:06,730 --> 00:00:07,810
+yang amat sukar
+
+4
+00:00:07,810 --> 00:00:09,930
+Dan apabila anda menemui soalan persoalan quadratik buat kali yang pertama, anda akan
+
+5
+00:00:09,930 --> 00:00:11,590
+berkata, "Sebenarnya, bukan sahaja ia kedengaran seperti sesuatu
+
+6
+00:00:11,590 --> 00:00:13,110
+yang sukar, malah ia sememangnya sesuatu yang sukar.
+
+7
+00:00:13,110 --> 00:00:14,930
+Namun saya berharap anda akan sedar, sepanjang masa
+
+8
+00:00:14,930 --> 00:00:16,580
+perbentangan video ini, bahawa ia tidaklah susah untuk digunakan.
+
+9
+00:00:16,580 --> 00:00:19,040
+Dan untuk perbentangan video lain, saya akan menunjukkan kepada anda
+
+10
+00:00:19,040 --> 00:00:21,300
+bagaimanakah persamaan quadratik ini diperoleh.
+
+11
+00:00:21,300 --> 00:00:24,810
+Oleh it, secara umunya, saudara telahpun tahu cara untuk memfaktorkan
+
+12
+00:00:24,810 --> 00:00:25,810
+suatu persamaan kuasa dua.
+
+13
+00:00:25,810 --> 00:00:30,910
+Anda juga telahpun mempelajari bahawa, jika saya mempunyai, katakan, "x" kuasa dua tolak
+
+14
+00:00:30,910 --> 00:00:40,340
+"x", tolak 6 bersamaan dengan 0.
+
+15
+00:00:40,340 --> 00:00:42,970
+Jika saya mempunyai "x" kuasa dua tolak "x" tolak 6 bersamaan dengan
+
+16
+00:00:42,970 --> 00:00:48,720
+0, anda bolehlah memfaktorkannya sebagai "x"tolak 3 dan
+
+17
+00:00:48,720 --> 00:00:52,210
+"x" tambah 2 bersamaan dengan 0
+
+18
+00:00:52,210 --> 00:00:54,955
+Ini bermaksud, sama ada, "x"tolak 3 bersamaan dengan sifar ataupun
+
+19
+00:00:54,955 --> 00:00:57,073
+"x" tambah 2 bersamaan dengan 0
+
+20
+00:00:57,073 --> 00:01:03,512
+Oleh itu, "x" tolak 3 bersamaan dengan 0 atau "x" tambah 2 bersamaan dengan 0
+
+21
+00:01:03,512 --> 00:01:08,500
+Oleh itu, "x"bersamaan dengan 3 ataupun -2.
+
+22
+00:01:08,500 --> 00:01:17,980
+Dan, suatu perwakilan grafik tentang perkara ini ialah, jika saya diberi
+
+23
+00:01:17,980 --> 00:01:26,150
+fungsi, f (x) bersamaan dengan "x" kuasa dua tolak "x" tolak 6.
+
+24
+00:01:26,150 --> 00:01:28,760
+Jadi, paksi ini ialah paksi f(x)
+
+25
+00:01:28,760 --> 00:01:32,670
+Anda mungkin lebih biasa dengan panggilan paksi "y", dan untuk tujuan
+
+26
+00:01:32,670 --> 00:01:34,780
+soalan sebegini, samada paksi f(x) ataupun y tidak perlu risau.
+
+27
+00:01:34,780 --> 00:01:36,270
+Dan, ini ialah paksi x.
+
+28
+00:01:36,270 --> 00:01:40,430
+Dan jika saya melakarkan graf persamaan ini, "x" kuasa dua tolak "x",
+
+29
+00:01:40,430 --> 00:01:42,380
+tolak 6, lakaran anda akan kelihatan agak seiras dengan ini.
+
+30
+00:01:42,380 --> 00:01:50,130
+Sedikit sebanyak sama seperti --Ini adalah untuk f(x) sama dengan negatif 6 (-6).
+
+31
+00:01:50,130 --> 00:01:52,900
+Dan graf anda akan kelihatan seperti
+
+32
+00:01:52,900 --> 00:01:57,150
+Pergi ke atas, anda akan terus menuju ke atas dalam arah itu.
+
+33
+00:02:00,030 --> 00:02:03,150
+Perhatikan bahawa ia melalui -6, kerana apabila "x" bersamaan dengan 0,
+
+34
+00:02:03,150 --> 00:02:05,110
+f(x) bersamaan dengan -.
+
+35
+00:02:05,110 --> 00:02:07,800
+Oleh itu, saya tahu bahawa ia melalui nombor ini.
+
+36
+00:02:07,800 --> 00:02:11,520
+Dan saya juga tahu bahawa apabila f(x) bersamaan dengan 0, f(x) bersamaan
+
+37
+00:02:11,520 --> 00:02:14,960
+dengan 0 sepanjang paksi "x", kan?
+
+38
+00:02:14,960 --> 00:02:16,600
+Oleh sebab ini adalah 1.
+
+39
+00:02:16,600 --> 00:02:17,870
+Ini adalah .
+
+40
+00:02:17,870 --> 00:02:19,160
+Ini adalah -1
+
+41
+00:02:19,160 --> 00:02:21,510
+Oleh itu, inilah tempat f(x) bersamaan dengan 0, sepanjang
+
+42
+00:02:21,510 --> 00:02:23,420
+paksi "x" ini
+
+43
+00:02:23,420 --> 00:02:29,210
+Dan kita juga tahu bahawa ia bersamaan dengan 0 pada titik titik "x" bersamaan dengan 3 dan
+
+44
+00:02:29,210 --> 00:02:32,330
+"x" bersamaan dengan -2.
+
+45
+00:02:32,330 --> 00:02:34,360
+Itulah persoalan yang sedang kami selesaikan di sini!
+
+46
+00:02:34,360 --> 00:02:36,440
+Besar kemungkinan, apabila kita melakukan persolan pemfaktoran, kita tidak
+
+47
+00:02:36,440 --> 00:02:38,940
+sedar perkara yang kita sedang buat secara grafik
+
+48
+00:02:38,940 --> 00:02:42,070
+Namun, jika kita mengatakan bahawa f(x) bersamaan dengan fungsi ini, kita sebenarnya
+
+49
+00:02:42,070 --> 00:02:43,270
+sedang menetapkannya bersamaan dengan .
+
+50
+00:02:43,270 --> 00:02:44,820
+Oleh itu, kita sedang mengatakan fungsi ini, bilakah ia
+
+51
+00:02:44,820 --> 00:02:48,220
+bersamaan 0?
+
+52
+00:02:48,220 --> 00:02:49,390
+Bilakah ia bersamaan dengan 0?
+
+53
+00:02:49,390 --> 00:02:51,720
+Oleh itu, ia bersamaan dengan 0 pada titik ini, kan?
+
+54
+00:02:51,720 --> 00:02:55,360
+Ini adalah kerana titik inilah f(x) bersamaan dengan 0.
+
+55
+00:02:55,360 --> 00:02:57,490
+Dan apa yang kita sedang buat apabila kita menyelesaikan ini dengan
+
+56
+00:02:57,490 --> 00:03:01,970
+memfaktor, kita berjaya menyelesaikan, nilai nilai "x" yang telah menjadikan f(x)
+
+57
+00:03:01,970 --> 00:03:04,160
+bersamaan dengan 0, iaitu kedua-dua titik ini
+
+58
+00:03:04,160 --> 00:03:06,740
+Dan, menggunakan sedikit istilah matematik, nilai-nilai ini juga digelar
+
+59
+00:03:06,740 --> 00:03:09,860
+sifar-sifar, ataupun punca f(x)
+
+60
+00:03:09,860 --> 00:03:12,470
+Marilah kita mengkaji semula itu sedikit.
+
+61
+00:03:14,810 --> 00:03:23,700
+Jadi, jika saya mempunyai sesuatu seperti f(x) bersamaan dengan x kuasa dua tambah
+
+62
+00:03:23,700 --> 00:03:29,550
+4x tambah 4, dan saya menanyakan anda, di manakah sifar-sifar atau
+
+63
+00:03:29,550 --> 00:03:31,770
+punca, f(x)
+
+64
+00:03:31,770 --> 00:03:33,970
+Ia sama seperti mengatakan, di manakah f(x)
+
+65
+00:03:33,970 --> 00:03:36,300
+bersilang dengan paksi "x"
+
+66
+00:03:36,300 --> 00:03:38,210
+Dan ia bersilang dengan paksi "x" apabila f(x) adalah
+
+67
+00:03:38,210 --> 00:03:39,440
+bersamaan dengan sifar, kan?
+
+68
+00:03:39,440 --> 00:03:42,120
+Jika anda memikirkan kembali graf yang telah saya lakarkan.
+
+69
+00:03:42,120 --> 00:03:45,720
+Oleh itu, andaikan f(x) bersamaan dengan 0, kita dapat
+
+70
+00:03:45,720 --> 00:03:51,860
+berkata, 0 bersamaan dengan "x" kuasa dua tambah 4x tambah 4
+
+71
+00:03:51,860 --> 00:03:53,940
+Dan kita tahu, kita bolehlah memfaktorkannya itu sahaja, itulah "x"
+
+72
+00:03:53,940 --> 00:03:57,080
+tambah 2 ganda x tambah 2
+
+73
+00:03:57,080 --> 00:04:07,090
+dan kita tahu bahawa ia bersamaan dengan 0
+
+74
+00:04:07,090 --> 00:04:10,170
+x bersamaan dengan -2
+
+75
+00:04:13,940 --> 00:04:18,270
+Ia simbol - yang lebih kecil, x bersamaan dengan -2
+
+76
+00:04:18,270 --> 00:04:22,380
+Oleh itu, sekarang kita tahu bagaimana untuk mencari sifar-sifar apabila persamaan sebenar
+
+77
+00:04:22,380 --> 00:04:24,560
+adalah lebih senang untuk difaktorkan
+
+78
+00:04:24,560 --> 00:04:27,500
+Tetapi, mari kita andaikan satu situasi di mana persamaan sebenarnya
+
+79
+00:04:27,500 --> 00:04:28,850
+tidak sebegitu senang untuk difaktor
+
+80
+00:04:28,850 --> 00:04:32,120
+Andaikan kita mempunyai f(x) bersamaan dengan -10"x"
+
+81
+00:04:39,750 --> 00:04:45,380
+kuasa dua tolak 9"x" tambah 1
+
+82
+00:04:45,380 --> 00:04:47,580
+Sebenarnya, apabila kita melihat kembalik perkara ini, walaupun andai kata saya membahagikannya dengan 1, saya
+
+83
+00:04:47,580 --> 00:04:48,650
+akan mendapat beberapa pecahan ni.
+
+84
+00:04:48,650 --> 00:04:53,130
+Dan ia amatlah sukar untuk membayangkan pemfaktoran persamaan kuadratik ini.
+
+85
+00:04:53,130 --> 00:04:54,860
+Dan itulah apa yang dikenali sebagai persamaan kuadratik, ataupun
+
+86
+00:04:54,860 --> 00:04:57,580
+polinomal kuasa dua ini.
+
+87
+00:04:57,580 --> 00:04:59,600
+Namun, mari kita ungkapkan ini- Oleh itu, kita sedang cuba menyelesaikan ini.
+
+88
+00:04:59,600 --> 00:05:02,420
+Kerana kita ingin mengetahu pada nilai manakah ia bersamaan dengan 0.
+
+89
+00:05:02,420 --> 00:05:07,130
+Tolak 10"x" kuasa dua tolak 9"x" tambah 1
+
+90
+00:05:07,130 --> 00:05:09,090
+Kita ingin mengetahui nilai "x" manakah yang menjadikan
+
+91
+00:05:09,090 --> 00:05:11,260
+persamaan ini bersamaan dengan sifar
+
+92
+00:05:11,260 --> 00:05:13,730
+Dan di sini,kia boleh mengunakan alat ,matematik yang diberi nama persamaan kuadratik
+
+93
+00:05:13,730 --> 00:05:15,625
+dan sekarang saya akan memberi anda salah satu daripada benda-benda dalam matematik
+
+94
+00:05:15,625 --> 00:05:18,030
+yang sebaik-baiknya, perlu diingati.
+
+95
+00:05:18,030 --> 00:05:21,330
+Persamaan kuadratik mengatakan bahawa punca sebuah kuadratik
+
+96
+00:05:21,330 --> 00:05:24,810
+bersamaan dengan- dan andaikata persamaan kuadratik ialah
+
+97
+00:05:24,810 --> 00:05:31,900
+a "x" kuasa dua tambah b "x" tambah c bersamaan dengan 0
+
+98
+00:05:31,900 --> 00:05:35,790
+Oleh itu, dalam contoh ini, a ialah -10
+
+99
+00:05:35,790 --> 00:05:39,940
+b ialah -9 dan c ialah 1
+
+100
+00:05:39,940 --> 00:05:48,040
+Formula untuk mendapatkan punca "x" ialah -b tambah tolak
+
+101
+00:05:48,040 --> 00:05:58,060
+punca kuasa dua ' "b" kuasa dua ' - 4 darab "a "darab "c"
+
+102
+00:05:58,060 --> 00:06:00,230
+Kesemua itu bahagi dengan 2 darab "a"
+
+103
+00:06:00,230 --> 00:06:02,843
+Saya tahu ini kelihatan amatlah sukar, namun semakin kerap anda menggunakannya, anda akan
+
+104
+00:06:02,843 --> 00:06:04,400
+menyedari bahawa ia tidaklah seteruk yang disangka
+
+105
+00:06:04,400 --> 00:06:07,720
+Ini adalah sesuatu yang saya galakkan anda untuk ingat.
+
+106
+00:06:07,720 --> 00:06:10,730
+Mari kita gunakan persamaan quadratik pada persamaan
+
+107
+00:06:10,730 --> 00:06:12,670
+yang baru sahaka kita tuliskan
+
+108
+00:06:12,670 --> 00:06:15,260
+Sebentar tadi, saya baru sahaja kata- dan perhatikan, "a" hanyalah pekali
+
+109
+00:06:15,260 --> 00:06:18,610
+pada istilah "x", kan?
+
+110
+00:06:18,610 --> 00:06:20,300
+a ialah pekali terma "x" kuasa dua.
+
+111
+00:06:20,300 --> 00:06:23,570
+b ialah pekali terma "x" dan c ialah suatu pemalar.
+
+112
+00:06:23,570 --> 00:06:25,100
+Mari kita aplikasikan apa yang telah dipelajari tadi pada persamaan ini
+
+113
+00:06:25,100 --> 00:06:26,250
+Apakah "b"?
+
+114
+00:06:26,250 --> 00:06:28,700
+"b" ialah -9
+
+115
+00:06:28,700 --> 00:06:29,970
+Kita boleh melihat di sini
+
+116
+00:06:29,970 --> 00:06:33,980
+b ialah -9, a ialah -10
+
+117
+00:06:33,980 --> 00:06:34,970
+c ialah 1
+
+118
+00:06:34,970 --> 00:06:36,090
+kan?
+
+119
+00:06:36,090 --> 00:06:42,350
+Jadi jika "b" ialah -9-- mari kita andaikan, itu ialah -9.
+
+120
+00:06:42,350 --> 00:06:49,260
+tambah atau tolak punca kuasa dua "-9 kuasa dua"
+
+121
+00:06:49,260 --> 00:06:49,810
+Itu ialah 81
+
+122
+00:06:49,810 --> 00:06:53,140
+Tolak 4 darab a
+
+123
+00:06:56,940 --> 00:06:59,760
+"a" ialah -10
+
+124
+00:06:59,760 --> 00:07:03,240
+Tolak 10 darab c, iaitu 1
+
+125
+00:07:03,240 --> 00:07:05,110
+Saya tahu ini seperti suatu kemelut, namun saya berharap anda
+
+126
+00:07:05,110 --> 00:07:06,470
+sedang memahaminya.
+
+127
+00:07:06,470 --> 00:07:09,560
+Dan jumlah semua daripada itu, bahagikannya dengan 2 darab "a"
+
+128
+00:07:09,560 --> 00:07:14,050
+"a" ialah -10,. Oleh itu, 2 darab "a"ialah -20
+
+129
+00:07:14,050 --> 00:07:14,990
+Mari kita permudahkan ini.
+
+130
+00:07:14,990 --> 00:07:19,410
+Negatif darab -9 bersamaan dengan positif 9
+
+131
+00:07:19,410 --> 00:07:26,460
+Tambah atau tolak punca kuasa dua 81
+
+132
+00:07:26,460 --> 00:07:30,660
+Kita mempunyai -4 darab -10
+
+133
+00:07:30,660 --> 00:07:31,870
+Ini bersamaan dengan -10
+
+134
+00:07:31,870 --> 00:07:33,280
+Saya tahu ini amatlah kalut, saya benar-benar meminta maaf.
+
+135
+00:07:33,280 --> 00:07:34,380
+untuk itu, darab 1
+
+136
+00:07:34,380 --> 00:07:39,410
+Oleh itu, -4 darab -10 bersamaan dengan 40, iaitu nilai positif 40
+
+137
+00:07:39,410 --> 00:07:41,040
+Positif 40
+
+138
+00:07:41,040 --> 00:07:46,070
+Dan apabila kita bahagikan jumlah itu dengan -20
+
+139
+00:07:46,070 --> 00:07:48,300
+81 tambah 40 ialah 121
+
+140
+00:07:48,300 --> 00:07:52,330
+Oleh itu, ini ialah 9 tambah atau tolak punca kuasa dua
+
+141
+00:07:52,330 --> 00:07:58,290
+nilai 121 bahagi -20
+
+142
+00:07:58,290 --> 00:08:01,620
+Punca kuasa 2 nilai 121 ialah 11
+
+143
+00:08:01,620 --> 00:08:03,170
+itu sahaja.
+
+144
+00:08:03,170 --> 00:08:06,184
+Harap-harap, anda tidak sesat arah tentang apa yang sedang saya ajarkan ini.
+
+145
+00:08:06,184 --> 00:08:13,720
+Ini ialah 9 tambah atau tolak 11, bahagi -20.
+
+146
+00:08:13,720 --> 00:08:19,090
+Dan jika saya mengatakan 9 tambah 11 bahagi -20, iaitu 9
+
+147
+00:08:19,090 --> 00:08:22,540
+tambah 11 bersamaan dengan 20, 20 bahagi dengan -20
+
+148
+00:08:22,540 --> 00:08:23,730
+bersamaan dengan -1
+
+149
+00:08:23,730 --> 00:08:24,900
+Maka, satu punca telahpun ditemui.
+
+150
+00:08:24,900 --> 00:08:28,260
+Itu ialah 9 tambah- kerana anda tahu ini tambah ATAUPUN tolak
+
+151
+00:08:28,260 --> 00:08:33,790
+dan punca kedua ialah 9 tolak11 dan kemudian itu, bahagi -20
+
+152
+00:08:33,790 --> 00:08:37,720
+Yang bersamaan dengan -2 bahagi -20
+
+153
+00:08:37,720 --> 00:08:40,700
+Yang bersamaan dengan 1 bahagi 10
+
+154
+00:08:40,700 --> 00:08:42,690
+Maka, punca kedua telah ditemui.
+
+155
+00:08:42,690 --> 00:08:48,950
+Andaikan kita melakarakan graf persamaan ini, kita dapat perhatikan bahawa
+
+156
+00:08:48,950 --> 00:08:52,640
+ia sebenarnya bersilang pada paksi "x"
+
+157
+00:08:52,640 --> 00:08:57,770
+Atau f(x) bersamaan dengan 0 pada titik "x" bersamaan dengan -1
+
+158
+00:08:57,770 --> 00:09:01,690
+dan x bersamaan dengan 1/10
+
+159
+00:09:01,690 --> 00:09:04,080
+Saya akan melakukan lebih banyak lagi contoh dalam video bahagian kedua kerana saya
+
+160
+00:09:04,080 --> 00:09:06,100
+berpendapat, jia ada apa-apa yang lain, saya mungkin akan mengelirukan
+
+161
+00:09:06,100 --> 00:09:08,120
+anda dengan contoh ini.
+
+162
+00:09:08,120 --> 00:09:11,680
+jadi, saya akan jumpa anda lagi dalam bahagian kedua menggunakan
+
+163
+00:09:11,680 --> 00:09:12,150
+persamaan kuadratik

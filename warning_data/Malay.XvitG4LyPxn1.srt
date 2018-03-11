@@ -1,0 +1,724 @@
+1
+00:00:00,600 --> 00:00:02,000
+Dalam video ini saya ingin memberikan anda
+
+2
+00:00:02,000 --> 00:00:06,070
+Asas Trigonometri.
+
+3
+00:00:06,067 --> 00:00:08,997
+sebenarnya ia bukan topik yang amat rumit
+
+4
+00:00:09,000 --> 00:00:10,870
+tetapi anda akan lihat ini hanyalah kajian
+
+5
+00:00:10,867 --> 00:00:15,397
+nisbah sisi Segi Tiga.
+
+6
+00:00:15,400 --> 00:00:17,600
+"trig" dalam "Trigonometri" bermaksud
+
+7
+00:00:17,600 --> 00:00:20,530
+Segi tiga dan "metry" bermakna
+
+8
+00:00:20,533 --> 00:00:24,133
+ukur. mari saya memberikan kamu beberapa contoh di sini.
+
+9
+00:00:24,133 --> 00:00:26,603
+Saya fikir ia akan membuat segala-galanya agak jelas.
+
+10
+00:00:26,600 --> 00:00:28,400
+biar saya membuat beberapa segi tiga menegak, biar saya lukis
+
+11
+00:00:28,400 --> 00:00:31,870
+satu segi tiga menegak. Jadi ini adalah segi tiga menegak.
+
+12
+00:00:31,867 --> 00:00:34,347
+Bila saya katakan ia suatu segitiga menegak, kerana
+
+13
+00:00:34,375 --> 00:00:37,205
+salah satu sudut di sini ialah 90 darjah.
+
+14
+00:00:37,200 --> 00:00:42,810
+Ini hak di sini adalah sudut menegak
+
+15
+00:00:42,805 --> 00:00:48,065
+Ia sama dengan 90 darjah.
+
+16
+00:00:48,067 --> 00:00:49,197
+Dan kita akan bercakap tentang cara-cara lain
+
+17
+00:00:49,200 --> 00:00:53,400
+untuk menunjukkan magnitud sudut dalam video yang lain
+
+18
+00:00:53,400 --> 00:00:54,530
+Jadi kita mempunyai sudut 90 darjah.
+
+19
+00:00:54,533 --> 00:00:56,543
+ia adalah segi tiga menegak, biar saya letak
+
+20
+00:00:56,541 --> 00:01:03,271
+panjang di sisi ini. Jadi ini sisi ini mungkin 3. Ketinggian disini ialah 3.
+
+21
+00:01:03,267 --> 00:01:07,197
+Mungkin tapak segi tiga di sini ialah 4.
+
+22
+00:01:07,200 --> 00:01:14,800
+dan kemudian hipotenus segi tiga ini ialah 5.
+
+23
+00:01:14,800 --> 00:01:17,000
+Anda hanya perlu hipotenus apabila anda mempunyai segi tiga tepat.
+
+24
+00:01:17,000 --> 00:01:23,400
+Ia adalah sisi yang bertentangan dengan sudut menegak dan ia merupakan sisi terpanjang segi tiga menegak
+
+25
+00:01:23,400 --> 00:01:27,600
+jadi itu adalah hipotenus.
+
+26
+00:01:27,600 --> 00:01:29,730
+Anda mungkin sudah tahu daripada geometri
+
+27
+00:01:29,733 --> 00:01:32,933
+Dan anda boleh mengesahkan bahawa segi tiga menegak ini
+
+28
+00:01:32,933 --> 00:01:36,333
+kita tahu dari teorem Pythagoras, bahawa 3squared
+
+29
+00:01:36,333 --> 00:01:43,063
+campur 4squared, dapat sama dengan panjang sisi terpanjang,
+
+30
+00:01:43,067 --> 00:01:46,737
+panjang hipotenus squared adalah sama dengan 5squared
+
+31
+00:01:46,733 --> 00:01:49,113
+jadi anda boleh mengesahkan yang ini berhasil
+
+32
+00:01:49,111 --> 00:01:51,801
+bahawa ini memuaskan teorem Pythagoras.
+
+33
+00:01:51,800 --> 00:01:54,270
+sekarang, mari kita belajar sedikit-trigonometri.
+
+34
+00:01:54,267 --> 00:01:58,797
+Fungsi teras trigonometri,
+
+35
+00:01:58,800 --> 00:02:01,790
+kami akan belajar lebih lanjut mengenai makna fungsi-fungsi ini.
+
+36
+00:02:01,789 --> 00:02:04,529
+Terdapat sine, fungsi sine.
+
+37
+00:02:04,533 --> 00:02:11,203
+Terdapat fungsi kosine, dan terdapat fungsi tangen.
+
+38
+00:02:11,200 --> 00:02:15,730
+Dan anda menulis sin, atau SIN, COS, dan "tan"
+
+39
+00:02:15,733 --> 00:02:20,333
+Dan ini benar-benar hanya menyatakan, bagi mana-mana sudut dalam segi tiga ini,
+
+40
+00:02:20,333 --> 00:02:23,133
+ia akan menentukan nisbah sisi tertentu.
+
+41
+00:02:23,133 --> 00:02:24,453
+jadi, biar saya hanya tulis sesuatu.
+
+42
+00:02:24,451 --> 00:02:26,531
+Ini adalah benar-benar mnemonik ,
+
+43
+00:02:26,533 --> 00:02:30,263
+sesuatu untuk membantu anda mengingati definisi fungsi ini,
+
+44
+00:02:30,267 --> 00:02:34,737
+tetapi saya akan menulis sesuatu yang dipanggil "soh cah
+
+45
+00:02:34,733 --> 00:02:43,403
+Toa ", anda akan terkejut sejauh mana mnemonik ini akan membawa anda dalam trigonometri.
+
+46
+00:02:43,400 --> 00:02:46,800
+kita ada "soh cah Toa", dan ini menjelaskan kepada kita ialah;
+
+47
+00:02:46,800 --> 00:02:58,670
+"Soh" memberitahu kita bahawa "sine" adalah sama dengan oppo per hipotenus.
+
+48
+00:02:58,667 --> 00:03:01,667
+Ia memberitahu kita. Dan ini takkkan masuk akal tadi,
+
+49
+00:03:01,667 --> 00:03:03,797
+Saya akan lakukan sedikit terperinci kejap lagi.
+
+50
+00:03:03,800 --> 00:03:13,130
+Dan kemudian kosine adalah sama dengan adj per hipotenus.
+
+51
+00:03:13,133 --> 00:03:18,533
+Dan akhirnya anda ada tangen,
+
+52
+00:03:18,533 --> 00:03:22,733
+tangen sama dengan oppo per adja
+
+53
+00:03:22,733 --> 00:03:24,533
+Jadi, anda mungkin kata, "apakah semua " oppo "
+
+54
+00:03:24,533 --> 00:03:27,733
+"Hipotenus", "adja", apa yang kita sedang cakapkan ini ?
+
+55
+00:03:27,733 --> 00:03:29,263
+, mari kita ambil satu sudut di sini.
+
+56
+00:03:29,267 --> 00:03:34,937
+Katakan sudut ini di sini adalah theta,
+
+57
+00:03:34,933 --> 00:03:37,933
+antara sisi dengan panjang 4, dan sisi
+
+58
+00:03:37,933 --> 00:03:39,663
+dengan panjang 5. Ini adalah theta.
+
+59
+00:03:39,667 --> 00:03:42,197
+Jadi mari kita selesaikan sine teta,
+
+60
+00:03:42,200 --> 00:03:44,470
+kosine theta, dan apakah
+
+61
+00:03:44,467 --> 00:03:46,267
+tangen teta
+
+62
+00:03:46,267 --> 00:03:51,537
+Jadi, jika kita fokus kepada sine theta,
+
+63
+00:03:51,533 --> 00:03:55,063
+kita hanya perlu ingat "soh cah Toa",
+
+64
+00:03:55,067 --> 00:04:00,537
+sine ialah opposit per hypotonuse, jadi sine theta adalah sama dengan oppo-
+
+65
+00:04:00,533 --> 00:04:03,133
+jadi apakah sisi bertentangan dengan sudut itu ?
+
+66
+00:04:03,133 --> 00:04:06,603
+Jadi ini adalah sudut kita di sini, di sebelah sisi oppo
+
+67
+00:04:06,600 --> 00:04:09,130
+jika kita pergi ke sisi bertentangan,
+
+68
+00:04:09,133 --> 00:04:13,543
+tidak ada satu sisi yang selari dengan sudut
+
+69
+00:04:13,539 --> 00:04:15,199
+bahagian yang bertentangan adalah 3,
+
+70
+00:04:15,200 --> 00:04:17,070
+jika anda hanya agak - ia membuka kepada 3,
+
+71
+00:04:17,067 --> 00:04:19,397
+jadi bahagian bertentangan ialah 3.
+
+72
+00:04:19,400 --> 00:04:22,270
+Dan kemudian apakah nilai hipotenus ?
+
+73
+00:04:22,267 --> 00:04:24,467
+kita sudahpun tahu - hipotenus di sini ialah 5.
+
+74
+00:04:24,467 --> 00:04:27,597
+Jadi, 3 per 5.
+
+75
+00:04:27,600 --> 00:04:29,470
+Sine theta ialah 3 / 5.
+
+76
+00:04:29,467 --> 00:04:35,667
+Dan saya akan tunjukkan kepada anda, bahawa sine theta -
+
+77
+00:04:35,667 --> 00:04:38,867
+jika sudut ini adalah sudut tertentu - ia akan sentiasa menjadi 3 / 5.
+
+78
+00:04:38,867 --> 00:04:42,657
+Nisbah oppo kepada hipotenus akan sentiasa esama,
+
+79
+00:04:42,657 --> 00:04:45,397
+walaupun segitiga sebenar adalah segi tiga yang lebih besar
+
+80
+00:04:45,396 --> 00:04:46,336
+atau yang lebih kecil.
+
+81
+00:04:46,333 --> 00:04:47,333
+saya akan tunjukkan kepada anda kejap lagi
+
+82
+00:04:47,333 --> 00:04:49,203
+Oleh itu, marilah kita buat semua fungsi Trigonometri.
+
+83
+00:04:49,200 --> 00:04:54,870
+Mari kita fikirkan tentang apa kosine theta.
+
+84
+00:04:54,867 --> 00:04:57,937
+Kosine adalah adj per hypo, jadi ingat -
+
+85
+00:04:57,933 --> 00:05:00,203
+biar saya labelkan mereka.
+
+86
+00:05:00,200 --> 00:05:03,530
+Kita sudah cari bahawa 3 adalah sisi yang bertentangan.
+
+87
+00:05:03,533 --> 00:05:04,733
+Ini adalah sisi yang bertentangan.
+
+88
+00:05:04,733 --> 00:05:07,333
+Dan kita hanya berbicara tentang sudut ini.
+
+89
+00:05:07,333 --> 00:05:09,803
+bila kita berbicara tentang sudut ini - sisi ini bertentangan dengannya
+
+90
+00:05:09,800 --> 00:05:12,400
+Apabila kita berbicara tentang sudut ini, sisi 4 ini
+
+91
+00:05:12,400 --> 00:05:13,730
+selari dengannya,
+
+92
+00:05:13,733 --> 00:05:16,863
+ia salah satu sisi yang - yang
+
+93
+00:05:16,867 --> 00:05:19,267
+membentuk mercu di sini.
+
+94
+00:05:19,267 --> 00:05:23,337
+Jadi di sini adalah sisi selari
+
+95
+00:05:23,333 --> 00:05:24,733
+Dan saya nak jelaskan,
+
+96
+00:05:24,733 --> 00:05:26,603
+ini hanya terpakai kepada sudut ini.
+
+97
+00:05:26,600 --> 00:05:27,870
+Jika kita berbicara tentang sudut itu,
+
+98
+00:05:27,867 --> 00:05:29,797
+maka sisi hijau ini akan menjadi bertentangan,
+
+99
+00:05:29,800 --> 00:05:31,730
+dan sisi kuning ini akan selari.
+
+100
+00:05:31,733 --> 00:05:34,433
+Tetapi kita hanya fokus kepada sudut di sini.
+
+101
+00:05:34,437 --> 00:05:40,467
+Jadi kosine sudut ini - jadi sisi selari sudut ini ialah 4,
+
+102
+00:05:40,467 --> 00:05:43,537
+jadi adj per hipotenus,
+
+103
+00:05:43,533 --> 00:05:47,403
+adja, iaitu 4, per hipotenus,
+
+104
+00:05:47,400 --> 00:05:51,480
+4 per 5.
+
+105
+00:05:51,480 --> 00:05:53,200
+Sekarang mari kita buat tangen.
+
+106
+00:05:53,200 --> 00:05:56,200
+Mari kita buat tangen.
+
+107
+00:05:56,200 --> 00:05:59,870
+Tangen theta: oppo per adja
+
+108
+00:05:59,867 --> 00:06:06,337
+Bahagian bertentangan ialah 3. Apakah bahagian yang selari ?
+
+109
+00:06:06,333 --> 00:06:07,663
+Kami sudahpun tahu,
+
+110
+00:06:07,667 --> 00:06:09,937
+sisi selari ialah 4.
+
+111
+00:06:09,933 --> 00:06:11,803
+Jadi kita sudah tahu sisi s.tiga menegak ini
+
+112
+00:06:11,800 --> 00:06:14,930
+kami mampu mencari nisbah utama trig major
+
+113
+00:06:14,933 --> 00:06:16,863
+Dan kita akan melihat bahawa ada nisbah yang lain,
+
+114
+00:06:16,867 --> 00:06:20,267
+tetapi mereka semua boleh diperolehi daripada ketiga-tiga
+
+115
+00:06:20,267 --> 00:06:22,997
+fungsi asas Trigonometri.
+
+116
+00:06:23,000 --> 00:06:25,270
+Sekarang, mari kita fikirkan tentang sudut lain dalam segitiga ini,
+
+117
+00:06:25,267 --> 00:06:28,397
+dan saya akan lukis semula kerana segitiga saya tak kemas
+
+118
+00:06:28,400 --> 00:06:32,130
+Jadi saya akanlukis semula segitiga yang sama.
+
+119
+00:06:32,133 --> 00:06:34,133
+Segi tiga sama yang sama
+
+120
+00:06:34,133 --> 00:06:37,863
+Dan, sekali lagi, panjang segitiga ini -
+
+121
+00:06:37,867 --> 00:06:42,067
+kita mempunyai panjang 4 di sana, kita mempunyai panjang 3 di sana,
+
+122
+00:06:42,067 --> 00:06:43,997
+kita mempunyai panjang 5 di sana.
+
+123
+00:06:44,000 --> 00:06:47,000
+Dalam contoh yang lepas kita menggunakan theta.
+
+124
+00:06:47,000 --> 00:06:53,550
+Tetapi mari kita buat sudut lain, mari lakukan sudut lain di sini,
+
+125
+00:06:53,548 --> 00:06:56,938
+dan mari kita memanggil sudut ini - saya akan fikirkan sesuatu,
+
+126
+00:06:58,533 --> 00:07:00,263
+katakan ini psi
+
+127
+00:07:00,267 --> 00:07:01,517
+saya tahu, ia sedikit pelik.
+
+128
+00:07:01,512 --> 00:07:02,532
+Theta adalah apa yang kamu biasanya gunakan,
+
+129
+00:07:02,533 --> 00:07:05,063
+tetapi oleh kerana saya telah gunakan theta, mari kita guna psi
+
+130
+00:07:05,067 --> 00:07:06,937
+Atau biar saya permudahkan ia,
+
+131
+00:07:06,933 --> 00:07:09,003
+biar saya panggil sudut ini X
+
+132
+00:07:09,000 --> 00:07:10,710
+Mari panggil sudut ini x.
+
+133
+00:07:10,707 --> 00:07:13,337
+Jadi mari kita selesaikan fungsi trig bagi yang sudut x
+
+134
+00:07:13,333 --> 00:07:18,263
+jadi, kita ada sine x, akan sama dengan apa?
+
+135
+00:07:18,267 --> 00:07:20,997
+Well sine adalah oppo per hipotenus.
+
+136
+00:07:21,000 --> 00:07:24,200
+Jadi, sisi apa yang bertentangan dengan X ?
+
+137
+00:07:24,200 --> 00:07:26,400
+Well, ia membuka kepada 4 ini,
+
+138
+00:07:26,400 --> 00:07:27,470
+ia membuka pada 4.
+
+139
+00:07:27,467 --> 00:07:29,937
+Jadi, dalam konteks ini, ini adalah oppo
+
+140
+00:07:29,933 --> 00:07:32,133
+ini adalah bahagian yang bertentangan.
+
+141
+00:07:32,133 --> 00:07:32,633
+Ingat: 4 ialah selari dengan teta,
+
+142
+00:07:32,633 --> 00:07:41,733
+tapi bertentangan dengan x.
+
+143
+00:07:41,729 --> 00:07:42,229
+ia akan menjadi 4 per-
+
+144
+00:07:42,229 --> 00:07:43,329
+sekarang apa hipotenus?
+
+145
+00:07:43,333 --> 00:07:43,933
+Well, hipotenus akan menjadi sama
+
+146
+00:07:43,933 --> 00:07:44,933
+tanpa mengira sudut mana yang anda pilih,
+
+147
+00:07:44,933 --> 00:07:46,463
+jadi hipotenus kini akan menjadi 5,
+
+148
+00:07:46,467 --> 00:07:46,967
+jadi ia 4/5
+
+149
+00:07:46,967 --> 00:07:55,067
+Sekarang mari kita buat satu lagi, apa yang kosine x?
+
+150
+00:07:55,067 --> 00:07:57,737
+Jadi kosine ialah adja per hipotenus.
+
+151
+00:07:57,733 --> 00:08:00,663
+Apakah sisi yang selari dengan x, yang bukan hipotenus?
+
+152
+00:08:00,667 --> 00:08:02,197
+Anda ada hipotenus di sini.
+
+153
+00:08:02,200 --> 00:08:05,530
+sisi 3 itu, ia adalah salah satu sisi yang
+
+154
+00:08:05,533 --> 00:08:08,263
+membentuk mercu x , itu bukan hypo
+
+155
+00:08:08,267 --> 00:08:10,337
+jadi ini adalah bahagian yang selari
+
+156
+00:08:10,333 --> 00:08:11,333
+Itu adalah selari
+
+157
+00:08:11,333 --> 00:08:14,373
+Jadi, 3 per hipotenus,
+
+158
+00:08:14,376 --> 00:08:16,796
+hipotenus adalah 5.
+
+159
+00:08:16,800 --> 00:08:20,130
+Dan akhirnya, tangen.
+
+160
+00:08:20,133 --> 00:08:22,273
+Kami nak cari tangen x.
+
+161
+00:08:22,271 --> 00:08:24,731
+Tangen adalah oppo per adja
+
+162
+00:08:24,733 --> 00:08:27,983
+"Soh cah Toa", tangen adalah oppo per adja
+
+163
+00:08:27,983 --> 00:08:29,533
+oppo per adja
+
+164
+00:08:29,533 --> 00:08:31,933
+sisi bertentangan ialah 4.
+
+165
+00:08:35,267 --> 00:08:42,907
+sisi bertentangan ialah 4, dan sisi selari ialah 3.
+
+166
+00:08:42,902 --> 00:08:43,402
+Dan kita sduahpun siap !
+
+167
+00:08:43,725 --> 00:08:46,155
+Dan dalam video seterusnya, saya akan lakukan lebih banyak contoh ini,
+
+168
+00:08:46,159 --> 00:08:48,509
+supaya kita benar-benar dapatkan rasa itu.
+
+169
+00:08:48,511 --> 00:08:50,871
+Tetapi saya akan biarkan anda fikir apa yang berlaku apabila
+
+170
+00:08:50,867 --> 00:08:52,367
+sudut ini mendekati 90 darjah,
+
+171
+00:08:52,369 --> 00:08:55,049
+atau bagaimana mereka boleh jadi lebih besar daripada 90 darjah.
+
+172
+00:08:55,044 --> 00:08:56,934
+Dan kita akan lihat yang definisi ini,
+
+173
+00:08:56,933 --> 00:08:59,063
+"soh cah Toa" amat berguna
+
+174
+00:08:59,067 --> 00:09:01,937
+bagi sudut diantara 0 dan 90 darjah,
+
+175
+00:09:01,933 --> 00:09:04,333
+atau yang kurang daripada 90 darjah.
+
+176
+00:09:04,333 --> 00:09:06,063
+Tetapi mereka mula kucar-kacir sehingga
+
+177
+00:09:06,067 --> 00:09:07,067
+benar-benar di sempadan
+
+178
+00:09:07,067 --> 00:09:08,667
+Dan kami akan perkenalkan definisi baru
+
+179
+00:09:08,667 --> 00:09:10,937
+yang jenis yang berasal dari "soh cah Toa"
+
+180
+00:09:10,933 --> 00:09:11,533
+untuk mencari sine, kosine dan tangen
+
+181
+00:09:11,533 --> 100:00:00,003
+mana mana sudut
+

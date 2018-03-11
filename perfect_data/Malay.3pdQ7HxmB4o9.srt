@@ -1,0 +1,939 @@
+1
+00:00:00,690 --> 00:00:03,450
+Apa yang saya mahu lakukan dalam video ini adalah untuk membuktikan salah satu daripada lebih
+
+2
+00:00:03,450 --> 00:00:08,980
+keputusan yang berguna dalam geometri, dan itulah sudut yang terterap
+
+3
+00:00:08,980 --> 00:00:14,950
+hanya sudut yang berbucu duduk di atas lilitan
+
+4
+00:00:14,950 --> 00:00:17,080
+bulatan.
+
+5
+00:00:17,080 --> 00:00:19,800
+Jadi itu ialah sudut terterap kita
+
+6
+00:00:19,800 --> 00:00:24,950
+Saya akan menunjukkan oleh psi - Saya akan menggunakan psi bagi sudut terterap
+
+7
+00:00:24,950 --> 00:00:27,170
+dan sudut dalam video ini.
+
+8
+00:00:27,170 --> 00:00:33,530
+Psi itu, sudut terterap, akan menjadi tepat 1/2 daripada
+
+9
+00:00:33,530 --> 00:00:37,880
+sudut pusat yang bertentangan lengkuk yang sama.
+
+10
+00:00:37,880 --> 00:00:40,730
+Maka saya hanya gunakan banyak perkataan yang menarik, tetapi saya fikir anda
+
+11
+00:00:40,730 --> 00:00:41,650
+dapat apa yang saya cuba sampaikan
+
+12
+00:00:41,650 --> 00:00:42,820
+Maka ini ialah psi
+
+13
+00:00:42,820 --> 00:00:44,470
+Ini ialah sudut terterap
+
+14
+00:00:44,470 --> 00:00:48,710
+Ia duduk, puncak duduk pada lilitan
+
+15
+00:00:48,710 --> 00:00:52,570
+Dan jika anda lukis 2 tipis yang keluar daripada sudut ini
+
+16
+00:00:52,570 --> 00:00:56,040
+atau 2 kord yang mendefinisikan sudut ini, ia bersilang
+
+17
+00:00:56,040 --> 00:00:57,340
+pada hujung bulatan
+
+18
+00:00:57,340 --> 00:01:00,390
+Dan jika anda lihat pada bahagian lilitan bulatan
+
+19
+00:01:00,390 --> 00:01:03,730
+iaitu di dalamnya, itu ialah lengkuk
+
+20
+00:01:03,730 --> 00:01:06,160
+bertentangan dengan psi
+
+21
+00:01:06,160 --> 00:01:09,010
+Kesemuanya ayat yang gah, tetapi saya fikir ideanya
+
+22
+00:01:09,010 --> 00:01:09,920
+agak jelas
+
+23
+00:01:09,920 --> 00:01:28,485
+Di sini ialah lengkuk bertentangan dengan psi, dimana psi ialah
+
+24
+00:01:28,485 --> 00:01:31,560
+sudut terterap si sini, puncaknya duduk
+
+25
+00:01:31,560 --> 00:01:32,400
+pada lilitan
+
+26
+00:01:32,400 --> 00:01:37,920
+Sekarang, pusat sudut ialah satu sudut dimana puncaknya
+
+27
+00:01:37,920 --> 00:01:39,460
+terletak pada tengah bulatan
+
+28
+00:01:39,460 --> 00:01:41,880
+Mari saya katakan di sini
+
+29
+00:01:41,880 --> 00:01:45,510
+Ianya di sini, pada tengah bulatan
+
+30
+00:01:45,510 --> 00:01:51,360
+Maka mari saya lukiskan pusat bulatan yang bertentangan dengan lengkuk yang sama ini
+
+31
+00:01:51,360 --> 00:01:58,470
+Maka ia kelihatan seperti sudut tengah bertentangan dengan lengkuk yang sama
+
+32
+00:01:58,470 --> 00:01:59,390
+Seperti itu
+
+33
+00:01:59,390 --> 00:02:01,440
+Kita panggil ini theta
+
+34
+00:02:01,440 --> 00:02:06,030
+Maka sudut ini ialah psi, sudut ini ialah theta
+
+35
+00:02:06,030 --> 00:02:10,120
+Apa yang saya akan buktikan dalam video ini ialah psi selalu
+
+36
+00:02:10,120 --> 00:02:14,050
+akan menjadi bersamaan dengan 1/2 theta
+
+37
+00:02:14,050 --> 00:02:18,220
+Maka jika saya beritahu anda psi ialah bersamaan dengan, saya tidak tahu..
+
+38
+00:02:18,220 --> 00:02:21,330
+25 darjah, mungkin anda akan segera tahu bahawa theta
+
+39
+00:02:21,330 --> 00:02:23,090
+harus menjadi bersamaan dengan 50 darjah
+
+40
+00:02:23,090 --> 00:02:26,080
+Atau jika saya beritahu anda theta ialah 80 darjah, kemudian anda akan
+
+41
+00:02:26,080 --> 00:02:29,300
+segera tahu bahawa psi ialah 40 darjah
+
+42
+00:02:29,300 --> 00:02:31,500
+Mari kita buktikan ini
+
+43
+00:02:31,500 --> 00:02:34,520
+Mari saya jelaskannya
+
+44
+00:02:34,520 --> 00:02:37,730
+Maka tempat yang baik untuk mulakannya, atau tempat yang
+
+45
+00:02:37,730 --> 00:02:40,460
+saya akan mulakan, ialah kes yang istimewa
+
+46
+00:02:40,460 --> 00:02:45,250
+Saya akan lukisan sudut terterap, tetapi satu daripada kord
+
+47
+00:02:45,250 --> 00:02:47,910
+yang didefinisikan akan menjadi diameter bulatan
+
+48
+00:02:47,910 --> 00:02:50,526
+Maka ia tidak akan menjadi kes yang umum, ini akan jadi
+
+49
+00:02:50,526 --> 00:02:51,320
+kes istimewa
+
+50
+00:02:51,320 --> 00:02:55,325
+Maka mari saya lihat, ini ialah tengah bulatan
+
+51
+00:02:55,325 --> 00:02:59,030
+Saya cuba perhatikannya
+
+52
+00:02:59,030 --> 00:03:00,770
+Pusat kelihatan seperti itu
+
+53
+00:03:00,770 --> 00:03:04,210
+Maka mari saya lukiskan diameter
+
+54
+00:03:04,210 --> 00:03:06,440
+Maka diameter kelihatan seperti itu
+
+55
+00:03:06,440 --> 00:03:09,410
+Mari saya definisikan sudut terterap
+
+56
+00:03:09,410 --> 00:03:11,860
+Diameter ini ialah satu bahagian daripadanya
+
+57
+00:03:11,860 --> 00:03:15,910
+Dan bahagian yang lain mungkin seperti itu
+
+58
+00:03:15,910 --> 00:03:20,520
+Maka mari saya panggil ini psi
+
+59
+00:03:20,520 --> 00:03:27,120
+Jika itu psi, panjang di sini ialah radius-- itu
+
+60
+00:03:27,120 --> 00:03:29,330
+radius kita daripada bulatan kita
+
+61
+00:03:29,330 --> 00:03:33,080
+Ini ialah panjang di sini dan akan menjadi radius
+
+62
+00:03:33,080 --> 00:03:35,760
+bulatan kita daripada pusat lilitan
+
+63
+00:03:35,760 --> 00:03:38,130
+Lilitan anda disefinisikan daripada semua titik
+
+64
+00:03:38,130 --> 00:03:40,340
+yang betul jarak satu radius daripada pusat
+
+65
+00:03:40,340 --> 00:03:43,610
+Maka itu juga radius
+
+66
+00:03:43,610 --> 00:03:47,920
+Sekarang, segi tiga ini ialah segi tiga sama kaki
+
+67
+00:03:47,920 --> 00:03:49,890
+Ia ada 2 bahagian yang sama
+
+68
+00:03:49,890 --> 00:03:51,880
+2 bahagian yang betul-betul sama
+
+69
+00:03:51,880 --> 00:03:54,630
+Kita tahu bahawa apabila kita ada dua bahagian yang sama,
+
+70
+00:03:54,630 --> 00:03:57,290
+sudut tapak mereka haruslah sama
+
+71
+00:03:57,290 --> 00:04:00,640
+Maka ini juga sama dengan psi
+
+72
+00:04:00,640 --> 00:04:02,130
+Anda mungkin tidak kenalnya kerana ia
+
+73
+00:04:02,130 --> 00:04:03,180
+condong seperti itu
+
+74
+00:04:03,180 --> 00:04:05,720
+Tetapi saya fikir banyak daripada kita apabila melihat segi tiga yang kelihatan
+
+75
+00:04:05,720 --> 00:04:10,940
+seperti ini, jika saya beritahu anda ini ialah r dan ini r,
+
+76
+00:04:10,940 --> 00:04:17,860
+2 bahagian itu ialah sama dan jika ini si,kemudian anda perlu
+
+77
+00:04:17,860 --> 00:04:20,830
+tahu sudut ini juga akan menjadi psi
+
+78
+00:04:20,830 --> 00:04:23,930
+Tapak sudut ialah sama dengan segi tiga sama kaki
+
+79
+00:04:23,930 --> 00:04:26,720
+Maka ini ialah psi, itu juga psi
+
+80
+00:04:26,720 --> 00:04:29,770
+Sekarang, mari saya lihat pada pusat sudut
+
+81
+00:04:29,770 --> 00:04:32,710
+Ini ialah pusat sudut yang subtend lengkuk yang sama
+
+82
+00:04:32,710 --> 00:04:35,920
+Mari warnakan lengkuk yang mereka ialah subtend
+
+83
+00:04:35,920 --> 00:04:40,300
+Ini ialah lengkuk dan kedua-duanya akan bertentangan
+
+84
+00:04:40,300 --> 00:04:44,350
+Maka ini ialah pusat sudut di sini, theta
+
+85
+00:04:44,350 --> 00:04:49,000
+Sekarang, jika sudut ini theta, apakah akan jadi pada sudut ini?
+
+86
+00:04:49,000 --> 00:04:50,620
+Sudut ini di sini
+
+87
+00:04:50,620 --> 00:04:53,010
+Baiklah, sudut ini ialah tambahan kepada theta
+
+88
+00:04:53,010 --> 00:04:56,640
+Maka ianya 180 tolak theta
+
+89
+00:04:56,640 --> 00:04:59,560
+Apabila anda tambahkan dua sudut ini bersama, anda pergi 180 darjah
+
+90
+00:04:59,560 --> 00:05:01,750
+disekeliling atau ia akan membentuk garisan
+
+91
+00:05:01,750 --> 00:05:03,790
+Ia tambahan kepada satu sama lain
+
+92
+00:05:03,790 --> 00:05:06,740
+Sekarang kita juga tahu 3 sudut ini duduk
+
+93
+00:05:06,740 --> 00:05:08,260
+dalam segi tiga yang sama
+
+94
+00:05:08,260 --> 00:05:12,030
+Maka mereka harus ditambahkan kepada 180 darjah
+
+95
+00:05:12,030 --> 00:05:19,300
+Maka kita dapat psi-- psi ini tambah psi itu tambah psi tambah
+
+96
+00:05:19,300 --> 00:05:25,420
+sudut ini, iaitu 180 tolak theta tambah 180 tolak theta
+
+97
+00:05:25,420 --> 00:05:29,130
+3 sudut ini harus ditambahkan kepada 180 darjah
+
+98
+00:05:29,130 --> 00:05:31,740
+Ada 3 sudut segi tiga
+
+99
+00:05:31,740 --> 00:05:34,605
+Sekarang kita boleh tolak 180 daripada kedua-dua bahagian
+
+100
+00:05:37,140 --> 00:05:43,260
+psi tambah psi ialah 2 psi tolak theta ialah bersamaan dengan 0
+
+101
+00:05:43,260 --> 00:05:44,840
+Tambah theta kepada kedua-dua bahagian
+
+102
+00:05:44,840 --> 00:05:48,770
+Anda dapat 2 psi bersamaan dengan theta
+
+103
+00:05:48,770 --> 00:05:52,850
+Darabkan kedua-dua bahagian dengan 1/2 atau bahagi kedua-dua bahagian dengan 2
+
+104
+00:05:52,850 --> 00:05:56,680
+Anda dapat psi ialah bersamaan dengan 1/2 theta
+
+105
+00:05:56,680 --> 00:06:00,070
+Maka kita baru buktikan apa yang kita setkan untuk buktikan
+
+106
+00:06:00,070 --> 00:06:07,120
+kes istimewa dimana sudut terterap kita jelas, iaitu salah satu daripada
+
+107
+00:06:07,120 --> 00:06:11,200
+sinar, jika anda mahu lihat garis-garis ini sebagai sinar, dimana salah satu daripada sinar
+
+108
+00:06:11,200 --> 00:06:15,220
+yang menentukan sudut terterap
+
+109
+00:06:15,220 --> 00:06:17,180
+sepanjang diameter
+
+110
+00:06:17,180 --> 00:06:19,200
+Diameter ialah sebahagian bentuk daripada sinar itu
+
+111
+00:06:19,200 --> 00:06:21,720
+Maka ini ialah kes istimewa dimana satu pinggiran ialah
+
+112
+00:06:21,720 --> 00:06:23,760
+duduk pada diameter
+
+113
+00:06:23,760 --> 00:06:27,660
+Maka kita boleh membuat aggapan umum tentang ini
+
+114
+00:06:27,660 --> 00:06:30,580
+Maka sekarang kita tahu jika ini ialah 50 maka ini pula
+
+115
+00:06:30,580 --> 00:06:32,820
+akan menjadi 100 darjah dan sebaliknya, bukan?
+
+116
+00:06:32,820 --> 00:06:37,460
+Walau apa pun psi atau apa-apa theta, psi akan menjadi 1/2
+
+117
+00:06:37,460 --> 00:06:40,450
+daripada itu, atau apa-apa pun psi, theta akan menjadi
+
+118
+00:06:40,450 --> 00:06:41,830
+2 kali daripada itu
+
+119
+00:06:41,830 --> 00:06:44,110
+Dan sekarang ini akan digunakan bila-bila masa
+
+120
+00:06:44,110 --> 00:06:55,440
+Kita boleh guna tanggapan ini bila-bila masa-- maka hanya gunakan
+
+121
+00:06:55,440 --> 00:06:59,460
+keputusan yang kita baru dapat, kita boleh melakukan tanggapan umum
+
+122
+00:06:59,460 --> 00:07:02,890
+walaupun ini tidak akan digunakan untuk semua sudut terterap
+
+123
+00:07:02,890 --> 00:07:05,090
+Mari kita buat sudut terterap yang kelihatan seperti ini
+
+124
+00:07:10,680 --> 00:07:12,980
+Maka situasi ini, di tengah, anda boleh lihat ia sebagai
+
+125
+00:07:12,980 --> 00:07:15,470
+bahagian dalam sudut
+
+126
+00:07:15,470 --> 00:07:17,150
+Itu ialah sudut terterap saya
+
+127
+00:07:17,150 --> 00:07:18,890
+Dan saya mahu cari hubungan antara ini
+
+128
+00:07:18,890 --> 00:07:22,450
+sudut terterap dan sudut tengah yang subtend
+
+129
+00:07:22,450 --> 00:07:24,360
+lengkuk yang sama
+
+130
+00:07:24,360 --> 00:07:29,880
+Maka itu ialah lengkuk tengah saya yang bertentangan lengkuk yang sama
+
+131
+00:07:29,880 --> 00:07:33,550
+Baiklah, anda mungkin katakan, hey, gee, tiada satu pun berakhir atau
+
+132
+00:07:33,550 --> 00:07:37,310
+kord ini yang menentukan sudut ini, tiada satu pun diameter
+
+133
+00:07:37,310 --> 00:07:40,400
+tetapi apa yang kta boleh lakukan ialah kita boleh lukis satu diameter
+
+134
+00:07:40,400 --> 00:07:43,300
+Jika pusat ialah atara 2 kord ini,
+
+135
+00:07:43,300 --> 00:07:46,100
+kita boleh lukis satu diameter
+
+136
+00:07:46,100 --> 00:07:48,920
+Kita boleh lukis satu diameter seperti itu
+
+137
+00:07:48,920 --> 00:07:51,680
+Jika kita lukis satu diameter seperti itu, jika kita tentukan sudut ini
+
+138
+00:07:51,680 --> 00:07:55,430
+sebagai psi 1, sudut itu ialah psi 2
+
+139
+00:07:55,430 --> 00:07:58,320
+Jelasnya psi ialah rumusan kedua-dua sudut
+
+140
+00:07:58,320 --> 00:08:04,350
+Dan kita boleh panggil sudut ini theta 1, da sudut ini theta 2
+
+141
+00:08:04,350 --> 00:08:07,240
+Kita boleh tahu itu dengan segera, hanya gunakan keputusan yang kita dapat
+
+142
+00:08:07,240 --> 00:08:12,540
+kerana kita ada satu bahagian sudut kita dalam kedua-dua kes
+
+143
+00:08:12,540 --> 00:08:18,260
+diameter sekarang, kita tahu psi 1 akan menjadi
+
+144
+00:08:18,260 --> 00:08:22,010
+bersamaan dengan 1/2 theta 1
+
+145
+00:08:22,010 --> 00:08:24,870
+Dan kita tahu psi 2 akan menjadi 1/2 theta 2
+
+146
+00:08:24,870 --> 00:08:30,140
+Psi 2 akan menjadi 1/2 theta 2
+
+147
+00:08:30,140 --> 00:08:39,850
+Maka psi, iaitu psi 1 tambah psi 2, maka psi 1 tambah psi 2 akan menjadi
+
+148
+00:08:39,850 --> 00:08:41,120
+bersamaan dengan kedua-dua ini
+
+149
+00:08:41,120 --> 00:08:47,580
+1/2 theta 1 tambah 1/2 theta 2
+
+150
+00:08:47,580 --> 00:08:51,180
+psi 1 tambah psi 2, ini ialah bersamaan dengan sudut terterap yang pertama
+
+151
+00:08:51,180 --> 00:08:53,850
+yang kita mahu selesaikan, hanya psi biasa
+
+152
+00:08:53,850 --> 00:08:54,980
+Itu ialah psi
+
+153
+00:08:54,980 --> 00:08:58,350
+Dan di sini, ini ialah bersamaan dengan 1/2 darab
+
+154
+00:08:58,350 --> 00:09:00,960
+theta 1 tambah theta 2
+
+155
+00:09:00,960 --> 00:09:03,960
+Apakah theta 1 tambah theta 2?
+
+156
+00:09:03,960 --> 00:09:06,470
+Baiklah, itu ialah theta kita yang asal
+
+157
+00:09:06,470 --> 00:09:08,490
+yang kita mahu selesaikan
+
+158
+00:09:08,490 --> 00:09:12,080
+Maka sekarang kita lihat bahawa psi ialah bersamaan dengan 1/2 theta
+
+159
+00:09:12,080 --> 00:09:14,710
+Maka sekarang kita telah buktikan ia lebih kepada kes yang umum
+
+160
+00:09:14,710 --> 00:09:20,020
+dimana pusat kita ialah dalam 2 sinar
+
+161
+00:09:20,020 --> 00:09:21,640
+yang menentukan sudut itu.
+
+162
+00:09:21,640 --> 00:09:27,100
+Sekarang, kita masih tidak dapat kenal pasti situasi yang lebih sukar sekarang
+
+163
+00:09:27,100 --> 00:09:33,660
+situasi yang lebih umum dimana jika ini ialah pusat kepada
+
+164
+00:09:33,660 --> 00:09:39,420
+bulatan kita dan saya ada sudut terterap dimana pusatnya
+
+165
+00:09:39,420 --> 00:09:40,990
+tidak duduk dalam 2 kord
+
+166
+00:09:40,990 --> 00:09:41,820
+Mari saya lukiskan itu
+
+167
+00:09:41,820 --> 00:09:48,800
+Maka ia akan menjadi puncak saya, dan saya akan tukarkan warna,
+
+168
+00:09:48,800 --> 00:09:51,540
+maka mari katakan itu ialah salah satu kord yang menentukan
+
+169
+00:09:51,540 --> 00:09:53,320
+sudut, seperti itu
+
+170
+00:09:53,320 --> 00:09:57,860
+Dan mari katakan itu ialah kord lain yang menentukan
+
+171
+00:09:57,860 --> 00:09:59,170
+sudut seperti itu
+
+172
+00:09:59,170 --> 00:10:02,500
+Maka bagaimana kita cari hubungan antaranya,
+
+173
+00:10:02,500 --> 00:10:07,910
+mari panggil, sudut ini di sini, kita panggil ia sebagai psi 1
+
+174
+00:10:07,910 --> 00:10:13,050
+Bagaimana kita cari hubungan antara psi 1 dan pusat sudut
+
+175
+00:10:13,050 --> 00:10:16,160
+yang bertentangan dengan lengkuk yang sama?
+
+176
+00:10:16,160 --> 00:10:19,530
+Maka bila saya bercakap tentang lengkuk yang sama, ianya di situ
+
+177
+00:10:19,530 --> 00:10:22,720
+Maka sudut tengah yang bertentangan dengan lengkuk yang sama
+
+178
+00:10:22,720 --> 00:10:23,660
+akan kelihatan seperti ini
+
+179
+00:10:28,150 --> 00:10:32,910
+Mari kita panggil ia sebagai theta 1
+
+180
+00:10:32,910 --> 00:10:36,770
+Apa yang kita boleh lakukan ialah kita gunakan apa yang kita telah belajar, apabila satu bahagian
+
+181
+00:10:36,770 --> 00:10:39,350
+sudut terterap kita ialah satu diameter
+
+182
+00:10:39,350 --> 00:10:41,135
+Maka, mari kita bina itu
+
+183
+00:10:41,135 --> 00:10:44,260
+Mri saya lukiskan satu diameter di sini
+
+184
+00:10:44,260 --> 00:10:47,010
+Keputusan yang kita mahu ialah ianya patut menjadi 1.2
+
+185
+00:10:47,010 --> 00:10:48,180
+daripada ini, mari buktikannya
+
+186
+00:10:48,180 --> 00:10:57,560
+Mari lukis diameter seperti itu
+
+187
+00:10:57,560 --> 00:11:09,490
+Mari kita panggil diameter ini sebagai psi 2
+
+188
+00:11:09,490 --> 00:11:14,770
+Dan ianya bertentangan dengan lengkuk di sini--- mari saya lakukan
+
+189
+00:11:14,770 --> 00:11:16,140
+ia dalam warna yang lebih gelap
+
+190
+00:11:16,140 --> 00:11:19,770
+Ianya bertentangan dengan lengkuk di sini
+
+191
+00:11:19,770 --> 00:11:22,360
+Maka sudut tengah yang bertentangan dengan lengkuk yang sama,
+
+192
+00:11:22,360 --> 00:11:25,300
+mari saya panggil itu sebagai theta 2
+
+193
+00:11:25,300 --> 00:11:30,890
+Sekarang, kita tahu daripada bahagian awal video ini bahawa psi 2
+
+194
+00:11:30,890 --> 00:11:37,600
+akan menjadi bersamaan dengan 1/2 theta 2, bukan?
+
+195
+00:11:37,600 --> 00:11:40,760
+Mereka berkongsi--- diameternya di sini
+
+196
+00:11:40,760 --> 00:11:44,300
+Diameter ialah satu daripada kord yang membentuk sudut
+
+197
+00:11:44,300 --> 00:11:47,500
+Maka psi 2 akan menjadi bersamaan dengan 1/2 theta 2
+
+198
+00:11:50,140 --> 00:11:52,810
+Ini ialah apa yang kita lakukan dalam video yang lepas, bukan?
+
+199
+00:11:52,810 --> 00:11:55,430
+Ini ialah sudut terterap
+
+200
+00:11:55,430 --> 00:11:59,550
+Satu daripada kord yang menentukannya ialah ianya duduk pada diameter
+
+201
+00:11:59,550 --> 00:12:02,740
+Maka ini akan menjadi 1/2 daripada sudut ini,
+
+202
+00:12:02,740 --> 00:12:05,980
+sudut tengah yang bertentangan dengan lengkuk yang sama
+
+203
+00:12:05,980 --> 00:12:09,000
+Sekarang, mari lihat pada sudut yang lebih besar
+
+204
+00:12:09,000 --> 00:12:11,680
+Sudut yang lebih besar di sini
+
+205
+00:12:11,680 --> 00:12:14,240
+Psi 1 tambah psi 2
+
+206
+00:12:14,240 --> 00:12:22,720
+Baiklah, sudut yang lebih besar ialah psi 1 tambah psi 2
+
+207
+00:12:22,720 --> 00:12:28,680
+Sekali lagi, ianya bertentangan dengan keseluruhan lengkuk di sini dan ia
+
+208
+00:12:28,680 --> 00:12:32,100
+ada diameter sebagai salah satu kord yang menentukan
+
+209
+00:12:32,100 --> 00:12:34,310
+sudut besar ini
+
+210
+00:12:34,310 --> 00:12:37,380
+Maka ini akan menjadi 1/2 daripada sudut pusat
+
+211
+00:12:37,380 --> 00:12:38,580
+yang bertentangan dengan lengkuk yang sama
+
+212
+00:12:38,580 --> 00:12:42,270
+Kita akan gunakan apa yang kita telah tunjukkan dalam video in
+
+213
+00:12:42,270 --> 00:12:47,390
+Maka ini akan menjadi bersamaan dengan 1/2 daripada sudut tengah yang besar ini
+
+214
+00:12:47,390 --> 00:12:51,370
+daripada theta 1 tambah theta 2
+
+215
+00:12:54,310 --> 00:12:56,530
+Setakat ini kita telah gunakan semua yang kita telah belajar
+
+216
+00:12:56,530 --> 00:12:58,160
+sebelum ini dala video ini
+
+217
+00:12:58,160 --> 00:13:03,160
+Sekarang, kita telah tahu bahawa psi 2 ialah bersamaan dengan 1/2 theta 2
+
+218
+00:13:03,160 --> 00:13:05,630
+Maka mari saya buat penolakan
+
+219
+00:13:05,630 --> 00:13:07,030
+Ini ialah bersamaan dengan itu
+
+220
+00:13:07,030 --> 00:13:15,330
+Maka kita boleh katakan psi 1 tambah--- selain dari 2, saya akan tuliskan
+
+221
+00:13:15,330 --> 00:13:26,630
+1/2 theta 2 ialah bersamaan dengan 1/2 theta 1 tambah 1/2 theta 2
+
+222
+00:13:30,340 --> 00:13:34,020
+Kita boleh tolakkan 1/2 theta 2 daripada kedua-dua bahagian, dan
+
+223
+00:13:34,020 --> 00:13:35,740
+kita dapat keputusan kita
+
+224
+00:13:35,740 --> 00:13:40,900
+Psi 1 ialah bersamaan dengan 1/2 theta 1
+
+225
+00:13:40,900 --> 00:13:41,970
+Dan sekarang kita telah selesai
+
+226
+00:13:41,970 --> 00:13:44,990
+Kita telah buktikan situasi bahawa sudut terterap
+
+227
+00:13:44,990 --> 00:13:50,680
+selalu 1/2 daripada sudut pusat yang bertentangan dengan lengkuk yang sama,
+
+228
+00:13:50,680 --> 00:13:53,980
+tidak mengira sama ada tengah bulatan ialah
+
+229
+00:13:53,980 --> 00:13:58,990
+dalam sudut, luar sudut, ataupun kita ada
+
+230
+00:13:58,990 --> 00:14:00,950
+diameter pada satu bahagian
+
+231
+00:14:00,950 --> 00:14:05,860
+Maka mana-mana sudut boleh digunakan sebagai rumusan
+
+232
+00:14:05,860 --> 00:14:08,300
+daripada mana-mana atau semua yang kita telah selesaikan
+
+233
+00:14:08,300 --> 00:14:10,190
+Maka diharapkan anda dapati ini berguna dan kita boleh
+
+234
+00:14:10,190 --> 00:14:14,630
+bina keputusan yang lebih menarik
+
+235
+00:14:14,630 --> 00:14:16,460
+bukti geometri.

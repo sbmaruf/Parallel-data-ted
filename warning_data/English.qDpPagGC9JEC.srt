@@ -1,0 +1,127 @@
+1
+00:00:05,270 --> 00:00:08,790
+Gengo is a human powered translation platform
+
+2
+00:00:08,790 --> 00:00:16,850
+that is breaking down language barriers.
+
+3
+00:00:16,850 --> 00:00:24,480
+For example, if you want to send an email overseas, you can get a translation in 2 hours or less!
+
+4
+00:00:24,480 --> 00:00:26,340
+All of our translators are real people
+
+5
+00:00:26,340 --> 00:00:32,460
+so you don't get terrible machine translations.
+
+6
+00:00:32,460 --> 00:00:35,390
+They are all pre-tested native speakers
+
+7
+00:00:35,390 --> 00:00:42,390
+who deliver natural, native sounding translations.
+
+8
+00:00:42,390 --> 00:00:49,730
+Short messages or facebook posts are completed within 10 minutes
+
+9
+00:00:49,730 --> 00:00:53,920
+and only cost a few cents.
+
+10
+00:00:53,920 --> 00:00:58,510
+You can order large amounts of translations through our API
+
+11
+00:00:58,510 --> 00:01:06,149
+Site changes and updates can be automatically ordered for you.
+
+12
+00:01:06,149 --> 00:01:12,359
+Even if you have thousands of product descriptions
+
+13
+00:01:12,359 --> 00:01:17,329
+Our worldwide network of over 5,000 native translators
+
+14
+00:01:17,329 --> 00:01:23,279
+Can quickly handle any amount of work.
+
+15
+00:01:23,279 --> 00:01:27,009
+The Internet has brought the world together but
+
+16
+00:01:27,009 --> 00:01:30,990
+there are still language barriers.
+
+17
+00:01:30,990 --> 00:01:36,590
+We combine crowdsourced translations and our API
+
+18
+00:01:36,590 --> 00:01:49,169
+to take that language barrier and bring it down.
+
+19
+00:01:49,169 --> 00:01:55,369
+At Gengo we have talented employees from all around the world.
+
+20
+00:01:55,369 --> 00:02:00,859
+Our small office might not fit everyone completely, but
+
+21
+00:02:00,859 --> 00:02:04,759
+we have amazing UX and visual designers who
+
+22
+00:02:04,759 --> 00:02:10,709
+can quickly show the world anything you create.
+
+23
+00:02:10,709 --> 00:02:13,300
+Our investors also support what we do and
+
+24
+00:02:13,300 --> 00:02:19,000
+Gengo is a great environment for doing high-impact work with talented staff
+
+25
+00:02:19,000 --> 00:02:26,450
+I expect great things from Gengo!
+
+26
+00:02:26,450 --> 00:02:29,500
+Gengo works with node.js, Postgres, and Python
+
+27
+00:02:29,500 --> 00:02:33,360
+and we're looking for talented web engineers who want to create new and exciting features.
+
+28
+00:02:33,360 --> 00:02:34,840
+If you're interested
+
+29
+00:02:34,840 --> 00:02:38,550
+join our international team
+
+30
+00:02:38,550 --> 00:02:47,590
+and let's break down the language barrier together!
+
+31
+00:02:47,590 --> 00:02:49,600
+I gave up learning Japanese myself
+
+32
+00:02:49,600 --> 99:59:59,999
+But I can survive in Japan thanks to Gengo

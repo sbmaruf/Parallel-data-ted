@@ -1,0 +1,164 @@
+1
+00:00:00,570 --> 00:00:04,010
+Kelab yang mengadungi 9 orang hendak memilih lembaga..
+
+2
+00:00:04,010 --> 00:00:07,600
+3 pegawai, Presiden, Naib Presiden dan Setiausaha.
+
+3
+00:00:07,600 --> 00:00:10,520
+Anggapkan pegawai dipilih secara rawak,
+
+4
+00:00:10,520 --> 00:00:13,390
+apakah kebarangkalian antara pegawai, Marcia menjadi Presiden,
+
+5
+00:00:13,390 --> 00:00:17,300
+Sabita menjadi Naib Presiden dan Robert menjadi Setiausaha.
+
+6
+00:00:17,300 --> 00:00:22,510
+Biar saya tuliskan.
+
+7
+00:00:22,510 --> 00:00:29,800
+Kebarangkalian Marica menjadi Presiden bersamaan dengan Marcia,
+
+8
+00:00:29,795 --> 00:00:34,505
+Naib Presiden bersamaan dengan Sabita
+
+9
+00:00:34,500 --> 00:00:37,380
+dan, Setiausaha adalah bersamaan dengan Robert.
+
+10
+00:00:40,980 --> 00:00:43,630
+Ini merupakan satu hasil kemungkinan.
+
+11
+00:00:44,705 --> 00:00:49,245
+Jadi, 1 hasil daripada jumlah bilangan hasil,
+
+12
+00:00:49,240 --> 00:00:52,920
+daripada jumlah bilangan kemungkinan.
+
+13
+00:00:55,940 --> 00:00:59,000
+Sekarang, apakah jumlah bilangan kemungkinan&gt;
+
+14
+00:00:59,000 --> 00:01:00,670
+Fikirkan...
+
+15
+00:01:00,670 --> 00:01:03,980
+3 kedudukan.
+
+16
+00:01:03,980 --> 00:01:06,920
+Ia ada Presiden, Naib Presiden,
+
+17
+00:01:06,920 --> 00:01:08,670
+dan juga Setiausaha.
+
+18
+00:01:08,670 --> 00:01:10,860
+Anggapkan kita akan mengisikan...
+
+19
+00:01:10,860 --> 00:01:13,060
+...slot presiden dulu.
+
+20
+00:01:14,370 --> 00:01:16,940
+Jadi, kalau kita pilih Presiden dulu, kita belum...
+
+21
+00:01:16,940 --> 00:01:19,880
+...menugaskan sesiapa ke pegawai, jadi...
+
+22
+00:01:19,880 --> 00:01:21,630
+...kita hendak memilih daripada 9 orang.
+
+23
+00:01:21,630 --> 00:01:23,950
+Jadi, ia mempunyai 9 kebarangkalian.
+
+24
+00:01:23,950 --> 00:01:26,530
+Sekarang, apabila memilih Naib Presiden,
+
+25
+00:01:26,530 --> 00:01:29,330
+kita telah memilih seorang sebagai Presiden.
+
+26
+00:01:29,330 --> 00:01:31,740
+Jadi, kita ada 8 untuk dipilih dari.
+
+27
+00:01:31,740 --> 00:01:34,100
+Bila menugaskan Setiausaha, kita telah menugaskan...
+
+28
+00:01:34,100 --> 00:01:36,570
+...Presiden dan Naib Presiden,
+
+29
+00:01:36,570 --> 00:01:38,830
+jadi kita ada 7 orang dipilih dari.
+
+30
+00:01:38,830 --> 00:01:42,190
+Jumlah premutasi atau jumlah bilangan kebarangkalian...
+
+31
+00:01:42,190 --> 00:01:44,850
+...atau jumlah bilangan cara untuk memilih...
+
+32
+00:01:44,850 --> 00:01:47,820
+...Presiden, Naib Presiden, dan Setiausaha dari 9 orang...
+
+33
+00:01:47,820 --> 00:01:50,990
+akan menjadi 9 darab 8 darab 7.
+
+34
+00:01:50,990 --> 00:01:54,310
+Iaitu, 9 darab 8 adalah 72.
+
+35
+00:01:54,310 --> 00:02:01,890
+72 darab 7, 2 darab 7 adalah 14, 7 darab 7 adalah 49, tambah 1, adalah 50.
+
+36
+00:02:01,890 --> 00:02:07,620
+Jadi ia mempunyai 504 kebarangkalian.
+
+37
+00:02:07,620 --> 00:02:10,790
+Jadi untuk menjawab soalan itu, kebarangkalian Marcia menjadi...
+
+38
+00:02:10,789 --> 00:02:13,079
+Presiden, Sabita menjadi Naib Presiden, Robert menjadi Setiausaha...
+
+39
+00:02:13,080 --> 00:02:15,880
+... adalah 1 daripada jumlah bilangan kebarangkalian, iaitu
+
+40
+00:02:15,880 --> 00:02:19,960
+1 daripada 504.
+
+41
+00:02:19,960 --> 00:02:21,780
+Itulah kebarangkaliannya.
+

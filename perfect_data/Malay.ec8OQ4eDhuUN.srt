@@ -1,0 +1,367 @@
+1
+00:00:00,660 --> 00:00:04,750
+Kita disuruh untuk meringkaskan 8 tambah 5 darab 4 tolak, dan
+
+2
+00:00:04,750 --> 00:00:09,010
+dalam kurungan, 6 tambah 10 bahagi 2 tambah 44.
+
+3
+00:00:09,010 --> 00:00:12,120
+Bila anda nampak ekspresi yang gila seperti ini,
+
+4
+00:00:12,120 --> 00:00:15,360
+di mana anda ada kurungan dan penambahan dan penolakan dan
+
+5
+00:00:15,360 --> 00:00:17,760
+pembahagian, anda mesti ingat tentang
+
+6
+00:00:17,760 --> 00:00:19,000
+urutan operasi.
+
+7
+00:00:19,000 --> 00:00:20,970
+Biar saya tuliskan di bawah sini.
+
+8
+00:00:20,970 --> 00:00:23,420
+Bila anda buat urutan operasi,
+
+9
+00:00:23,420 --> 00:00:24,820
+atau bila anda menilai sesuatu ekspresi, anda
+
+10
+00:00:24,820 --> 00:00:29,520
+hendaklah selalu ingat bahawa keutamaan
+
+11
+00:00:29,520 --> 00:00:30,770
+selalu diberikan kepada kurungan.
+
+12
+00:00:37,850 --> 00:00:40,060
+Ia adalah tanda kurung di sini.
+
+13
+00:00:40,060 --> 00:00:40,670
+--
+
+14
+00:00:40,670 --> 00:00:42,320
+Itu ialah kurungan.
+
+15
+00:00:42,320 --> 00:00:44,030
+Itu diberi keutamaan.
+
+16
+00:00:44,030 --> 00:00:46,120
+Lepas itu, ialah eksponen.
+
+17
+00:00:46,120 --> 00:00:48,240
+Tiada eksponen dalam ekspresi ini, tapi
+
+18
+00:00:48,240 --> 00:00:52,150
+saya tuliskan untuk rujukan masa depan : eksponen.
+
+19
+00:00:52,150 --> 00:00:55,000
+Saya suka fikirkan bahawa kurungan selalu diberi
+
+20
+00:00:55,000 --> 00:00:58,730
+keutamaan, lepas itu, kita ikut turutan ke bawah,
+
+21
+00:00:58,730 --> 00:01:01,610
+atau saya teka kita patut kata--
+
+22
+00:01:01,610 --> 00:01:05,400
+dalam turutan ke bawah mengikut tempoh pengiraan.
+
+23
+00:01:05,400 --> 00:01:07,520
+Bila saya kata pantas, maksudnya betapa pantas ia berkembang.
+
+24
+00:01:07,520 --> 00:01:09,800
+Bila saya mengambil sesuatu dalam eksponen, bila saya
+
+25
+00:01:09,800 --> 00:01:13,270
+mengambil sesuatu ke kuasa, ia berkembang sangat pantas.
+
+26
+00:01:13,270 --> 00:01:15,730
+Ia berkembang lebih perlahan jika saya
+
+27
+00:01:15,730 --> 00:01:17,760
+darab atau bahagi, jadi itu
+
+28
+00:01:17,760 --> 00:01:21,800
+diletakkan kemudian : darab atau bahagi.
+
+29
+00:01:21,800 --> 00:01:24,910
+Pendaraban dan pembahagian seterusnya, dan akhirnya
+
+30
+00:01:24,910 --> 00:01:27,550
+ialah penambahan dan penolakan.
+
+31
+00:01:27,550 --> 00:01:29,950
+Operasi ini adalah paling perlahan.
+
+32
+00:01:29,950 --> 00:01:31,450
+Ini cepat sikit.
+
+33
+00:01:31,450 --> 00:01:33,610
+Ini operasi paling pantas.
+
+34
+00:01:33,610 --> 00:01:35,290
+Dan kurungan,
+
+35
+00:01:35,290 --> 00:01:36,980
+selalu diberikan keutamaan.
+
+36
+00:01:36,980 --> 00:01:38,180
+Mari kita gunakan di sini.
+
+37
+00:01:38,180 --> 00:01:40,290
+Biar saya menulis semula ekspresi ini.
+
+38
+00:01:40,290 --> 00:01:47,960
+8 tambah 5 darab 4 tolak, dalam kurungan, 6 tambah
+
+39
+00:01:47,960 --> 00:01:53,150
+10 bahagi 2 tambah 44.
+
+40
+00:01:53,150 --> 00:01:55,730
+Kita buat apa yang ada dalam kurungan dulu,
+
+41
+00:01:55,730 --> 00:02:00,050
+kita ada kurungan di sini dan di sana.
+
+42
+00:02:00,050 --> 00:02:02,170
+Kurungan ini jelas dan mudah.
+
+43
+00:02:02,170 --> 00:02:05,120
+Apa yang terdapat dalam kurungan sudah dinilaikan,
+
+44
+00:02:05,120 --> 00:02:08,009
+jadi kita boleh lihatnya sebagai 5 darab 4.
+
+45
+00:02:08,009 --> 00:02:11,000
+Mari kita nilaikan.
+
+46
+00:02:11,000 --> 00:02:14,935
+Ini akan menjadi 8 tambah--
+
+47
+00:02:14,935 --> 00:02:16,650
+bila anda menilai kurungan ini,
+
+48
+00:02:16,650 --> 00:02:18,980
+anda dapat 5, dan bila anda
+
+49
+00:02:18,980 --> 00:02:21,070
+menilai kurungan itu, anda dapat 4, dan
+
+50
+00:02:21,070 --> 00:02:22,930
+mereka di sebelah satu sama lain, jadi anda darabkan.
+
+51
+00:02:22,930 --> 00:02:28,170
+5 darab 4 ialah 20--tolak--biar saya
+
+52
+00:02:28,170 --> 00:02:29,960
+konsisten dengan warna-warna.
+
+53
+00:02:29,960 --> 00:02:34,290
+Biar saya tulis kurungan seterusnya di sini, dan
+
+54
+00:02:34,290 --> 00:02:38,050
+di dalamnya, kita akan menilai ini terlebih dahulu.
+
+55
+00:02:38,050 --> 00:02:40,080
+Biar saya tutup kurungan di sana.
+
+56
+00:02:40,080 --> 00:02:43,280
+Dan kita tambah 44.
+
+57
+00:02:43,280 --> 00:02:46,250
+Apakah nilai ini
+
+58
+00:02:46,250 --> 00:02:47,800
+dalam kurungan?
+
+59
+00:02:47,800 --> 00:02:49,170
+Anda mungkin tergoda untuk--biar saya
+
+60
+00:02:49,170 --> 00:02:50,160
+mulakan dari kiri ke kanan.
+
+61
+00:02:50,160 --> 00:02:53,770
+6 tambah 10 ialah 16, bahagi dengan 2 dan
+
+62
+00:02:53,770 --> 00:02:54,780
+kamu akan mendapat 8.
+
+63
+00:02:54,780 --> 00:02:57,080
+Tapi ingat : urutan operasi.
+
+64
+00:02:57,080 --> 00:03:01,760
+Pembahagian diberi keutamaan. jadi anda
+
+65
+00:03:01,760 --> 00:03:04,850
+hendaklah selesaikan pembahagian terlebih dahulu,
+
+66
+00:03:04,850 --> 00:03:05,790
+dan kita boleh tuliskan sebegini di sini.
+
+67
+00:03:05,790 --> 00:03:07,960
+Anda boleh letakkan lebih banyak kurungan.
+
+68
+00:03:07,960 --> 00:03:09,790
+Biar saya buatnya dalam warna ungu.
+
+69
+00:03:09,790 --> 00:03:13,200
+Anda boleh letakkan lebih banyak kurungan secara bayangan di sini untuk
+
+70
+00:03:13,200 --> 00:03:16,110
+menekankan fakta bahawa anda akan
+
+71
+00:03:16,110 --> 00:03:17,760
+buat pembahagian terlebih dahulu.
+
+72
+00:03:17,760 --> 00:03:24,740
+10 bahagi 2 ialah 5, jadi ini menghasilkan 6, tambah 10
+
+73
+00:03:24,740 --> 00:03:27,560
+bahagi dengan 2 , ialah 5.
+
+74
+00:03:27,560 --> 00:03:28,730
+6 tambah 5.
+
+75
+00:03:28,730 --> 00:03:32,230
+Kita masih kena menilaikan kurungan ini, jadi
+
+76
+00:03:32,230 --> 00:03:34,600
+hasilnya---apakah 6 tambah 5?
+
+77
+00:03:34,600 --> 00:03:36,050
+Itu 11.
+
+78
+00:03:36,050 --> 00:03:38,630
+Kita tinggal dengan 20--biar saya
+
+79
+00:03:38,630 --> 00:03:39,630
+tuliskan semula.
+
+80
+00:03:39,630 --> 00:03:44,050
+Kita ada 8 tambah 20 tolak 6 tambah 5,
+
+81
+00:03:44,050 --> 00:03:47,000
+iaitu 11, tambah 44.
+
+82
+00:03:47,000 --> 00:03:50,820
+Kita ada semua dalam peringkat operasi ini,
+
+83
+00:03:50,820 --> 00:03:53,580
+kita boleh buat dari kiri ke kanan.
+
+84
+00:03:53,580 --> 00:03:58,770
+Jadi 8 + 20 ialah 28, jadi kamu boleh lihatnya sebagai
+
+85
+00:03:58,770 --> 00:04:01,890
+28 - 11 + 44.
+
+86
+00:04:01,890 --> 00:04:06,030
+28 - 11-- 28 tolak 10 akan menjadi 18, jadi ini
+
+87
+00:04:06,030 --> 00:04:07,386
+akan menjadi 17.
+
+88
+00:04:07,386 --> 00:04:10,630
+Ini akan menjadi 17 + 44.
+
+89
+00:04:10,630 --> 00:04:16,209
+17 + 44--saya skrol ke bawah sikit.
+
+90
+00:04:16,209 --> 00:04:21,160
+7 + 44 akan menjadi 51, jadi ini akan menjadi 61.
+
+91
+00:04:21,160 --> 00:04:24,940
+Ini akan menjadi sama dengan 61.
+
+92
+00:04:24,940 --> 00:04:26,460
+Dan kita sudah selesai!

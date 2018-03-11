@@ -1,0 +1,372 @@
+1
+00:00:00,000 --> 00:00:00,820
+.
+
+2
+00:00:00,820 --> 00:00:03,600
+Semasa saya tinggalkan. kita masih lagi tersekat dengan
+
+3
+00:00:03,600 --> 00:00:08,110
+terbitan yg serabut mcm rambut-- kamiran terbit ini--
+
+4
+00:00:08,110 --> 00:00:08,910
+anti terbitan.
+
+5
+00:00:08,910 --> 00:00:10,500
+Ia membuatkan otak sy memerlukan masa
+
+6
+00:00:10,500 --> 00:00:11,150
+sebelum dapat ke terma seterusnya.
+
+7
+00:00:11,150 --> 00:00:14,300
+Kita telah menilai pada 2 dan sekrang kita akan tolak
+
+8
+00:00:14,300 --> 00:00:16,320
+ini dari penilaian 1.
+
+9
+00:00:16,320 --> 00:00:24,120
+tolak 16 pi tolak 4 pi per 3-- oh, maaf.
+
+10
+00:00:24,120 --> 00:00:24,650
+tambah.
+
+11
+00:00:24,650 --> 00:00:26,390
+semuanya akan tolak.
+
+12
+00:00:26,390 --> 00:00:26,910
+Oh tidak. maaf.
+
+13
+00:00:26,910 --> 00:00:28,270
+Ini ialah tolak.
+
+14
+00:00:28,270 --> 00:00:29,290
+Ini tolak.
+
+15
+00:00:29,290 --> 00:00:31,870
+tambah 4 pai.
+
+16
+00:00:31,870 --> 00:00:32,100
+Betul?
+
+17
+00:00:32,100 --> 00:00:33,380
+Kerana x ialah 1.
+
+18
+00:00:33,380 --> 00:00:36,220
+Tolak pai per 2.
+
+19
+00:00:36,220 --> 00:00:38,440
+Dan skrg kita boleh permudahkan.
+
+20
+00:00:38,440 --> 00:00:40,140
+Mari kita lihat apa yg boleh kita buat.
+
+21
+00:00:40,140 --> 00:00:41,340
+Ini mmg agak serabut.
+
+22
+00:00:41,340 --> 00:00:44,750
+.
+
+23
+00:00:44,750 --> 00:00:51,680
+16 pai tolak 8 pai, yg sama dengan 8 pai.
+
+24
+00:00:51,680 --> 00:00:53,030
+Dan kemudian barulah tambah.
+
+25
+00:00:53,030 --> 00:00:55,860
+32 tambah 8 pai.
+
+26
+00:00:55,860 --> 00:00:59,480
+32 pai tambah 8 pai, yg sama dengan 40 pai.
+
+27
+00:00:59,480 --> 00:01:06,110
+Mari kitalihat, saya telah permudahkan ia kepada 40 pai, dan apa yg tolak
+
+28
+00:01:06,110 --> 00:01:08,740
+8 darab 4 ialah 32 pai per 3.
+
+29
+00:01:08,740 --> 00:01:13,830
+.
+
+30
+00:01:13,830 --> 00:01:16,030
+Dan selepas semua itu, mari kita lihat kalau saya boleh permudahkan ini.
+
+31
+00:01:16,030 --> 00:01:18,990
+Katakan, 16 pai tambah 4 pai, iaitu 20 pai.
+
+32
+00:01:18,990 --> 00:01:22,560
+.
+
+33
+00:01:22,560 --> 00:01:23,930
+Dan kemudian,
+
+34
+00:01:23,930 --> 00:01:28,060
+negatif 4 pai per 3 tolak pai per 2.
+
+35
+00:01:28,060 --> 00:01:30,740
+Jadi mari kita samakan penyebut bagi
+
+36
+00:01:30,740 --> 00:01:31,480
+bahagian ini.
+
+37
+00:01:31,480 --> 00:01:36,140
+Jika saya meletakkan semuanya per 6-- 20 pai per 6 ialah sama dengan
+
+38
+00:01:36,140 --> 00:01:45,020
+120 pai per 6, dan kemudian tolak -- 4 pai per 3, jika saya
+
+39
+00:01:45,015 --> 00:01:48,895
+letak ia per 6 akan menjadi 8 pai per 6, bukan?
+
+40
+00:01:48,890 --> 00:01:53,060
+Dan kemudian pai per 2, jika saya letak ia per 6 ia menjadi 3 pai per 6.
+
+41
+00:01:53,060 --> 00:01:56,000
+Jadi negatif 3 pai.
+
+42
+00:01:56,000 --> 00:01:58,240
+Dan semua terma ini yg kita ada akan tolak daripada
+
+43
+00:01:58,240 --> 00:02:04,330
+terma yg sama dengan 120 tolak 11, bukan?
+
+44
+00:02:04,330 --> 00:02:07,260
+Jadi 109 pai per 6.
+
+45
+00:02:07,260 --> 00:02:09,080
+Ini sama dengan 1--betulkah?
+
+46
+00:02:09,080 --> 00:02:11,310
+yeahh, 109 pai per 6.
+
+47
+00:02:11,310 --> 00:02:12,980
+Lihat apa yg terjadi apabila anda membuat masalah di atas?
+
+48
+00:02:12,980 --> 00:02:14,500
+Anda akan mendapat nombor yg tidak cantik.
+
+49
+00:02:14,500 --> 00:02:15,890
+109 pai per 6.
+
+50
+00:02:15,890 --> 00:02:17,970
+Dan apa pula terjemahan bahagian atas ini?
+
+51
+00:02:17,970 --> 00:02:19,000
+Jadi ini ialah apa yg kita akan tolak.
+
+52
+00:02:19,000 --> 00:02:22,960
+Ini selepeas kita menilai anti terbitan pada 1.
+
+53
+00:02:22,955 --> 00:02:24,515
+Dan mari kita permudahkan ini.
+
+54
+00:02:24,510 --> 00:02:29,310
+Yg ini, jika kita letak 3 penyebut sama, iaitu 120 pai
+
+55
+00:02:29,310 --> 00:02:33,190
+per 3 tolak 32 pai per 3.
+
+56
+00:02:33,190 --> 00:02:38,610
+120 tolak 32, mari kita lihat, kita dapat 90-- 88?
+
+57
+00:02:38,610 --> 00:02:39,290
+Betul.
+
+58
+00:02:39,290 --> 00:02:40,680
+88 pai per 3.
+
+59
+00:02:40,680 --> 00:02:44,990
+Dan itu sama dengan 88 pai per 3, ingat,
+
+60
+00:02:44,990 --> 00:02:46,320
+ini cuma bahagian atas.
+
+61
+00:02:46,320 --> 00:02:48,640
+Dan kemudian--ini lebih kepada ulasan pecahan
+
+62
+00:02:48,640 --> 00:02:50,820
+daripada yg lain-- dan kemudian jika saya ingin meletakkan ia per 6,
+
+63
+00:02:50,820 --> 00:02:52,830
+saya akan menggandakan ia.
+
+64
+00:02:52,830 --> 00:02:54,590
+Saya rasa kita sudah hamoir siap.
+
+65
+00:02:54,590 --> 00:02:57,230
+Biar sy tukarkan warna.
+
+66
+00:02:57,230 --> 00:02:59,790
+Jika and dapat penyebut 6--
+
+67
+00:02:59,790 --> 00:03:01,100
+88 pai per 3--mari kita lihat,
+
+68
+00:03:01,100 --> 00:03:06,670
+Jika saya gandakan, saya dapat 160--176, bukan?
+
+69
+00:03:06,670 --> 00:03:11,780
+176 pai tolak ini.
+
+70
+00:03:11,780 --> 00:03:13,910
+tolak 109 pai.
+
+71
+00:03:13,910 --> 00:03:16,210
+Saya yakin buat kesalahan cuai.
+
+72
+00:03:16,210 --> 00:03:19,100
+Ini ialah benda yg paling sy kurang gemar.
+
+73
+00:03:19,100 --> 00:03:21,050
+Pecahan berserabut.
+
+74
+00:03:21,050 --> 00:03:23,430
+jadi 176 tolak 109.
+
+75
+00:03:23,430 --> 00:03:26,000
+Sama juga dengan 76-9.
+
+76
+00:03:26,000 --> 00:03:28,730
+Dan dapat 65.
+
+77
+00:03:28,730 --> 00:03:32,890
+Jawapan terakhir ialah 65 pai per 6.
+
+78
+00:03:32,890 --> 00:03:36,070
+Dimana tidaklah serabut seperti yg dilihat masa
+
+79
+00:03:36,070 --> 00:03:36,690
+mula-mula nakjawab soalan.
+
+80
+00:03:36,690 --> 00:03:37,410
+Ia kelihatan agak kemas.
+
+81
+00:03:37,410 --> 00:03:39,790
+Ini ialah bentuk yg agak ganjil.
+
+82
+00:03:39,790 --> 00:03:45,500
+Ia seperti cincin lebar yg ada--bahagian atas cincin
+
+83
+00:03:45,500 --> 00:03:48,160
+dan bahagian dalam cincin yg mempunyai bucu keras.
+
+84
+00:03:48,160 --> 00:03:50,090
+Tetapi ia melengkung di dalam.
+
+85
+00:03:50,090 --> 00:03:52,830
+Dan kemudian kita akan dapat menyelesaikan jumlah isi padu.
+
+86
+00:03:52,830 --> 00:03:54,900
+Terutamanya--apa yg pelik dengan ini, ialah apabila ia
+
+87
+00:03:54,900 --> 00:04:00,350
+diputar mengikut garis y yg sama dengan -2.
+
+88
+00:04:00,350 --> 00:04:01,740
+Harap saya tidak mengelirukan anda.
+
+89
+00:04:01,740 --> 00:04:06,120
+Ini akan lebih susah seperti masalah isipadu revolusi
+
+90
+00:04:06,120 --> 00:04:09,060
+.
+
+91
+00:04:09,060 --> 00:04:11,530
+Jika anda perlukan lebih, boleh bagi tahu saya.
+
+92
+00:04:11,530 --> 00:04:14,200
+Jumpa lagi dalam video seterusnya.
+
+93
+00:04:14,200 --> 00:04:14,400
+.
+

@@ -1,0 +1,83 @@
+1
+00:00:01,000 --> 00:00:05,000
+I am going to ask you about the problem to learn about a loaded coin.
+
+2
+00:00:05,000 --> 00:00:07,000
+A loaded coin is a coin,
+
+3
+00:00:07,000 --> 00:00:09,000
+that if you flip it,
+
+4
+00:00:09,000 --> 00:00:13,000
+might have a non 0.5 chance
+
+5
+00:00:13,000 --> 00:00:16,000
+of coming up heads or tails.
+
+6
+00:00:16,000 --> 00:00:20,000
+Fair coins always come up 50% heads or tails.
+
+7
+00:00:20,000 --> 00:00:23,000
+Loaded coins might come up, for example,
+
+8
+00:00:23,000 --> 00:00:27,000
+0.9 chance heads and 0.1 chance tails.
+
+9
+00:00:27,000 --> 00:00:30,000
+Your task will be to understand,
+
+10
+00:00:30,000 --> 00:00:31,000
+from coin flips,
+
+11
+00:00:31,000 --> 00:00:33,000
+whether a coin is loaded,
+
+12
+00:00:33,000 --> 00:00:35,000
+and if so, at what probability.
+
+13
+00:00:35,000 --> 00:00:37,000
+I don't want you to solve the problem,
+
+14
+00:00:37,000 --> 00:00:40,000
+but I want you to answer the following questions:
+
+15
+00:00:40,000 --> 00:00:42,000
+Is it partially observable?
+
+16
+00:00:42,000 --> 00:00:44,000
+Yes or no.
+
+17
+00:00:44,000 --> 00:00:46,000
+Is it stochastic?
+
+18
+00:00:46,000 --> 00:00:48,000
+Yes or no.
+
+19
+00:00:48,000 --> 00:00:51,000
+Is it continuous? [Yes or no.]
+
+20
+00:00:51,000 --> 00:00:53,000
+And finally, is it adversarial?
+
+21
+00:00:53,000 --> 99:59:59,999
+Yes or no.

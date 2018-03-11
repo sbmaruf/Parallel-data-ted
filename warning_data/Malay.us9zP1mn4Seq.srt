@@ -1,0 +1,395 @@
+1
+00:00:00,776 --> 00:00:05,142
+Sekarang soalan "Apakah nombor kumpulan yang dipunyai oleh 8 nombor"?
+
+2
+00:00:05,142 --> 00:00:06,541
+Ini kajian yang benar-benar baik
+
+3
+00:00:06,541 --> 00:00:09,255
+Bagi kumpulan yang berbeza daripada nombor yang kita bercakap tentang
+
+4
+00:00:09,255 --> 00:00:11,866
+Jika set pertama yang kita akan mengambil kira
+
+5
+00:00:11,866 --> 00:00:13,984
+Set nombor asli
+
+6
+00:00:13,984 --> 00:00:17,128
+nombor tabii
+
+7
+00:00:17,128 --> 00:00:19,120
+Malah, yang boleh dikira
+
+8
+00:00:19,120 --> 00:00:22,974
+Tidak termasuk sifar
+
+9
+00:00:22,974 --> 00:00:29,202
+1,2,3, dan sebagainya
+
+10
+00:00:29,202 --> 00:00:33,091
+Jelas 8 nombor asli
+
+11
+00:00:33,091 --> 00:00:36,412
+Kita boleh berjanji sehingga 8, boleh menyediakan 8 elemen
+
+12
+00:00:36,412 --> 00:00:40,443
+Jika 8 adalah sebahagian daripada nombor tabii
+
+13
+00:00:40,443 --> 00:00:44,912
+Adalah nombor asli, dan boleh
+
+14
+00:00:44,912 --> 00:00:47,688
+untuk bergerak ke kumpulan kedua
+
+15
+00:00:47,688 --> 00:00:49,618
+Apakah jumlah nombor
+
+16
+00:00:49,618 --> 00:00:54,873
+Nombor bulat, anda berada di sini
+
+17
+00:00:54,873 --> 00:00:57,394
+Dan saya perlu mengatakan nombor asli
+
+18
+00:00:57,394 --> 00:00:59,722
+Kemudian kita sampai ke nombor penuh
+
+19
+00:00:59,722 --> 00:01:00,738
+Nombor-nombor itu dianggap penuh
+
+20
+00:01:00,738 --> 00:01:06,459
+Nombor Asli, tetapi termasuk sifar
+
+21
+00:01:06,459 --> 00:01:11,680
+Mana-mana 0,1,2,3,4 dan seterusnya
+
+22
+00:01:11,680 --> 00:01:13,777
+Jika, seperti yang terbukti mereka termasuk 8
+
+23
+00:01:13,777 --> 00:01:16,864
+Anda akhirnya boleh mendapatkan kepada 8 supaya
+
+24
+00:01:16,864 --> 00:01:18,725
+Dengan mengira semua nombor penuh
+
+25
+00:01:18,725 --> 00:01:20,985
+Atau dalam erti kata lain, ia adalah nombor negatif
+
+26
+00:01:20,985 --> 00:01:24,838
+Mana adalah 8 dan salah seorang daripada mereka
+
+27
+00:01:24,838 --> 00:01:29,042
+Marilah kita sekarang mengembangkan kumpulan kami, dan bergerak ke atas kepada integer
+
+28
+00:01:29,042 --> 00:01:31,724
+Mari kita berfikir tentang integer
+
+29
+00:01:31,724 --> 00:01:34,367
+Sekarang ini adalah semua nombor yang bermula dengan
+
+30
+00:01:34,367 --> 00:01:37,950
+Anda boleh mengira cara regresif, dan kemudian mencerminkan cara ke atas untuk menjadi
+
+31
+00:01:37,950 --> 00:01:44,069
+-3, -2, -1, 0, 1, 2, 3
+
+32
+00:01:44,069 --> 00:01:48,972
+Ia juga jelas bahawa 8 tergolong dalam kumpulan ini, anda masih boleh
+
+33
+00:01:48,972 --> 00:01:50,770
+mengira sehingga hingga 8, pada hakikatnya, ia boleh menjadi
+
+34
+00:01:50,770 --> 00:01:52,713
+Izinkan saya meletakkan cek di sini dan
+
+35
+00:01:52,713 --> 00:01:55,775
+secara umum, kita mempunyai integer yang mengandungi
+
+36
+00:01:55,775 --> 00:01:57,826
+Nombor positif dan negatif
+
+37
+00:01:57,826 --> 00:01:59,658
+dan sifar
+
+38
+00:01:59,658 --> 00:02:06,345
+Jika ini integer
+
+39
+00:02:06,345 --> 00:02:09,953
+Nombor penuh adalah sebahagian daripada integer
+
+40
+00:02:09,953 --> 00:02:14,902
+Sebahagian nombor penuh integer
+
+41
+00:02:14,902 --> 00:02:16,679
+Boleh diambil di sini, jadi
+
+42
+00:02:16,679 --> 00:02:21,624
+Ini adalah nombor penuh
+
+43
+00:02:21,624 --> 00:02:24,173
+Tidak termasuk nombor negatif
+
+44
+00:02:24,173 --> 00:02:29,841
+Ini adalah nombor bukan negatif, integer bukan negatif
+
+45
+00:02:29,841 --> 00:02:34,074
+Sekarang, nombor asli adalah sebahagian daripada ini
+
+46
+00:02:34,074 --> 00:02:39,727
+...
+
+47
+00:02:39,727 --> 00:02:46,992
+...
+
+48
+00:02:46,992 --> 00:02:49,469
+Izinkan saya menjelaskan lebih lanjut
+
+49
+00:02:49,469 --> 00:02:53,919
+Jabatan ini menyediakan penuh
+
+50
+00:02:53,919 --> 00:02:59,324
+Oleh itu nombor tabii kita diwakili di sini
+
+51
+00:02:59,324 --> 00:03:00,824
+Nombor asli yang diwakili di sini
+
+52
+00:03:00,824 --> 00:03:04,726
+No 8 kepunyaan mereka, mana-mana penetapan semula jadi, di tempat yang berada di sini
+
+53
+00:03:04,726 --> 00:03:07,674
+Di samping itu, dia kepunyaan menyediakan penuh dan integer
+
+54
+00:03:07,674 --> 00:03:12,187
+Sekarang kita bercakap tentang nombor relatif
+
+55
+00:03:12,187 --> 00:03:18,038
+nombor relatif
+
+56
+00:03:18,038 --> 00:03:24,718
+Adakah nombor yang mewakili p / q
+
+57
+00:03:24,718 --> 00:03:28,035
+Di mana P dan Q integer
+
+58
+00:03:28,035 --> 00:03:29,941
+Jika 8 boleh diwakili dengan cara yang sama
+
+59
+00:03:29,941 --> 00:03:40,087
+Di mana ia boleh meluahkan 8 K 8/1 atau 16/2
+
+60
+00:03:40,087 --> 00:03:42,386
+Kita boleh terus untuk mendapatkan 32/4
+
+61
+00:03:42,386 --> 00:03:45,626
+Dan boleh diwakili dengan satu set P dan Q
+
+62
+00:03:45,626 --> 00:03:48,945
+Meletakkan P / Q, di mana kedua-dua P dan Q integer
+
+63
+00:03:48,945 --> 00:03:53,286
+Terdiri nombor relatif, dan pada hakikatnya semua nombor-nombor ini di sini adalah nombor relatif
+
+64
+00:03:53,286 --> 00:03:55,155
+Jadi biarlah saya menarik
+
+65
+00:03:55,155 --> 00:03:59,290
+Jika ini adalah semua sebahagian daripada nombor relatif
+
+66
+00:03:59,290 --> 00:04:02,153
+Mana-mana 8 kepunyaan
+
+67
+00:04:02,153 --> 00:04:06,478
+Maksud saya, di nombor relatif
+
+68
+00:04:06,478 --> 00:04:08,674
+Kini, apa yang relatif kepada nombor bukan?
+
+69
+00:04:08,674 --> 00:04:12,345
+Persediaan adalah relatif
+
+70
+00:04:12,345 --> 00:04:19,037
+Secara definisi, nombor tidak relatif tidak boleh dinyatakan dengan cara ini
+
+71
+00:04:19,037 --> 00:04:21,057
+Di mana P dan Q integer
+
+72
+00:04:21,057 --> 00:04:23,993
+Sudah tentu, bilangan relatif tidak boleh menjadi saudara adalah dalam masa yang sama
+
+73
+00:04:23,993 --> 00:04:26,311
+Jika 8 tidak tergolong kepada nombor kumpulan tidak adalah relatif
+
+74
+00:04:26,311 --> 00:04:30,422
+Nombor relatif boleh mewakili satu cara yang berasingan Jadi, di sini
+
+75
+00:04:30,422 --> 00:04:35,228
+Ini kawasan di sini akan menjadi nombor kumpulan tidak relatif
+
+76
+00:04:35,228 --> 00:04:38,725
+Persediaan adalah relatif
+
+77
+00:04:38,725 --> 00:04:45,179
+Nombor-nombor relatif tidak tergolong untuk menyediakan adalah relatif, nombor relatif tidak berasingan dari seluruh kumpulan
+
+78
+00:04:45,179 --> 00:04:53,525
+Persoalannya sekarang, adalah sebahagian 8 set nombor nyata?
+
+79
+00:04:53,525 --> 00:04:58,338
+Nombor nyata adalah semua ini, di samping nombor kumpulan relatif dan bukan relatif
+
+80
+00:04:58,338 --> 00:05:00,596
+Jika ia adalah semua ini
+
+81
+00:05:00,596 --> 00:05:03,079
+Semua ini di sini
+
+82
+00:05:03,079 --> 00:05:07,441
+Jika 8 orang pasti tergolong dalam kumpulan nombor nyata
+
+83
+00:05:07,441 --> 00:05:11,275
+Dalam nombor sebenar sama ada saudara atau bukan relatif
+
+84
+00:05:11,275 --> 00:05:16,063
+Jika saudara itu menjadi integer, dan penuh, biasa, dan bilangan sebenar
+
+85
+00:05:16,063 --> 00:05:18,430
+Jika dia pasti kepunyaan nombor nyata
+
+86
+00:05:18,430 --> 00:05:21,496
+Apakah nombor relatif?
+
+87
+00:05:21,496 --> 00:05:23,713
+Bolehkah mana-mana nombor yang relatif?
+
+88
+00:05:23,713 --> 00:05:31,308
+Contoh nombor tidak adalah relatif, atau contoh yang paling biasa adalah "Teluk"
+
+89
+00:05:31,308 --> 00:05:36,254
+Bay = 3.14159
+
+90
+00:05:36,254 --> 00:05:41,418
+Apa yang membuatkan nombor ini adalah agak
+
+91
+00:05:41,418 --> 00:05:48,727
+Adalah bahawa kita tidak boleh diwakili dalam kadar atau perwakilan berkadar integer
+
+92
+00:05:48,727 --> 00:05:51,303
+Dengan cara yang sama yang mewakili nombor relatif
+
+93
+00:05:51,303 --> 00:05:56,380
+Bahagian ini di sini tidak berulang
+
+94
+00:05:56,380 --> 00:06:00,112
+Dan jika mereka BIS, jadi kita boleh mewakili dalam bahagian integer
+
+95
+00:06:00,112 --> 00:06:01,600
+Seperti yang kita lakukan pada tawaran lain
+
+96
+00:06:01,600 --> 00:06:05,423
+Jika bahagian ini tidak berulang dan tidak tamat
+
+97
+00:06:05,423 --> 00:06:10,410
+Mana-mana kita mempunyai bilangan rumah yang belum selesai di sebelah kanan titik perpuluhan
+
+98
+00:06:10,410 --> 00:06:12,296
+Ini adalah satu contoh nombor relatif
+
+99
+00:06:12,296 --> 99:59:59,999
+Dan saya berharap bahawa contoh ini telah membantu anda

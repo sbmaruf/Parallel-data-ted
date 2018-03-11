@@ -1,0 +1,387 @@
+1
+00:00:00,710 --> 00:00:04,040
+Jom kita buat beberapa soalan berkenaan sudut antara
+
+2
+00:00:04,040 --> 00:00:05,800
+garis selari dan melintang.
+
+3
+00:00:05,800 --> 00:00:10,430
+Katakan dua garis ini adalah garis selari, saya akan
+
+4
+00:00:10,430 --> 00:00:12,680
+labelkan mereka sebagai selari.
+
+5
+00:00:12,680 --> 00:00:15,120
+Ini menunjukkan bahawa mereka tidak akan bersilang
+
+6
+00:00:15,120 --> 00:00:16,830
+dan mereka dalam satah yang sama.
+
+7
+00:00:16,830 --> 00:00:19,690
+Katakan ada garis melintang di sini, iaitu
+
+8
+00:00:19,690 --> 00:00:21,810
+garis yang bersilang kedua-dua
+
+9
+00:00:21,810 --> 00:00:29,930
+garis selari, dan saya katakan sudut ini
+
+10
+00:00:29,930 --> 00:00:39,110
+adalah 60 darjah, dan saya menanya kamu, apakah
+
+11
+00:00:39,110 --> 00:00:40,790
+sudut ini?
+
+12
+00:00:40,790 --> 00:00:42,790
+Kamu mungkin kata, "oh susahnya!"; dan
+
+13
+00:00:42,790 --> 00:00:43,540
+itu adalah garis berbeza.
+
+14
+00:00:43,540 --> 00:00:46,160
+Kamu hanya perlu ingat, dan satu-satu perkara saya
+
+15
+00:00:46,160 --> 00:00:50,480
+selalu ingat, bahawa garis yang sepadan adalah sama.
+
+16
+00:00:50,480 --> 00:00:54,020
+Jika kamu lihat sudut di garis atas sini,
+
+17
+00:00:54,020 --> 00:00:57,110
+di mana garis melintang memotong garis atas, apakah
+
+18
+00:00:57,110 --> 00:01:00,130
+sudut sepadan di mana garis melintang
+
+19
+00:01:00,130 --> 00:01:02,140
+menyilangi garis bawah?
+
+20
+00:01:02,140 --> 00:01:04,810
+Ini adalah sudut di bawah kanan, dan kamu boleh lihat
+
+21
+00:01:04,810 --> 00:01:06,870
+bahawa ada satu, dua, tiga, empat sudut.
+
+22
+00:01:06,870 --> 00:01:08,800
+Dan ini adalah sudut di bawah dan
+
+23
+00:01:08,800 --> 00:01:10,320
+ke kanan sedikit.
+
+24
+00:01:10,320 --> 00:01:12,880
+Atau kamu boleh mengambilnya sebagai sudut tenggara
+
+25
+00:01:12,880 --> 00:01:15,560
+jika kita mengambil kira arah.
+
+26
+00:01:15,560 --> 00:01:17,930
+Oleh itu, sudut yang sepadan adalah sudut ini.
+
+27
+00:01:21,510 --> 00:01:23,300
+Dan kedua-dua sudut ini adalah sama.
+
+28
+00:01:23,300 --> 00:01:26,910
+Sudut ini adalah 60 darjah.
+
+29
+00:01:26,910 --> 00:01:29,950
+Jika sudut ini 60 darjah, apakah
+
+30
+00:01:29,950 --> 00:01:31,570
+sudut yang ditandakan dengan tanda soal?
+
+31
+00:01:31,570 --> 00:01:35,910
+Sudut "tanda soal" ini-- mari kita namakannya x-- sudut
+
+32
+00:01:35,910 --> 00:01:39,780
+x tambah sudut 60 darjah, mereka pergi
+
+33
+00:01:39,780 --> 00:01:40,690
+setengah jalan sekitar bulatan.
+
+34
+00:01:40,690 --> 00:01:45,290
+Mereka adalah sudut penngenap; dan tambah kedua-duanya, kita dapat 180 darjah.
+
+35
+00:01:45,290 --> 00:01:50,460
+Oleh itu, kita boleh tulis x + 60 darjah =
+
+36
+00:01:50,460 --> 00:01:54,300
+180 darjah.
+
+37
+00:01:54,300 --> 00:01:57,760
+Jika kamu tolak 60 darjah dari kedua-dua belah persamaan,
+
+38
+00:01:57,760 --> 00:02:03,515
+kamu dapat x = 120 darjah.
+
+39
+00:02:06,970 --> 00:02:08,030
+Dan kamu boleh teruskan.
+
+40
+00:02:08,030 --> 00:02:11,080
+Kamu boleh mencari setiap sudut yang terdapat
+
+41
+00:02:11,080 --> 00:02:13,140
+di antara garis melintang dan garis selari.
+
+42
+00:02:13,140 --> 00:02:16,390
+Jika ini adalah 120 darjah, sudut bertentangannya
+
+43
+00:02:16,390 --> 00:02:19,270
+adalah 120 darjah juga.
+
+44
+00:02:19,270 --> 00:02:22,580
+Jika sudut ini adalah 60 darjah, sudut ini
+
+45
+00:02:22,580 --> 00:02:24,600
+juga 60 darjah.
+
+46
+00:02:24,600 --> 00:02:28,190
+Jika ini adalah 60, sudut berhadapannya juga 60 darjah.
+
+47
+00:02:28,190 --> 00:02:30,380
+Dan kamu boleh kata, sudut ini
+
+48
+00:02:30,380 --> 00:02:33,800
+sudut penggenap kepada sudut 60 darjah ini, atau sudut ini.
+
+49
+00:02:33,800 --> 00:02:37,030
+Atau kamu boleh kata sudut yang sepadan dengan 120 ini,
+
+50
+00:02:37,030 --> 00:02:41,350
+juga adalah 120, dan mengambil hujah yang sama.
+
+51
+00:02:41,350 --> 00:02:43,790
+Sudut ini sama dengan sudut ini, dan
+
+52
+00:02:43,790 --> 00:02:45,950
+ianya juga 120 darjah.
+
+53
+00:02:45,950 --> 00:02:47,460
+Mari kita buat satu contoh lagi.
+
+54
+00:02:47,460 --> 00:02:48,660
+Saya ada dua garis.
+
+55
+00:02:51,550 --> 00:02:52,790
+Ini adalah garis pertama.
+
+56
+00:02:52,790 --> 00:02:56,270
+Mari saya lukiskan dalam warna ungu, dan garis lain dalam
+
+57
+00:02:56,270 --> 00:02:57,660
+warna ungu yang lain.
+
+58
+00:02:57,660 --> 00:03:00,590
+Biar saya gelapkan ini lagi.
+
+59
+00:03:00,590 --> 00:03:02,030
+Kamu ada satu garis berwarna ungu dan yang satu lagi.
+
+60
+00:03:02,030 --> 00:03:02,860
+Ini adalah garis berbeza.
+
+61
+00:03:02,860 --> 00:03:04,660
+Ia berwarna kebiruan.
+
+62
+00:03:04,660 --> 00:03:08,200
+Saya ada garis yang menyilangi kedua-duanya,
+
+63
+00:03:08,200 --> 00:03:09,305
+kita lukiskan dengan lebih tegak.
+
+64
+00:03:16,590 --> 00:03:25,080
+Dan kita katakan sudut ini 50 darjah.
+
+65
+00:03:25,080 --> 00:03:29,730
+Dan saya juga katakan
+
+66
+00:03:29,730 --> 00:03:34,230
+sudut ini 120 darjah.
+
+67
+00:03:34,230 --> 00:03:38,450
+Soalannya, adakah
+
+68
+00:03:38,450 --> 00:03:40,220
+dua garis ini selari?
+
+69
+00:03:40,220 --> 00:03:44,230
+Adakah garis ungu dan garis biru ini selari?
+
+70
+00:03:44,230 --> 00:03:46,420
+Cara memikirkannya adalah apa jadi
+
+71
+00:03:46,420 --> 00:03:47,960
+jika mereka selari?
+
+72
+00:03:47,960 --> 00:03:51,840
+Jika mereka selari, sudut ini dan yang ini adalah
+
+73
+00:03:51,840 --> 00:03:59,070
+sudut yang sepadan, dan ini perlulah 50 darjah.
+
+74
+00:03:59,070 --> 00:04:00,530
+Ini patut jadi 50 darjah.
+
+75
+00:04:00,530 --> 00:04:03,390
+Kita tidak tahu lagi; oleh itu saya letakkan bintang di sini,
+
+76
+00:04:03,390 --> 00:04:05,490
+untuk menujukkan bahawa kita tidak tahu bahawa ianya 50 darjah.
+
+77
+00:04:05,490 --> 00:04:07,090
+Mungkin letakkan tanda soal.
+
+78
+00:04:07,090 --> 00:04:10,810
+Ini akan jadi 50 darjah sekiranya ia selari, tetapi ini dan
+
+79
+00:04:10,810 --> 00:04:16,020
+yang ini perlu menjadi sudut penggenap;
+
+80
+00:04:16,020 --> 00:04:17,790
+mereka perlu dijumlahkan menjadi 180 darjah.
+
+81
+00:04:17,790 --> 00:04:19,900
+Sebenarnya, tidak kira garis ini adalah garis selari,
+
+82
+00:04:19,900 --> 00:04:24,380
+jika saya mengambil mana-mana garis dan saya ada satu garis lagi menyilangi mereka,
+
+83
+00:04:24,380 --> 00:04:28,890
+Jika sudut ini 50 dan apa sahaja sudut ini, mereka perlu
+
+84
+00:04:28,890 --> 00:04:31,230
+berjumlah 180 darjah.
+
+85
+00:04:31,230 --> 00:04:35,200
+Tetapi, kita boleh lihat mereka TIDAK berjumlah 180 darjah.
+
+86
+00:04:35,200 --> 00:04:38,000
+50 + 120 menjadi 170.
+
+87
+00:04:38,000 --> 00:04:39,910
+Oleh itu, garis ini bukan garis selari.
+
+88
+00:04:39,910 --> 00:04:42,760
+Satu cara lain untuk memikirkannya-- saya rasa,
+
+89
+00:04:42,760 --> 00:04:45,800
+adalah cara yang lebih terus.
+
+90
+00:04:45,800 --> 00:04:50,490
+Jika sudut ini 120 darjah, sudut ini perlulah menjadi
+
+91
+00:04:50,490 --> 00:04:53,420
+sudut penggenap kepadanya; mereka perlu ditambahkan menjadi 180.
+
+92
+00:04:53,420 --> 00:04:57,290
+Oleh itu, sudut ini
+
+93
+00:04:57,290 --> 00:04:59,940
+sudut di sini perlulah 60 darjah.
+
+94
+00:04:59,940 --> 00:05:03,010
+Sudut ini sepadan dengan sudut ini, tetapi
+
+95
+00:05:03,010 --> 00:05:03,930
+mereka tidak sama.
+
+96
+00:05:03,930 --> 00:05:06,530
+Jika sudut sepadan tidak sama,
+
+97
+00:05:06,530 --> 00:05:13,810
+garis-garis ini tidak selari.

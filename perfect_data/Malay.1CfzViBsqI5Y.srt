@@ -1,0 +1,759 @@
+1
+00:00:00,890 --> 00:00:03,770
+Saya akan tunjukkan cara untuk menukar
+
+2
+00:00:03,770 --> 00:00:04,920
+pecahan kepada perpuluhan.
+
+3
+00:00:04,920 --> 00:00:06,990
+Dan kalau kita ada masa, saya akan ajarkan cara
+
+4
+00:00:06,990 --> 00:00:08,730
+untuk menukar perpuluhan kepada pecahan.
+
+5
+00:00:08,730 --> 00:00:11,420
+Kita mulakan dengan masalah
+
+6
+00:00:11,420 --> 00:00:12,480
+yang agak senang.
+
+7
+00:00:12,480 --> 00:00:15,210
+Katalah pecahan 1/2.
+
+8
+00:00:15,210 --> 00:00:17,390
+Dan kita nak tukarkannya kepada perpuluhan.
+
+9
+00:00:17,390 --> 00:00:20,170
+Saya akan tunjukkan caranya.
+
+10
+00:00:20,170 --> 00:00:22,850
+Kamu hanya perlu bahagikan pengangka
+
+11
+00:00:22,850 --> 00:00:24,530
+dengan penyebut.
+
+12
+00:00:24,530 --> 00:00:25,510
+Mari kita buatkan.
+
+13
+00:00:25,510 --> 00:00:29,110
+Jadi kita ambil penyebutbya -- iaitu 2 -- dan
+
+14
+00:00:29,110 --> 00:00:32,280
+pengangkanya, 1, akan dibahagikan dengan 2 ini.
+
+15
+00:00:32,280 --> 00:00:34,110
+Tahukah kamu caranya untuk bahagikan 1 dengan 2?
+
+16
+00:00:34,110 --> 00:00:37,010
+Kalau kamu ingat lagi modul pembahagian perpuluhan yang lepas,
+
+17
+00:00:37,010 --> 00:00:40,220
+kamu letakkan saja titik perpuluhan dan tambah 0 di belakang nombornya.
+
+18
+00:00:40,220 --> 00:00:42,880
+Nilai nombor ini tak berubah sebenarnya,
+
+19
+00:00:42,880 --> 00:00:45,260
+cuma kita tuliskan dengan lebih tepat lagi.
+
+20
+00:00:45,260 --> 00:00:46,700
+Kita bubuhkan titik perpuluhan di sini.
+
+21
+00:00:50,260 --> 00:00:50,650
+Adakah 1 dapat dibahagikan dengan 2?
+
+22
+00:00:50,650 --> 00:00:51,280
+Tidak.
+
+23
+00:00:51,280 --> 00:00:56,180
+10 dapat dibahagi dengan 2, dan kita dapat 5.
+
+24
+00:00:56,180 --> 00:00:59,060
+Sebab 5 darab 2 adalah 10.
+
+25
+00:00:59,060 --> 00:01:00,050
+Bakinya 0.
+
+26
+00:01:00,050 --> 00:01:01,150
+Dan selesailah.
+
+27
+00:01:01,150 --> 00:01:06,675
+Jadi 1/2 adalah bersamaan dengan 0.5.
+
+28
+00:01:10,570 --> 00:01:12,050
+Mari kita cuba yang sukar sikit.
+
+29
+00:01:12,050 --> 00:01:15,000
+Kita ambil 1/3.
+
+30
+00:01:15,000 --> 00:01:19,190
+Seperti tadi, kita ambilkan penyebutnya, 3, dan
+
+31
+00:01:19,190 --> 00:01:20,740
+biar pengangka dibahagi dengannya.
+
+32
+00:01:20,740 --> 00:01:25,470
+Saya akan tambahkan beberapa 0 selepas nombor ini.
+
+33
+00:01:25,470 --> 00:01:27,800
+1 tak dapat dibahagikan dengan 3.
+
+34
+00:01:27,800 --> 00:01:30,150
+Tapi 10 boleh, dan hasil bahaginya 3.
+
+35
+00:01:30,150 --> 00:01:32,452
+Sebab 3 darab 3 dapat 9.
+
+36
+00:01:32,452 --> 00:01:35,720
+Kita buat penolakan, dapat 1, dan turunkan 0.
+
+37
+00:01:35,720 --> 00:01:37,700
+10 bahagi 3 dapat 3.
+
+38
+00:01:37,700 --> 00:01:39,700
+Sebenarnya, titik perpuluhannya di sini.
+
+39
+00:01:39,700 --> 00:01:42,710
+3 darab 3 adalah 9.
+
+40
+00:01:42,710 --> 00:01:43,930
+Nampak tak coraknya?
+
+41
+00:01:43,930 --> 00:01:45,070
+Kita asyik dapat nombor yang sama.
+
+42
+00:01:45,070 --> 00:01:47,350
+Hasil bahaginya sebenarnya adalah 0.3333.
+
+43
+00:01:47,350 --> 00:01:48,830
+Dan ia akan teruskan tak terbatas.
+
+44
+00:01:48,830 --> 00:01:52,160
+Cara untuk tuliskan jawapannya ialah,
+
+45
+00:01:52,160 --> 00:01:54,020
+kita tak bolehlah tulis 3 yang tak terhingga banyaknya,
+
+46
+00:01:54,020 --> 00:02:00,430
+tapi kita tuliskannya sebagai 0.33 berulang,
+
+47
+00:02:00,430 --> 00:02:03,060
+maksudnya 0.33 ini akan teruskan tak terbatas.
+
+48
+00:02:03,060 --> 00:02:06,960
+Atau kamu boleh tulis 0.3 berulang.
+
+49
+00:02:06,960 --> 00:02:08,630
+Tapi saya lebih biasa jumpa yang ini.
+
+50
+00:02:08,630 --> 00:02:09,840
+Atau saya mungkin silap.
+
+51
+00:02:09,840 --> 00:02:12,410
+Secara umumnya, garisan di atas perpuluhan bermakna
+
+52
+00:02:12,410 --> 00:02:17,320
+corak nombor ini akan berulang tidak terbatas.
+
+53
+00:02:17,320 --> 00:02:25,210
+Maka, 1/3 adalah bersamaan dengan 0.33333 dan ia akan berterusan sampai bila-bila.
+
+54
+00:02:25,210 --> 00:02:29,770
+Ataupun, kita boleh tuliskannya sebagai 0.33 berulang.
+
+55
+00:02:29,770 --> 00:02:33,400
+Mari kita cuba beberapa soalan dengan corak serupa
+
+56
+00:02:33,400 --> 00:02:35,060
+yang lebih sukar.
+
+57
+00:02:35,060 --> 00:02:36,890
+Biar saya pilih nombor yang pelik sikit.
+
+58
+00:02:40,470 --> 00:02:41,890
+Kita akan cuba buat pecahan tak wajar.
+
+59
+00:02:41,890 --> 00:02:49,050
+Katalah 17/9.
+
+60
+00:02:49,050 --> 00:02:50,160
+Ia dah menarik sekarang.
+
+61
+00:02:50,160 --> 00:02:52,260
+Pengangka nombor ini lebih besar daripada penyebutnya.
+
+62
+00:02:52,260 --> 00:02:54,200
+Maka, kita akan dapat nombor yang lebih besar daripada 1.
+
+63
+00:02:54,200 --> 00:02:55,270
+Mari kita buatkan.
+
+64
+00:02:55,270 --> 00:03:00,586
+Jadi kita bahagikan 17 dengan 9.
+
+65
+00:03:00,586 --> 00:03:06,000
+Dan kita tambahkan 0 selepas titik perpuluhan di sini.
+
+66
+00:03:06,000 --> 00:03:08,730
+Jadi 17 boleh dibahagikan dengan 9 sebanyak 1 kali.
+
+67
+00:03:08,730 --> 00:03:11,260
+1 darab 9 adalah 9.
+
+68
+00:03:11,260 --> 00:03:14,040
+17 tolak 9 adalah 8.
+
+69
+00:03:14,040 --> 00:03:16,240
+Turunkan 0.
+
+70
+00:03:16,240 --> 00:03:20,080
+80 bahagikan dengan 9 -- kita tahu yang 9 darab 9 adalah 81, jadi
+
+71
+00:03:20,080 --> 00:03:21,830
+kita akan dapat 8 kerana
+
+72
+00:03:21,830 --> 00:03:23,230
+ia tak cukup 81.
+
+73
+00:03:23,230 --> 00:03:27,010
+8 darab 9 adalah 72.
+
+74
+00:03:27,010 --> 00:03:29,560
+80 tolak 72 adalah 8.
+
+75
+00:03:29,560 --> 00:03:30,770
+Turunkan satu lagi 0.
+
+76
+00:03:30,770 --> 00:03:32,260
+Saya rasa kita boleh nampak satu corak lagi.
+
+77
+00:03:32,260 --> 00:03:35,990
+80 bahagi dengan 9 adalah 8.
+
+78
+00:03:35,990 --> 00:03:40,820
+8 darab 9 adalah 72.
+
+79
+00:03:40,820 --> 00:03:44,350
+Jelaslah yang kalau saya bahagikan lagi,
+
+80
+00:03:44,350 --> 00:03:46,790
+kita akan dapat 8 yang berulang.
+
+81
+00:03:46,790 --> 00:03:53,740
+Jadi, 17 bahagi dengan 9 adalah bersamaan dengan 1.88, di mana 0.88
+
+82
+00:03:53,740 --> 00:03:56,080
+adalah berulang.
+
+83
+00:03:56,080 --> 00:03:59,200
+Ataupun, kalau kita nak bundarkan nombor ini,
+
+84
+00:03:59,200 --> 00:04:01,430
+ia adalah bersamaan 1. -- bergantung pada nilai tempat
+
+85
+00:04:01,430 --> 00:04:02,860
+yang perlu dibundarkan.
+
+86
+00:04:02,860 --> 00:04:05,990
+Ia adalah lebih kurang 1.89.
+
+87
+00:04:05,990 --> 00:04:07,480
+Kita juga boleh bundarkan kepada nilai tempat yang lain.
+
+88
+00:04:07,480 --> 00:04:09,310
+Saya telah bundarkan kepada ratus yang terdekat.
+
+89
+00:04:09,310 --> 00:04:11,350
+Tapi inilah jawapan yang tepat.
+
+90
+00:04:11,350 --> 00:04:15,126
+17/9 adalah bersamaan dengan 1.88.
+
+91
+00:04:15,126 --> 00:04:17,380
+Mungkin saya akan buatkannya dalam modul yang lain,
+
+92
+00:04:17,380 --> 00:04:20,730
+tapi tahukah kamu untuk tuliskan pecahan ini sebagai nombor bercampur?
+
+93
+00:04:20,730 --> 00:04:23,030
+Biar saya tunjukkan dalam modul yang berasingan.
+
+94
+00:04:23,030 --> 00:04:24,390
+Nanti kamu lebih keliru lagi.
+
+95
+00:04:24,390 --> 00:04:25,380
+Kita akan cuba beberapa masalah lagi.
+
+96
+00:04:28,560 --> 00:04:29,980
+Saya akan pilih nombor yang pelik.
+
+97
+00:04:29,980 --> 00:04:34,360
+Katalah 17/93.
+
+98
+00:04:34,360 --> 00:04:36,710
+Apakah nombor perpuluhan yang bersamaan dengannya?
+
+99
+00:04:36,710 --> 00:04:39,130
+Kita gunakan cara yang sama.
+
+100
+00:04:39,130 --> 00:04:45,630
+Penyebutnya 93 -- saya guna garisan yang panjang
+
+101
+00:04:45,630 --> 00:04:47,930
+kerana saya tak tahu lagi berapa tempat perpuluhan yang diperlukan.
+
+102
+00:04:50,570 --> 00:04:53,220
+Ingat ya. Kita bahagikan pengangka di atas
+
+103
+00:04:53,220 --> 00:04:54,930
+dengan penyebut di bawah.
+
+104
+00:04:54,930 --> 00:04:56,950
+Ini selalu kelirukan saya kerana selalunya kita
+
+105
+00:04:56,950 --> 00:04:59,630
+perlu bahagikan nombor yang kecil dengan nombor yang besar.
+
+106
+00:04:59,630 --> 00:05:02,580
+Jadi 17 bahagi 93 adalah 0.
+
+107
+00:05:02,580 --> 00:05:04,080
+Titik perpuluhan di sini.
+
+108
+00:05:04,080 --> 00:05:05,990
+170 bahagi 93?
+
+109
+00:05:05,990 --> 00:05:07,270
+Dapat 1.
+
+110
+00:05:07,270 --> 00:05:11,410
+1 darab 93 adalah 93.
+
+111
+00:05:11,410 --> 00:05:14,370
+170 tolak 93 adalah 77.
+
+112
+00:05:17,980 --> 00:05:20,360
+Turunkan 0.
+
+113
+00:05:20,360 --> 00:05:23,700
+770 bahagi 93?
+
+114
+00:05:23,700 --> 00:05:24,660
+Biar saya fikir.
+
+115
+00:05:24,660 --> 00:05:29,120
+Agaknya, kita dapat 8.
+
+116
+00:05:29,120 --> 00:05:33,330
+8 darab 3 adalah 24.
+
+117
+00:05:33,330 --> 00:05:35,970
+8 darab 9 adalah 72.
+
+118
+00:05:35,970 --> 00:05:39,730
+Tambah 2 adalah 74.
+
+119
+00:05:39,730 --> 00:05:42,186
+Kemudian kita tolak.
+
+120
+00:05:42,186 --> 00:05:43,990
+10 dengan 6.
+
+121
+00:05:43,990 --> 00:05:46,710
+Dan ia adalah bersamaan dengan 26.
+
+122
+00:05:46,710 --> 00:05:47,760
+Turunkan 0 lagi.
+
+123
+00:05:47,760 --> 00:05:52,800
+26 bahagi dengan 93 -- dapat 2 agaknya.
+
+124
+00:05:52,800 --> 00:05:57,020
+2 darab 3 adalah 6.
+
+125
+00:05:57,020 --> 00:05:58,704
+18.
+
+126
+00:05:58,704 --> 00:05:59,920
+Ini adalah 74.
+
+127
+00:06:03,120 --> 00:06:03,930
+0.
+
+128
+00:06:03,930 --> 00:06:06,380
+Jadi kita boleh teruskan.
+
+129
+00:06:06,380 --> 00:06:08,030
+Kita boleh terus bahagikan.
+
+130
+00:06:08,030 --> 00:06:10,020
+Dan kita akan buat ini sampai bila-bila.
+
+131
+00:06:10,020 --> 00:06:12,090
+Tapi sebagai satu anggaran bagi
+
+132
+00:06:12,090 --> 00:06:23,490
+17 bahagi 93 -- atau 17/93, ia adalah bersamaan dengan 0.182
+
+133
+00:06:23,490 --> 00:06:25,020
+dan perpuluhan ini akan berterusan.
+
+134
+00:06:25,020 --> 00:06:27,170
+Kamu boleh teruskan mengira sebenarnya.
+
+135
+00:06:27,170 --> 00:06:28,650
+Biasanya dalam peperiksaan, kamu akan disuruh untuk
+
+136
+00:06:28,650 --> 00:06:29,640
+bundarkannya kepada nilai tempat tertentu.
+
+137
+00:06:29,640 --> 00:06:31,650
+Contohnya, seperti kepada ratus yang terdekat
+
+138
+00:06:31,650 --> 00:06:33,610
+ataupun ribu yang terdekat.
+
+139
+00:06:33,610 --> 00:06:36,550
+Mari kita cuba untuk tukarkan
+
+140
+00:06:36,550 --> 00:06:37,830
+perpuluhan kepada pecahan pula.
+
+141
+00:06:37,830 --> 00:06:40,090
+Saya rasa penukaran ini
+
+142
+00:06:40,090 --> 00:06:42,300
+lebih senang daripada penukaran yang sebaliknya tadi.
+
+143
+00:06:42,300 --> 00:06:49,810
+Apakah 0.035 dalam bentuk pecahan?
+
+144
+00:06:49,810 --> 00:06:56,845
+Kita boleh tuliskan 0.035 sebagai
+
+145
+00:06:56,845 --> 00:07:05,130
+-- ia adalah sama dengan 03--
+
+146
+00:07:05,130 --> 00:07:06,300
+Sebenarnya, saya tak patut tulis 035.
+
+147
+00:07:06,300 --> 00:07:10,700
+Ia adalah bersamaan dengan 35/1000.
+
+148
+00:07:10,700 --> 00:07:11,580
+Kamu mungkin sedang fikir, Sal, macam mana
+
+149
+00:07:11,580 --> 00:07:14,120
+kamu tahu yang itu adalah 35/1000?
+
+150
+00:07:14,120 --> 00:07:18,590
+Sebab kita tahu yang
+
+151
+00:07:18,590 --> 00:07:20,230
+ini nilai tempat persepuluh.
+
+152
+00:07:20,230 --> 00:07:21,360
+Ini perseratus.
+
+153
+00:07:21,360 --> 00:07:23,230
+Dan ini nilai tempat perseribu.
+
+154
+00:07:23,230 --> 00:07:25,890
+Jadi kita ada 3 nilai tempat.
+
+155
+00:07:25,890 --> 00:07:29,260
+Maka ini adalah 35 perseribu.
+
+156
+00:07:29,260 --> 00:07:38,650
+Katalah kita ada perpuluhan 0.030.
+
+157
+00:07:38,650 --> 00:07:40,140
+Ada beberapa cara untuk kita lihatnya.
+
+158
+00:07:40,140 --> 00:07:42,490
+Kita boleh lihat yang nilai tempat perpuluhan nombor ini
+
+159
+00:07:42,490 --> 00:07:43,570
+sampai tempat perseribu.
+
+160
+00:07:43,570 --> 00:07:48,240
+Jadi ia adalah bersamaan dengan 30/1000.
+
+161
+00:07:48,240 --> 00:07:48,610
+Atau,
+
+162
+00:07:48,610 --> 00:07:55,550
+kita boleh tulis 0.030 sebagai
+
+163
+00:07:55,550 --> 00:08:02,710
+0.03 kerana 0 di belakang itu tak membawa makna.
+
+164
+00:08:02,710 --> 00:08:05,920
+Angka 0.03 ini ada sehingga nilai tempat perseratus.
+
+165
+00:08:05,920 --> 00:08:11,100
+Maka ia adalah bersamaan dengan 3/100.
+
+166
+00:08:11,100 --> 00:08:13,160
+Soalannya, adakah dua-dua pecahan ini sama?
+
+167
+00:08:16,330 --> 00:08:16,670
+Sudah tentu.
+
+168
+00:08:16,670 --> 00:08:17,680
+Dua-dua ini adalah pecahan setara.
+
+169
+00:08:17,680 --> 00:08:20,065
+Kalau kita bahagikan pengangka dan penyebut pecahan ini
+
+170
+00:08:20,065 --> 00:08:24,890
+dengan 10, kita akan dapat 3/100.
+
+171
+00:08:24,890 --> 00:08:26,220
+Kita balik ke contoh ini.
+
+172
+00:08:26,220 --> 00:08:27,550
+Sudahkah kita selesaikan masalah ini?
+
+173
+00:08:27,550 --> 00:08:30,120
+35/1000 adalah
+
+174
+00:08:30,120 --> 00:08:31,660
+pecahan yang betul.
+
+175
+00:08:31,660 --> 00:08:32,584
+35/1000.
+
+176
+00:08:32,584 --> 00:08:35,440
+Tapi kalau kita nak memudahkannya lagi,
+
+177
+00:08:35,440 --> 00:08:38,530
+kita boleh membahagikan pengangka dan penyebutnya dengan 5.
+
+178
+00:08:38,530 --> 00:08:40,860
+Maka, bentuk termudahnya adalah
+
+179
+00:08:40,860 --> 00:08:47,280
+7/200.
+
+180
+00:08:47,280 --> 00:08:51,020
+Dan kalau kita nak menukar 7/200 kepada perpuluhan
+
+181
+00:08:51,020 --> 00:08:54,150
+mengikut teknik yang digunakan tadi, kita perlu bahagikan
+
+182
+00:08:54,150 --> 00:08:56,120
+7 dengan 200.
+
+183
+00:08:56,120 --> 00:09:00,170
+Kita akan dapat 0.035.
+
+184
+00:09:00,170 --> 00:09:02,650
+Kamu boleh selesaikannya sendiri sebagai latihan.
+
+185
+00:09:02,650 --> 00:09:05,370
+Harap-harap sekarang kamu sudah dapat pemahaman asas tentang
+
+186
+00:09:05,370 --> 00:09:09,320
+cara untuk menukar pecahan kepada perpuluhan dan juga yang sebaliknya.
+
+187
+00:09:09,320 --> 00:09:11,840
+Dan kalau kamu belum faham lagi, cuba buat lagi latihan bentuk ini.
+
+188
+00:09:11,840 --> 00:09:16,990
+Saya akan cuba untuk rekod satu lagi modul
+
+189
+00:09:16,990 --> 00:09:18,880
+mengenai topik ini.
+
+190
+00:09:18,880 --> 00:09:20,090
+Selamat mencuba.

@@ -1,0 +1,75 @@
+1
+00:00:00,000 --> 00:00:04,000
+[Thrun] Jawapan yang betul ialah agen cerdik.
+
+2
+00:00:04,000 --> 00:00:07,000
+Mari kita bercakap tentang ejen-ejen cerdik.
+
+3
+00:00:07,000 --> 00:00:11,000
+Berikut adalah ejen cerdik saya,
+
+4
+00:00:11,000 --> 00:00:17,000
+ia dapat berinteraksi dengan persekitaran.
+
+5
+00:00:17,000 --> 00:00:22,000
+Ejen boleh menanggapi keadaan alam sekitar
+
+6
+00:00:22,000 --> 00:00:25,000
+melalui sensor,
+
+7
+00:00:25,000 --> 00:00:29,000
+dan ia boleh mengubah keadaanya melalui penggerak.
+
+8
+00:00:29,000 --> 00:00:37,000
+Persoalan besar kecerdasan buatan adalah fungsi yang menyambung sensor dengan penggerak.
+
+9
+00:00:37,000 --> 00:00:41,000
+Ini diapanggil dasar kawalan untuk ejen itu.
+
+10
+00:00:41,000 --> 00:00:48,000
+Kelas ini adalah tentang bagaimana ejen membuat keputusan
+
+11
+00:00:48,000 --> 00:00:54,000
+yang ia boleh menjalankan melalui penggeraknya, berdasarkan data yang lalu daripada sensor-sensor.
+
+12
+00:00:54,000 --> 00:00:58,000
+Keputusan tersebut mengambil tempat banyak, banyak kali,
+
+13
+00:00:58,000 --> 00:01:03,000
+dan kitaran yang melibatkan maklum balas persekitaran kepada sensor, keputusan ejen,
+
+14
+00:01:03,000 --> 00:01:12,000
+interaksi penggerak dengan alam sekitar dan sebagainya, dipanggil kitaran tindakan persepsi.
+
+15
+00:01:12,000 --> 00:01:15,000
+Jadi ini adalah kuiz pertama saya untuk anda:
+
+16
+00:01:15,000 --> 00:01:21,000
+Kecerdasan buatan (AI), telah berjaya digunakan dalam kewangan,
+
+17
+00:01:21,000 --> 00:01:26,000
+robotik, permainan, perubatan, dan Web.
+
+18
+00:01:26,000 --> 00:01:28,000
+Tanda mana-mana kotak yang benar,
+
+19
+00:01:28,000 --> 99:59:59,999
+dan jika tiada yang benar, tanda kotak di sini yang menyatakan tiada.

@@ -1,0 +1,163 @@
+1
+00:00:00,998 --> 00:00:05,289
+Kenal pasti sudut pelengkap dan sudut tambahan dalam gambar rajah di bawah.
+
+2
+00:00:05,289 --> 00:00:07,318
+Sebagai peringatan:
+
+3
+00:00:07,318 --> 00:00:11,621
+Sudut pelengkap ialah dua sudut yang ditambah sehingga 90 darjah,
+
+4
+00:00:11,621 --> 00:00:15,441
+dan sudut tambahan ialah sudut yag ditambah sehingga 180 darjah
+
+5
+00:00:15,441 --> 00:00:18,420
+Mari kita lihat diagram ini
+
+6
+00:00:18,420 --> 00:00:23,338
+Pertama sekali, kita lihat kepada sudut pelengkap
+
+7
+00:00:23,338 --> 00:00:26,931
+sudut ini ditambah sehingga 90 darjah.
+
+8
+00:00:26,931 --> 00:00:28,905
+Dan kita boleh melukis sudut tepat di sini
+
+9
+00:00:28,905 --> 00:00:31,811
+supaya kita tahu bahwa sudut FAH ialah sudut tepat
+
+10
+00:00:31,811 --> 00:00:33,759
+kerana separuh dari kotak ini
+
+11
+00:00:33,759 --> 00:00:36,638
+adalah dari dua sudut bersebelahan.
+
+12
+00:00:36,638 --> 00:00:39,068
+dan dua sudut sepadan ini ialah 90 darjah
+
+13
+00:00:39,068 --> 00:00:41,871
+jadi kita akan tambah 90 darjah
+
+14
+00:00:41,871 --> 00:01:02,067
+Dua sudut ini, sudut FAC dan sudut CAH
+
+15
+00:01:02,067 --> 00:01:05,267
+adalah sudut pelengkap kerana ukuran kedua sudut ini
+
+16
+00:01:05,267 --> 00:01:07,254
+mestilah 180 darjah, maaf..
+
+17
+00:01:07,254 --> 00:01:11,068
+mesti lah 90 darjah, di sini.
+
+18
+00:01:11,068 --> 00:01:14,618
+Dan saya rasa, itu la semua sudut pelengkap, kedua dua ini.
+
+19
+00:01:14,618 --> 00:01:17,470
+Mereke menambah sudut tepat ini kepada 90 darjah.
+
+20
+00:01:17,470 --> 00:01:21,002
+Sekarang kita beralih kepada sudut tambahan.
+
+21
+00:01:21,002 --> 00:01:24,954
+Sudut tambahan
+
+22
+00:01:24,954 --> 00:01:27,444
+bila ditambah akan menjadi 180 darjah.
+
+23
+00:01:27,444 --> 00:01:34,396
+Anda ada sudut FAC, atau sudut CAF, ia sudut yang sama
+
+24
+00:01:34,396 --> 00:01:37,380
+Jadi, sudut CAF
+
+25
+00:01:37,380 --> 00:01:40,817
+dan sudut ini
+
+26
+00:01:40,817 --> 00:01:44,718
+FAB adalah bersebelahan dengan satu sama lain
+
+27
+00:01:44,718 --> 00:01:47,841
+dan sejelasnya ia adalah sudut lurus, iaitu 180 darjah
+
+28
+00:01:47,841 --> 00:01:48,613
+apabila ditambah kedua dua ukuran.
+
+29
+00:01:48,613 --> 00:01:52,995
+Jadi, ia sudah pasti adalah sudut tambahan.
+
+30
+00:01:52,995 --> 00:01:57,062
+dan sudut FAB.
+
+31
+00:01:57,062 --> 00:02:03,557
+CAF dan FAB semestinya adalah 180 darjah jika ditambah supaya ia menjadi sudut tambahan.
+
+32
+00:02:03,557 --> 00:02:05,393
+Dan yang satu lagi:
+
+33
+00:02:05,393 --> 00:02:12,067
+kita boleh ambil sudut CAH, yang di sini
+
+34
+00:02:12,067 --> 00:02:14,745
+tambah HAB
+
+35
+00:02:14,745 --> 00:02:18,961
+ianya bersebelahan, ia membentuk sudut lurus
+
+36
+00:02:18,961 --> 00:02:21,391
+Yang akan menjadi 180 darjah bila ditambah.
+
+37
+00:02:21,391 --> 00:02:24,129
+Jadi, ia merupakan sudut tambahan.
+
+38
+00:02:24,129 --> 00:02:28,141
+CAH dan sudut HAB.
+
+39
+00:02:28,141 --> 00:02:29,748
+Dan kita sudah selesai!
+
+40
+00:02:29,748 --> 00:02:31,660
+Kedua dua sudut in ditambah menjadi 90
+
+41
+00:02:31,660 --> 99:59:59,999
+dan yang ini ditambah menjadi 180, Kedua dua ini bila ditambah akan menjadi 180.

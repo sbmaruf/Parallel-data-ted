@@ -1,0 +1,179 @@
+1
+00:00:00,360 --> 00:00:03,750
+Gunakan Hukum Sekutuan Penambahan untuk menulis
+
+2
+00:00:03,750 --> 00:00:04,800
+expresi
+
+3
+00:00:04,800 --> 00:00:08,700
+77 + 2 dalam kurungan, + 3, dalam
+
+4
+00:00:08,700 --> 00:00:09,680
+cara yang berlainan.
+
+5
+00:00:09,680 --> 00:00:11,860
+Ringkaskan kedua-dua expresi untuk menunjukkan
+
+6
+00:00:11,860 --> 00:00:13,710
+bahawa ia mempunyai hasil yang serupa.
+
+7
+00:00:13,710 --> 00:00:17,230
+Hukum Sekutuan, bunyinya sangat
+
+8
+00:00:17,230 --> 00:00:20,460
+istimewa dan susah. Maksudnya yang literal ialah anda boleh
+
+9
+00:00:20,460 --> 00:00:23,670
+padankan ketiga-tiga nombor ini dalam cara yang berlainan ataupun anda boleh
+
+10
+00:00:23,670 --> 00:00:25,500
+campurkannya dalam susunan yang berlainan.
+
+11
+00:00:25,500 --> 00:00:26,760
+Biar saya jelaskan.
+
+12
+00:00:26,760 --> 00:00:31,920
+77 + 2 ditulis
+
+13
+00:00:31,920 --> 00:00:35,090
+dalam kurungan, dan kemudian ditambah dengan 3.
+
+14
+00:00:35,090 --> 00:00:38,530
+Kurungan ini bermaksud kita kena buat 77 campur 2
+
+15
+00:00:38,530 --> 00:00:40,980
+terlebih dahulu sebelum anda tambahkan 3.
+
+16
+00:00:40,980 --> 00:00:43,280
+Jika anda mahu mentafsir ini, anda akan mentafsir
+
+17
+00:00:43,280 --> 00:00:45,930
+apa yang terdapat dalam kurungan terlebih dahulu.
+
+18
+00:00:45,930 --> 00:00:50,550
+77 + 2, itu ialah 79, jadi semua yang ada dalam kurungan
+
+19
+00:00:50,550 --> 00:00:52,730
+akan ditafsir ke 79.
+
+20
+00:00:52,730 --> 00:00:55,050
+Kemudian tambahkan 3.
+
+21
+00:00:55,050 --> 00:01:00,430
+79 + 3 + 82, jadi ini sama dengan 82.
+
+22
+00:01:00,430 --> 00:01:02,690
+Inilah yang kita dapat jika kita tafsir dengan cara
+
+23
+00:01:02,690 --> 00:01:03,570
+yang diberikan kepada kita.
+
+24
+00:01:03,570 --> 00:01:06,190
+Sekarang, Hukum Sekutuan memberitahu kita bahawa ia adalah
+
+25
+00:01:06,190 --> 00:01:10,080
+tidak penting sama ada kita tambahkan 77 dengan 2 atau kita tambahkan 2
+
+26
+00:01:10,080 --> 00:01:12,860
+dan 3 terlebih dahulu. Kita boleh padankan nombor-nombor ini secara berlainan.
+
+27
+00:01:12,860 --> 00:01:15,590
+Ini akan menjadi perkara yang sama.
+
+28
+00:01:15,590 --> 00:01:18,250
+Ini perkara yang sama--kita boleh
+
+29
+00:01:18,250 --> 00:01:19,610
+menulisnya dalam cara ini.
+
+30
+00:01:19,610 --> 00:01:20,520
+Biar saya tuliskan semua.
+
+31
+00:01:20,520 --> 00:01:23,765
+77 + 2 + 3.
+
+32
+00:01:23,765 --> 00:01:26,090
+Jika kita tidak ada kurungan di sini, ini sebenarnya
+
+33
+00:01:26,090 --> 00:01:28,750
+perkara yang sama seperti di sini, kerana 77 tambah 2 ialah
+
+34
+00:01:28,750 --> 00:01:31,430
+79 tambah 3 ialah 82.
+
+35
+00:01:31,430 --> 00:01:33,510
+Tapi, Hukum Sekutuan memberitahu kita, baik, anda tahu apa?
+
+36
+00:01:33,510 --> 00:01:36,380
+Saya boleh buat 77 + 2 + 3.
+
+37
+00:01:36,380 --> 00:01:39,430
+Saya boleh tambahkan ini dahulu dan kemudian tambahkan ke 77, dan ia
+
+38
+00:01:39,430 --> 00:01:41,970
+akan menjadi perkara yang sama jikalau saya campurkan kedua-dua
+
+39
+00:01:41,970 --> 00:01:43,790
+nombor ini terlebih dahulu dan kemudian tambahkan ke 3.
+
+40
+00:01:43,790 --> 00:01:46,710
+Mari kita mengenalpastinya,
+
+41
+00:01:46,710 --> 00:01:56,240
+2 tambah 3 ialah 5, jadi ini ditafsir ke 77 tambah 5.
+
+42
+00:01:56,240 --> 00:02:02,130
+Dan 77 + 5, sekali lagi ialah 82.
+
+43
+00:02:02,130 --> 00:02:04,840
+Jadi,tidak kira bagaimana anda padankan nombor-nombor ini,
+
+44
+00:02:04,840 --> 00:02:06,570
+Apa jua cara pun, anda akan dapat 82.
+
+45
+00:02:06,570 --> 00:02:09,729
+Dan inilah Hukum Sekutuan Penambahan.

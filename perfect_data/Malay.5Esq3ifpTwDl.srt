@@ -1,0 +1,187 @@
+1
+00:00:00,882 --> 00:00:09,228
+Selesaikan x. Dan kita ada 5x tambah 7 ialah lebih besar daripada 3 darab x tambah 1
+
+2
+00:00:09,228 --> 00:00:12,632
+Maka mari cuba asingkan x kepada satu bahagian ketidaksamaan ini
+
+3
+00:00:12,632 --> 00:00:15,733
+Tetapi sebelum kita lakukan itu, mari permudahkan bahagian tangan kanan
+
+4
+00:00:15,733 --> 00:00:20,333
+Jadi kita dapat 5x tambah 7 ialah lebih besar dari--
+
+5
+00:00:20,333 --> 00:00:27,533
+Mari bahagikan 3 ini. Maka 3 darab x tambah 1 ialah sama dengan 3 darab x tambah 3 darab 1
+
+6
+00:00:27,548 --> 00:00:32,554
+Oleh itu, ia akan menjadi 3x tambah 3 darab 1 ialah 3
+
+7
+00:00:32,554 --> 00:00:35,231
+Sekarang jika kita mahu letakkan x kita pada bahagian tangan kiri,
+
+8
+00:00:35,231 --> 00:00:37,802
+Kita boleh tolak 3x dari kedua-dua bahagian
+
+9
+00:00:37,802 --> 00:00:40,282
+Itu akan buangkan 3x ini pada bahagian tangan kanan
+
+10
+00:00:40,282 --> 00:00:44,718
+Maka mari lakukan itu. Mari tolakkan 3x daripada kedua-dua bahagian, dan
+
+11
+00:00:44,718 --> 00:00:51,759
+kita dapat pada bahagian sebelah kiri: 5x tolak 3x ialah 2x tambah 7
+
+12
+00:00:52,036 --> 00:00:55,933
+ialah lebih besar daripada -3x tolak 3x-- ia akan dibatalkan
+
+13
+00:00:55,933 --> 00:00:59,383
+Itu ialah sbab penolakan 3x daripada kedua-dua bahagian
+
+14
+00:00:59,383 --> 00:01:05,867
+ialah lebih besar dari 3. Kita boleh tolakkan 7 daripada kedua-dua bahagian
+
+15
+00:01:05,867 --> 00:01:08,267
+untuk hapuskan +7 di sini.
+
+16
+00:01:08,267 --> 00:01:14,129
+Maka, mari tolakkan, mari tolak 7 daripada kedua-dua bahagian. Dan kita dapat pada bahagian tangan kiri...
+
+17
+00:01:14,129 --> 00:01:24,080
+2x tambah 7 tolak 7 ialah 2x. Ianya lebih besar dari 3 tolak 7 iaitu -4
+
+18
+00:01:24,080 --> 00:01:27,282
+Dan mari lihat, kita ada 2x lebih besar daripada -4
+
+19
+00:01:27,282 --> 00:01:31,210
+Jika kita mahukan x di sini, kita boleh bahagikan kedua-dua bahagian dengan 2
+
+20
+00:01:31,210 --> 00:01:36,223
+Kerana ianya nombor positif, kita tidak perlu gantikan ketidaksamaan
+
+21
+00:01:36,223 --> 00:01:46,733
+Maka mari bahagikan kedua-dua bahagian dengan 2, dan kita dapat x ialah lebih besar daripada -4 dibahagikan dengan 2 ialah -2
+
+22
+00:01:46,733 --> 00:01:51,425
+Jadi penyelesaiannya akan kelihatan seperti ini. Lukiskan garis nombor
+
+23
+00:01:51,610 --> 00:01:56,195
+Saya boleh lukis garis nombor yang lebih lurus daripada itu. Ianya masih tidak bagus.
+
+24
+00:01:56,195 --> 00:01:58,508
+Tetapi ia memenuhi tujuan kita
+
+25
+00:01:58,508 --> 00:02:05,133
+Mari katakan itu -3, -2, -1, 0, 1, 2, 3
+
+26
+00:02:05,133 --> 00:02:09,662
+x ialah lebih besar daripada -2. Ia tidak termasuk -2
+
+27
+00:02:09,662 --> 00:02:14,367
+Ianya tidak lebih besar daripada atau bersamaan dengan 2, jadi kita tidak perlu sertakan -2
+
+28
+00:02:14,367 --> 00:02:20,431
+Dan kita tidak masukkan -2 dengan melukis bulatan pada -2, tetapi semua nilai lebih besar daripada itu
+
+29
+00:02:20,431 --> 00:02:25,435
+ialah diperlukan oleh x, yang akan memuaskan ketidaksamaan
+
+30
+00:02:25,435 --> 00:02:29,985
+Maka apa-apa di atasnya-- ia akan berkesan
+
+31
+00:02:29,985 --> 00:02:33,667
+Dan mari kita cuba, mari cuba sesuatu yang akan berkesan
+
+32
+00:02:33,667 --> 00:02:35,667
+dan kemudian mari cuba sesuatu yang tidak akan berkesan
+
+33
+00:02:35,667 --> 00:02:39,887
+Maka 0 seharusnya berkesan. Ianya lebih besar dari -2. Ianya di sini
+
+34
+00:02:39,902 --> 00:02:48,834
+Maka mari mengesahkannya. 5 darab 0 tambah 7 patut menjadi lebih besar dari 3 darab 0 tambah 1
+
+35
+00:02:48,834 --> 00:02:55,404
+Maka ini ialah 7-- kerana ini adalah 0 - 7 patut lebih daripada 3
+
+36
+00:02:55,404 --> 00:03:00,236
+Baiklah. 3 darab 1. Jadi 7 patut lebih besar daripada 3, dan itu semestinya
+
+37
+00:03:00,236 --> 00:03:04,400
+Sekarang mari cuba sesuatu yang tidak akan berjaya. Mari cuba -3
+
+38
+00:03:04,400 --> 00:03:10,831
+Maka 5 darab -3...5 darab -3 tambah 7, mari lihat jika ia lebih besar daripada
+
+39
+00:03:10,831 --> 00:03:18,642
+3 darab -3 tambah 1. Maka -15 tambah 7 ialah -8
+
+40
+00:03:18,827 --> 00:03:21,569
+Itu ialah -8
+
+41
+00:03:21,569 --> 00:03:27,667
+Mari lihat jika ia lebih besar daripda -3 tambah 1 ialah -2 darab 3 ialah -6
+
+42
+00:03:27,667 --> 00:03:34,200
+-8 tidak lebih besar daripada -6. -8 lebih negatif daripada -6
+
+43
+00:03:34,200 --> 00:03:39,769
+Ianya kurang daripada. Maka ianya bagus -3 tidak berkesan kerana kita tidak memasukkannya ke dalam set penyelesaian kita
+
+44
+00:03:39,831 --> 00:03:40,400
+..
+
+45
+00:03:40,400 --> 00:03:43,399
+Jadi kita cuba sesuatu yang berada dalam set penyelesaia kita dan ia berkesan
+
+46
+00:03:43,399 --> 00:03:44,900
+Dan sesuatu yang tidak, ianya tidak berkesan.
+
+47
+00:03:44,900 --> 00:03:47,069
+Kita akan rasa lebih yakin.

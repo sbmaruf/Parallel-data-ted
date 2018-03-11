@@ -1,0 +1,256 @@
+1
+00:00:00,600 --> 00:00:04,810
+kita diminta untuk meng grafkan semua nilai bagi H dalam
+
+2
+00:00:04,810 --> 00:00:05,590
+garisan nombor
+
+3
+00:00:05,590 --> 00:00:08,510
+ini adalah ketaksamaan yang agak menarik kerana
+
+4
+00:00:08,510 --> 00:00:11,060
+kita juga ada nilai mutlak di sini
+
+5
+00:00:11,060 --> 00:00:14,150
+jadi cara untuk kita buat ialah dengan menyelesaikan
+
+6
+00:00:14,150 --> 00:00:17,240
+ketaksamaan ini dalam terma nilai H &amp; dari
+
+7
+00:00:17,240 --> 00:00:19,370
+situ kita boleh cari H
+
+8
+00:00:19,370 --> 00:00:21,430
+jadi mari kita dapatkan nilai mutlak H pada
+
+9
+00:00:21,430 --> 00:00:22,890
+satu belah persamaan tersebut
+
+10
+00:00:22,890 --> 00:00:26,800
+cara yang paling mudah ialah dengan menambah 19 &amp; 1/2
+
+11
+00:00:26,800 --> 00:00:28,600
+kepada kedua dua belah persamaan ini
+
+12
+00:00:28,600 --> 00:00:32,160
+saya suka letak pecahan tak wajar tapi 1/2
+
+13
+00:00:32,159 --> 00:00:35,669
+agak senang untuk digunakan jadi mari tambah 19 &amp; 1/2
+
+14
+00:00:35,670 --> 00:00:37,680
+kepada kedua dua belah ketaksamaan ini
+
+15
+00:00:37,680 --> 00:00:38,470
+tadi saya ada cakap persamaan ke ?
+
+16
+00:00:38,470 --> 00:00:41,150
+ia adalah ketaksamaan bukan persamaan, ini adalah simbol
+
+17
+00:00:41,150 --> 00:00:42,600
+ketaksamaan bukan simbol sama dengan
+
+18
+00:00:42,600 --> 00:00:46,380
+jadi tambah 19 1/2
+
+19
+00:00:46,380 --> 00:00:49,210
+pada belah kiri, mereka ini akan terbatal
+
+20
+00:00:49,210 --> 00:00:52,290
+itulah objektifnya, dan kita akan dapat nilai mutlak H
+
+21
+00:00:52,290 --> 00:00:56,480
+pada belah kiri adalah kurang daripada
+
+22
+00:00:56,480 --> 00:01:01,660
+dan jika kita ada 19 1/2, secara asasnya -12,
+
+23
+00:01:01,660 --> 00:01:04,710
+19-12=7 jadi ia akan menjadi 7 1/2
+
+24
+00:01:08,580 --> 00:01:13,260
+jadi sekarang kita ada nilai mutlak H ialah kurang daripada
+
+25
+00:01:13,260 --> 00:01:16,050
+7 1/2
+
+26
+00:01:16,050 --> 00:01:17,030
+apa yang cuba diberitahu oleh mereka ?
+
+27
+00:01:17,030 --> 00:01:19,470
+ia bermakna jaraknya, satu lagi cara untuk selesaikan ini
+
+28
+00:01:19,470 --> 00:01:21,960
+ingat, nilai mutlak adalah sama dengan
+
+29
+00:01:21,960 --> 00:01:25,340
+jarak daripada 0-- jadi satu lagi cara untuk selesaikan pernyataan ini
+
+30
+00:01:25,340 --> 00:01:37,210
+ialah jarak dari H ke 0 harus menjadi
+
+31
+00:01:37,210 --> 00:01:43,130
+kurang daripada 7 1/2
+
+32
+00:01:43,130 --> 00:01:46,200
+jadi apakah nilai H yang akan mempunyai jarak kurang daripada
+
+33
+00:01:46,200 --> 00:01:47,510
+7 1/2 ?
+
+34
+00:01:47,510 --> 00:01:51,120
+ia boleh kurang daripada 7 1/2 &amp; lebih daripada 0, atau
+
+35
+00:01:51,120 --> 00:01:51,770
+sama dengan 0
+
+36
+00:01:51,765 --> 00:01:53,585
+biar saya buat macamni
+
+37
+00:01:53,580 --> 00:01:59,020
+jadi H boleh jadi kurang daripada 7 1/2
+
+38
+00:01:59,020 --> 00:02:01,950
+tapi jika ia pergi jauh ke negatif, jika ia pergi ke -3, boleh lagi
+
+39
+00:02:01,950 --> 00:02:04,240
+-4, -5
+
+40
+00:02:04,240 --> 00:02:07,420
+-6,-7 ia masih diterima tapi pada
+
+41
+00:02:07,420 --> 00:02:10,090
+-8, tiba tiba nilai mutlak itu takkan
+
+42
+00:02:10,090 --> 00:02:11,180
+menjadi kurang daripada ini
+
+43
+00:02:11,180 --> 00:02:16,770
+jadi ia harus lebih daripada -7 1/2
+
+44
+00:02:16,770 --> 00:02:19,540
+jika anda bagi saya apa apa nombor pada selangan ini
+
+45
+00:02:19,540 --> 00:02:22,320
+nilainya akan menjadi kurang daripada 7 1/2 kerana semua
+
+46
+00:02:22,320 --> 00:02:25,650
+nombor ini adalah kurang daripada 7 1/2 jauh daripada 0
+
+47
+00:02:25,650 --> 00:02:27,550
+biar saya lukiskan ia pada garisan nombor
+
+48
+00:02:29,820 --> 00:02:37,540
+jadi jika ini adalah garisan nombor, itu adalah 0 dan kira
+
+49
+00:02:37,540 --> 00:02:42,200
+lukis beberapa titik, katakan ini adalah 7, itu adalah 8
+
+50
+00:02:42,200 --> 00:02:47,070
+itu adalah -7, itu adalah -8
+
+51
+00:02:47,070 --> 00:02:51,120
+apakah nombor yang kurang dari 7 1/2 jauh daripada 0 ?
+
+52
+00:02:51,120 --> 00:02:54,170
+anda hanya pergi ke atas sehingga-- 7 1/2 ialah
+
+53
+00:02:54,170 --> 00:02:57,480
+7 1/2 jauh, jadi anda takboleh kira itu, jadi 7 1/2,
+
+54
+00:02:57,480 --> 00:02:59,220
+anda lukis bulatan di sekelilng ia
+
+55
+00:02:59,220 --> 00:03:02,170
+sama juga seperti -7 1/2, nilai mutlak
+
+56
+00:03:02,170 --> 00:03:03,810
+ia 7 1/2 jauh
+
+57
+00:03:03,810 --> 00:03:06,940
+kita perlu kurangkan jarak sebanyak 7 1/2, jadi titik itu tak akan
+
+58
+00:03:06,940 --> 00:03:09,330
+termasuk, +7 1/2
+
+59
+00:03:09,330 --> 00:03:11,060
+atau -7 1/2
+
+60
+00:03:11,060 --> 00:03:14,630
+sekarang, semua di antara mereka adalah kurang daripada
+
+61
+00:03:14,630 --> 00:03:19,310
+jarak 7 1/2 daripada 0, jadi yang lain akan dikira
+
+62
+00:03:19,310 --> 00:03:22,490
+kesemua di luar ialah lebih daripada 7 &amp; 1/2
+
+63
+00:03:22,490 --> 00:03:24,490
+jauh dari 0
+
+64
+00:03:24,490 --> 00:03:26,000
+dan kita sudah pun siap
+

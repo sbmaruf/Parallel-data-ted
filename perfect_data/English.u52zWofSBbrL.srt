@@ -1,0 +1,51 @@
+1
+00:00:00,000 --> 00:00:04,000
+So, checkers is an interesting game.
+
+2
+00:00:04,000 --> 00:00:08,000
+Here's the typical board of the game of checkers.
+
+3
+00:00:08,000 --> 00:00:11,000
+Your pieces might look like this,
+
+4
+00:00:11,000 --> 00:00:16,000
+and your opponent's pieces might look like this.
+
+5
+00:00:16,000 --> 00:00:19,000
+And apart from some very cryptic rules in checkers,
+
+6
+00:00:19,000 --> 00:00:23,000
+which I won't really discuss here, the board basically tells you
+
+7
+00:00:23,000 --> 00:00:28,000
+everything there is to know about checkers, so it's clearly fully observable.
+
+8
+00:00:28,000 --> 00:00:33,000
+It is deterministic because your move and your opponent's move
+
+9
+00:00:33,000 --> 00:00:36,000
+very clearly affect the state of the board in ways that have
+
+10
+00:00:36,000 --> 00:00:39,000
+absolutely no stochasticity.
+
+11
+00:00:39,000 --> 00:00:45,000
+It is also discrete because there's finitely many action choices
+
+12
+00:00:45,000 --> 00:00:47,000
+and finitely many board positions,
+
+13
+00:00:47,000 --> 99:59:59,999
+and obviously, it is adversarial, since your opponent is out to get you.

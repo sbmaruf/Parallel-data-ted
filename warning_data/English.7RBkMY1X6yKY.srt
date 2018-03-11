@@ -1,0 +1,1036 @@
+1
+00:00:00,000 --> 00:00:00,574
+
+2
+00:00:00,574 --> 00:00:01,990
+What I want to do
+in this video is
+
+3
+00:00:01,990 --> 00:00:04,771
+see if we can identify similar
+triangles here and prove
+
+4
+00:00:04,771 --> 00:00:06,520
+to ourselves that they
+really are similar,
+
+5
+00:00:06,520 --> 00:00:09,080
+using some of the postulates
+that we've set up.
+
+6
+00:00:09,080 --> 00:00:10,930
+So over here, I
+have triangle BDC.
+
+7
+00:00:10,930 --> 00:00:13,870
+It's inside of triangle AEC.
+
+8
+00:00:13,870 --> 00:00:16,010
+They both share this
+angle right over there,
+
+9
+00:00:16,010 --> 00:00:17,140
+so that gives us one angle.
+
+10
+00:00:17,140 --> 00:00:19,020
+We need two to get
+to angle-angle,
+
+11
+00:00:19,020 --> 00:00:20,980
+which gives us similarity.
+
+12
+00:00:20,980 --> 00:00:22,990
+And we know that these
+two lines are parallel.
+
+13
+00:00:22,990 --> 00:00:24,365
+We know if two
+lines are parallel
+
+14
+00:00:24,365 --> 00:00:26,770
+and we have a transversal
+that corresponding angles are
+
+15
+00:00:26,770 --> 00:00:28,290
+going to be congruent.
+
+16
+00:00:28,290 --> 00:00:29,980
+So that angle is
+going to correspond
+
+17
+00:00:29,980 --> 00:00:31,790
+to that angle right over there.
+
+18
+00:00:31,790 --> 00:00:32,880
+And we're done.
+
+19
+00:00:32,880 --> 00:00:36,180
+We have one angle
+in triangle AEC that
+
+20
+00:00:36,180 --> 00:00:38,940
+is congruent to
+another angle in BDC,
+
+21
+00:00:38,940 --> 00:00:40,760
+and then we have
+this angle that's
+
+22
+00:00:40,760 --> 00:00:44,360
+obviously congruent to itself
+that's in both triangles.
+
+23
+00:00:44,360 --> 00:00:48,270
+So both triangles have a
+pair of corresponding angles
+
+24
+00:00:48,270 --> 00:00:50,320
+that are congruent, so
+they must be similar.
+
+25
+00:00:50,320 --> 00:00:57,050
+So we can write,
+triangle ACE is going
+
+26
+00:00:57,050 --> 00:00:58,590
+to be similar to
+triangle-- and we
+
+27
+00:00:58,590 --> 00:01:00,490
+want to get the letters
+in the right order.
+
+28
+00:01:00,490 --> 00:01:03,030
+So where the blue angle is
+here, the blue angle there
+
+29
+00:01:03,030 --> 00:01:06,100
+is vertex B. Then we go
+to the wide angle, C,
+
+30
+00:01:06,100 --> 00:01:11,250
+and then we go to the unlabeled
+angle right over there, BCD.
+
+31
+00:01:11,250 --> 00:01:12,667
+So we did that first one.
+
+32
+00:01:12,667 --> 00:01:14,250
+Now let's do this
+one right over here.
+
+33
+00:01:14,250 --> 00:01:16,210
+This is kind of
+similar, but it looks,
+
+34
+00:01:16,210 --> 00:01:19,030
+just superficially looking at
+it, that YZ is definitely not
+
+35
+00:01:19,030 --> 00:01:21,380
+parallel to ST. So we
+won't be able to do
+
+36
+00:01:21,380 --> 00:01:23,970
+this corresponding
+angle argument,
+
+37
+00:01:23,970 --> 00:01:26,360
+especially because they didn't
+even label it as parallel.
+
+38
+00:01:26,360 --> 00:01:28,871
+And so you don't want to look
+at things just by the way
+
+39
+00:01:28,871 --> 00:01:29,370
+they look.
+
+40
+00:01:29,370 --> 00:01:30,770
+You definitely want to
+say, what am I given,
+
+41
+00:01:30,770 --> 00:01:31,760
+and what am I not given?
+
+42
+00:01:31,760 --> 00:01:33,080
+If these weren't
+labeled parallel,
+
+43
+00:01:33,080 --> 00:01:34,830
+we wouldn't be able
+to make the statement,
+
+44
+00:01:34,830 --> 00:01:36,390
+even if they looked parallel.
+
+45
+00:01:36,390 --> 00:01:38,920
+One thing we do have is that
+we have this angle right here
+
+46
+00:01:38,920 --> 00:01:40,820
+that's common to
+the inner triangle
+
+47
+00:01:40,820 --> 00:01:43,000
+and to the outer
+triangle, and they've
+
+48
+00:01:43,000 --> 00:01:44,770
+given us a bunch of sides.
+
+49
+00:01:44,770 --> 00:01:47,520
+So maybe we can use
+SAS for similarity,
+
+50
+00:01:47,520 --> 00:01:50,250
+meaning if we can show
+the ratio of the sides
+
+51
+00:01:50,250 --> 00:01:52,260
+on either side of
+this angle, if they
+
+52
+00:01:52,260 --> 00:01:55,210
+have the same ratio from the
+smaller triangle to the larger
+
+53
+00:01:55,210 --> 00:01:58,950
+triangle, then we
+can show similarity.
+
+54
+00:01:58,950 --> 00:02:02,670
+So let's go, and we have to go
+on either side of this angle
+
+55
+00:02:02,670 --> 00:02:03,360
+right over here.
+
+56
+00:02:03,360 --> 00:02:06,960
+Let's look at the shorter side
+on either side of this angle.
+
+57
+00:02:06,960 --> 00:02:09,373
+So the shorter side
+is two, and let's look
+
+58
+00:02:09,373 --> 00:02:10,789
+at the shorter
+side on either side
+
+59
+00:02:10,789 --> 00:02:12,880
+of the angle for
+the larger triangle.
+
+60
+00:02:12,880 --> 00:02:16,190
+Well, then the shorter side
+is on the right-hand side,
+
+61
+00:02:16,190 --> 00:02:18,496
+and that's going to be XT.
+
+62
+00:02:18,496 --> 00:02:20,120
+So what we want to
+compare is the ratio
+
+63
+00:02:20,120 --> 00:02:21,810
+between-- let me
+write it this way.
+
+64
+00:02:21,810 --> 00:02:29,500
+We want to see, is XY
+over XT equal to the ratio
+
+65
+00:02:29,500 --> 00:02:31,370
+of the longer side?
+
+66
+00:02:31,370 --> 00:02:33,770
+Or if we're looking relative
+to this angle, the longer
+
+67
+00:02:33,770 --> 00:02:36,540
+of the two, not necessarily
+the longest of the triangle,
+
+68
+00:02:36,540 --> 00:02:38,040
+although it looks
+like that as well.
+
+69
+00:02:38,040 --> 00:02:43,792
+Is that equal to the ratio of
+XZ over the longer of the two
+
+70
+00:02:43,792 --> 00:02:45,750
+sides-- when you're
+looking at this angle right
+
+71
+00:02:45,750 --> 00:02:47,208
+here, on either
+side of that angle,
+
+72
+00:02:47,208 --> 00:02:49,746
+for the larger
+triangle-- over XS?
+
+73
+00:02:49,746 --> 00:02:51,764
+
+74
+00:02:51,764 --> 00:02:54,180
+And it's a little confusing,
+because we've kind of flipped
+
+75
+00:02:54,180 --> 00:02:56,400
+which side, but I'm just
+thinking about the shorter
+
+76
+00:02:56,400 --> 00:02:59,340
+side on either side of
+this angle in between,
+
+77
+00:02:59,340 --> 00:03:01,899
+and then the longer side on
+either side of this angle.
+
+78
+00:03:01,899 --> 00:03:04,190
+So these are the shorter
+sides for the smaller triangle
+
+79
+00:03:04,190 --> 00:03:05,430
+and the larger triangle.
+
+80
+00:03:05,430 --> 00:03:08,740
+These are the longer sides
+for the smaller triangle
+
+81
+00:03:08,740 --> 00:03:10,240
+and the larger triangle.
+
+82
+00:03:10,240 --> 00:03:11,610
+And we see XY.
+
+83
+00:03:11,610 --> 00:03:12,870
+This is two.
+
+84
+00:03:12,870 --> 00:03:17,400
+XT is 3 plus 1 is 4.
+
+85
+00:03:17,400 --> 00:03:24,160
+XZ is 3, and XS is 6.
+
+86
+00:03:24,160 --> 00:03:25,810
+So you have 2 over
+4, which is 1/2,
+
+87
+00:03:25,810 --> 00:03:28,080
+which is the same thing as 3/6.
+
+88
+00:03:28,080 --> 00:03:31,090
+So the ratio between
+the shorter sides
+
+89
+00:03:31,090 --> 00:03:33,160
+on either side of the
+angle and the longer
+
+90
+00:03:33,160 --> 00:03:36,300
+sides on either side of the
+angle, for both triangles,
+
+91
+00:03:36,300 --> 00:03:40,590
+the ratio is the same.
+
+92
+00:03:40,590 --> 00:03:44,437
+So by SAS we know that the
+two triangles are congruent.
+
+93
+00:03:44,437 --> 00:03:46,770
+But we have to be careful on
+how we state the triangles.
+
+94
+00:03:46,770 --> 00:03:51,264
+We want to make sure we get
+the corresponding sides.
+
+95
+00:03:51,264 --> 00:03:52,680
+And I'm running
+out of space here.
+
+96
+00:03:52,680 --> 00:03:54,480
+Let me write it
+right above here.
+
+97
+00:03:54,480 --> 00:04:04,250
+We can write that triangle
+XYZ is similar to triangle--
+
+98
+00:04:04,250 --> 00:04:07,380
+so we started up at X, which
+is the vertex at the angle,
+
+99
+00:04:07,380 --> 00:04:09,560
+and we went to the
+shorter side first.
+
+100
+00:04:09,560 --> 00:04:11,370
+So now we want to
+start at X and go
+
+101
+00:04:11,370 --> 00:04:14,430
+to the shorter side
+on the large triangle.
+
+102
+00:04:14,430 --> 00:04:15,404
+So you go to XTS.
+
+103
+00:04:15,404 --> 00:04:19,899
+
+104
+00:04:19,899 --> 00:04:23,454
+XYZ is similar to XTS.
+
+105
+00:04:23,454 --> 00:04:25,120
+Now, let's look at
+this right over here.
+
+106
+00:04:25,120 --> 00:04:28,860
+So in our larger triangle,
+we have a right angle here,
+
+107
+00:04:28,860 --> 00:04:31,980
+but we really know
+nothing about what's
+
+108
+00:04:31,980 --> 00:04:33,930
+going on with any of
+these smaller triangles
+
+109
+00:04:33,930 --> 00:04:35,390
+in terms of their actual angles.
+
+110
+00:04:35,390 --> 00:04:37,140
+Even though this looks
+like a right angle,
+
+111
+00:04:37,140 --> 00:04:38,540
+we cannot assume it.
+
+112
+00:04:38,540 --> 00:04:42,090
+And if we look at this smaller
+triangle right over here,
+
+113
+00:04:42,090 --> 00:04:44,130
+it shares one side with
+the larger triangle,
+
+114
+00:04:44,130 --> 00:04:45,770
+but that's not enough
+to do anything.
+
+115
+00:04:45,770 --> 00:04:47,710
+And then this triangle over
+here also shares another side,
+
+116
+00:04:47,710 --> 00:04:49,221
+but that also
+doesn't do anything.
+
+117
+00:04:49,221 --> 00:04:50,970
+So we really can't
+make any statement here
+
+118
+00:04:50,970 --> 00:04:52,590
+about any kind of similarity.
+
+119
+00:04:52,590 --> 00:04:54,280
+So there's no similarity
+going on here.
+
+120
+00:04:54,280 --> 00:04:57,500
+
+121
+00:04:57,500 --> 00:04:59,300
+There are some shared angles.
+
+122
+00:04:59,300 --> 00:05:01,723
+This guy-- they both share
+that angle, the larger triangle
+
+123
+00:05:01,723 --> 00:05:02,690
+and the smaller triangle.
+
+124
+00:05:02,690 --> 00:05:04,110
+So there could be a
+statement of similarity
+
+125
+00:05:04,110 --> 00:05:06,260
+we could make if we knew
+that this definitely
+
+126
+00:05:06,260 --> 00:05:07,360
+was a right angle.
+
+127
+00:05:07,360 --> 00:05:09,276
+Then we could make some
+interesting statements
+
+128
+00:05:09,276 --> 00:05:10,740
+about similarity,
+but right now, we
+
+129
+00:05:10,740 --> 00:05:14,130
+can't really do anything as is.
+
+130
+00:05:14,130 --> 00:05:16,214
+Let's try this one out,
+this pair right over here.
+
+131
+00:05:16,214 --> 00:05:18,255
+So these are the first
+ones that we have actually
+
+132
+00:05:18,255 --> 00:05:19,610
+separated out the triangles.
+
+133
+00:05:19,610 --> 00:05:21,910
+So they've given us the three
+sides of both triangles.
+
+134
+00:05:21,910 --> 00:05:23,590
+So let's just figure
+out if the ratios
+
+135
+00:05:23,590 --> 00:05:26,460
+between corresponding
+sides are a constant.
+
+136
+00:05:26,460 --> 00:05:28,580
+So let's start with
+the short side.
+
+137
+00:05:28,580 --> 00:05:30,370
+So the short side here is 3.
+
+138
+00:05:30,370 --> 00:05:33,960
+The shortest side here
+is 9 square roots of 3.
+
+139
+00:05:33,960 --> 00:05:37,340
+So we want to see whether the
+ratio of 3 to 9 square roots
+
+140
+00:05:37,340 --> 00:05:42,220
+of 3 is equal to the next
+longest side over here,
+
+141
+00:05:42,220 --> 00:05:49,170
+is 3 square roots of 3 over the
+next longest side over here,
+
+142
+00:05:49,170 --> 00:05:49,845
+which is 27.
+
+143
+00:05:49,845 --> 00:05:53,030
+
+144
+00:05:53,030 --> 00:05:54,820
+And then see if
+that's going to be
+
+145
+00:05:54,820 --> 00:05:59,240
+equal to the ratio
+of the longest side.
+
+146
+00:05:59,240 --> 00:06:02,590
+So the longest side
+here is 6, and then
+
+147
+00:06:02,590 --> 00:06:05,390
+the longest side over here
+is 18 square roots of 3.
+
+148
+00:06:05,390 --> 00:06:08,070
+
+149
+00:06:08,070 --> 00:06:12,220
+So this is going to give
+us-- let's see, this is 3.
+
+150
+00:06:12,220 --> 00:06:15,050
+Let me do this in
+a neutral color.
+
+151
+00:06:15,050 --> 00:06:19,140
+So this becomes 1 over
+3 square roots of 3.
+
+152
+00:06:19,140 --> 00:06:26,541
+This becomes 1
+over root 3 over 9,
+
+153
+00:06:26,541 --> 00:06:28,040
+which seems like a
+different number,
+
+154
+00:06:28,040 --> 00:06:30,180
+but we want to be careful here.
+
+155
+00:06:30,180 --> 00:06:34,690
+And then this right over here--
+if you divide the numerator
+
+156
+00:06:34,690 --> 00:06:36,170
+and denominator
+by 6, this becomes
+
+157
+00:06:36,170 --> 00:06:38,580
+a 1 and this becomes
+3 square roots of 3.
+
+158
+00:06:38,580 --> 00:06:46,940
+So 1 over 3 root 3 needs to
+be equal to square root of 3
+
+159
+00:06:46,940 --> 00:06:53,020
+over 9, which needs to be equal
+to 1 over 3 square roots of 3.
+
+160
+00:06:53,020 --> 00:06:55,220
+At first they don't look
+equal, but we can actually
+
+161
+00:06:55,220 --> 00:06:57,290
+rationalize this
+denominator right over here.
+
+162
+00:06:57,290 --> 00:07:00,130
+We can show that 1 over
+3 square roots of 3,
+
+163
+00:07:00,130 --> 00:07:02,150
+if you multiply it
+by square root of 3
+
+164
+00:07:02,150 --> 00:07:04,250
+over square root
+of 3, this actually
+
+165
+00:07:04,250 --> 00:07:06,750
+gives you in the
+numerator square root of 3
+
+166
+00:07:06,750 --> 00:07:10,140
+over square root of 3 times
+square root of 3 is 3, times 3
+
+167
+00:07:10,140 --> 00:07:11,280
+is 9.
+
+168
+00:07:11,280 --> 00:07:13,190
+So these actually
+are all the same.
+
+169
+00:07:13,190 --> 00:07:15,082
+This is actually
+saying, this is 1 over 3
+
+170
+00:07:15,082 --> 00:07:17,540
+root 3, which is the same thing
+as square root of 3 over 9,
+
+171
+00:07:17,540 --> 00:07:19,039
+which is this right
+over here, which
+
+172
+00:07:19,039 --> 00:07:21,230
+is the same thing
+as 1 over 3 root 3.
+
+173
+00:07:21,230 --> 00:07:24,120
+So actually, these
+are similar triangles.
+
+174
+00:07:24,120 --> 00:07:25,760
+So we can actually
+say it, and I'll
+
+175
+00:07:25,760 --> 00:07:27,360
+make sure I get the order right.
+
+176
+00:07:27,360 --> 00:07:29,600
+So let's start with E,
+which is between the blue
+
+177
+00:07:29,600 --> 00:07:31,010
+and the magenta side.
+
+178
+00:07:31,010 --> 00:07:33,780
+So that's between the
+blue and the magenta side.
+
+179
+00:07:33,780 --> 00:07:36,010
+That is H, right over here.
+
+180
+00:07:36,010 --> 00:07:38,690
+
+181
+00:07:38,690 --> 00:07:40,500
+I'll do it like this.
+
+182
+00:07:40,500 --> 00:07:50,830
+Triangle E, and then I'll
+go along the blue side, F.
+
+183
+00:07:50,830 --> 00:07:52,720
+Actually, let me just
+write it this way.
+
+184
+00:07:52,720 --> 00:07:57,340
+Triangle EFG, we know
+is similar to triangle--
+
+185
+00:07:57,340 --> 00:07:59,780
+So E is between the blue
+and the magenta side.
+
+186
+00:07:59,780 --> 00:08:03,180
+Blue and magenta side--
+that is H. And then we
+
+187
+00:08:03,180 --> 00:08:08,470
+go along the blue side to F,
+go along the blue side to I,
+
+188
+00:08:08,470 --> 00:08:10,660
+and then you went along
+the orange side to G,
+
+189
+00:08:10,660 --> 00:08:13,110
+and then you go along
+the orange side to J.
+
+190
+00:08:13,110 --> 00:08:18,070
+So triangle EFJ-- EFG is
+similar to triangle HIJ
+
+191
+00:08:18,070 --> 00:08:20,570
+by side-side-side similarity.
+
+192
+00:08:20,570 --> 00:08:22,030
+They're not congruent sides.
+
+193
+00:08:22,030 --> 00:08:24,700
+They all have just the same
+ratio or the same scaling
+
+194
+00:08:24,700 --> 00:08:25,910
+factor.
+
+195
+00:08:25,910 --> 00:08:27,755
+Now let's do this last
+one, right over here.
+
+196
+00:08:27,755 --> 00:08:30,120
+
+197
+00:08:30,120 --> 00:08:30,620
+Let's see.
+
+198
+00:08:30,620 --> 00:08:33,309
+We have an angle that's
+congruent to another angle
+
+199
+00:08:33,309 --> 00:08:36,490
+right over there, and
+we have two sides.
+
+200
+00:08:36,490 --> 00:08:38,870
+And so it might be tempting
+to use side-angle-side,
+
+201
+00:08:38,870 --> 00:08:41,210
+because we have
+side-angle-side here.
+
+202
+00:08:41,210 --> 00:08:44,204
+And even the ratios look kind
+of tempting, because 4 times 2
+
+203
+00:08:44,204 --> 00:08:44,703
+is 8.
+
+204
+00:08:44,703 --> 00:08:46,460
+5 times 2 is 10.
+
+205
+00:08:46,460 --> 00:08:48,720
+But it's tricky
+here, because they
+
+206
+00:08:48,720 --> 00:08:50,315
+aren't the same
+corresponding sides.
+
+207
+00:08:50,315 --> 00:08:52,440
+In order to use side-angle-side,
+the two sides that
+
+208
+00:08:52,440 --> 00:08:54,740
+have the same
+corresponding ratios,
+
+209
+00:08:54,740 --> 00:08:56,820
+they have to be on
+either side of the angle.
+
+210
+00:08:56,820 --> 00:08:59,090
+So in this case, they are
+on either side of the angle.
+
+211
+00:08:59,090 --> 00:09:01,250
+In this case, the 4 is
+on one side of the angle,
+
+212
+00:09:01,250 --> 00:09:04,190
+but the 5 is not.
+
+213
+00:09:04,190 --> 00:09:07,430
+So because if this
+5 was over here,
+
+214
+00:09:07,430 --> 00:09:09,605
+then we could make an
+argument for similarity,
+
+215
+00:09:09,605 --> 00:09:12,230
+but with this 5 not being on the
+other side of the angle-- it's
+
+216
+00:09:12,230 --> 00:09:14,140
+not sandwiching the
+angle with the 4--
+
+217
+00:09:14,140 --> 00:09:15,680
+we can't use side-angle-side.
+
+218
+00:09:15,680 --> 00:09:18,800
+And frankly, there's nothing
+that we can do over here.
+
+219
+00:09:18,800 --> 00:09:20,790
+So we can't make
+some strong statement
+
+220
+00:09:20,790 --> 00:09:23,760
+about similarity
+for this last one.
+

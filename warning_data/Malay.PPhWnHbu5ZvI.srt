@@ -1,0 +1,1088 @@
+1
+00:00:00,870 --> 00:00:03,240
+sekarang kita tahu apa itu larutan,mari kita fikir
+
+2
+00:00:03,240 --> 00:00:08,510
+apa yang perlu untuk menjadikan satu molekul
+
+3
+00:00:08,510 --> 00:00:12,050
+boleh terlarut dalam larutan atau dalam pelarut (solven)
+
+4
+00:00:12,050 --> 00:00:15,380
+jadi mari kita mulakan dengan garam dan
+
+5
+00:00:15,380 --> 00:00:17,840
+dalam kimia anda akan selalu mendengar perkataan
+
+6
+00:00:17,840 --> 00:00:20,080
+garam sepanjang masa
+
+7
+00:00:20,080 --> 00:00:23,030
+biar saya tuliskan sekarang:garam
+
+8
+00:00:23,030 --> 00:00:26,210
+dalam kehidupan seharian kita garam digunakan dalam masakan
+
+9
+00:00:26,210 --> 00:00:29,830
+ia menjadikan makanan masin atau sodium klorida
+
+10
+00:00:32,910 --> 00:00:37,500
+garam ini juga garam yang sama yang digunakan dalam masakan
+
+11
+00:00:37,500 --> 00:00:39,980
+dan juga dalam kimia walaupun dari sudut pandangan kimia
+
+12
+00:00:39,980 --> 00:00:42,760
+ia tidak peduli apa yang garam biasa lakukan iaitu
+
+13
+00:00:42,760 --> 00:00:44,030
+memperasakan masakan anda
+
+14
+00:00:44,030 --> 00:00:46,330
+dalam sudut kimia,alasan kenapa ia dipanggil
+
+15
+00:00:46,325 --> 00:00:48,865
+garam ialah kerana ia merupakan sebatian neutral
+
+16
+00:00:48,860 --> 00:00:50,230
+yang terdiri daripada ions
+
+17
+00:00:50,230 --> 00:00:55,420
+anda semua tahu ia terdiri daripada sodium
+
+18
+00:00:55,420 --> 00:00:59,770
+sodium ingin melepaskan satu dari elektronnya dalam lingkaran valence
+
+19
+00:00:59,770 --> 00:01:02,330
+klorida pula ingin mengambilnya,jadi ia pun ambil
+
+20
+00:01:02,330 --> 00:01:08,010
+klorida menjadi ion negatif dan sodium menjadi ion positif
+
+21
+00:01:08,010 --> 00:01:12,110
+dan mereka akan melakat sesama mereka dengan kuat kerana
+
+22
+00:01:12,110 --> 00:01:14,590
+yang ini sekarang positif dan yang ini pula negatif setelah ia
+
+23
+00:01:14,590 --> 00:01:16,930
+mengambil dia punya elektron
+
+24
+00:01:16,930 --> 00:01:19,140
+bayangkan rumah anda sangat kecil jadi anda terpaksa memberikan
+
+25
+00:01:19,140 --> 00:01:23,930
+anjing anda kepada orang lain yang mempunyai ruang untuk anjing dan sekarang
+
+26
+00:01:23,930 --> 00:01:26,200
+anda terpaksa melepak di rumah orang tersebut setiap masa
+
+27
+00:01:26,200 --> 00:01:28,570
+kerana mereka mempunyai anjing anda yang anda sangat sayang
+
+28
+00:01:28,570 --> 00:01:31,560
+saya tidak pasti konsep itu sesuai atau tidak
+
+29
+00:01:31,560 --> 00:01:32,380
+tapi harap anda dapat ideanya
+
+30
+00:01:32,380 --> 00:01:34,560
+garam merupakan sebatian yang neutral
+
+31
+00:01:34,560 --> 00:01:38,820
+sebatian umum yang lain ialah potasium klorida,anda juga
+
+32
+00:01:38,820 --> 00:01:46,440
+boleh menggunakan kalsium bromida atau saya boleh lakukan sekumpulan mereka tapi ia semua
+
+33
+00:01:46,440 --> 00:01:47,080
+ialah garam/salt
+
+34
+00:01:47,080 --> 00:01:49,430
+apa yang kita hendak tahu ialah apa yang akan berlaku apabila
+
+35
+00:01:49,430 --> 00:01:53,660
+kita cuba untuk larutkan garam2 ini kedalam air
+
+36
+00:01:53,660 --> 00:01:57,800
+kita tahu apa yang air ialah cecair
+
+37
+00:01:57,800 --> 00:02:00,170
+jadi mari saya lukis cecair air
+
+38
+00:02:00,170 --> 00:02:05,440
+jadi ini ialah melekul oksigen dan ada 2 hidrogen
+
+39
+00:02:05,440 --> 00:02:09,300
+saya lukis begini
+
+40
+00:02:09,302 --> 00:02:11,582
+saya akan lukis beberapa dari mereka
+
+41
+00:02:11,580 --> 00:02:17,760
+dan semestinya anda mempunyai molekul oksigen yang lain disini
+
+42
+00:02:17,760 --> 00:02:21,370
+jadi mungkin hidrogen ini dalam orientasi begini kerana
+
+43
+00:02:21,370 --> 00:02:24,910
+hujung hidrogen telah menarik melalui ikatan hirogen---kita telah belajar
+
+44
+00:02:24,910 --> 00:02:27,700
+hal ini--kepada hujung oksigen kerana ia mempunyai sedikit
+
+45
+00:02:27,700 --> 00:02:30,560
+caj negatif disini,dan sedikiti caj positif disini
+
+46
+00:02:30,560 --> 00:02:32,200
+ini merupakan ikatan hidrogen yang kita
+
+47
+00:02:32,200 --> 00:02:33,720
+kerap bincangkan
+
+48
+00:02:33,720 --> 00:02:40,270
+dan mungkin anda akan ada oksigen yang lain disini dan ia mendapat
+
+49
+00:02:40,270 --> 00:02:44,710
+hidrogennya disini dan sini
+
+50
+00:02:44,710 --> 00:02:46,740
+anda ada beberapa ikatan hidrogen disini
+
+51
+00:02:46,740 --> 00:02:49,310
+Saya boleh buat oksigen lain di sini, dan anda boleh lihat jenis
+
+52
+00:02:49,310 --> 00:02:52,070
+struktur yang terbentuk walaupun apa yang saya lukis
+
+53
+00:02:52,070 --> 00:02:55,700
+ia sebenarnya lebih kepada---jika anda dalam keadaan pepejal
+
+54
+00:02:55,700 --> 00:02:57,010
+ia akan menjadi kaku dan mereka hanya
+
+55
+00:02:57,010 --> 00:02:57,860
+boleh bergetar ditempatnya
+
+56
+00:02:57,860 --> 00:03:00,260
+dalam keadaan cecair mereka akan bergerak bergerak
+
+57
+00:03:00,260 --> 00:03:03,590
+mereka akan bergesel sesama mereka tetapi masih
+
+58
+00:03:03,590 --> 00:03:05,670
+berada berdekatan antara satu sama lain
+
+59
+00:03:05,670 --> 00:03:08,340
+sebenarnya,keadaan cecair untuk air adalah yang paling
+
+60
+00:03:08,340 --> 00:03:09,950
+padat
+
+61
+00:03:09,950 --> 00:03:12,860
+sekarang apabila anda berurusan dengan perkara seperti ini--ia
+
+62
+00:03:12,860 --> 00:03:15,380
+bergerak,mungkin yang ini bergerak kearah itu dan yang ini
+
+63
+00:03:15,380 --> 00:03:18,620
+bergerak kearah itu--dan anda mahu larutkan sesuatu
+
+64
+00:03:18,620 --> 00:03:19,470
+seperti sodium klorida
+
+65
+00:03:19,470 --> 00:03:21,620
+sodium klorida sebenarnya molekul yang agak besar
+
+66
+00:03:21,620 --> 00:03:24,740
+jika anda rujuk pada jadual berkala disini,oksigen ialah
+
+67
+00:03:24,740 --> 00:03:27,310
+unsur/elemen kumpulan 2
+
+68
+00:03:27,310 --> 00:03:28,740
+hidrogen sangat kecil
+
+69
+00:03:28,740 --> 00:03:30,730
+kita tahu apabila hidrogen membentuk ikatan hidrogen dengan oksigen
+
+70
+00:03:30,730 --> 00:03:33,610
+ia cuma melibatkan proton yang duduk diluar sini kerana semua
+
+71
+00:03:33,610 --> 00:03:36,060
+elektron suka untuk bergaul dengan oksigen manakala
+
+72
+00:03:36,060 --> 00:03:39,390
+sodium dan klorida,mereka jauh ebih besar
+
+73
+00:03:39,390 --> 00:03:42,240
+saya tidak akan menekankan saiz molekul dengan tepat tapi mungkin
+
+74
+00:03:42,240 --> 00:03:46,440
+sodium--katakan sodium--yang mana merupakan
+
+75
+00:03:46,440 --> 00:03:47,920
+molekul yang lebih besar
+
+76
+00:03:47,920 --> 00:03:50,150
+kita tahu dalam jadual berkala,semakin kita kekanan
+
+77
+00:03:50,150 --> 00:03:54,450
+semakin kecil unsur tersebut,jadi sodium ialah atom yang agak besar
+
+78
+00:03:54,450 --> 00:03:57,230
+manakala klorida agak kecil tapi mereka berdua
+
+79
+00:03:57,230 --> 00:04:00,030
+lebih besar dari oksigen dan hidrogen
+
+80
+00:04:00,030 --> 00:04:02,000
+jadi mari saya lukiskan
+
+81
+00:04:02,000 --> 00:04:06,170
+jadi sodium--saya buat sodium sebagai positif
+
+82
+00:04:06,170 --> 00:04:07,830
+ia agak besar
+
+83
+00:04:07,830 --> 00:04:09,080
+mungkin ia kelihatan seperti ini
+
+84
+00:04:12,800 --> 00:04:16,110
+sodium ialah positif dan anda ada klorida
+
+85
+00:04:16,110 --> 00:04:18,960
+akan akan buat klorida dalam warna ungu
+
+86
+00:04:18,959 --> 00:04:20,859
+mereka masih lagi agak besar
+
+87
+00:04:20,862 --> 00:04:25,052
+klorida kelihatan seperti ini
+
+88
+00:04:25,050 --> 00:04:27,460
+dan apa yang berlaku apabila anda letakkan ia dalam air ia
+
+89
+00:04:27,460 --> 00:04:28,330
+akan berpisah
+
+90
+00:04:28,330 --> 00:04:30,780
+walaupun mereka dalam keadaan pejal,mereka
+
+91
+00:04:30,780 --> 00:04:32,440
+sangat padat antara satu sama lain
+
+92
+00:04:32,440 --> 00:04:36,930
+apabila anda letakkan ia dalam air, kation positif akan
+
+93
+00:04:36,930 --> 00:04:40,350
+tertarik pada caj separa negatif yang ada pada oksigen
+
+94
+00:04:40,350 --> 00:04:44,110
+dalam air,dan anion negatif akan tertarik
+
+95
+00:04:44,110 --> 00:04:45,740
+kepada caj positif hidrogen
+
+96
+00:04:48,570 --> 00:04:54,400
+tapi untuk mendapatkan,misalnya sodium ion ini kedalam
+
+97
+00:04:54,400 --> 00:04:57,120
+air ia harus sesua/fit dalam ini
+
+98
+00:04:57,120 --> 00:04:59,560
+contohnya saya lukis ini sebagai cecair pada mulanya tapi jika
+
+99
+00:04:59,560 --> 00:05:01,860
+ini adalah pejal dan anda akan ada struktur ini,ia akan menjadi sangat
+
+100
+00:05:01,860 --> 00:05:03,000
+susah
+
+101
+00:05:03,000 --> 00:05:05,770
+bahkan ia akan menjadi mustahil untuk menyelitkan sodium
+
+102
+00:05:05,770 --> 00:05:09,450
+ion yang besar ini untuk menjadikan ia larut
+
+103
+00:05:09,450 --> 00:05:11,140
+dalam pepejal ais
+
+104
+00:05:11,140 --> 00:05:14,540
+walaupun air sejuk,ikatan ini tetap juga
+
+105
+00:05:14,540 --> 00:05:16,560
+sangat kuat dan akan menjadi sangat
+
+106
+00:05:16,560 --> 00:05:18,590
+susah untuk bergerak melepasi satu sama lain kerana tidak banyak
+
+107
+00:05:18,590 --> 00:05:19,290
+tenaga kinetik yang ada
+
+108
+00:05:19,285 --> 00:05:23,715
+jadi apa yang anda perlu lakukan ialah,panaskan air yang anda ada
+
+109
+00:05:23,710 --> 00:05:25,950
+kerana air panas
+
+110
+00:05:25,950 --> 00:05:30,340
+lebih baik disebabkan ia mempunyai
+
+111
+00:05:30,340 --> 00:05:34,590
+sedikit tenaga kinetik dan ia memberikan sedikit ruang
+
+112
+00:05:34,590 --> 00:05:38,090
+atau memberikan ruang untuk sodium ion yang masuk
+
+113
+00:05:38,085 --> 00:05:40,965
+untuk berlanggar dan membentuk configurasi
+
+114
+00:05:40,960 --> 00:05:41,870
+yang lebih stabil
+
+115
+00:05:41,870 --> 00:05:43,830
+dan configurasi yang stabil akan kelihatan seperti
+
+116
+00:05:43,830 --> 00:05:46,460
+ini
+
+117
+00:05:46,460 --> 00:05:50,580
+sodium kelihatan seperti ini dan anda ada sekumpulan
+
+118
+00:05:50,580 --> 00:05:51,600
+sodium yang positif
+
+119
+00:05:51,600 --> 00:05:53,860
+ia akan ditarik kepada caj negatif molekul air
+
+120
+00:05:53,860 --> 00:05:58,280
+iaiyu oksigen
+
+121
+00:05:58,280 --> 00:06:00,950
+seperti ini,hujung oksigen dan kemudian
+
+122
+00:06:00,950 --> 00:06:02,200
+hujung hidrogen akan menghala
+
+123
+00:06:02,200 --> 00:06:03,450
+ke arah lain
+
+124
+00:06:06,445 --> 00:06:11,315
+hujung hidrogen ini akan menghala ke arah yang lain
+
+125
+00:06:11,310 --> 00:06:14,370
+dan semestinya atom klorida ini akan menjadi
+
+126
+00:06:14,370 --> 00:06:17,740
+sangat tertarik pada belah satu lagi jadi atom klorida mungkin
+
+127
+00:06:17,740 --> 00:06:19,830
+disini
+
+128
+00:06:22,360 --> 00:06:24,570
+jadi atom klorida mungkin akan berada disini
+
+129
+00:06:27,870 --> 00:06:31,140
+untuk mendapatkan lebih banyak sodium klorida dalam
+
+130
+00:06:31,140 --> 00:06:32,840
+air,anda perlu panaskan lagi
+
+131
+00:06:32,840 --> 00:06:34,220
+air sepanas mungkin
+
+132
+00:06:34,220 --> 00:06:38,380
+kerana apa yang berlaku ialah ia akan menyebabkan ikatan
+
+133
+00:06:38,380 --> 00:06:42,160
+menjadi lemah dan atom yang besar ini
+
+134
+00:06:42,160 --> 00:06:43,740
+akan berlanggar sesama mereka
+
+135
+00:06:43,740 --> 00:06:53,230
+secara amnay,jika anda fikir tentang kelarutan bahan larut/solute
+
+136
+00:06:53,230 --> 00:06:58,080
+dalam air--atau terutamanya jika anda fikirkan bahan larut pejal
+
+137
+00:06:58,080 --> 00:07:03,740
+iaitu sodium klorida---kedalam pelarut cecair,maka
+
+138
+00:07:03,740 --> 00:07:05,860
+semakin tinggi suhu pelarut
+
+139
+00:07:05,860 --> 00:07:09,490
+semakin banyak pepejal yang akan terlarut dalam
+
+140
+00:07:09,490 --> 00:07:11,480
+cecair. atau anda akan meningkatkan kelarutan.
+
+141
+00:07:11,480 --> 00:07:17,110
+maka jika suhu meningkat maka kelarutan meningkat
+
+142
+00:07:17,110 --> 00:07:19,470
+contohnya,jika anda mengambil beberapa garam ketul dan
+
+143
+00:07:19,470 --> 00:07:20,450
+anda boleh lakukan eksperimen dengannya
+
+144
+00:07:20,450 --> 00:07:24,240
+ia tidak merbahaya dan juga tidak mahal kerana
+
+145
+00:07:24,235 --> 00:07:25,655
+harga garam sangat murah
+
+146
+00:07:25,650 --> 00:07:27,490
+cuma masukkan ia kedalam gelas dan ia akan
+
+147
+00:07:27,490 --> 00:07:29,280
+larut didalam air
+
+148
+00:07:29,280 --> 00:07:31,050
+anda boleh goncangkannya sedikit supaya cepat larut
+
+149
+00:07:31,050 --> 00:07:33,030
+anda boleh fikir apakah yang berlaku pada peringkat molekul
+
+150
+00:07:33,030 --> 00:07:35,280
+sekirannya anda goncangkan ia dan adakah ia membantu jika
+
+151
+00:07:35,280 --> 00:07:36,300
+anda kacaunya
+
+152
+00:07:36,300 --> 00:07:41,390
+pada sesuatu tahap anda akan terfikir---jika ini ialah
+
+153
+00:07:41,390 --> 00:07:46,080
+gelas yang mempunyai air didalamnya,maka garam akan terus larut
+
+154
+00:07:46,080 --> 00:07:49,310
+tapi sampai satu ketika anda akan lihat terdapat kristal garam dibawah permukaan
+
+155
+00:07:49,310 --> 00:07:50,160
+gelas anda
+
+156
+00:07:50,160 --> 00:07:54,290
+pada satu tahap air akan menjadi tepu dengan garam
+
+157
+00:07:54,290 --> 00:07:56,540
+pada suhu yang sama
+
+158
+00:07:56,540 --> 00:07:58,680
+selepas itu anda akan mula
+
+159
+00:07:58,680 --> 00:08:00,950
+letakkan air tersebut dalam microwave atau panaskannya lagi
+
+160
+00:08:00,950 --> 00:08:04,640
+akan akan nampak walaupun garam boleh meresap/larut dalam
+
+161
+00:08:04,640 --> 00:08:07,290
+air,dan ia disebabkan tenaga kinetik dari suhu dalam microwave
+
+162
+00:08:07,290 --> 00:08:09,910
+yang menyebabkan partikel
+
+163
+00:08:09,910 --> 00:08:12,800
+boleh keluar dari konfigurasi mereka dan berlanggar sesama mereka
+
+164
+00:08:15,260 --> 00:08:19,880
+apabila anda mengambil garam ini
+
+165
+00:08:19,880 --> 00:08:22,970
+yang merupakan sebation ion yang neutral,mereka sebenarnya terdiri
+
+166
+00:08:22,970 --> 00:08:25,200
+dari ions tetapi mereka membatalkan antara satu sama lain
+
+167
+00:08:25,200 --> 00:08:28,650
+apabila anda letakkan dalam air,sebatian ini dengan sendirinya
+
+168
+00:08:28,650 --> 00:08:30,710
+tidak normal---apabila mereka dalamkeadaan pejal,mereka tidak
+
+169
+00:08:30,710 --> 00:08:32,080
+mengalirkan arus elektrik
+
+170
+00:08:32,080 --> 00:08:34,160
+walaupun mereka mempunyai caj,mereka sangat rapat antara
+
+171
+00:08:34,159 --> 00:08:35,959
+satu sama lain jadi tiada ruang untuk
+
+172
+00:08:35,960 --> 00:08:37,600
+pergerakan caj
+
+173
+00:08:37,600 --> 00:08:40,450
+bila mereka mula berpisah didalam air atau melarut dalam air
+
+174
+00:08:40,450 --> 00:08:42,610
+dengan segeranya anda akan ada caj2 yang terapung
+
+175
+00:08:42,610 --> 00:08:48,040
+dalam air dan ia boleh mengalirkan arus elektrik
+
+176
+00:08:48,040 --> 00:08:53,340
+jadi ia menjadi konductor elektrik yang baik
+
+177
+00:08:53,340 --> 00:08:55,710
+sekiranya anda berurusan dengan pepejal/solid
+
+178
+00:08:55,710 --> 00:08:58,670
+dalam larutan cecair,menurunkan suhu akan menyebabkan
+
+179
+00:08:58,670 --> 00:09:01,340
+kelarutan berkurang,kerana ia akan menjadi sukar untuk
+
+180
+00:09:01,340 --> 00:09:03,690
+menyesakkan molekul didalamnya dan meningkatkan suhu
+
+181
+00:09:03,690 --> 00:09:05,050
+akan menaikkaan kelarutan.
+
+182
+00:09:05,050 --> 00:09:05,960
+bagaimana dengan gas pula?
+
+183
+00:09:05,960 --> 00:09:12,090
+bagaimana jika anda membuat soda dan ingin larutkan sedikit
+
+184
+00:09:12,090 --> 00:09:16,270
+karbon dioksida kedalam air?
+
+185
+00:09:16,270 --> 00:09:19,110
+ia berbeza dengan apa yang kita buat dengan garam
+
+186
+00:09:19,110 --> 00:09:21,760
+kerana garam ialah sebatian ion
+
+187
+00:09:21,760 --> 00:09:24,670
+mereka mempunyai tarikan semulajadi terhadap hujung
+
+188
+00:09:24,670 --> 00:09:27,210
+polar air yang berbeza
+
+189
+00:09:27,210 --> 00:09:30,210
+tapi untuk gas pula,kebiasaannya mereka tidak
+
+190
+00:09:30,210 --> 00:09:32,420
+mempunyai daya tarikan yang kuat
+
+191
+00:09:32,420 --> 00:09:34,250
+disebabkan itulah mereka berbentuk gas terutama
+
+192
+00:09:34,250 --> 00:09:34,660
+dalam suhu bilik
+
+193
+00:09:34,660 --> 00:09:37,680
+mereka gemar lebih bebas
+
+194
+00:09:37,680 --> 00:09:40,700
+gas, mereka mempunyai tenaga kinetik yang bagus tetapi lebih
+
+195
+00:09:40,700 --> 00:09:46,610
+penting lagi,ikatan antara mereka misalnya dalam gas ideal
+
+196
+00:09:46,610 --> 00:09:48,900
+mereka hanya mempunyai london dispersion forces
+
+197
+00:09:48,900 --> 00:09:49,810
+daya sebaran London
+
+198
+00:09:49,810 --> 00:09:52,640
+mereka mempunyai ikatan yang lemah dan disebabkan itulah pada
+
+199
+00:09:52,640 --> 00:09:55,590
+suhu dan tekanan yang sama yang mana air menjadi cecair
+
+200
+00:09:55,590 --> 00:09:57,180
+gas akan tetap menjadi gas
+
+201
+00:09:57,180 --> 00:09:59,190
+mereka akan melompat jauh dari satu sama lain kerana mereka
+
+202
+00:09:59,190 --> 00:10:00,520
+bersentuhan sesama mereka
+
+203
+00:10:00,520 --> 00:10:02,950
+sekarang apabila anda letakkan ini dalam cecair
+
+204
+00:10:02,950 --> 00:10:05,160
+katakan ini merupakan sekumpulan molekul
+
+205
+00:10:05,160 --> 00:10:08,600
+air disini
+
+206
+00:10:08,600 --> 00:10:13,550
+jika anda hendak larutkan karbon dioksida
+
+207
+00:10:13,550 --> 00:10:15,460
+anda boleh abaikan benda ini
+
+208
+00:10:15,460 --> 00:10:20,210
+jika anda mahu larutkan karbon dioksida dalam air--jika anda
+
+209
+00:10:20,210 --> 00:10:23,300
+larutkan dalam air,maka ini ialah sedikit molekul
+
+210
+00:10:23,300 --> 00:10:24,700
+karbon dioksida
+
+211
+00:10:24,700 --> 00:10:28,260
+saya hanya melukis molekul dalam bentuk bulatan
+
+212
+00:10:28,260 --> 00:10:31,880
+jadi apa yang molekul ini buat?
+
+213
+00:10:31,880 --> 00:10:34,530
+ini merupakan keadaan semulajadi gas katakan ia gas
+
+214
+00:10:34,530 --> 00:10:39,000
+pada tekanan biasa,maka ia ingin lepas dari
+
+215
+00:10:39,000 --> 00:10:42,310
+air ini,tapi ia tidak boleh melakukan dengan senang kerana
+
+216
+00:10:42,310 --> 00:10:45,130
+terdapat molekul air disekelilingnya bukan?
+
+217
+00:10:45,130 --> 00:10:47,380
+yang ini dia mungkin mahu lepas keluar tapi dia
+
+218
+00:10:47,380 --> 00:10:48,630
+dikelilingi dengan molekul air
+
+219
+00:10:51,570 --> 00:10:53,590
+jadi apa yang menbantu ia untuk keluar?
+
+220
+00:10:53,590 --> 00:10:57,140
+jadi,jika anda naikkan purata tenaga kinetik dalam sistem,
+
+221
+00:10:57,140 --> 00:10:59,160
+jika anda membuatkan semua ini bergerak dengan lebih
+
+222
+00:10:59,160 --> 00:11:01,720
+pantas terutamanya jika molekul karbon dioksida
+
+223
+00:11:01,720 --> 00:11:04,180
+itu sendiri mempunyai tenaga kinetik yang lebih,maka
+
+224
+00:11:04,180 --> 00:11:05,260
+mungkin mereka boleh keluar.
+
+225
+00:11:05,260 --> 00:11:08,390
+seperti jika anda pernah lakukan eksperimen dengan botol coke sebelum ini
+
+226
+00:11:08,390 --> 00:11:10,470
+anda boleh goncangkan sistem tersebut,kerana jika anda goncangkan
+
+227
+00:11:10,470 --> 00:11:13,940
+ia akan bergerak kesana kemari dan membolehkan
+
+228
+00:11:13,940 --> 00:11:15,500
+mereka keluar
+
+229
+00:11:15,500 --> 00:11:18,860
+jadi apabila anda melarutkan gas disalam cecir larut
+
+230
+00:11:18,860 --> 00:11:22,140
+apabila bahan larut ialah gas ia akan mempunyai kesan
+
+231
+00:11:22,140 --> 00:11:25,420
+berlawanan yang akan meningkatkan suhu
+
+232
+00:11:25,420 --> 00:11:31,500
+apabila suhu meningkat,kelarutan akan menurun kerana
+
+233
+00:11:31,500 --> 00:11:33,010
+mereka ini mahu terlepas
+
+234
+00:11:33,010 --> 00:11:33,980
+mereka mahu bebas
+
+235
+00:11:33,980 --> 00:11:36,220
+mereka mahu berada jauh dari molekul lain dan mahu
+
+236
+00:11:36,220 --> 00:11:39,500
+untuk melantun dikawasan terbuka--
+
+237
+00:11:41,100 --> 00:11:43,940
+jadi apa2 sahaja yang menyebabkan sistem untuk lebih bergerak
+
+238
+00:11:43,940 --> 00:11:44,550
+mereka akan meningkat
+
+239
+00:11:44,550 --> 00:11:49,570
+dan jika suhu menurun,kelarutan akan meningkat
+
+240
+00:11:49,570 --> 00:11:51,890
+faktor lain ,dan ia tidaklah satu faktor yang utama apabila anda
+
+241
+00:11:51,890 --> 00:11:56,520
+bercakap tentang bahan pejal larut,tapi bila anda bercakap tentang bahan larut
+
+242
+00:11:56,520 --> 00:11:57,720
+cecair--mari saya buat semula
+
+243
+00:11:57,720 --> 00:12:00,880
+jadi ini ilah molekul karbon dioksida dan anda juga
+
+244
+00:12:00,880 --> 00:12:04,730
+mempunyai beberapa molekul air--mereka semua sepatutnya
+
+245
+00:12:04,730 --> 00:12:07,630
+sama saiz--iaitu akan larut
+
+246
+00:12:07,630 --> 00:12:09,730
+saya rasa anda dapat ideanya
+
+247
+00:12:09,730 --> 00:12:12,340
+tekanan juga merupakan faktor utama
+
+248
+00:12:12,340 --> 00:12:14,800
+saya pernah cakap sebelum ini,keadaan semuajadi mereka
+
+249
+00:12:14,800 --> 00:12:15,480
+ialah berkeliaran bebas
+
+250
+00:12:15,480 --> 00:12:17,320
+mereka mahu keluar
+
+251
+00:12:17,320 --> 00:12:19,660
+mereka mahu melantun keluar dari air
+
+252
+00:12:19,660 --> 00:12:23,050
+tapi jika anda mempunyai tekanan yang tinggi disini--
+
+253
+00:12:23,050 --> 00:12:26,270
+atmosfera diatas ini saja mempunyai berton2 molekul yang
+
+254
+00:12:26,270 --> 00:12:30,590
+melantun dengan kuat diatas permukaan cecair--jadi
+
+255
+00:12:30,590 --> 00:12:35,240
+jika disini terdapat banyak molekul yang melantun dengan sangat kuat
+
+256
+00:12:35,240 --> 00:12:37,180
+diatas permukaan,jadi ia akan menjadi sangat susah
+
+257
+00:12:37,180 --> 00:12:39,360
+untuk apa2 keluar ke atas
+
+258
+00:12:39,360 --> 00:12:41,950
+dan disebabkan itulah,apabila anda mempunyai tekanan yang
+
+259
+00:12:41,950 --> 00:12:45,760
+semakin meningkat,kelarutan
+
+260
+00:12:45,760 --> 00:12:49,620
+gas juga akan meningkat
+
+261
+00:12:49,620 --> 00:12:51,120
+dan ia untuk gas
+
+262
+00:12:51,120 --> 00:12:54,040
+jadi perkara menarik yang anda kene ingat ialah apabila
+
+263
+00:12:54,040 --> 00:12:57,540
+anda bercakap tentang kelarutan,pepejal ialah berlawanan dengan gas
+
+264
+00:12:57,540 --> 00:13:01,000
+suhu bagus untuk kelarutan pepejal,bukan
+
+265
+00:13:01,000 --> 00:13:03,860
+kita kata apabila anda letakkan garam atau gula dalam air,ia bagus
+
+266
+00:13:03,860 --> 00:13:04,750
+jika tingkatkan lagi suhunya
+
+267
+00:13:04,750 --> 00:13:06,570
+anda boleh larutkan banyak lagi dalam air
+
+268
+00:13:06,570 --> 00:13:09,340
+tetapi berbeza pula bagi gas,ia bertentangan
+
+269
+00:13:09,340 --> 00:13:13,160
+anda kene turunkan suhu untuk meletakkan banyak gas kedalam
+
+270
+00:13:13,160 --> 00:13:16,710
+larutan atau meningkatkan lagi tekanan untuk
+
+271
+00:13:16,710 --> 00:13:19,930
+megelakkan partikel dari lari keluar dar atas
+
+272
+00:13:19,930 --> 00:13:22,240
+harap2 ianya membantu
+

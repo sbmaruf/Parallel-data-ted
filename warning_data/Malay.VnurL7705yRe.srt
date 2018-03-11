@@ -1,0 +1,604 @@
+1
+00:00:00,680 --> 00:00:02,420
+Mari kita buat beberapa soalan.
+
+2
+00:00:02,420 --> 00:00:07,630
+Sebelumnya seperti yang dikatakan, apakah peluang...
+
+3
+00:00:07,630 --> 00:00:12,480
+yang tidak akan mendapat Kepala jika saya melibas duit syiling.
+
+4
+00:00:13,890 --> 00:00:15,580
+Jika saya melibas duit syiling 7 kalau,
+
+5
+00:00:15,580 --> 00:00:18,200
+ia sama dengna mendapatkan 7 Ekoran berturutan,
+
+6
+00:00:18,200 --> 00:00:20,950
+dan ia 1/2 kepada kuasa 7.
+
+7
+00:00:20,950 --> 00:00:25,980
+Sebab setiap percubaan mempunyai 1/2 peluang untuk mendapatkan...
+
+8
+00:00:25,980 --> 00:00:28,140
+...barang yang kita nak, iaitu Ekoran
+
+9
+00:00:28,140 --> 00:00:30,210
+Dan mendarab ia 7 kali...
+
+10
+00:00:30,210 --> 00:00:32,330
+...dan akan mendapat 1 daripada 128.
+
+11
+00:00:32,330 --> 00:00:36,790
+Serupa-rupanya, ia mempunyai kemungkinan...
+
+12
+00:00:36,790 --> 00:00:40,530
+...yang kita akan mendapat 1/128, keputusan kemungkinan sama.
+
+13
+00:00:41,680 --> 00:00:47,460
+Apakah kebarangkalian mendapatkan...
+
+14
+00:00:47,460 --> 00:00:50,600
+semua Kepala dan libasan therakhir saya mendapat Ekoran?
+
+15
+00:00:50,600 --> 00:00:54,770
+Jadi, saya telah buatkan...
+
+16
+00:00:54,770 --> 00:00:55,540
+...7 kali, betul?
+
+17
+00:00:55,540 --> 00:01:02,630
+Jadi 1, 2, 3, 4, 5, 6 dan terakhir saya mendapat Ekoran.
+
+18
+00:01:02,630 --> 00:01:06,820
+Inilah satu keputusan yang tertentu...
+
+19
+00:01:06,820 --> 00:01:09,140
+...dari jumlah keputusan yang kita dapat.
+
+20
+00:01:09,140 --> 00:01:10,270
+Apakah kebarangkaliannya?
+
+21
+00:01:10,270 --> 00:01:12,600
+Ia mempunyai 1/2 peluang mendapati kepala,
+
+22
+00:01:12,600 --> 00:01:15,760
+1/2 peluang mendapati kepala...
+
+23
+00:01:15,760 --> 00:01:18,720
+1/2 peluang mendapati kepala
+
+24
+00:01:18,720 --> 00:01:21,750
+dan sebagainya. Kemudian, 1/2 peluang mendapati Ekoran,
+
+25
+00:01:21,750 --> 00:01:24,650
+1/2 peluang mendapati Ekoran, dan sebagainya.
+
+26
+00:01:24,650 --> 00:01:30,580
+Ia semua bersamaan dengan 1/128.
+
+27
+00:01:30,580 --> 00:01:35,690
+Ia bukan kombinasi sebab
+
+28
+00:01:35,690 --> 00:01:37,910
+kita akan belajar tentang atur dan pergabungan
+
+29
+00:01:37,910 --> 00:01:39,080
+dalam video yang akan datang.
+
+30
+00:01:39,080 --> 00:01:45,620
+Dalam sebarang keadaan, kita mahukan 1 daripada 128 dari jumlah bilangan hasil.
+
+31
+00:01:52,280 --> 00:01:54,490
+Jika saya ada hasil yang tertentu,
+
+32
+00:01:54,490 --> 00:01:59,090
+inilahnya, cara untuk melihatnya adalah ia mempunyai
+
+33
+00:01:59,090 --> 00:02:02,480
+128 yang tertentu, jadi jika saya memilih salah satu daripada,
+
+34
+00:02:02,480 --> 00:02:05,060
+peluang saya untuk mendapatkannya adalah 1 daripada 128.
+
+35
+00:02:05,060 --> 00:02:06,310
+Jadi biar saya tanya awak satu soalan.
+
+36
+00:02:09,220 --> 00:02:17,470
+Apakah kebarangkalian mendapati 1 Kepala yang tepat?
+
+37
+00:02:22,650 --> 00:02:24,230
+Jadi apa ia bermakna?
+
+38
+00:02:24,230 --> 00:02:29,790
+Ia bermakna saya boleh mendapat ekoran untuk 5 kali.
+
+39
+00:02:40,160 --> 00:02:45,130
+Jadi ia akan menjadi Ekoran, Ekoran, Kepala.
+
+40
+00:02:45,130 --> 00:02:47,290
+Saya telah menukarkan warna sewenang-wenangnya.
+
+41
+00:02:48,460 --> 00:02:54,320
+Ia mungkin menjadi ekoran, ekoran, ekoran, kepala, ekoran.
+
+42
+00:02:55,210 --> 00:02:58,350
+Ekoran, ekoran, kepala, ekoran, ekoran.
+
+43
+00:02:58,350 --> 00:03:02,120
+Ia mungkin menjadi, ekoran, kepala, ekoran, ekoran, ekoran.
+
+44
+00:03:04,620 --> 00:03:08,270
+Ini akan menjadi kepala, ekoran, ekoran, ekoran.
+
+45
+00:03:08,270 --> 00:03:12,160
+Jadi kalau pandang cara ini, ia mempunyai kebarangkalian.
+
+46
+00:03:12,160 --> 00:03:15,280
+Ia sebenarnya mempunyai beberapa peristiwa, beberapa hasil
+
+47
+00:03:15,280 --> 00:03:17,730
+yang akan memenuhi pernyataan ini, 1 kepala?
+
+48
+00:03:17,730 --> 00:03:21,320
+Jadi, ia ada 1, 2, 3, 4, 5.
+
+49
+00:03:21,320 --> 00:03:23,070
+Cara untuk memikirnya adalah kita kena buat
+
+50
+00:03:23,070 --> 00:03:26,840
+5 libasan, dan 1 libasan kena jadi kepala.
+
+51
+00:03:26,840 --> 00:03:29,860
+Ia mungkin salah 1 daripada 5 libasan.
+
+52
+00:03:29,860 --> 00:03:32,050
+Ia ada 5 situasi yang akan berlaku.
+
+53
+00:03:32,050 --> 00:03:33,860
+Saya kata 1 kepala, dengan tepat
+
+54
+00:03:33,860 --> 00:03:35,750
+sebab jika saya kata sekurangnya mendapat 1 kepala,
+
+55
+00:03:35,750 --> 00:03:39,060
+keadaan mendapati 2 kepala akan dirumitkan,
+
+56
+00:03:40,070 --> 00:03:42,910
+Kita akan belajar lebih banyak tentangnya bila kita buatkan pergabungan,
+
+57
+00:03:42,910 --> 00:03:47,720
+Jadi, apakah peluang hasil kemungkinan?
+
+58
+00:03:47,720 --> 00:03:50,890
+Kalau kita tengok ini.
+
+59
+00:03:50,890 --> 00:03:54,830
+Ia ada 1 daripada 2 peluang, jadi,
+
+60
+00:03:54,830 --> 00:03:57,610
+1/2 kepada kuasa lima.
+
+61
+00:03:57,610 --> 00:04:00,960
+Iaitu bersamaan dengan 1daripada 32.
+
+62
+00:04:00,960 --> 00:04:02,770
+Logik yang sama.
+
+63
+00:04:02,770 --> 00:04:12,500
+Ia 1 daripada 32.
+
+64
+00:04:12,500 --> 00:04:16,480
+Bila syiling dilibas 5 kali,
+
+65
+00:04:16,480 --> 00:04:20,510
+ia akan ada 32 kemungkinan.
+
+66
+00:04:20,510 --> 00:04:23,720
+Setiap libas adalah hanya 1 hasil tertentu.
+
+67
+00:04:23,720 --> 00:04:26,980
+Daripada 32 hasil,
+
+68
+00:04:26,980 --> 00:04:31,780
+5 akan memenuhi peristiwa yang kita sedang mencari.
+
+69
+00:04:31,780 --> 00:04:33,690
+1 kepala daripad 5 libasan.
+
+70
+00:04:33,690 --> 00:04:38,710
+Jadi ia mempunyai 5 yang memenuhi daripada 32 hasil.
+
+71
+00:04:38,710 --> 00:04:41,060
+Dengan definisinya, ia boleh dikatakan
+
+72
+00:04:41,060 --> 00:04:43,580
+semua hasil adalah yang sama.
+
+73
+00:04:43,580 --> 00:04:49,200
+Kebarangkalian adalah 5/32.
+
+74
+00:04:49,200 --> 00:04:51,900
+Ia boleh dikatakan,
+
+75
+00:04:51,900 --> 00:04:53,820
+lebih rumit.
+
+76
+00:04:53,820 --> 00:05:07,180
+Apakah kebarangkalian tidak boleh mendapat kepala?
+
+77
+00:05:07,180 --> 00:05:10,500
+Jadi, banyak lagi yang boleh memenuhi keadaan ini.
+
+78
+00:05:10,500 --> 00:05:13,410
+Contohnya, biar saya letakkan beberapa...
+
+79
+00:05:13,410 --> 00:05:14,290
+...yang boleh memenuhinya.
+
+80
+00:05:14,285 --> 00:05:15,095
+Kau boleh dapat semua ekoran.
+
+81
+00:05:18,310 --> 00:05:20,870
+Jika kau mendapat 2 kepala yang boleh memenuhinya
+
+82
+00:05:20,865 --> 00:05:25,785
+sebab kau tidak dapat 1 kepala, jadi ini juga boleh dipenuhi.
+
+83
+00:05:25,780 --> 00:05:27,300
+Jika kau buat semacam ini,
+
+84
+00:05:27,300 --> 00:05:28,320
+ia agak rumit.
+
+85
+00:05:28,320 --> 00:05:36,440
+Atau boleh dikatakan,
+
+86
+00:05:36,440 --> 00:05:40,580
+hanya 5/32 yang tidak memenuhi keadaan.
+
+87
+00:05:43,590 --> 00:05:44,800
+32 tolak 5 adalah 27.
+
+88
+00:05:45,660 --> 00:05:49,390
+27 hasil yang lain akan memenuhinya.
+
+89
+00:05:49,390 --> 00:05:51,710
+Jadi ia boleh dikatakan
+
+90
+00:05:51,710 --> 00:05:53,760
+helah biasa di banyak masalah kebarangkalian.
+
+91
+00:05:53,760 --> 00:06:02,130
+Ia bersamaan dengan 1 tolak kebarangkalian
+
+92
+00:06:02,130 --> 00:06:04,330
+mendapatkan 1 kepala daripada 5 libasan.
+
+93
+00:06:07,280 --> 00:06:12,620
+Ia bersamaan dengna 1, iaitu 32/32
+
+94
+00:06:12,620 --> 00:06:14,220
+Tolak kebarangkaliannya.
+
+95
+00:06:14,960 --> 00:06:17,120
+Ia adalah 5/32
+
+96
+00:06:17,120 --> 00:06:21,220
+dan bersamaan dengan 27/32.
+
+97
+00:06:21,220 --> 00:06:23,090
+Jadi untuk peringatan.
+
+98
+00:06:23,090 --> 00:06:26,820
+Apabila mendapat soalan kebarangkalian,
+
+99
+00:06:26,820 --> 00:06:29,970
+ia nampak susah, tetapi,
+
+100
+00:06:29,970 --> 00:06:32,780
+ia bukan susah sangat untuk mendapatkan jawapan.
+
+101
+00:06:32,780 --> 00:06:36,060
+Jadi kau kata, ia susah mendapatkan kebarangkalian
+
+102
+00:06:36,060 --> 00:06:38,650
+untuk tidak mendapati 1 kepala.
+
+103
+00:06:38,650 --> 00:06:40,170
+Saya kena tahu kombinasi dan lain-lain lagi.
+
+104
+00:06:40,170 --> 00:06:44,430
+Inilah yang bertentangan mendapatkan 1 kepala,
+
+105
+00:06:44,430 --> 00:06:46,860
+dan lebih senang untuk memahami.
+
+106
+00:06:46,860 --> 00:06:49,230
+Jika boleh mendapatkan kebarangkalian,
+
+107
+00:06:49,230 --> 00:06:51,930
+semua hasil dapat memenuhi yang bertentangannya.
+
+108
+00:06:53,830 --> 00:06:56,160
+Yang semua kita buat sejauh ini,
+
+109
+00:06:56,160 --> 00:07:00,530
+ia berkaitan dengan duit syiling dan duit syiling beradil,
+
+110
+00:07:00,530 --> 00:07:03,660
+tapi mari kita buatkan hasilnya berbeza...
+
+111
+00:07:03,660 --> 00:07:06,380
+...dengan kebarangkalian.
+
+112
+00:07:06,380 --> 00:07:08,680
+Mari kita buat peratusan lemparan bebas...
+
+113
+00:07:08,680 --> 00:07:13,990
+...sebab kita tahu konsepnya dari bola gelanggang.
+
+114
+00:07:21,010 --> 00:07:25,720
+Katakan saya ada peratusan 80% lemparan bebas.
+
+115
+00:07:25,720 --> 00:07:30,940
+Jadi ia bermakna setiap kali saya membuat lemparan,
+
+116
+00:07:30,940 --> 00:07:37,260
+saya ada 80% ia ada satu bakul, dan 20% ia tiada bakul.
+
+117
+00:07:40,390 --> 00:07:42,780
+Kita akan buatkan statistik nanti.
+
+118
+00:07:42,780 --> 00:07:44,730
+Ia kebarangkalian dan statistik adalah bertentangan
+
+119
+00:07:47,850 --> 00:07:51,690
+Daripada 100 kali saya membuat lemparan,
+
+120
+00:07:51,690 --> 00:07:53,010
+saya berjaya dengan 80%.
+
+121
+00:07:53,010 --> 00:07:57,420
+Umumnya, saya ada 80% untuk membuatkan sesuatu lemparan bebas...
+
+122
+00:07:57,420 --> 00:07:58,720
+...tapi ia mungkin tidak sampai 100 kali.
+
+123
+00:07:58,720 --> 00:08:01,840
+Saya mungkin membuat lemparan buat 1000 kali dan berjaya dengan 800.
+
+124
+00:08:07,270 --> 00:08:12,750
+Jadi 80% adalah p, dan inilah notasi umum
+
+125
+00:08:12,745 --> 00:08:16,085
+20% adalah 1, tolak p.
+
+126
+00:08:16,080 --> 00:08:20,020
+Jika saya ada 80% peluang untuk melakukan lembaran,
+
+127
+00:08:20,020 --> 00:08:22,990
+saya ada 20% peluang akan gagal lembaran itu.
+
+128
+00:08:22,990 --> 00:08:26,210
+Jadi soalannya adalah, dengan contoh
+
+129
+00:08:26,210 --> 00:08:27,620
+menggunakan duit syiling.
+
+130
+00:08:27,620 --> 00:08:34,140
+Apakah kebarangkalian saya melembarkan 3 lembaran
+
+131
+00:08:34,140 --> 00:08:40,710
+berjajar, 3 bakul berjajar atau 3 lembaran bebas berjajar?
+
+132
+00:08:40,710 --> 00:08:42,050
+Saya akan menyatakan lembaran bebas...
+
+133
+00:08:42,045 --> 00:08:45,135
+...sebab inilah peratusan lembaran bebas, bukan peratusan lembaran keseluruhan.
+
+134
+00:08:45,130 --> 00:08:49,430
+Dengan logik yang sama, ia akan menjadi sama.
+
+135
+00:08:49,430 --> 00:08:51,910
+Lembaran pertama kena berjaya,
+
+136
+00:08:51,910 --> 00:08:54,780
+yang kedua kena mendapatkan bakul...
+
+137
+00:08:54,780 --> 00:08:57,460
+...dan 20% saya tidak mempunyai bakul.
+
+138
+00:08:57,460 --> 00:09:00,240
+Dan yang ketiga, saya mempunyai 80% peluang
+
+139
+00:09:00,240 --> 00:09:01,570
+untuk mendapatkan bakul.
+
+140
+00:09:06,430 --> 00:09:08,940
+Umumnya, dari contoh syiling, kau boleh...
+
+141
+00:09:08,940 --> 00:09:10,050
+...mendarab kebarangkalian ini.
+
+142
+00:09:13,000 --> 00:09:16,460
+Jadi 80% adalah yang sama dengan 0.8, jadi kau akan mendapat...
+
+143
+00:09:16,460 --> 00:09:18,080
+0.8 kepada kuasa ketiga.
+
+144
+00:09:20,820 --> 00:09:30,940
+Ia adalah 0.8 darab 0.8 darab 0.8 bersamaan dengan 51.2...
+
+145
+00:09:30,940 --> 00:09:40,340
+...atau 0.512, iaitu 51.2%
+
+146
+00:09:40,340 --> 00:09:43,880
+Saya ada kemungkinan yang lebih baik...
+
+147
+00:09:43,880 --> 00:09:46,790
+untuk membuat 3 lembaran berjajar.
+
+148
+00:09:57,910 --> 00:10:00,830
+Dalam video pada masa depan, kita akan buatkan contoh yang lebih banyak...
+
+149
+00:10:00,830 --> 00:10:02,420
+dengan lembaran bebas dan bakul, dan mungkin akan mempelajari...
+
+150
+00:10:02,420 --> 00:10:03,620
+...tentang kebarangkalian bersyarat.
+
+151
+00:10:03,620 --> 00:10:05,270
+Terima kasih.
+

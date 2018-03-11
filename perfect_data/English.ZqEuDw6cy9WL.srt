@@ -1,0 +1,51 @@
+1
+00:00:00,000 --> 00:00:04,000
+This is another search problem.
+
+2
+00:00:04,000 --> 00:00:07,000
+Let's assume we have a search graph.
+
+3
+00:00:07,000 --> 00:00:13,000
+It isn't quite a tree but looks like this.
+
+4
+00:00:13,000 --> 00:00:18,000
+Obviously in the structure we can reach nodes through multiple paths.
+
+5
+00:00:18,000 --> 00:00:22,000
+So let's assume that our search never expands the same node twice.
+
+6
+00:00:22,000 --> 00:00:27,000
+Let's also assume this start node is on top. We search down.
+
+7
+00:00:27,000 --> 00:00:30,000
+And this over here is our goal node.
+
+8
+00:00:30,000 --> 00:00:35,000
+So left-to-right search, tell me how many nodes
+
+9
+00:00:35,000 --> 00:00:43,000
+breadth first would expand--do count the start and goal node in the final answer.
+
+10
+00:00:43,000 --> 00:00:48,000
+Give me the same result for a depth-first search.
+
+11
+00:00:48,000 --> 00:00:51,000
+Again counting the start and the goal node in your answer.
+
+12
+00:00:51,000 --> 00:00:54,000
+And again give me your answer for breadth-first
+
+13
+00:00:54,000 --> 99:59:59,999
+and for depth-first in the right-to-left search paradigm.

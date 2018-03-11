@@ -1,0 +1,527 @@
+1
+00:00:00,579 --> 00:00:12,169
+Kita disuruh menyelesaikan perkadaran dan kita mempunyai 8/36 = 10/?
+
+2
+00:00:12,169 --> 00:00:13,825
+Sekarang ada beberapa cara yang berlainan untuk menyelesaikan ini.
+
+3
+00:00:13,825 --> 00:00:18,148
+Dan saya akan menunjukkan kesemua caranya.
+
+4
+00:00:18,148 --> 00:00:19,902
+Jadi satu cara untuk memikirkannya adalah yang kedua-dua ini perlu
+
+5
+00:00:19,902 --> 00:00:24,231
+menjadi pecahan yang bernilai sama. Jadi apa yang terjadi
+
+6
+00:00:24,246 --> 00:00:27,744
+pada pengangka itu perlu juga terjadi pada penyebut itu.
+
+7
+00:00:27,744 --> 00:00:31,508
+Jadi apakah yang anda perlu mendarab dengan 8 untuk mendapat 10?
+
+8
+00:00:31,508 --> 00:00:36,887
+Anda boleh mendarab 8 * 10/8 yang pastinya akan memberi anda 10.
+
+9
+00:00:36,887 --> 00:00:39,779
+Jadi kita mendarab dengan 10/8 di sini.
+
+10
+00:00:39,779 --> 00:00:44,309
+Ataupun satu lagi cara untuk menulis 10/8 adalah sama dengan 5/4.
+
+11
+00:00:44,309 --> 00:00:50,100
+Jadi kita mendarab dengan 5/4 untuk mendapat 10 dari 8.
+
+12
+00:00:50,100 --> 00:00:52,353
+Jikalau kita melakukan itu pada pengangkanya untuk mendapat pecahan yang bernilai sama,
+
+13
+00:00:52,353 --> 00:00:54,513
+anda perlu melakukan perkara yang sama pada penyebutnya.
+
+14
+00:00:54,529 --> 00:00:59,129
+Anda perlu mendarabnya dengan 5/4.
+
+15
+00:00:59,129 --> 00:01:08,550
+Dan jadi kita boleh mengatakan yang n ini akan menjadi sama dengan 36 * 5/4.
+
+16
+00:01:08,550 --> 00:01:14,260
+Ataupun anda boleh mengatakan yang ini akan menjadi sama dengan 36*5 dibahagi dengan 4.
+
+17
+00:01:14,260 --> 00:01:17,464
+Dan sekarang 36 dibahagi dengan 4, kita mengetahui apakah nilai itu.
+
+18
+00:01:17,464 --> 00:01:20,684
+Kita boleh membahagi kedua-dua pengangka dan penyebut dengan 4.
+
+19
+00:01:20,684 --> 00:01:22,900
+Anda membahagi pengangkanya dengan 4, anda mendapat 9.
+
+20
+00:01:22,900 --> 00:01:27,511
+Bahagikan penyebutnya dengan 4, anda mendapat 1. Anda mendapat 45.
+
+21
+00:01:27,511 --> 00:01:29,000
+Jadi itu adalah salah satu cara untuk memikirkannya.
+
+22
+00:01:29,000 --> 00:01:38,133
+8/36 = 10/45. Satu lagi cara untuk memikirkannya adalah,
+
+23
+00:01:38,133 --> 00:01:42,108
+berapakah yang kita perlu mendarab dengan 8 untuk mendapat penyebutnya?
+
+24
+00:01:42,108 --> 00:01:45,884
+Berapa kali penyebut 36 adalah lebih besar daripada 8?
+
+25
+00:01:45,884 --> 00:01:48,321
+Mari kita membahagi 36 per 8.
+
+26
+00:01:48,321 --> 00:01:57,377
+Jadi 36/8 adalah sama dengan-- jadi kita boleh mempermudahkannya dengan membahagi pengangka dan penyebut dengan 4.
+
+27
+00:01:57,377 --> 00:02:02,253
+Itu adalah pembahagi sepunya yang paling besar bagi 36 dan 8. Itu adalah sama dengan 9/2.
+
+28
+00:02:02,253 --> 00:02:09,986
+Jika anda mendarab pengangkanya dengan 9/2, anda mendapat penyebutnya.
+
+29
+00:02:09,986 --> 00:02:12,523
+Kemudian kita perlu melakukan perkara yang sama di sini.
+
+30
+00:02:12,523 --> 00:02:25,292
+Jika 36 adalah 9/2 darab 8, saya akan menulisnya. 8 * 9/2 = 36.
+
+31
+00:02:25,292 --> 00:02:27,100
+Itu adalah cara kita pergi dari pengangka ke penyebutnya.
+
+32
+00:02:27,100 --> 00:02:29,286
+Kemudian untuk mnyelesaikan apakah pengangkanya di sini,
+
+33
+00:02:29,286 --> 00:02:33,869
+jika kita mahukan pecahan yang sama, kita perlu mendarab dengan 9/2 sekali lagi.
+
+34
+00:02:33,869 --> 00:02:42,641
+Jadi kemudian kita akan mendapat 10 * 9/2 = n, akan menjadi sama dengan penyebut ini.
+
+35
+00:02:42,671 --> 00:02:47,230
+Dan jadi ini adalah sama dengan mengatakan 10*9 / 2,
+
+36
+00:02:47,230 --> 00:02:49,041
+bahagi pengangka dan penyebutnya dengan 2,
+
+37
+00:02:49,041 --> 00:02:54,763
+anda mendapat 5/1 yang adalah 45. Jadi 45 = n.
+
+38
+00:02:54,778 --> 00:02:56,946
+Sekali lagi kita mendapat cara yang sama,
+
+39
+00:02:56,946 --> 00:02:59,744
+cara yang sah untuk menyelesaikannya.
+
+40
+00:02:59,744 --> 00:03:03,341
+Kadang kala apabila anda melihat perkadaran seperti ini,
+
+41
+00:03:03,341 --> 00:03:05,677
+kadang kala anda mungkin mengatakan yang anda boleh mendarab secara menyilang.
+
+42
+00:03:05,677 --> 00:03:06,937
+Dan anda boleh mendarab secara menyilang dan
+
+43
+00:03:06,937 --> 00:03:08,397
+saya akan mengajar anda bagaimana untuk melakukannya.
+
+44
+00:03:08,397 --> 00:03:09,934
+Dan itu kadang kala adalah cara yang cepat untuk melakukannnya.
+
+45
+00:03:09,934 --> 00:03:12,556
+Tetapi saya tidak suka mengajarnya pada kali pertama.
+
+46
+00:03:12,556 --> 00:03:13,955
+anda melihat perkadaran
+
+47
+00:03:13,955 --> 00:03:15,615
+kerana ia adalah sesuatu yang mekanikal.
+
+48
+00:03:15,615 --> 00:03:17,323
+Anda betul-betul tidak memahami apa yang anda lakukan dan
+
+49
+00:03:17,323 --> 00:03:18,812
+ia sebenarnya melibatkan sedikit algebra.
+
+50
+00:03:18,812 --> 00:03:20,800
+Dan saya juga akan menunjukkan algebra itu.
+
+51
+00:03:20,800 --> 00:03:21,557
+Tetapi jika anda tidak memahaminya dan
+
+52
+00:03:21,557 --> 00:03:22,826
+sekiranya ia tidak boleh memasuki akal anda
+
+53
+00:03:22,826 --> 00:03:25,172
+pada takat ini, jangan risaukannya.
+
+54
+00:03:25,172 --> 00:03:31,394
+Jadi kita mempunyai 8/36 = 10/n. Apabila anda mendarab secara menyilang
+
+55
+00:03:31,394 --> 00:03:33,770
+anda mengatakan yang pengangkanya di sini
+
+56
+00:03:33,770 --> 00:03:35,512
+darab penyebutnya di sini
+
+57
+00:03:35,512 --> 00:03:36,823
+akan menjadi sama dengan,
+
+58
+00:03:36,823 --> 00:03:40,494
+jadi 8*n akan menjadi sama dengan
+
+59
+00:03:40,494 --> 00:03:44,118
+penyebutnya di sini--
+
+60
+00:03:44,118 --> 00:03:46,027
+saya akan melakukan ini dengan warna yang berlainan--
+
+61
+00:03:46,027 --> 00:03:47,391
+pengangkanya di sini
+
+62
+00:03:47,391 --> 00:03:48,527
+darab penyebutnya di sini.
+
+63
+00:03:48,527 --> 00:03:50,190
+Ini apa yang dimaksudkan untuk mendarab secara menyilang.
+
+64
+00:03:50,190 --> 00:03:55,208
+Jadi ini akan menjadi sama dengan 36*10.
+
+65
+00:03:55,208 --> 00:03:58,076
+Ataupun anda boleh mengatakan, saya akan melakukan ini
+
+66
+00:03:58,076 --> 00:04:00,058
+dengan warna yang neutral sekarang,
+
+67
+00:04:00,058 --> 00:04:04,175
+anda boleh mengatakan yang 8*n = 360.
+
+68
+00:04:04,175 --> 00:04:05,779
+Dan jadi anda mengatakan 8 darab apa
+
+69
+00:04:05,779 --> 00:04:08,800
+adalah sama dengan 360. Atau untuk menyelesaikan apa yang
+
+70
+00:04:08,800 --> 00:04:12,006
+darab apa itu, anda membahagi 360 dibahagi dengan 8.
+
+71
+00:04:12,006 --> 00:04:13,264
+Jadi kita boleh membahagi, dan ini melibatkan sedikit
+
+72
+00:04:13,264 --> 00:04:14,429
+algebra di sini, kita membahagi kedua-dua belah
+
+73
+00:04:14,429 --> 00:04:20,702
+persamaan dengan 8, dan kita mendapat n=360/8.
+
+74
+00:04:20,702 --> 00:04:21,271
+Dan anda boleh melakukan itu
+
+75
+00:04:21,271 --> 00:04:24,052
+tanpa memikirkan dari sudut algebra.
+
+76
+00:04:24,052 --> 00:04:28,390
+Anda mengatakan 8 darab apa adalah 360? 8 darab 360/8.
+
+77
+00:04:28,390 --> 00:04:38,774
+Jika saya menulis 8 x ? = 360, maka ? mungkin adalah 360/8.
+
+78
+00:04:38,774 --> 00:04:40,729
+Jika saya mendarab semua ini, ini dan itu
+
+79
+00:04:40,729 --> 00:04:43,132
+akan terbatal dan ia pastinya adalah 360.
+
+80
+00:04:43,132 --> 00:04:45,252
+Dan sebab itu ia adalah 360/8.
+
+81
+00:04:45,252 --> 00:04:47,370
+Tetapi kita sebenarnya mahu membahagi ini
+
+82
+00:04:47,370 --> 00:04:48,927
+untuk mendapat jawapan betul kita
+
+83
+00:04:48,927 --> 00:04:52,105
+atau jawapan termudah. 8 boleh dibahagi ke dalam 360.
+
+84
+00:04:52,105 --> 00:04:55,451
+8 dibahagi ke dalam 36 sebanyak 4 kali. 4 kali 8 adalah 32.
+
+85
+00:04:55,451 --> 00:04:58,178
+Anda mempunyai baki sebanyak 4. Turunkan 0 itu.
+
+86
+00:04:58,178 --> 00:05:03,322
+8 boleh dibahagi ke dalam 40 sebanyak 5 kali. 5 darab 8 adalah 40.
+
+87
+00:05:03,322 --> 00:05:06,523
+Dan kemudian anda tidak mempunyai baki. Dan anda telah menyelesaikannya.
+
+88
+00:05:06,523 --> 00:05:11,647
+Sekali lagi kita mendapat n=45. Sekarang cara terakhir saya akan
+
+89
+00:05:11,647 --> 00:05:13,964
+menunjukkan anda melibatkan sedikit algebra.
+
+90
+00:05:13,964 --> 00:05:16,180
+Jika mana-mana cara sebelum ini berkesan, itu bagus.
+
+91
+00:05:16,180 --> 00:05:17,914
+Dan di mana ini berada dalam senarai video kita, anda
+
+92
+00:05:17,914 --> 00:05:19,494
+tidak semestinya mengetahui algebra.
+
+93
+00:05:19,494 --> 00:05:21,337
+Tetapi saya mahu menunjukkan algebra itu kepada anda kerana
+
+94
+00:05:21,337 --> 00:05:22,185
+saya mahu menunjukkan yang pendaraban
+
+95
+00:05:22,185 --> 00:05:24,642
+secara menyilang ini bukan sesuatu yang ajaib.
+
+96
+00:05:24,642 --> 00:05:27,637
+Bahawa penggunaan algebra membolehkan kita mendapat jawapan yang sama.
+
+97
+00:05:27,637 --> 00:05:30,037
+Tetapi anda boleh berhenti menonton ini, jika anda mendapati bahagian ini
+
+98
+00:05:30,037 --> 00:05:33,662
+adalah mengelirukan. Jadi mari kita menulis semula perkadaran itu.
+
+99
+00:05:33,662 --> 00:05:43,595
+8/36 = 10/n. Dan kita perlu menyelesaikan n.
+
+100
+00:05:43,595 --> 00:05:47,015
+Cara yang paling senang untuk menyelesaikan n adalah dengan mendarab
+
+101
+00:05:47,015 --> 00:05:48,549
+kedua-dua-- ini di sebelah kiri adalah sama dengan
+
+102
+00:05:48,549 --> 00:05:50,904
+ini di sebelah kanan. Jadi kita boleh mendarab kedua-duanya
+
+103
+00:05:50,904 --> 00:05:53,434
+dengan perkara yang sama dan persamaan itu masih bernilai sama.
+
+104
+00:05:53,434 --> 00:05:57,666
+Jadi kita boleh mendarab kedua-duanya dengan n.
+
+105
+00:05:57,666 --> 00:06:00,271
+Di sebelah kanan, n akan terbatal.
+
+106
+00:06:00,271 --> 00:06:07,241
+Di sebelah kiri kita mempunyai 8/36 * n = 10.
+
+107
+00:06:07,241 --> 00:06:10,648
+Sekarang jika kita mahu menyelesaikan n, kita boleh mendarab
+
+108
+00:06:10,648 --> 00:06:13,980
+sekiranya kita hanya mahu n di sini, kita mahu mendarab
+
+109
+00:06:13,980 --> 00:06:18,207
+belah ini darab 36--saya akan melakukan itu dengan warna yang berlainan--
+
+110
+00:06:18,207 --> 00:06:21,400
+kita mahu mendarab belah ini darab 36 darab 8.
+
+111
+00:06:21,400 --> 00:06:23,505
+Kerana jika kita mendarab kesemua ini,
+
+112
+00:06:23,505 --> 00:06:25,276
+anda mendapat 1 dan anda hanya mempunyai n. Tetapi kerana
+
+113
+00:06:25,276 --> 00:06:26,549
+kita melakukan itu di sebelah kiri, kita juga
+
+114
+00:06:26,549 --> 00:06:32,529
+perlu melakukannya di sebelah kanan. Jadi darab 36/8.
+
+115
+00:06:32,529 --> 00:06:35,482
+Kesemua ini akan terbatal dan kita ditinggalkan dengan
+
+116
+00:06:35,482 --> 00:06:42,303
+n= 10 * 36 adalah 360/8. Dan perhatikan yang kita telah mendapat
+
+117
+00:06:42,303 --> 00:06:45,407
+nilai yang sama dengan apabila kita mendarab secara menyilang.
+
+118
+00:06:45,407 --> 00:06:46,920
+Dan dengan pendaraban secara menyilang, kita sebenarnya
+
+119
+00:06:46,920 --> 00:06:49,365
+melakukan 2 langkah. Kita sebenarnya melakukan satu
+
+120
+00:06:49,365 --> 00:06:51,378
+langkah tambahan di sini. Anda mendarab kedua-dua
+
+121
+00:06:51,378 --> 00:06:53,805
+belah dengan n supaya anda mendapat 8n.
+
+122
+00:06:53,805 --> 00:06:55,384
+Dan kemudian anda mendarab kedua-dua belah
+
+123
+00:06:55,384 --> 00:06:58,366
+dengan 36 supaya anda mendapat 36 anda
+
+124
+00:06:58,366 --> 00:07:00,909
+pada kedua-dua belah dan anda mendapat nilai ini di sini.
+
+125
+00:07:00,909 --> 00:07:02,699
+Tetapi akhirnya apabila anda mempermudahkannya, anda akan mendapat
+
+126
+00:07:02,699 --> 00:07:05,098
+jawapan yang sama. Itu semua
+
+127
+00:07:05,098 --> 00:07:07,224
+adalah cara yang berlainan untuk menyelesaikan perkadaran ini.
+
+128
+00:07:07,224 --> 00:07:09,551
+Kemungkinan cara yang paling senang
+
+129
+00:07:09,551 --> 00:07:11,655
+untuk melakukan ini dalam kepala anda adalah dengan
+
+130
+00:07:11,655 --> 00:07:13,759
+melihat apa yang anda perlu untuk mendarab
+
+131
+00:07:13,759 --> 00:07:16,235
+pengangka itu dan kemudian melakukan perkara yang sama
+
+132
+00:07:16,235 --> 99:59:59,999
+pada penyebut itu ataupun dengan mendarab secara menyilang.

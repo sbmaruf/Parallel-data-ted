@@ -1,0 +1,407 @@
+1
+00:00:00,000 --> 00:00:00,730
+.
+
+2
+00:00:00,730 --> 00:00:01,250
+Tambah.
+
+3
+00:00:01,250 --> 00:00:03,570
+Ringkaskan jawapan dalam nombor bercampur.
+
+4
+00:00:03,570 --> 00:00:06,740
+Kita ada 3 nombor bercampur: 3 dan 1/12 tambah
+
+5
+00:00:06,740 --> 00:00:10,130
+11 dan 2/5 tambah 4 dan 3/15.
+
+6
+00:00:10,130 --> 00:00:13,870
+Kita boleh katakan bahawa 3 + 1/12
+
+7
+00:00:13,870 --> 00:00:16,219
++ 11 + 2/5-- mari saya tuliskan.
+
+8
+00:00:16,219 --> 00:00:23,180
+3 + 1/12 + 11 + 2/5
+
+9
+00:00:23,180 --> 00:00:27,330
++ 4 + 3/15.
+
+10
+00:00:27,330 --> 00:00:30,170
+Nombor bercampur 3 dan 1/12 adalah sama dengan 3
+
+11
+00:00:30,170 --> 00:00:32,840
+dan 1/12 atau 3 + 1/12.
+
+12
+00:00:32,840 --> 00:00:35,930
+Memandangkan kita menambah nombor yang banyak,
+
+13
+00:00:35,930 --> 00:00:37,690
+urutannya tidak penting, jadi kita boleh tambahkan
+
+14
+00:00:37,690 --> 00:00:39,500
+semua nombor bulat sekali.
+
+15
+00:00:39,500 --> 00:00:46,500
+Kita ada 3 + 11 + 4, dan kita tambahkan
+
+16
+00:00:46,500 --> 00:00:57,080
+pecahan: 1/12 + 2/5 + 3/15.
+
+17
+00:00:57,080 --> 00:00:58,650
+Bahagian berwarna biru agak mudah.
+
+18
+00:00:58,650 --> 00:00:59,540
+Kita hanya tambahkan mereka.
+
+19
+00:00:59,540 --> 00:01:05,360
+3 + 11 = 14 + 4 = 18, bahagian itu
+
+20
+00:01:05,360 --> 00:01:06,740
+sama dengan 18.
+
+21
+00:01:06,740 --> 00:01:09,080
+Ini agak susah kerana kita tahu bila kita
+
+22
+00:01:09,080 --> 00:01:12,120
+menambah pecahan, penyebutnya mesti sama.
+
+23
+00:01:12,120 --> 00:01:14,590
+Sekarang kita perlu pastikan semua angka ini
+
+24
+00:01:14,590 --> 00:01:17,030
+mempunyai penyebut yang sama dan ia mesti
+
+25
+00:01:17,030 --> 00:01:21,910
+gandaan sepunya terkecil 12, 5 dan 15.
+
+26
+00:01:21,910 --> 00:01:24,210
+Kita boleh lakukan pengiraan secara kasar.
+
+27
+00:01:24,210 --> 00:01:25,530
+Kita lihat pada gandaan.
+
+28
+00:01:25,530 --> 00:01:28,310
+Kita pilih satu daripada nombor ini
+
+29
+00:01:28,310 --> 00:01:31,020
+dan cari gandaannya dan pastikan
+
+30
+00:01:31,020 --> 00:01:34,080
+ia boleh dibahagi dengan 5 dan 15.
+
+31
+00:01:34,080 --> 00:01:36,330
+Atau kita gunakan pemfaktoran nombor perdana
+
+32
+00:01:36,330 --> 00:01:39,590
+untuk setiap nombor, dan
+
+33
+00:01:39,590 --> 00:01:42,670
+gandaan sepunya terkecil mesti mempunyai
+
+34
+00:01:42,670 --> 00:01:45,960
+pemfaktoran perdana setiap satu
+
+35
+00:01:45,960 --> 00:01:47,200
+daripada nombor ini.
+
+36
+00:01:47,200 --> 00:01:48,910
+Mari saya tunjukkan.
+
+37
+00:01:48,910 --> 00:01:54,640
+Pemfaktoran perdana bagi 12 ialah, 12 sama dengan
+
+38
+00:01:54,640 --> 00:02:03,020
+2 x 6, 6 ialah 2 x 3, jadi 12 = 2 x 2 x 3.
+
+39
+00:02:03,020 --> 00:02:05,310
+Itu ialah pemfaktoran perdana untuk 12.
+
+40
+00:02:05,310 --> 00:02:08,940
+Pemfaktoran perdana bagi 5 ialah
+
+41
+00:02:08,940 --> 00:02:12,900
+1 dan 5, jadi 5 ialah nombor perdana.
+
+42
+00:02:12,900 --> 00:02:14,670
+Ini ialah pemfaktoran perdana bagi 5.
+
+43
+00:02:14,670 --> 00:02:16,210
+Hanya ada 5 disitu.
+
+44
+00:02:16,210 --> 00:02:17,660
+1 ini tidak berguna.
+
+45
+00:02:17,660 --> 00:02:19,880
+Jadi 5 adalah 5.
+
+46
+00:02:19,880 --> 00:02:23,340
+Seterusnya ialah 15.
+
+47
+00:02:23,340 --> 00:02:25,620
+Sebenarnya, bila saya cari pemfaktoran perdana untuk 5,
+
+48
+00:02:25,620 --> 00:02:27,620
+saya patut tahu 5 ialah perdana.
+
+49
+00:02:27,620 --> 00:02:30,880
+Tiada nombor lebih besar daripada 1 yang boleh dibahagi.
+
+50
+00:02:30,880 --> 00:02:33,070
+jadi agak mengarut untuk buat gambar rajah pokok itu.
+
+51
+00:02:33,070 --> 00:02:38,230
+Mari teruskan dengan 15.
+
+52
+00:02:38,230 --> 00:02:43,450
+15 = 3 x 5, kedua mereka ialah perdana.
+
+53
+00:02:43,450 --> 00:02:48,210
+Kita perlukan sesuatu yang ada dua nombor 2 dan 3.
+
+54
+00:02:48,210 --> 00:02:49,310
+jadi lihat 12 disitu.
+
+55
+00:02:49,310 --> 00:02:55,165
+Jadi penyebut kita perlu ada dua nombor 2 dan 3,
+
+56
+00:02:55,165 --> 00:02:56,080
+mari tuliskan disini.
+
+57
+00:02:56,080 --> 00:02:59,530
+Ini ialah 2 x 2 x 3.
+
+58
+00:02:59,530 --> 00:03:01,390
+Ia perlu ada ini.
+
+59
+00:03:01,390 --> 00:03:04,120
+Ia juga perlu ada 5 bukan?
+
+60
+00:03:04,120 --> 00:03:06,380
+Ia perlu ada gandaan sepunya 5 juga.
+
+61
+00:03:06,380 --> 00:03:09,050
+5 ialah faktor perdana,
+
+62
+00:03:09,050 --> 00:03:09,900
+ia perlu ada disana.
+
+63
+00:03:09,900 --> 00:03:11,670
+Ia belum ada 5.
+
+64
+00:03:11,670 --> 00:03:14,390
+Dan ia perlu ada 3 dan 5.
+
+65
+00:03:14,390 --> 00:03:16,550
+Tapi kita sudah ada 3.
+
+66
+00:03:16,550 --> 00:03:20,440
+Kita sudah ada 3 daripada 12, dan 5
+
+67
+00:03:20,440 --> 00:03:24,090
+daripada 5, jadi nombor ini boleh didarab oleh semua,
+
+68
+00:03:24,090 --> 00:03:26,350
+kerana anda boleh lihat ia ada
+
+69
+00:03:26,350 --> 00:03:30,570
+12, ia ada 5 dan ia ada 15 didalamnya.
+
+70
+00:03:30,570 --> 00:03:31,790
+Jadi, apakah nombor ini?
+
+71
+00:03:31,790 --> 00:03:33,810
+2 x 2 = 4.
+
+72
+00:03:33,810 --> 00:03:36,460
+4 x 3 = 12.
+
+73
+00:03:36,460 --> 00:03:38,640
+12 x 5 = 60.
+
+74
+00:03:38,640 --> 00:03:43,090
+Jadi gandaan sepunya terkecil untuk 12, 5 dan 15 ialah 60.
+
+75
+00:03:43,090 --> 00:03:45,000
+Jadi kita akan tambahkannya.
+
+76
+00:03:45,000 --> 00:03:47,490
+Dan semua akan per dengan 60.
+
+77
+00:03:47,490 --> 00:03:51,040
+Semua ini akan per dengan 60.
+
+78
+00:03:51,040 --> 00:03:54,160
+Semua 3 pecahan akan per dengan 60.
+
+79
+00:03:54,160 --> 00:03:56,850
+Untuk mendapatkan 60 daripada 12, kita perlu darab
+
+80
+00:03:56,850 --> 00:04:00,110
+penyebut dengan 5, jadi kita perlu darab pangangkanya juga
+
+81
+00:04:00,110 --> 00:04:02,930
+dengan 5, jadi 1 x 5 = 5.
+
+82
+00:04:02,930 --> 00:04:05,900
+5/60 adalah sama dengan 1/12.
+
+83
+00:04:05,900 --> 00:04:08,200
+Untuk mendapatkan 60 daripada 5, kita perlu
+
+84
+00:04:08,200 --> 00:04:10,490
+darabkan dengan 12, jadi lakukan
+
+85
+00:04:10,490 --> 00:04:11,580
+kaedah yang sama dengan pengangkanya.
+
+86
+00:04:11,580 --> 00:04:15,150
+12 x 2 = 24.
+
+87
+00:04:15,150 --> 00:04:18,740
+Dan yang terakhir, 15 kepada 60, anda perlu darab dengan 4, jadi
+
+88
+00:04:18,740 --> 00:04:20,339
+anda perlu lakukan juga pada pengangkanya.
+
+89
+00:04:20,339 --> 00:04:27,120
+4 x 3 = 12.
+
+90
+00:04:27,120 --> 00:04:29,020
+Sekarang kita ada penyebut yang sama.
+
+91
+00:04:29,020 --> 00:04:33,460
+Kita boleh tambahkan mereka.
+
+92
+00:04:33,460 --> 00:04:34,380
+Mari lakukannya.
+
+93
+00:04:34,380 --> 00:04:40,970
+Ini ialah 18 tambah, dan per dengan 60 kita ada
+
+94
+00:04:40,970 --> 00:04:45,450
+5 + 24 = 29.
+
+95
+00:04:45,450 --> 00:04:52,320
+29 + 12, katakan, 29 + 10 = 39
+
+96
+00:04:52,320 --> 00:04:55,420
+tambah 2 sama dengan 41.
+
+97
+00:04:55,420 --> 00:04:57,940
+Ia adalah 41.
+
+98
+00:04:57,940 --> 00:05:01,800
+Setahu saya 41 dan 60
+
+99
+00:05:01,800 --> 00:05:04,030
+tiada faktor sepunya.
+
+100
+00:05:04,030 --> 00:05:06,230
+Saya rasa 41 ialah perdana.
+
+101
+00:05:06,230 --> 00:05:12,220
+Jadi jawapannya ialah 18 dan 41/60.
+
+102
+00:05:12,220 --> 00:05:15,399
+...

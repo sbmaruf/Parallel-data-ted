@@ -1,0 +1,775 @@
+1
+00:00:01,220 --> 00:00:04,090
+Selamat datang ke penyampaian berkenaan garis graf.
+
+2
+00:00:04,090 --> 00:00:06,200
+Mari kita mulakan.
+
+3
+00:00:06,200 --> 00:00:10,530
+Jadi, katakan saya ada persamaan -- biar saya pastikan
+
+4
+00:00:10,530 --> 00:00:14,170
+yang garis ini tidak terlalu tebal.
+
+5
+00:00:14,170 --> 00:00:18,370
+Katakan saya mempunyai persamaan -- kenapa ia tak keluar?
+
+6
+00:00:18,370 --> 00:00:18,760
+Kejap ya.
+
+7
+00:00:18,760 --> 00:00:19,990
+Oh, OK.
+
+8
+00:00:19,990 --> 00:00:26,692
+y=2x+1.
+
+9
+00:00:26,692 --> 00:00:29,670
+Jadi ini memberikan hubungan antara x dan y.
+
+10
+00:00:29,670 --> 00:00:35,930
+Katakan x ialah 1, maka y akan menjadi 2 x 1 + 1 atau 3.
+
+11
+00:00:35,930 --> 00:00:39,140
+Maka untuk setiap x yang kita boleh fikirkan,
+
+12
+00:00:39,140 --> 00:00:41,350
+kita boleh tentukaan y yang sepadan.
+
+13
+00:00:41,350 --> 00:00:42,710
+Jadi mari lakukannya.
+
+14
+00:00:42,710 --> 00:00:46,520
+Jika kita kata yang -- letakkan jadual di sini.
+
+15
+00:00:46,520 --> 00:00:49,850
+x dan y.
+
+16
+00:00:50,400 --> 00:00:53,630
+Dan mari kita cuba guna nombor rawak untuk x.
+
+17
+00:00:53,630 --> 00:00:58,940
+Jika katakan yang x ialah negatif 1, maka y akan
+
+18
+00:00:58,940 --> 00:01:00,940
+menjadi 2 x -1, iaitu -2.
+
+19
+00:01:00,940 --> 00:01:04,810
++ 1, ia akan menjadi -1.
+
+20
+00:01:04,810 --> 00:01:07,480
+Jika x ialah 0, itu adalah mudah.
+
+21
+00:01:07,480 --> 00:01:09,310
+Ia akan jadi 2 x 0 iaitu 0.
+
+22
+00:01:09,310 --> 00:01:11,672
++ 1, iaitu 1.
+
+23
+00:01:11,672 --> 00:01:17,830
+Jika x ialah 1, y akan menjadi 2 x 1, iaitu 2.
+
+24
+00:01:17,830 --> 00:01:21,700
++ 1, iaitu 3.
+
+25
+00:01:21,700 --> 00:01:26,520
+Jika x ialah 2...OK, saya rasa anda faham ideanya.
+
+26
+00:01:26,520 --> 00:01:27,730
+y akan menjadi 5.
+
+27
+00:01:27,730 --> 00:01:29,530
+Dan kita boleh teruskan.
+
+28
+00:01:29,530 --> 00:01:31,540
+Dengan jelas, terdapat nombor tak terhingga untuk x
+
+29
+00:01:31,540 --> 00:01:33,820
+yang kita boleh pilih dan kita boleh pilih nilai y yang sepadan.
+
+30
+00:01:33,820 --> 00:01:35,410
+Jadi anda boleh lihat yang kita ada jadual di sini
+
+31
+00:01:35,410 --> 00:01:37,470
+yang menunjukkan hubungan antara x dan y.
+
+32
+00:01:37,470 --> 00:01:40,540
+Apa yang kita boleh buat sekarang ialah grafkan titik-titik
+
+33
+00:01:40,540 --> 00:01:42,500
+itu pada paksi koordinat.
+
+34
+00:01:42,500 --> 00:01:46,870
+Mari...saya cuba lukiskan ini dengan elok.
+
+35
+00:01:46,870 --> 00:01:50,425
+Saya akan gunakan garis ini jadi saya akan dapat garis lurus.
+
+36
+00:01:52,102 --> 00:01:56,639
+OK, itu nampak cantik.
+
+37
+00:01:56,970 --> 00:02:00,905
+OK, biar saya lukiskan sedikit titik koordinat.
+
+38
+00:02:00,905 --> 00:02:08,210
+Jadi katakan yang ini ialah 1, itu 2, dan itu 3.
+
+39
+00:02:08,210 --> 00:02:13,170
+Ini ialah -1, -2, -3.
+
+40
+00:02:13,170 --> 00:02:14,180
+Jadi ini ialah paksi-x.
+
+41
+00:02:16,442 --> 00:02:22,288
+Kita ada 1, 2, 3.
+
+42
+00:02:22,340 --> 00:02:24,020
+Lihat yang kita boleh teruskan ya.
+
+43
+00:02:24,020 --> 00:02:29,576
+1, 2, 3, dan ini ialah paksi-y.
+
+44
+00:02:32,515 --> 00:02:35,722
+Dan ini akan menjadi 1, 2, 3, dan seterusnya.
+
+45
+00:02:35,990 --> 00:02:37,220
+Ini akan menjadi -1.
+
+46
+00:02:37,220 --> 00:02:38,360
+Saya rasa anda faham konsepnya.
+
+47
+00:02:38,360 --> 00:02:40,550
+Jadi, kita boleh grafkan setiap titik ini.
+
+48
+00:02:40,550 --> 00:02:45,440
+Jadi jika titik x kita ialah -1, y ialah -1.
+
+49
+00:02:45,440 --> 00:02:48,710
+Jadi x, kita bergerak sepanjang paksi-x di sini,
+
+50
+00:02:48,710 --> 00:02:49,745
+dan kita pergi ke x = -1.
+
+51
+00:02:49,745 --> 00:02:52,990
+Kemudian kita pergi ke y = -1,
+
+52
+00:02:52,990 --> 00:02:53,775
+maka titiknya akan berada di sini.
+
+53
+00:02:53,775 --> 00:02:56,520
+Saya harap anda dapat fahaminya.
+
+54
+00:02:56,520 --> 00:02:57,670
+Itu ialah titiknya.
+
+55
+00:02:57,670 --> 00:03:00,650
+Saya akan labelkannya: -1 koma -1.
+
+56
+00:03:00,650 --> 00:03:01,140
+Ianya sedikit comot.
+
+57
+00:03:01,140 --> 00:03:02,920
+Itu ialah -1 koma -1.
+
+58
+00:03:02,920 --> 00:03:05,330
+Iaitu titik yang saya tandakan x di situ.
+
+59
+00:03:05,330 --> 00:03:06,820
+Mari buat satu lagi.
+
+60
+00:03:06,820 --> 00:03:07,880
+Titik ini pula.
+
+61
+00:03:07,880 --> 00:03:10,280
+Saya akan gunakan warna lain kali ini.
+
+62
+00:03:10,280 --> 00:03:14,960
+Katakan yang kita ada titik 0 koma 1.
+
+63
+00:03:14,960 --> 00:03:17,410
+Maka, x ialah 0, iaitu di sini.
+
+64
+00:03:17,410 --> 00:03:21,110
+Dan y ialah 1, jadi titik itu di situ.
+
+65
+00:03:21,110 --> 00:03:21,885
+Mari kit buat satu lagi.
+
+66
+00:03:21,885 --> 00:03:25,350
+Jika kita ada titik 1 koma 3.
+
+67
+00:03:25,350 --> 00:03:33,140
+Baik, 1 koma 3...x ialah 1 dan y ialah 3.
+
+68
+00:03:33,140 --> 00:03:34,730
+Jadi kita ada titik ini di sini.
+
+69
+00:03:34,730 --> 00:03:36,750
+Saya harap itu masuk akal untuk anda.
+
+70
+00:03:36,750 --> 00:03:39,180
+Dan kita boleh terus grafkan mereka, tapi saya rasa anda nampak di sini,
+
+71
+00:03:39,180 --> 00:03:41,550
+dan sudah tentu jika saya lukiskan lebih cantik,
+
+72
+00:03:41,550 --> 00:03:43,090
+titik-titik ini membentuk satu garisan.
+
+73
+00:03:43,090 --> 00:03:46,980
+Biar saya lukiskan garisan itu.
+
+74
+00:03:46,980 --> 00:03:49,370
+Ia akan nampak seperti ini.
+
+75
+00:03:53,616 --> 00:03:54,839
+Ahh...tak cantik.
+
+76
+00:03:54,860 --> 00:03:56,280
+Biar saya lukis sekali lagi.
+
+77
+00:03:56,280 --> 00:03:58,350
+Garis itu kelihatan seperti ini.
+
+78
+00:04:03,088 --> 00:04:03,865
+Anda nampak tak?
+
+79
+00:04:03,865 --> 00:04:06,720
+Hmm...sebenarnya, garisan itu tak berapa cantik.
+
+80
+00:04:06,720 --> 00:04:11,670
+Jadi ia akan menjadi garis yang melalui -- biar saya tukarkan alatan.
+
+81
+00:04:11,670 --> 00:04:13,960
+Ia akan menjadi garis yang melalui di sini,
+
+82
+00:04:13,960 --> 00:04:16,960
+melalui sini dan di sini.
+
+83
+00:04:16,960 --> 00:04:19,010
+Saya tak pasti sama ada ini adalah jelas atau tidak.
+
+84
+00:04:19,010 --> 00:04:22,630
+Biar saya buatkan titik ini sedikit.
+
+85
+00:04:22,630 --> 00:04:24,420
+Anda nampak yang garisan akan melalui semua titik ini,
+
+86
+00:04:24,420 --> 00:04:27,200
+tapi ia juga akan melalui titik 2 koma 5,
+
+87
+00:04:27,200 --> 00:04:30,800
+yang akan berada di atas ini.
+
+88
+00:04:30,800 --> 00:04:34,600
+Untuk apa-apa nilai x yang anda boleh fikir, sungguhpun
+
+89
+00:04:34,600 --> 00:04:38,510
+ianya 10,380,000,000 nilai sepadan y
+
+90
+00:04:38,510 --> 00:04:39,770
+akan berada di atas garisan ini.
+
+91
+00:04:39,770 --> 00:04:44,180
+Jadi garis merah jambu ini, dan ia akan terus bersambung,
+
+92
+00:04:44,180 --> 00:04:49,850
+ia mewakili setiap gabungan mustahil antara x dan y
+
+93
+00:04:49,850 --> 00:04:51,580
+yang akan memuaskan persamaan ini.
+
+94
+00:04:51,580 --> 00:04:53,770
+Dan sudah tentu, x tidak perlu menjadi
+
+95
+00:04:53,770 --> 00:04:54,880
+nombor bulat atau integer.
+
+96
+00:04:54,880 --> 00:04:59,670
+x boleh menjadi pi-- 3.14159.
+
+97
+00:04:59,670 --> 00:05:02,090
+Di mana ia akan berada di sekitar sini dan
+
+98
+00:05:02,090 --> 00:05:05,240
+di mana y akan menjadi 2 pi + 1.
+
+99
+00:05:05,240 --> 00:05:09,130
+Jadi setiap nombor x yang mungkin, ada nombor y yang sepadan.
+
+100
+00:05:09,130 --> 00:05:09,990
+Mari kita lakukan satu lagi.
+
+101
+00:05:14,205 --> 00:05:21,459
+Maka, jika saya ada persamaan y = ....ughhh..buruknya y itu.
+
+102
+00:05:21,535 --> 00:05:29,020
+y = -3x + 5.
+
+103
+00:05:29,020 --> 00:05:32,180
+Baik, saya akan lukiskannya dengan cepat kali ini.
+
+104
+00:05:32,180 --> 00:05:34,180
+Jadi itu ialah paksi-x.
+
+105
+00:05:34,180 --> 00:05:36,020
+Itu ialah paksi-y.
+
+106
+00:05:36,020 --> 00:05:39,334
+Mari letakkan sedikit nilai di sini.
+
+107
+00:05:39,334 --> 00:05:41,630
+x dan y.
+
+108
+00:05:41,630 --> 00:05:44,860
+Katakan jika x = -1, maka
+
+109
+00:05:44,860 --> 00:05:49,245
+-1 x -3 ialah 3 + y ialah 8.
+
+110
+00:05:49,245 --> 00:05:52,750
+Jika x ialah 0, maka y ialah 5.
+
+111
+00:05:52,750 --> 00:05:54,020
+Itu nampak mudah bukan?
+
+112
+00:05:54,020 --> 00:05:58,690
+Jika x ialah 1, -3 x 1 ialah -3.
+
+113
+00:05:58,690 --> 00:06:00,620
+Maka, y ialah 2.
+
+114
+00:06:00,620 --> 00:06:04,990
+Jika x ialah 2, -3 x 2 ialah -6.
+
+115
+00:06:04,990 --> 00:06:06,730
+Maka y ialah 1.
+
+116
+00:06:06,730 --> 00:06:08,070
+Betul tak kiraan saya?
+
+117
+00:06:08,070 --> 00:06:09,610
+-6...oh tidak tidak.
+
+118
+00:06:09,610 --> 00:06:10,315
+Negatif 1.
+
+119
+00:06:10,315 --> 00:06:12,810
+Saya dah agak ada sesuatu tak kena di situ.
+
+120
+00:06:12,810 --> 00:06:14,610
+Jadi mari kita grafkan sedikit titik-titik ini.
+
+121
+00:06:14,695 --> 00:06:20,522
+Jadi apabila x = -1, dan saya cuma menganggarkannya, apabila x = -1,
+
+122
+00:06:20,562 --> 00:06:23,785
+y = -8, maka titik itu akan berada di sekitar sini.
+
+123
+00:06:23,793 --> 00:06:25,680
+Dan terdapat satu modul penuh tentang graf koordinat
+
+124
+00:06:25,680 --> 00:06:28,540
+jika anda merasakan menggraf pasangan koordinat
+
+125
+00:06:28,540 --> 00:06:31,240
+sedikit mengelirukan.
+
+126
+00:06:31,240 --> 00:06:31,700
+Oh, tunggu.
+
+127
+00:06:31,700 --> 00:06:32,790
+Saya baru buat kesilapan.
+
+128
+00:06:32,790 --> 00:06:34,830
+Apabila x ialah -1, y ialah 9.
+
+129
+00:06:34,830 --> 00:06:37,070
+Bukan -8, jadi abaikan ini di sini.
+
+130
+00:06:37,070 --> 00:06:42,270
+Apabila x ialah -1, y ialah positif 8.
+
+131
+00:06:42,270 --> 00:06:44,610
+Maka y akan berada di belah sini.
+
+132
+00:06:44,610 --> 00:06:47,540
+Apabila x ialah 0, y ialah 5.
+
+133
+00:06:47,540 --> 00:06:50,440
+Jadi ia akan berada di sekitar sini.
+
+134
+00:06:50,440 --> 00:06:53,720
+Apabila x ialah 1, y ialah 2.
+
+135
+00:06:53,720 --> 00:06:54,650
+Jadi ianya di sini.
+
+136
+00:06:57,235 --> 00:07:01,827
+Apabila x ialah 2, y ialah -1.
+
+137
+00:07:02,310 --> 00:07:04,550
+Dan seperti yang anda lihat, saya mengganggarkannya.
+
+138
+00:07:04,550 --> 00:07:08,740
+Jika saya ada kertas graf atau saya lukiskancarta dengan lebih elok,
+
+139
+00:07:08,740 --> 00:07:11,210
+anda boleh nampaknya dan ia akan nampak kena.
+
+140
+00:07:11,210 --> 00:07:14,950
+Saya rasa garisan ini sudah cukup.
+
+141
+00:07:14,950 --> 00:07:19,430
+Di mana setiap titik yang memuaskan persamaan ini
+
+142
+00:07:19,430 --> 00:07:21,470
+sebenarnya jatuh di atas garisan ini.
+
+143
+00:07:21,470 --> 00:07:23,700
+Dan ada satu perkara menarik di sini.
+
+144
+00:07:23,700 --> 00:07:26,790
+Anda boleh lihat yang lereng garisan ini mencondong ke bawah.
+
+145
+00:07:26,790 --> 00:07:29,510
+Ia pergi dari atas di kiri ke bawah di kanan.
+
+146
+00:07:29,510 --> 00:07:31,800
+Sementara garisan yang kita lukis sebelum ini
+
+147
+00:07:31,800 --> 00:07:35,160
+adalah dari bawah di kiri ke atas di kanan.
+
+148
+00:07:35,160 --> 00:07:37,740
+Adakah terdapat apa-apa tentang persamaan ini
+
+149
+00:07:37,740 --> 00:07:40,320
+yang nampak sedikit berbeza dari yang sebelumnya.
+
+150
+00:07:40,320 --> 00:07:43,240
+Saya akan berikan anda sedikit petunjuk.
+
+151
+00:07:43,240 --> 00:07:47,230
+Nombor ini... -3, atau anda boleh katakan
+
+152
+00:07:47,230 --> 00:07:52,280
+pekali untuk x...itu menentukan sama ada
+
+153
+00:07:52,280 --> 00:07:55,040
+lereng garisan mencondong ke atas atau ke bawah,
+
+154
+00:07:55,040 --> 00:07:56,725
+dan it juga beritahu kecuraman garisan itu.
+
+155
+00:07:56,725 --> 00:07:58,900
+Dan itu sebenarnya, -3 ialah lerengnya.
+
+156
+00:07:58,900 --> 00:08:02,350
+Dan saya akan lakukan modul lain tentang lereng.
+
+157
+00:08:02,350 --> 00:08:05,400
+Dan nombor ini di sini dipanggil pintasan-y.
+
+158
+00:08:05,400 --> 00:08:06,960
+Dan ia memberitahu anda di mana
+
+159
+00:08:06,960 --> 00:08:08,970
+anda akan bersilang dengan paksi-y.
+
+160
+00:08:08,970 --> 00:08:10,460
+Dan ia nampaknya di sini, yang anda bersilang
+
+161
+00:08:10,460 --> 00:08:13,250
+pada paksi 0 koma 5.
+
+162
+00:08:16,004 --> 00:08:19,119
+Mari kita lakukan satu lagi ya.
+
+163
+00:08:21,858 --> 00:08:26,158
+y = 2 -- kita telah gunakan 2x.
+
+164
+00:08:26,158 --> 00:08:35,374
+y = 1/2x + 2. Jadi mari kita lihat dengan pantas.
+
+165
+00:08:35,374 --> 00:08:37,180
+x dan y.
+
+166
+00:08:37,180 --> 00:08:39,270
+Dan sebenarnya anda cuma perlukan 2 titik untuk satu garis.
+
+167
+00:08:39,270 --> 00:08:41,120
+Jadi anda boleh cuma katakan yang, x = 0.
+
+168
+00:08:41,120 --> 00:08:43,410
+Itu adalah mudah. y = 2.
+
+169
+00:08:43,410 --> 00:08:46,580
+Jika x ialah 2, maka y ialah 3.
+
+170
+00:08:46,580 --> 00:08:51,660
+Jadi sebelum ini apabila kita buat 3 dan 4, itu cuma
+
+171
+00:08:51,660 --> 00:08:53,650
+untuk tunjuk kepada anda,tapi sebenarnya anda
+
+172
+00:08:53,650 --> 00:08:54,230
+cuma perlukan 2 titik untuk 1 garis.
+
+173
+00:08:54,230 --> 00:08:57,930
+Maka, 0 koma 1 2.
+
+174
+00:08:57,930 --> 00:08:58,730
+Jadi itu di situ.
+
+175
+00:08:58,730 --> 00:09:03,320
+Dan kemudian, 1, 2 koma 3.
+
+176
+00:09:03,320 --> 00:09:05,950
+Jadi di situ.
+
+177
+00:09:05,950 --> 00:09:08,110
+Maka, garisan itu akan nampak seperti ini.
+
+178
+00:09:12,187 --> 00:09:14,456
+Sekali lagi, lereng kita mencondong ke atas
+
+179
+00:09:14,456 --> 00:09:16,870
+dan itu kerana 1/2 ini ialah positif.
+
+180
+00:09:16,870 --> 00:09:20,120
+Tapi kita tidak bergerak sepantas semasa apabila
+
+181
+00:09:20,120 --> 00:09:22,870
+kita mempunyai y = 2x. y = 2x
+
+182
+00:09:22,870 --> 00:09:24,452
+nampak seperti ini.
+
+183
+00:09:24,452 --> 00:09:26,390
+Ianya bergerak condong dengan lebih laju.
+
+184
+00:09:26,390 --> 00:09:27,620
+Saya harap saya tak memeningkan anda.
+
+185
+00:09:27,620 --> 00:09:30,710
+Dan kemudian, y memintas pada titik 0 koma 2,
+
+186
+00:09:30,710 --> 00:09:32,160
+iaitu di sini.
+
+187
+00:09:32,160 --> 00:09:35,300
+Maka, jika anda mahu grafkan garisan, ianya adalah amat mudah.
+
+188
+00:09:35,300 --> 00:09:37,760
+Anda cuma perlu cuba beberapa titik dan anda boleh grafkannya.
+
+189
+00:09:37,760 --> 00:09:39,440
+Dan sekarang, dalam modul seterusnya,saya akan tunjukkan dengan lebih tentang
+
+190
+00:09:39,440 --> 00:09:41,360
+lereng dan pintasan-y, malah
+
+191
+00:09:41,360 --> 00:09:42,480
+anda tidak perlu lakukan ini.
+
+192
+00:09:42,480 --> 00:09:45,490
+Tapi ini memberikan anda perasaan intuitif yang bagus
+
+193
+00:09:45,490 --> 00:09:47,320
+tentang graf garisan.
+
+194
+00:09:47,320 --> 00:09:49,250
+OK, jumpa anda nanti.

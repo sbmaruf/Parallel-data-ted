@@ -1,0 +1,864 @@
+1
+00:00:00,000 --> 00:00:00,650
+.
+
+2
+00:00:00,650 --> 00:00:03,500
+Terdapat dua video Khan Academy dalam apakah
+
+3
+00:00:03,500 --> 00:00:07,320
+itu notasi saintifik, mengapa kita perlu risau mengenainya.
+
+4
+00:00:07,320 --> 00:00:08,800
+Dan ia juga diselitkan beberapa contoh.
+
+5
+00:00:08,800 --> 00:00:12,770
+Dan apa yang saya ingin lakukan dalam video ini ialah hanya menggunakan ck12.org
+
+6
+00:00:12,770 --> 00:00:19,960
+Algebra saya tempah untuk lakukan lebih banyak contoh notasi saintifik.
+
+7
+00:00:19,960 --> 00:00:22,460
+Jadi mari ambil beberapa benda yang ditulis
+
+8
+00:00:22,460 --> 00:00:23,690
+dalam notasi saintifik.
+
+9
+00:00:23,690 --> 00:00:25,980
+Hanya sebagai peringatan, notasi saintifik berguna kerana ia
+
+10
+00:00:25,980 --> 00:00:29,180
+membolehkan kita menulis nombor yang sangat besar, atau nombor yang sangat kecil,
+
+11
+00:00:29,180 --> 00:00:33,220
+dalam cara yang mudah untuk otak kita, satu, menulis
+
+12
+00:00:33,220 --> 00:00:35,120
+dan dua, memahami.
+
+13
+00:00:35,120 --> 00:00:36,800
+Jadi mari menulis beberapa nombor.
+
+14
+00:00:36,800 --> 00:00:43,900
+Jadi katakan saya mempunyai 3.102 kali 10 kepada saat.
+
+15
+00:00:43,900 --> 00:00:47,510
+Dan saya mahu menulisnya dalam nilai berangka.
+
+16
+00:00:47,510 --> 00:00:49,720
+Ia sudah dalam notasi saintifik.
+
+17
+00:00:49,720 --> 00:00:53,840
+Ia ditulis sebagai produk dengan kuasa 10.
+
+18
+00:00:53,840 --> 00:00:55,310
+Jadi bagaimana saya menulis ini?
+
+19
+00:00:55,310 --> 00:00:56,750
+Ia hanyalah nombor.
+
+20
+00:00:56,750 --> 00:00:58,520
+Ada cara lambat dan cara pantas.
+
+21
+00:00:58,520 --> 00:01:00,410
+Cara lambatnya ialah, ini ialah benda yang sama dengan
+
+22
+00:01:00,410 --> 00:01:09,540
+3.102 kali 100, bermakna jikalau anda darabkan 3.102 kali
+
+23
+00:01:09,540 --> 00:01:16,040
+100, ia akan menjadi 3, 1, 0, 2 dengan dua 0 dibelakangnya.
+
+24
+00:01:16,040 --> 00:01:18,670
+Dan kemudian kita mempunyai nombor 1, 2, 3, di belakang titik
+
+25
+00:01:18,670 --> 00:01:25,260
+perpuluhan, dan itulah jawapan yang betul.
+
+26
+00:01:25,260 --> 00:01:29,230
+Ini ialah bersamaan dengan 310.2.
+
+27
+00:01:29,230 --> 00:01:33,570
+Sekarang, cara pantas untuk lakukan ini ialah, lihat
+
+28
+00:01:33,570 --> 00:01:36,510
+sekarang anda hanya mempunyai 3 di hadapan titik perpuluhan.
+
+29
+00:01:36,510 --> 00:01:40,180
+Apabila saya ambil sesuatu kali 10 kepada saat, saya
+
+30
+00:01:40,180 --> 00:01:44,070
+secara asasnya mengalihkan titik perpuluhan 2 ke kanan.
+
+31
+00:01:44,070 --> 00:01:49,400
+Jadi 3.102 kali 10 kepada saat ialah benda yang sama
+
+32
+00:01:49,400 --> 00:01:54,260
+jikalau saya alihkan titik perpuluhan 1, dan kemudian 2, kerana
+
+33
+00:01:54,260 --> 00:01:55,920
+ini ialah 10 kepada saat-- ianya
+
+34
+00:01:55,920 --> 00:02:00,090
+benda yang sama dengan 310.2.
+
+35
+00:02:00,090 --> 00:02:01,920
+Jadi ini mungkin cara yang pantas untuk lakukan ia.
+
+36
+00:02:01,920 --> 00:02:05,490
+Setiap kali anda darabkan dengan 10, anda alihkan perpuluhan ke
+
+37
+00:02:05,490 --> 00:02:06,840
+kanan dengan 1.
+
+38
+00:02:06,840 --> 00:02:08,920
+Mari lakukan dengan contoh yang lain.
+
+39
+00:02:08,919 --> 00:02:14,909
+Katakan saya mempunyai 7.4 kali 10 hingga keempat.
+
+40
+00:02:14,910 --> 00:02:17,030
+Mari lakukan ini dengan cara pantas.
+
+41
+00:02:17,030 --> 00:02:19,560
+Mari alihkan perpuluhan 4 ke kanan.
+
+42
+00:02:19,560 --> 00:02:23,560
+Jadi 7.4 kali 10 hingga keempat.
+
+43
+00:02:23,560 --> 00:02:26,400
+Kali 10 kepada 1, anda akan mendapat 74.
+
+44
+00:02:26,400 --> 00:02:31,050
+Kemudian kali 10 kepada saat, anda akan mendapat 740.
+
+45
+00:02:31,050 --> 00:02:33,080
+Kita perlu tambah 0 di sana, kerana kita perlu
+
+46
+00:02:33,080 --> 00:02:34,500
+alihkan sekali lagi perpuluhan.
+
+47
+00:02:34,500 --> 00:02:38,710
+10 hingga ketiga, anda akan mendapat 7,400.
+
+48
+00:02:38,710 --> 00:02:42,390
+Dan kemudian 10 keempat, anda akan mendapat 74,00.
+
+49
+00:02:42,390 --> 00:02:43,830
+Notis, saya ambil perpuluhan ini dan
+
+50
+00:02:43,825 --> 00:02:49,235
+ke 1, 2, 3, 4 tempat.
+
+51
+00:02:49,230 --> 00:02:53,130
+Jadi ini ialah bersamaan dengan 74,000.
+
+52
+00:02:53,130 --> 00:02:56,410
+Dan apabila saya mempunyai 74, dan saya perlu alihkan perpuluhan 1 lebih
+
+53
+00:02:56,410 --> 00:02:57,920
+ke kanan, saya perlu letakkan 0 di sini.
+
+54
+00:02:57,920 --> 00:03:00,820
+Saya darabkan ia dengan 10.
+
+55
+00:03:00,820 --> 00:03:06,760
+Cara lain untuk pikirkan mengenai ia, saya perlukan 10 tempat di antara
+
+56
+00:03:06,760 --> 00:03:09,420
+digit awal dan perpuluhan.
+
+57
+00:03:09,420 --> 00:03:11,250
+Jadi di sini, saya hanya ada 1 tempat.
+
+58
+00:03:11,250 --> 00:03:15,820
+Saya memerlukan 4 tempat, Jadi 1, 2, 3, 4.
+
+59
+00:03:15,820 --> 00:03:17,670
+Mari lakukan beberapa contoh lain, kerana saya berasa lagi banyak
+
+60
+00:03:17,670 --> 00:03:20,230
+contoh, lagi anda paham dengan apa yang terjadi.
+
+61
+00:03:20,230 --> 00:03:26,590
+Jadi saya mempunyai 1.75 kali 10 kepada negatif 3.
+
+62
+00:03:26,590 --> 00:03:29,050
+Ini ialah dalam notasi saintifik, dan saya hanya mahu
+
+63
+00:03:29,050 --> 00:03:31,800
+menulis nilai berangka ini.
+
+64
+00:03:31,800 --> 00:03:34,360
+Jadi apabila anda ambil sesuatu kepada negatif kali 10 kepada
+
+65
+00:03:34,360 --> 00:03:38,250
+kuasa negatif, anda alihkan perpuluhan ke kiri.
+
+66
+00:03:38,250 --> 00:03:42,130
+Jadi ini ialah 1.75.
+
+67
+00:03:42,130 --> 00:03:46,550
+Jadi jika anda lakukan ia kali 10 kepada negatif kuasa 1, anda akan
+
+68
+00:03:46,550 --> 00:03:48,330
+bergerak 1 ke kiri.
+
+69
+00:03:48,330 --> 00:03:51,940
+Tetapi jika anda kali 10 kepada negatif kuasa 2, anda akan bergerak 2
+
+70
+00:03:51,940 --> 00:03:52,570
+ke kiri.
+
+71
+00:03:52,570 --> 00:03:54,130
+Dan anda perlu letakkan 0 di sini.
+
+72
+00:03:54,130 --> 00:03:57,670
+Dan jika anda kali 10 kepada negatif 3, anda akan bergerak 3 ke
+
+73
+00:03:57,670 --> 00:04:01,160
+kiri, dan anda perlu menambah lagi satu 0.
+
+74
+00:04:01,160 --> 00:04:04,860
+Jadi anda ambil titik perpuluhan ini dan gerak 1, 2,3, ke kiri.
+
+75
+00:04:04,860 --> 00:04:12,440
+Jadi jawapan kita akan menjadi 0.00175 ialah sama sahaja dengan 1.75
+
+76
+00:04:12,440 --> 00:04:14,560
+kali 10 kepada negatif 3.
+
+77
+00:04:14,560 --> 00:04:19,520
+Dan cara lain untuk memastikan anda mendapat jawapan yang betul ialah jika
+
+78
+00:04:19,519 --> 00:04:23,869
+anda mempunyai 1 di sini, jika anda mengira 1, 1 termasuk
+
+79
+00:04:23,870 --> 00:04:27,310
+0 yang ke kanan perpuluhan perlu menjadi sama dengan
+
+80
+00:04:27,310 --> 00:04:28,880
+exponen negatif di sini.
+
+81
+00:04:28,880 --> 00:04:33,150
+Jadi anda mempunyai nombor 1, 2, 3 di belakang perpuluhan.
+
+82
+00:04:33,150 --> 00:04:35,520
+Itu perkara yang sama kepada negatif kuasa 3.
+
+83
+00:04:35,520 --> 00:04:40,030
+Anda melakukan yang ke 1,000, jadi ini yang ke 1,000 di sini.
+
+84
+00:04:40,030 --> 00:04:41,330
+Mari lakukan dengan contoh yang lain.
+
+85
+00:04:41,330 --> 00:04:42,230
+Sebenarnya mari campurkan ia.
+
+86
+00:04:42,230 --> 00:04:45,710
+Mari mulakan dengan sesuatu yang ditulis dalam angka
+
+87
+00:04:45,710 --> 00:04:48,250
+dan kemudian tuliskan ia dalam notasi saintifik.
+
+88
+00:04:48,250 --> 00:04:50,860
+Jadi katakan saya mempunyai 120,000.
+
+89
+00:04:50,860 --> 00:04:53,430
+Jadi itu hanya nilai berangka, dan saya mahu menulisnya
+
+90
+00:04:53,430 --> 00:04:55,270
+dalam notasi saintifik.
+
+91
+00:04:55,270 --> 00:05:01,490
+Jadi ini saya boleh menulis sebagai-- Saya ambil nombor permulaan--1.2
+
+92
+00:05:01,490 --> 00:05:05,910
+kali 10 kepada-- dan saya hanya mengira berapa banyak digit
+
+93
+00:05:05,910 --> 00:05:07,680
+di belakang digit permulaan.
+
+94
+00:05:07,680 --> 00:05:10,760
+1, 2, 3, 4, 5.
+
+95
+00:05:10,760 --> 00:05:13,270
+Jadi 1.2 kali 10 hingga kelima.
+
+96
+00:05:13,270 --> 00:05:16,650
+Dan jika anda mahu mendalami mengapa ia masuk akal, 10
+
+97
+00:05:16,650 --> 00:05:18,950
+hingga kelima ialah 10,000.
+
+98
+00:05:18,950 --> 00:05:24,390
+Jadi 1,2-- 10 hingga kelima ialah 100,000.
+
+99
+00:05:24,390 --> 00:05:28,970
+Jadi ianya 1.2 kali-- 1, 1, 2, 3, 4, 5.
+
+100
+00:05:28,970 --> 00:05:29,900
+Anda mempunyai lima 0.
+
+101
+00:05:29,900 --> 00:05:31,580
+Itu ialah 10 hingga kelima.
+
+102
+00:05:31,580 --> 00:05:35,230
+Jadi 1.2 kali 100,00 akan menjadi 120,000.
+
+103
+00:05:35,230 --> 00:05:38,890
+Ia akan menjadi 1 dan 1/5 kali 100,000, jadi 120.
+
+104
+00:05:38,890 --> 00:05:41,400
+Jadi mudah-mudahan itu akan ternggelam.
+
+105
+00:05:41,400 --> 00:05:43,030
+Jadi mari lakukan lagi satu.
+
+106
+00:05:43,030 --> 00:05:49,840
+Katakan nilai nombor ialah 1,765, 244.
+
+107
+00:05:49,840 --> 00:05:54,150
+Saya ingin menulis ini dalam notasi saintifik, jadi saya ambil
+
+108
+00:05:54,150 --> 00:05:57,430
+digit awalan, 1, letakkan tanda perpuluhan.
+
+109
+00:05:57,430 --> 00:05:59,050
+Yang selebihnya ke belakang perpuluhan.
+
+110
+00:05:59,050 --> 00:06:02,530
+7, 6, 5, 2, 4, 4.
+
+111
+00:06:02,530 --> 00:06:05,460
+Dan apabila anda mengira terdapat berapa banyak digit di antara
+
+112
+00:06:05,460 --> 00:06:07,920
+digit permulaan, saya rasa anda boleh bayangkan, tanda
+
+113
+00:06:07,920 --> 00:06:08,640
+perpuluhan yang pertama.
+
+114
+00:06:08,640 --> 00:06:11,720
+Kerana anda mempunyai nombor terus menerus di sebelah sini.
+
+115
+00:06:11,720 --> 00:06:14,370
+Jadi si antara digit awalan dan tanda perpuluhan.
+
+116
+00:06:14,370 --> 00:06:19,080
+Dan anda mempunyai 1, 2, 3, 4, 5, 6 digit.
+
+117
+00:06:19,080 --> 00:06:22,310
+Jadi ini kali 10 kepada yang keenam
+
+118
+00:06:22,310 --> 00:06:23,620
+Dan 10 kepada yang keenam ialah 1 million.
+
+119
+00:06:23,620 --> 00:06:28,200
+Jadi ia ialah 1.765244 kali 1 million, iaitu masuk akal.
+
+120
+00:06:28,200 --> 00:06:32,750
+Secara kasar 1.7 kali million ialah secara asarnya 1.7 million.
+
+121
+00:06:32,750 --> 00:06:34,260
+Yang ini lebih sedikit dari 1.7
+
+122
+00:06:34,260 --> 00:06:36,970
+million, jadi ia masuk akal.
+
+123
+00:06:36,970 --> 00:06:38,360
+Mari lakukan lagi satu.
+
+124
+00:06:38,360 --> 00:06:40,730
+Bagaiman saya menulis 12 dalam notasi saintifik?
+
+125
+00:06:40,730 --> 00:06:42,120
+Langkah yang sama.
+
+126
+00:06:42,120 --> 00:06:46,430
+Ia bersamaan dengan 1.2 kali-- kita hanya mempunyai digit 1
+
+127
+00:06:46,430 --> 00:06:49,880
+di antara 1 dan tempat perpuluhan, atau titik perpuluhan.
+
+128
+00:06:49,875 --> 00:06:54,905
+Jadi ia ialah 1.2 kali 10 kepada kuasa satu, atau 1.2 kali 10,
+
+129
+00:06:54,900 --> 00:06:57,540
+ialah sudah tentu bersamaan 12.
+
+130
+00:06:57,540 --> 00:07:00,230
+Mari lakukan beberapa contoh dimana kita mengambil 10
+
+131
+00:07:00,230 --> 00:07:01,530
+kepada kuasa negatif.
+
+132
+00:07:01,530 --> 00:07:08,480
+Jadi katakan kita mempunyai 0.00281, dan kita ingin menulis ini dalam
+
+133
+00:07:08,480 --> 00:07:10,450
+notasi saintifik.
+
+134
+00:07:10,450 --> 00:07:15,850
+Jadi ape yang anda lakukan, ialah anda hanya perlu fikir, berapa banyakkah
+
+135
+00:07:15,850 --> 00:07:21,010
+digit di sana termasuk nombor
+
+136
+00:07:21,010 --> 00:07:22,370
+awalan dalam nilai?
+
+137
+00:07:22,365 --> 00:07:26,755
+Jadi apa yang saya maksudkan ialah kira 1, 2, 3.
+
+138
+00:07:26,750 --> 00:07:27,980
+Jadi apa yang kita mahu lakukan ialah kita gerakkan
+
+139
+00:07:27,980 --> 00:07:32,040
+perpuluhan 1, 2, 3 tempat.
+
+140
+00:07:32,040 --> 00:07:34,710
+Jadi satu cara anda yang anda boleh fikirkan ialah, anda boleh darabkan.
+
+141
+00:07:34,710 --> 00:07:37,220
+Untuk mengerakkan perpuluhan kepada 3 tempat, anda perlu
+
+142
+00:07:37,220 --> 00:07:40,200
+darabkan ia dengan 10 yang ketiga.
+
+143
+00:07:40,200 --> 00:07:42,170
+Tetapi jika anda darabkan sesuatu dengan 10 kepada yang ketiga,
+
+144
+00:07:42,170 --> 00:07:43,340
+anda menukar nilainya.
+
+145
+00:07:43,340 --> 00:07:47,440
+Jadi kita juga perlu darabkan dengan 10 kepada negatif 3.
+
+146
+00:07:47,440 --> 00:07:50,090
+Hanya dengan cara ini, anda tidak anda mengubah nilai, betul?
+
+147
+00:07:50,090 --> 00:07:53,920
+Jika saya darabkan dengan 10 kepada 3, kali 10 kepada negatif 2--3
+
+148
+00:07:53,920 --> 00:07:57,440
+tolak 3 ialah 0-- ini hanyalah seperti mendarabkannya dengan 1.
+
+149
+00:07:57,440 --> 00:07:59,820
+Jadi yang ini akan bersamaan dengan?
+
+150
+00:07:59,820 --> 00:08:03,420
+Jika saya ambil perpuluhan dan saya gerakkan ia 3 tempat ke kanan,
+
+151
+00:08:03,420 --> 00:08:07,510
+bahagian di sini akan menjadi bersamaan dengan 2.81.
+
+152
+00:08:07,510 --> 00:08:10,880
+Dan kita tinggal dengan yang ini, kali 10 kepada
+
+153
+00:08:10,880 --> 00:08:12,720
+negatif 3.
+
+154
+00:08:12,720 --> 00:08:15,770
+Sekarang, caya paling cepat untuk lakukannya ialah, lihat, biar saya
+
+155
+00:08:15,770 --> 00:08:18,860
+kira- termasuklah angka awalan-- berapa banyak tempat saya
+
+156
+00:08:18,860 --> 00:08:19,970
+ada belakang perupuluhan.
+
+157
+00:08:19,970 --> 00:08:21,440
+1, 2, 3.
+
+158
+00:08:21,440 --> 00:08:25,060
+Jadi ia akan menjadi 2,81 kali 10 kepada
+
+159
+00:08:25,060 --> 00:08:28,430
+negatif kuasa 1, 2, 3.
+
+160
+00:08:28,430 --> 00:08:30,470
+Mari lakukan lagi satu seperti itu.
+
+161
+00:08:30,470 --> 00:08:33,080
+Biar saya naikkan keatas ini.
+
+162
+00:08:33,080 --> 00:08:34,520
+Mari lakukan lagi satu seperti itu.
+
+163
+00:08:34,520 --> 00:08:43,240
+Katakan saya mempunyai 1, 2, 3, 4, 5, 6-- berapa banyak 0 saya ada
+
+164
+00:08:43,240 --> 00:08:43,750
+dalam masalah ini?
+
+165
+00:08:43,750 --> 00:08:45,030
+Saya hanya akan mereka sesuatu.
+
+166
+00:08:45,030 --> 00:08:47,240
+0, 2, 7.
+
+167
+00:08:47,240 --> 00:08:49,830
+Dan anda mahu menulis itu dalam notasi saintifik.
+
+168
+00:08:49,830 --> 00:08:51,540
+Anda kira semua digit hingga ke
+
+169
+00:08:51,540 --> 00:08:53,380
+2, belakang perpuluhan.
+
+170
+00:08:53,380 --> 00:08:57,610
+Jadi 1, 2, 3, 4, 5, 6, 7, 8.
+
+171
+00:08:57,610 --> 00:09:01,870
+Jadi ini akan menjadi 2.7 kali 10 kepada
+
+172
+00:09:01,870 --> 00:09:04,460
+negatif kuasa 8.
+
+173
+00:09:04,460 --> 00:09:08,270
+Sekarang mari lakukan lagi satu, dimana kita mulakan dengan
+
+174
+00:09:08,270 --> 00:09:10,840
+nilai notasi saintifik dan kita mahu ubahkan
+
+175
+00:09:10,840 --> 00:09:12,760
+kepada nilai berangka.
+
+176
+00:09:12,760 --> 00:09:13,690
+Hanya untuk campurkan ia.
+
+177
+00:09:13,690 --> 00:09:17,190
+Jadi katakan anda mempunyai 2.9 kali 10 kepada
+
+178
+00:09:17,190 --> 00:09:18,830
+negatif kelima
+
+179
+00:09:18,830 --> 00:09:22,360
+Jadi salah satu caranya ialah, nombor permulaan ini tambah semua
+
+180
+00:09:22,360 --> 00:09:25,110
+0 yang kekiri tempat perpuluhan, akan
+
+181
+00:09:25,110 --> 00:09:26,980
+ade 5 digit,
+
+182
+00:09:26,980 --> 00:09:29,600
+Jadi anda mempunyai 2 dan 9, dan kemudian anda akan
+
+183
+00:09:29,600 --> 00:09:33,170
+mempunyai 4 lagi kosong.
+
+184
+00:09:33,170 --> 00:09:35,450
+1, 2, 3, 4.
+
+185
+00:09:35,450 --> 00:09:37,140
+Dan anda akan mempunyai perpuluhan.
+
+186
+00:09:37,140 --> 00:09:39,610
+Dan bagaimana saya tahu empat 0?
+
+187
+00:09:39,610 --> 00:09:45,370
+Oleh kerana saya mengira, ini ialah 1, 2, 3, 4, 5 tempat di belakang
+
+188
+00:09:45,370 --> 00:09:48,510
+perpuluhan, termasuklah nombor awalan.
+
+189
+00:09:48,510 --> 00:09:52,600
+Dan jadi ianya ialah 0.000029.
+
+190
+00:09:52,600 --> 00:09:54,670
+Dan hanya untuk mengesahkan, lakukan teknik yang lain.
+
+191
+00:09:54,670 --> 00:09:57,110
+Bagaimana saya menulis ini dalam notasi saintifik?
+
+192
+00:09:57,110 --> 00:10:03,310
+I mengira semua digit, semua awalan 0 di belakang
+
+193
+00:10:03,310 --> 00:10:07,050
+perpuluhan, termasuklah awalan nombor bukan sifar.
+
+194
+00:10:07,050 --> 00:10:10,330
+Jadi saya mempunyai 1, 2, 3, 4, 5 digit.
+
+195
+00:10:10,330 --> 00:10:12,730
+Jadi ianya ialah 10 kepada negatif 5.
+
+196
+00:10:12,725 --> 00:10:20,595
+Dan jadi ia akan menjadi 2.9 kali 10 kepada negatif 5.
+
+197
+00:10:20,590 --> 00:10:23,230
+Dan sekali lagi, ini bukanlah sebarang
+
+198
+00:10:23,230 --> 00:10:24,450
+ilmu hitam.
+
+199
+00:10:24,450 --> 00:10:27,270
+Ini sebenarnya masuk akal.
+
+200
+00:10:27,270 --> 00:10:30,920
+Jika saya mahu dapatkan nombor ini kepada 2.9, apa yang saya perlu
+
+201
+00:10:30,920 --> 00:10:37,310
+lakukan ialah gerakkan perpuluhan kepada 1, 2, 3, 4, 5 tempat, seperti itu.
+
+202
+00:10:37,310 --> 00:10:43,010
+Dan untuk dapatkan perpuluhan bergerak ke kanan dengan 5 tempat--
+
+203
+00:10:43,010 --> 00:10:47,700
+katakan dengan 0, 0, 0, 0, 2, 9.
+
+204
+00:10:47,700 --> 00:10:51,670
+Jika saya darabkan ia dengan 10 yang kelima, saya juga perlu
+
+205
+00:10:51,670 --> 00:10:54,700
+darabkan ia dengan 10 kepada negatif 5.
+
+206
+00:10:54,700 --> 00:10:56,230
+Jadi saya tidak mahu menukar nombor it.
+
+207
+00:10:56,230 --> 00:10:59,060
+Yang di sini hanya darabkan sesuatu dengan 1.
+
+208
+00:10:59,060 --> 00:11:02,790
+10 yang kelima kali 10 kepada negative 5 ialah 1.
+
+209
+00:11:02,790 --> 00:11:07,910
+Jadi yang di sini akan mengerakkan
+
+210
+00:11:07,910 --> 00:11:09,850
+perpuluhan 5 ke kanan.
+
+211
+00:11:09,850 --> 00:11:12,700
+1,2, 3, 4, 5.
+
+212
+00:11:12,700 --> 00:11:16,660
+Jadi ini akan menjadi 2.5, dan kemudian kita akan ditinggalkan dengan
+
+213
+00:11:16,660 --> 00:11:20,310
+kali 10 kepada negatif 5.
+
+214
+00:11:20,310 --> 00:11:22,640
+Bagaimanapun, mudah-mudahan, anda mendapati bahawa latihan notasi
+
+215
+00:11:22,640 --> 00:11:24,980
+saintifik berguna.
+
+216
+00:11:24,980 --> 00:11:25,200
+.
+

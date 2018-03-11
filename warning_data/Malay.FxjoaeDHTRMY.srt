@@ -1,0 +1,638 @@
+1
+00:00:00,952 --> 00:00:03,533
+"Seorang pemilik restoran ingin mengetahui
+
+2
+00:00:03,533 --> 00:00:06,067
+dari mana pelanggannya datang.
+
+3
+00:00:06,067 --> 00:00:08,533
+1 hari, dia mahu mengumpul data
+mengenai jarak
+
+4
+00:00:08,533 --> 00:00:11,540
+perjalanan yg diambil utk pelanggan 
+sampai ke kedainya.
+
+5
+00:00:11,540 --> 00:00:14,933
+Maklumat yg diberi seperti berikut"
+
+6
+00:00:14,933 --> 00:00:16,862
+Ini ialah data yg didapati.
+
+7
+00:00:16,862 --> 00:00:19,262
+"Dia mahu membuat graf utk 
+membantunya memahami
+
+8
+00:00:19,262 --> 00:00:23,754
+taburan jarak & Median jarak yg diambil.
+
+9
+00:00:23,754 --> 00:00:26,467
+Apakah jenis graf yg sesuai?"
+
+10
+00:00:26,467 --> 00:00:29,600
+Ada pelbagai graf boleh diplot dari data ini,
+
+11
+00:00:29,600 --> 00:00:31,765
+tapi ia akan memberi maksud yg berbeza.
+
+12
+00:00:31,765 --> 00:00:34,200
+Cth: graf garisan menerangkan tentang
+aliran masa.
+
+13
+00:00:34,200 --> 00:00:37,933
+Dia tidak berminat dgn aliran masa,
+jadi graf garisan tak begitu sesuai.
+
+14
+00:00:37,933 --> 00:00:39,617
+Graf garisan juga menerangkan tentang
+
+15
+00:00:39,617 --> 00:00:41,301
+perkadaran antara 2 pembolehubah.
+
+16
+00:00:41,301 --> 00:00:42,985
+Pemilik tadi bukan mencari perkadaran.
+
+17
+00:00:42,985 --> 00:00:44,933
+Graf Bar sesuai utk mengumpul data,
+
+18
+00:00:44,933 --> 00:00:47,090
+data dikelaskan ikut kumpulan.
+
+19
+00:00:47,090 --> 00:00:50,085
+Tapi itu pun bukan seperti yg dia cari.
+
+20
+00:00:50,085 --> 00:00:53,000
+Carta Pai pula menunjukkan nilai relatif 
+dari keseluruhan.
+
+21
+00:00:53,000 --> 00:00:57,841
+Juga,bukan itu yg dicari.
+
+22
+00:00:57,841 --> 00:01:00,267
+Plot batang-daun juga berkait dgn 
+taburan data,
+
+23
+00:01:00,267 --> 00:01:04,277
+tapi tak sesuai utk mencari 
+Median jarak & taburan.
+
+24
+00:01:04,277 --> 00:01:09,067
+Maka, graf yg sesuai utk mengkaji 
+Median & taburan
+
+25
+00:01:09,067 --> 00:01:12,841
+ialah plot box & whiskers.
+
+26
+00:01:12,841 --> 00:01:14,918
+Saya akan tunjukkan cara memplot nya.
+
+27
+00:01:14,918 --> 00:01:16,417
+Box & whiskers itu ialah..
+
+28
+00:01:16,417 --> 00:01:20,829
+menunjukkan taburan data dlm sukuan.
+
+29
+00:01:24,067 --> 00:01:25,426
+juga menunjukkan Median kpd data itu.
+
+30
+00:01:25,426 --> 00:01:28,764
+Itulah yg dicari-cari oleh pemilik restoran, 
+dlm soalan tadi.
+
+31
+00:01:28,764 --> 00:01:31,510
+Jadi bila berkaitan dgn Median,
+
+32
+00:01:31,510 --> 00:01:33,507
+dan Median dlm box & whiskers,
+
+33
+00:01:33,507 --> 00:01:35,227
+mula-mula kita mesti susun semula nombor.
+
+34
+00:01:35,227 --> 00:01:36,947
+
+35
+00:01:36,947 --> 00:01:38,667
+Sebab Median ialah nilai tengah set 
+nombor dlm susunan.
+
+36
+00:01:38,667 --> 00:01:41,733
+Mari susunkan mengikut urutan.
+
+37
+00:01:41,733 --> 00:01:44,420
+
+38
+00:01:44,420 --> 00:01:48,333
+
+39
+00:01:48,333 --> 00:01:50,400
+
+40
+00:01:50,400 --> 00:01:55,533
+
+41
+00:01:55,533 --> 00:02:00,667
+
+42
+00:02:00,667 --> 00:02:03,867
+
+43
+00:02:03,867 --> 00:02:05,544
+
+44
+00:02:05,544 --> 00:02:11,600
+
+45
+00:02:11,600 --> 00:02:14,838
+
+46
+00:02:14,838 --> 00:02:19,267
+
+47
+00:02:19,267 --> 00:02:22,867
+
+48
+00:02:22,867 --> 00:02:27,533
+
+49
+00:02:27,533 --> 00:02:34,180
+
+50
+00:02:34,180 --> 00:02:38,267
+
+51
+00:02:38,267 --> 00:02:42,933
+
+52
+00:02:42,933 --> 00:02:45,210
+
+53
+00:02:45,210 --> 00:02:48,533
+
+54
+00:02:48,533 --> 00:02:52,000
+
+55
+00:02:52,000 --> 00:02:55,600
+
+56
+00:02:55,600 --> 00:03:00,333
+Ramai yg suka restoran ini & 
+sanggup datang dari jauh ya.
+
+57
+00:03:00,333 --> 00:03:03,400
+
+58
+00:03:03,400 --> 00:03:07,800
+Pastikan tiada nombor yg tertinggal 
+atau berulang.
+
+59
+00:03:07,800 --> 00:03:12,000
+Jumlah pelanggan dlm kajian ialah 17 org.
+
+60
+00:03:12,000 --> 00:03:21,400
+
+61
+00:03:21,400 --> 00:03:22,846
+
+62
+00:03:22,846 --> 00:03:30,400
+
+63
+00:03:30,400 --> 00:03:32,904
+Ingat, Median ialah nombor di tengah.
+
+64
+00:03:32,904 --> 00:03:34,867
+Kita ada 17 nombor kesemuanya.
+
+65
+00:03:34,867 --> 00:03:39,133
+Bilangan nombor dlm set ini ialah ganjil, 
+maka Median
+
+66
+00:03:39,133 --> 00:03:44,667
+ialah nombor yg di tengah iaitu 
+8 nombor < x < 8 nombor.
+
+67
+00:03:44,667 --> 00:03:49,000
+Maka nombornya ialah yg ke-9
+
+68
+00:03:49,000 --> 00:03:57,290
+Ada 8 nombor yg bernilai lebih besar.
+
+69
+00:03:57,323 --> 00:04:02,241
+8 nombor yg < 6,
+8 nombor > 6.
+
+70
+00:04:02,241 --> 00:04:05,867
+Maka, no.6 ialah nilai tengah yg dicari!
+
+71
+00:04:05,867 --> 00:04:07,827
+Kalau set no. ini dlm bilangan genap,
+
+72
+00:04:07,827 --> 00:04:09,754
+kira purata bagi 2 no. yg paling tengah.
+
+73
+00:04:09,754 --> 00:04:13,231
+Bg set no dlm bilangan ganjil 
+Median ialah no yg di tengah-tengah.
+
+74
+00:04:13,231 --> 00:04:17,416
+Jadi inilah dia Median yg kita cari.
+
+75
+00:04:17,416 --> 00:04:21,400
+Semasa memplot box & whiskers,
+
+76
+00:04:21,400 --> 00:04:23,600
+carikan Med bg set no yg bernilai < 
+dari Med tadi ( 6 ).
+
+77
+00:04:23,600 --> 00:04:28,748
+Dan, carikan Med bg set no yg bernilai > 
+dari Med tadi ( 6 )
+
+78
+00:04:28,748 --> 00:04:32,231
+Ini dipanggil sukuan pertama & kedua.
+
+79
+00:04:32,231 --> 00:04:35,900
+Kita dapat sukuan sebab set data 
+dibahagi kpg 4 bahagian.
+
+80
+00:04:35,900 --> 00:04:40,400
+
+81
+00:04:40,400 --> 00:04:43,562
+Perhatikan set no yg < dari 6.
+
+82
+00:04:43,562 --> 00:04:47,467
+Ada 8 no di sini.
+
+83
+00:04:47,467 --> 00:04:51,467
+Bila bil.no data ialah genap, 
+Med ialah 2 no.
+
+84
+00:04:51,467 --> 00:04:55,867
+Cth: 
+kedua-dua no. ini ialah nilai tengah.
+
+85
+00:04:55,867 --> 00:05:00,600
+
+86
+00:05:00,600 --> 00:05:04,251
+
+87
+00:05:04,251 --> 00:05:07,667
+
+88
+00:05:07,667 --> 00:05:11,667
+
+89
+00:05:11,667 --> 00:05:13,333
+Jadi, Med bg set ini ialah (2+3)/2= 2.5
+
+90
+00:05:13,333 --> 00:05:16,767
+Puratakan 2 no. yg di tengah.
+
+91
+00:05:16,767 --> 00:05:18,933
+Kita kira utk set ini pula.
+
+92
+00:05:18,933 --> 00:05:24,733
+Sekali lagi, kalau ada 8 no. dlm set,
+maka ada 2 nilai tengahnya.
+
+93
+00:05:24,733 --> 00:05:28,237
+No. nya ialah 11 & 14.
+
+94
+00:05:28,237 --> 00:05:33,200
+Puratakan (11 +14)/2=
+
+95
+00:05:33,200 --> 00:05:35,933
+(11 +14)/2= 12.5
+
+96
+00:05:35,933 --> 00:05:42,813
+Sekarang set data ini dah terbahagi 
+kpd 4 bahagian.
+
+97
+00:05:42,813 --> 00:05:46,933
+Sukuan pertama kita mula dari
+
+98
+00:05:46,933 --> 00:05:52,884
+1 hingga 2.5;
+
+99
+00:05:52,884 --> 00:05:55,667
+kemudian sukuan ke-2 antara 2.5 & 6;
+
+100
+00:05:55,667 --> 00:05:58,067
+sukuan ke-3 antara 6 & 12.5;
+
+101
+00:05:58,067 --> 00:05:59,313
+dan dari 12.5 ke akhir set.
+
+102
+00:05:59,313 --> 00:06:01,667
+Asasnya, box & whiskers ialah 
+sebuah carta grafik.
+
+103
+00:06:01,667 --> 00:06:07,267
+Kita akan buat garisan nombor, 
+yg selurusnya.
+
+104
+00:06:07,267 --> 00:06:17,692
+Cth: mula dgn 0,
+
+105
+00:06:17,769 --> 00:06:20,800
+di tengahnya 10,
+
+106
+00:06:20,800 --> 00:06:25,733
+di sini pula 20,
+
+107
+00:06:25,733 --> 00:06:28,667
+di tengah ini ialah 5,
+
+108
+00:06:28,667 --> 00:06:32,955
+di sini pula 15,
+
+109
+00:06:32,955 --> 00:06:35,333
+25 pula sekitar ini.
+
+110
+00:06:35,333 --> 00:06:38,133
+Semua peringkat data ditunjukkan dlm 
+graf box & whiskers.
+
+111
+00:06:38,133 --> 00:06:41,914
+Data yg terkecil ialah 1,
+
+112
+00:06:41,914 --> 00:06:44,533
+Jadi 1 berada sekitar ini,
+
+113
+00:06:44,533 --> 00:06:49,933
+data terbesar ialah 22,
+
+114
+00:06:49,933 --> 00:06:52,333
+22 berada sekitar ini.
+
+115
+00:06:52,333 --> 00:06:55,067
+Kita labelkan utk rujukan.
+
+116
+00:06:55,067 --> 00:06:58,818
+1 & 22.
+
+117
+00:06:58,818 --> 00:07:01,200
+Tuliskan separuh data ke dlm kotak.
+
+118
+00:07:01,200 --> 00:07:05,482
+Iaitu sukuan ini, dan yg ini.
+
+119
+00:07:05,482 --> 00:07:09,600
+Sukuan ke-2 bermula dari 2.5,
+
+120
+00:07:09,600 --> 00:07:17,867
+Jadi kotak kita bermula dari titik 2.5.
+
+121
+00:07:17,867 --> 00:07:22,067
+Sukuan ke-3 berakhir pd 12.5
+
+122
+00:07:22,067 --> 00:07:26,357
+iaitu di sini.
+
+123
+00:07:26,357 --> 00:07:32,533
+Lengkapkan kotak ini, yg menunjukkan
+
+124
+00:07:32,533 --> 00:07:40,777
+kedudukan separuh pertama data kita.
+
+125
+00:07:40,777 --> 00:07:44,267
+Kita lukiskan 2 anak panah.
+
+126
+00:07:44,267 --> 00:07:45,867
+
+127
+00:07:45,867 --> 00:07:48,000
+Anak panah inilah dipanggil 'whiskers'
+
+128
+00:07:48,000 --> 00:07:51,017
+yg menunjukkan di mana 
+data-data lain berada.
+
+129
+00:07:51,017 --> 00:07:52,689
+Jadi graf ini dah menunjukkan 
+seluruh data.
+
+130
+00:07:52,689 --> 00:07:54,941
+Akhir sekali kita kena tunjukkan 
+kedudukan Median.
+
+131
+00:07:54,941 --> 00:07:57,467
+Med ialah 6.
+
+132
+00:07:57,467 --> 00:08:01,187
+Jadi nilai Median berada di
+
+133
+00:08:01,187 --> 00:08:03,347
+
+134
+00:08:03,347 --> 00:08:05,018
+di sini.
+
+135
+00:08:05,018 --> 00:08:09,361
+Graf ini dah mengandungi semua data.
+
+136
+00:08:09,361 --> 00:08:12,200
+Dan titik Median berada di sini.
+
+137
+00:08:12,200 --> 00:08:18,200
+Di manakah pula separuh pertama data?
+Ia berada antara 2.5 - 12.5
+
+138
+00:08:18,200 --> 00:08:27,333
+Dan keseluruhan taburan data bg pelanggan
+
+139
+00:08:27,333 --> 00:08:33,091
+diwakili oleh 'whiskers';
+
+140
+00:08:33,091 --> 00:08:36,830
+ialah antara 1 hingga 22.
+
+141
+00:08:36,830 --> 00:08:41,334
+Boleh juga kalau nak gunakan warna sbg kod.
+
+142
+00:08:41,334 --> 00:08:45,133
+
+143
+00:08:45,133 --> 00:08:46,333
+
+144
+00:08:46,333 --> 00:08:47,418
+Jadi data ini diwakili
+
+145
+00:08:47,418 --> 00:08:51,533
+oleh warna ini dlm graf.
+
+146
+00:08:51,533 --> 00:08:56,000
+Data dlm warna ini pula
+
+147
+00:08:56,000 --> 00:09:01,420
+ialah separuh pertama kotak.
+
+148
+00:09:01,420 --> 00:09:07,867
+Warna Ungu mewakili Med.
+
+149
+00:09:07,867 --> 00:09:10,267
+Data warna ini pula ialah 
+bahagian kedua dlm kotak.
+
+150
+00:09:10,267 --> 00:09:15,421
+Warnakan bahagian ini dgn warna sama.
+
+151
+00:09:15,421 --> 00:09:19,267
+Akhir sekali,
+
+152
+00:09:19,267 --> 00:09:22,503
+data warna ini diwakili oleh 
+'whiskers' dlm graf.
+
+153
+00:09:22,503 --> 00:09:30,654
+
+154
+00:09:30,654 --> 00:09:32,600
+
+155
+00:09:32,600 --> 00:09:39,756
+
+156
+00:09:39,756 --> 00:09:42,751
+
+157
+00:09:42,751 --> 00:09:44,168
+
+158
+00:09:44,168 --> 00:09:46,933
+
+159
+00:09:46,933 --> 00:09:49,903
+
+160
+00:09:49,903 --> 00:09:54,500
+
+161
+00:09:54,500 --> 00:09:56,000
+
+162
+00:09:56,000 --> 00:09:58,610
+

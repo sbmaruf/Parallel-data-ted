@@ -1,0 +1,608 @@
+1
+00:00:00,890 --> 00:00:03,590
+selamat datang ke bahagian dua tentang
+
+2
+00:00:03,590 --> 00:00:05,660
+persamaan kuadratik
+
+3
+00:00:05,660 --> 00:00:08,470
+saya rasa saya kelirukan anda pada video yang lepas
+
+4
+00:00:08,470 --> 00:00:11,170
+jadi mari lihat jika saya boleh fahamkan anda dengan
+
+5
+00:00:11,170 --> 00:00:12,770
+membuat beberapa contoh
+
+6
+00:00:14,765 --> 00:00:15,430
+mari kita mula dengan apakah yang dimaksudkan
+
+7
+00:00:15,430 --> 00:00:16,380
+dengan persamaan kuadratik
+
+8
+00:00:16,380 --> 00:00:19,650
+persamaan kuadratik berkata, jika saya cuba selesaikan
+
+9
+00:00:19,650 --> 00:00:31,590
+persamaan Ax² + Bx + C = 0, maka
+
+10
+00:00:31,590 --> 00:00:35,440
+solusinya kerana biasanya ada
+
+11
+00:00:35,440 --> 00:00:38,970
+2 kali yang ia menyilang paksi-x atau 2 solusi untuk
+
+12
+00:00:38,970 --> 00:00:47,610
+persamaan ini ialah X = -B atau - square root
+
+13
+00:00:47,610 --> 00:00:56,390
+B² - 4xAxC
+
+14
+00:00:56,390 --> 00:01:00,270
+kesemua itu per 2A
+
+15
+00:01:00,270 --> 00:01:02,040
+mari kita buat satu masalah & harap harap ia dapat
+
+16
+00:01:02,040 --> 00:01:02,690
+memahamkan anda
+
+17
+00:01:02,690 --> 00:01:04,620
+itu adalah 2 yang di bawah tu
+
+18
+00:01:04,620 --> 00:01:13,890
+katakan saya ada persamaan -9X² - 9X +6 =0
+
+19
+00:01:19,950 --> 00:01:22,230
+dalam contoh ini apakah A?
+
+20
+00:01:22,230 --> 00:01:25,410
+A ialah pekali di atas terma X²
+
+21
+00:01:25,410 --> 00:01:29,820
+terma X² di sini, pekalinya ialah -9
+
+22
+00:01:29,820 --> 00:01:30,620
+jadi mari kita tulis itu
+
+23
+00:01:30,620 --> 00:01:34,120
+A = -9
+
+24
+00:01:34,120 --> 00:01:35,400
+B sama dengan apa ?
+
+25
+00:01:35,400 --> 00:01:39,180
+B ialah pekali atas terma X, iaitu terma ini
+
+26
+00:01:39,180 --> 00:01:43,220
+jadi B juga sama dengan -9
+
+27
+00:01:43,220 --> 00:01:47,140
+& C ialah terma kekal, iaitu dalam contoh ini adalah 6
+
+28
+00:01:47,140 --> 00:01:49,550
+jadi C = 6
+
+29
+00:01:49,550 --> 00:01:52,070
+sekarang kita hanya gantikan nilai ini kedalam
+
+30
+00:01:52,070 --> 00:01:53,260
+persamaan kuadratik yang sebenar
+
+31
+00:01:53,260 --> 00:01:59,600
+jadi -B, jadi negatifxnegatif 9
+
+32
+00:01:59,600 --> 00:02:00,780
+iaitu B
+
+33
+00:02:00,780 --> 00:02:08,110
+tambah/tolak square root B², jadi itu adalah 81
+
+34
+00:02:08,390 --> 00:02:10,030
+-9²
+
+35
+00:02:10,030 --> 00:02:14,720
+-4x-9
+
+36
+00:02:14,720 --> 00:02:16,140
+itu lah A
+
+37
+00:02:16,140 --> 00:02:19,480
+darab C, iaitu 6
+
+38
+00:02:19,480 --> 00:02:23,950
+dan kesemua itu per 2 darab -9, yang memberi kita
+
+39
+00:02:23,950 --> 00:02:25,630
+-18 betul ?
+
+40
+00:02:25,630 --> 00:02:26,720
+2x-9 --2A
+
+41
+00:02:29,230 --> 00:02:33,760
+jadi mari kita permudahkan ini
+
+42
+00:02:33,760 --> 00:02:37,930
+negative negative 9 akan jadi positif 9
+
+43
+00:02:37,930 --> 00:02:46,480
++/- square root 81
+
+44
+00:02:46,480 --> 00:02:47,900
+mari kita lihat
+
+45
+00:02:47,900 --> 00:02:50,270
+ini adalah -4 x -9
+
+46
+00:02:50,270 --> 00:02:53,470
+-4 x -9 ialah 36
+
+47
+00:02:53,470 --> 00:02:58,310
+kemudian 36 x 6 ialah
+
+48
+00:02:58,310 --> 00:03:01,330
+30x6 ialah 180
+
+49
+00:03:01,330 --> 00:03:07,890
+& 180 + 36 ialah 216
+
+50
+00:03:07,890 --> 00:03:10,980
+216 betul ?
+
+51
+00:03:10,980 --> 00:03:14,490
+180+36 ialah 216
+
+52
+00:03:14,490 --> 00:03:16,840
+kesemua itu per 2A
+
+53
+00:03:16,840 --> 00:03:19,570
+2A kita sudah kata ia -19
+
+54
+00:03:19,570 --> 00:03:20,740
+jadi kita permudahkan lagi
+
+55
+00:03:20,740 --> 00:03:28,090
+ia 9 +/- square root 81 + 216
+
+56
+00:03:28,090 --> 00:03:30,400
+ia adalah 80 + 217
+
+57
+00:03:30,400 --> 00:03:38,040
+sama dengan 297
+
+58
+00:03:38,040 --> 00:03:41,900
+kesemua itu per -18
+
+59
+00:03:41,900 --> 00:03:45,020
+sekarang, ini sebenarnya bahagian yang paling susah dalam
+
+60
+00:03:45,020 --> 00:03:47,720
+persamaan kuadratik ialah mempermudahkan ekspressi ini
+
+61
+00:03:47,720 --> 00:03:50,860
+kita kena fikir jika kita boleh permudahkan ini
+
+62
+00:03:50,860 --> 00:03:53,090
+kita lihat
+
+63
+00:03:53,090 --> 00:03:56,490
+satu cara untuk selesaikan jika ada nombor boleh dibahagi dengan 9 adalah dengan
+
+64
+00:03:56,490 --> 00:03:58,320
+tambah digit & lihat jika digit digit itu
+
+65
+00:03:58,320 --> 00:03:59,260
+boleh dibahagi dengan 9
+
+66
+00:03:59,260 --> 00:03:59,950
+dalam kes ini, ia memang boleh
+
+67
+00:03:59,950 --> 00:04:02,510
+2+9+7 =18
+
+68
+00:04:02,510 --> 00:04:04,600
+mari kita lihat berapa kali 9 boleh masuk
+
+69
+00:04:04,600 --> 00:04:07,150
+saya akan buat di sini
+
+70
+00:04:07,150 --> 00:04:09,450
+9 masuk ke dalam 297
+
+71
+00:04:13,630 --> 00:04:16,190
+3x27
+
+72
+00:04:16,190 --> 00:04:19,040
+27-- ia masuk sebanyak 33 kali kan ?
+
+73
+00:04:19,040 --> 00:04:24,290
+jadi ini adlaah sama dengan 9+/- square root 9
+
+74
+00:04:24,290 --> 00:04:31,110
+darab 33 per -18
+
+75
+00:04:31,110 --> 00:04:32,470
+dan 9 adalah perfect square
+
+76
+00:04:32,470 --> 00:04:34,650
+sebab itu saya nak lihat jika 9 akan berkesan kerana
+
+77
+00:04:34,650 --> 00:04:36,390
+itulah cara untuk saya keluarkan dari radikal, jika ia
+
+78
+00:04:36,390 --> 00:04:37,390
+adalah perfect square
+
+79
+00:04:37,390 --> 00:04:40,410
+seperti anda belajar peraturan exponen dalam modul 1
+
+80
+00:04:40,410 --> 00:04:46,140
+jadi ini sama dengan 9 +/- 3 darab square root 33
+
+81
+00:04:46,140 --> 00:04:53,230
+dan kesemua itu per -18
+
+82
+00:04:53,230 --> 00:04:54,570
+kita hampir sial
+
+83
+00:04:54,570 --> 00:04:57,840
+kita sebenarnya boleh permudahkan ia kerana 9,3 & -18
+
+84
+00:04:57,840 --> 00:05:00,650
+boleh dibahagi dengan 3
+
+85
+00:05:00,650 --> 00:05:02,270
+mari kita bahagi kesemua dengan 3
+
+86
+00:05:02,270 --> 00:05:14,370
+3+/- square root 33 tolak 6
+
+87
+00:05:14,370 --> 00:05:15,610
+dan kita sudah siap
+
+88
+00:05:15,610 --> 00:05:17,010
+jika anda lihat, bahagian yang susah dengan persamaan
+
+89
+00:05:17,010 --> 00:05:20,110
+kuadratik adalah mempermudahkan ekspressinya
+
+90
+00:05:20,110 --> 00:05:22,750
+tapi apa kita kata, saya tau anda mungkin tak faham--
+
+91
+00:05:22,750 --> 00:05:27,120
+kita kata, persamaan ini -9X²-9X +6
+
+92
+00:05:30,550 --> 00:05:34,200
+sekarang kita jumpa 2 nilai X yang dapat memuaskan persamaan ini
+
+93
+00:05:34,200 --> 00:05:35,970
+dan buatkan ia sama dengan 0
+
+94
+00:05:35,970 --> 00:05:39,830
+1 nilai X ialah X sama dengan 3 + square root
+
+95
+00:05:39,830 --> 00:05:42,100
+33 per -6
+
+96
+00:05:42,100 --> 00:05:45,860
+& nilai kedua ini 3 - square root
+
+97
+00:05:45,860 --> 00:05:50,160
+33 per -6
+
+98
+00:05:50,160 --> 00:05:52,250
+dan anda mungkin nak fikir tentang kenapa kita ada
+
+99
+00:05:52,250 --> 00:05:53,370
+simbol +/-
+
+100
+00:05:53,370 --> 00:05:55,490
+kita ada simbol itu kerana square root boleh menjadi
+
+101
+00:05:55,490 --> 00:05:59,550
+nombor + atau -
+
+102
+00:05:59,550 --> 00:06:02,180
+mari kita buat satu lagi soalan
+
+103
+00:06:02,180 --> 00:06:05,890
+harap harap yang ini lebih senang
+
+104
+00:06:09,210 --> 00:06:16,780
+katakan saya nak selesaikan -8² + 5X + 9
+
+105
+00:06:21,000 --> 00:06:23,150
+sekarang saya nak anggap yang anda telah hafal persamaan
+
+106
+00:06:23,150 --> 00:06:25,310
+kuadratik kerana itulah yang anda patut buat
+
+107
+00:06:25,310 --> 00:06:26,630
+atau anda patut tuliskan ia di atas kertas
+
+108
+00:06:26,630 --> 00:06:31,630
+tetapi persamaan kuadratik ialah -B-- jadi B ialah 5 kan ?
+
+109
+00:06:31,630 --> 00:06:34,160
+kita sedang cuba selesaikan yang sama dengan 0, jadi -B
+
+110
+00:06:34,160 --> 00:06:39,790
+-5, +/- square root B²
+
+111
+00:06:39,790 --> 00:06:44,030
+iaitu 5² sama dengan 25
+
+112
+00:06:44,030 --> 00:06:50,470
+-4 darab A iaitu -8
+
+113
+00:06:50,470 --> 00:06:53,820
+darab C iaitu 9
+
+114
+00:06:53,820 --> 00:06:56,400
+kesemua itu per 2 darab A
+
+115
+00:06:56,400 --> 00:07:00,320
+jadi, A ialah -8 jadi kesemua itu per -16
+
+116
+00:07:00,320 --> 00:07:04,090
+jadi mari kita permudahkan ekspressi di sini
+
+117
+00:07:04,090 --> 00:07:09,440
+ia sama dengan -5 +/-
+
+118
+00:07:09,440 --> 00:07:13,630
+square root 25
+
+119
+00:07:13,630 --> 00:07:14,620
+mari kita lihat
+
+120
+00:07:14,620 --> 00:07:18,220
+4x8=32 & negatif akan terbatal
+
+121
+00:07:18,220 --> 00:07:21,520
+jadi ia +32 darab 9
+
+122
+00:07:21,520 --> 00:07:24,480
+32x9, hmmmmmm
+
+123
+00:07:24,480 --> 00:07:26,720
+30x9 ialah 270
+
+124
+00:07:26,720 --> 00:07:31,110
+ia adalah 288
+
+125
+00:07:31,110 --> 00:07:31,570
+saya rasalah
+
+126
+00:07:31,570 --> 00:07:31,800
+betul kan ?
+
+127
+00:07:36,130 --> 00:07:37,490
+288
+
+128
+00:07:37,490 --> 00:07:40,590
+kita ada semua tu per -16
+
+129
+00:07:40,590 --> 00:07:42,560
+sekarang permudahkan lagi
+
+130
+00:07:42,560 --> 00:07:47,760
+-5 +/- square root 25
+
+131
+00:07:47,760 --> 00:07:51,340
+tambah 288 ialah 313 saya rasa
+
+132
+00:07:56,950 --> 00:08:00,230
+kesemua itu per -16
+
+133
+00:08:04,570 --> 00:08:10,370
+saya rasa 313 tak boleh difaktor kepada perfect square
+
+134
+00:08:10,370 --> 00:08:11,690
+& apa apa nombor
+
+135
+00:08:11,690 --> 00:08:13,670
+ia sebenarnya nombor perdana
+
+136
+00:08:15,600 --> 00:08:18,200
+dalam kes ini, kita sudah pun habis permudahkan
+
+137
+00:08:18,200 --> 00:08:21,840
+dan kita kata kita ada dua solusi
+
+138
+00:08:21,840 --> 00:08:24,940
+dua nilai X yang akan buat persamaan ini benar
+
+139
+00:08:24,940 --> 00:08:30,750
+salah satu drpd mereka ialah X = -5 tambah
+
+140
+00:08:30,750 --> 00:08:35,830
+square root 313 per-16
+
+141
+00:08:35,830 --> 00:08:44,110
+dan satu lagi ialah X= -5 - square root 313 per -16
+
+142
+00:08:49,660 --> 00:08:51,760
+harap harap dua contoh ini akan memahamkan anda
+
+143
+00:08:51,760 --> 00:08:53,940
+bagaimana nak guna persamaan kuadratik
+
+144
+00:08:53,940 --> 00:08:55,860
+saya rasa saya akan tambah beberapa modul lagi
+
+145
+00:08:55,860 --> 00:08:58,230
+setelah anda mahir, saya akan mengajar anda bagaimana
+
+146
+00:08:58,230 --> 00:09:00,370
+hendak selesaikan persamaan kuadratik bila anda dapat
+
+147
+00:09:00,370 --> 00:09:01,910
+nombor negatif
+
+148
+00:09:01,910 --> 00:09:03,140
+ia sangat menarik
+
+149
+00:09:03,140 --> 00:09:06,760
+apa apa pun, saya harap anda boleh buat modul ini & saya akan
+
+150
+00:09:06,760 --> 00:09:10,370
+tambah beberapa lagi modul kerana modul ini agak susah
+
+151
+00:09:10,370 --> 00:09:11,840
+saya harap anda berseronok
+
+152
+00:09:11,840 --> 00:09:13,140
+sekian terima kasih
+

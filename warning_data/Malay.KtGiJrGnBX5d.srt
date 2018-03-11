@@ -1,0 +1,504 @@
+1
+00:00:00,000 --> 00:00:05,400
+Baiklah! Jadi sekarang anda telah melihat bagaimana hebatnya program pendek ini sahaja.
+
+2
+00:00:05,401 --> 00:00:09,201
+Oleh itu diharap anda benar-benar teruja meneruskan pengaturcaraan dalam Khan Akademi!
+
+3
+00:00:09,199 --> 00:00:13,229
+Kami mahu memberikan anda sedikit pemandangan tentang jangkaan anda.
+
+4
+00:00:13,232 --> 00:00:15,832
+Apabila kami mahu mengajar konsep-konsep baru,
+
+5
+00:00:15,828 --> 00:00:18,848
+kami menggunakan kata-kata kod, kami akan menulis kod pada sisi kiri di sini
+
+6
+00:00:18,848 --> 00:00:23,498
+dan akan terlihat keputusan pada sisi kanan terus mengemaskini sejurus anda menukar kod
+
+7
+00:00:23,499 --> 00:00:25,659
+juga kami katakan apa yang kami tuliskan
+
+8
+00:00:25,661 --> 00:00:28,371
+jadi pastikan anda pasang headfon dan pembesar suara
+
+9
+00:00:28,366 --> 00:00:30,636
+bagi memulakan langkah-langkah ini
+
+10
+00:00:30,631 --> 00:00:32,571
+cuma ketik "Play"
+
+11
+00:00:32,570 --> 00:00:34,470
+dan pause jika anda ingin pelajari sesuatu yang kami sudah buat
+
+12
+00:00:34,468 --> 00:00:39,698
+anda sendiri boleh saja menukar kod dan lihat keputusan dikemaskini
+
+13
+00:00:39,702 --> 00:00:43,722
+saya rasa winstone sebenarnya satu benda asing
+
+14
+00:00:43,719 --> 00:00:46,049
+ianya perangkaan pelik dengan wajah ungu
+
+15
+00:00:46,048 --> 00:00:47,498
+dan saya cuma rasa yang...
+
+16
+00:00:47,500 --> 00:00:51,310
+ia patut punya betul betul MATA BESAR!! WAH!! Kesian mereka!
+
+17
+00:00:51,308 --> 00:00:55,268
+Pengaturcaraan bukan hanya berkenaan pergi ke tutorial yang telah kami berikan anda
+
+18
+00:00:55,263 --> 00:00:59,993
+Fikiran kita berkenaan pengaturcaraan ialah tinjauan dan dayaciptaannya
+
+19
+00:00:59,989 --> 00:01:05,139
+yang bermaksud bila anda terjaga di tengah malam dengan idea program baru sepenuhnya
+
+20
+00:01:05,135 --> 00:01:08,535
+cuma log on dan ketik "New Program"
+
+21
+00:01:08,533 --> 00:01:12,163
+Sekali anda sudah buat itu, anda dapat editor kosong dan (?) kosong
+
+22
+00:01:12,162 --> 00:01:15,262
+dan dunia akan jadi padang pengaturcaraan anda
+
+23
+00:01:15,265 --> 00:01:16,765
+jadi anda mungkin tidak ingat bagaimana membuat sesuatu
+
+24
+00:01:16,764 --> 00:01:18,074
+anda boleh tengok ke bawah di penyesuaian
+
+25
+00:01:18,076 --> 00:01:21,136
+dan teringat...o ya.. baik... saya mahu semua klip ini...fungsi-fungsi...
+
+26
+00:01:21,131 --> 00:01:24,961
+dan saya akan guna fungsi "draw"
+
+27
+00:01:24,964 --> 00:01:27,164
+jadi baiklah... lalu kita ke atas sini
+
+28
+00:01:27,163 --> 00:01:31,113
+dan kita set variables di situ
+
+29
+00:01:35,008 --> 00:01:36,368
+dan kemudian kita harap ia berjalan...
+
+30
+00:01:36,366 --> 00:01:38,406
+O! tapi kita ada masalah!
+
+31
+00:01:38,410 --> 00:01:40,430
+"mouseZ" belum ditakrifkan!
+
+32
+00:01:40,431 --> 00:01:42,091
+Ok! Tidak apalah itu.
+
+33
+00:01:42,104 --> 00:01:44,464
+"mouseZ" itu patut jadi "mouseY" [ellipse(x,y,width, height)]
+
+34
+00:01:44,465 --> 00:01:45,645
+sekarang ia berkesan!
+
+35
+00:01:45,644 --> 00:01:47,774
+Inilah yang pentingnya: Ianya memang tidak mengapa berbuat kesilapan!!
+
+36
+00:01:47,774 --> 00:01:49,634
+anda harus berbuat kesilapan!
+
+37
+00:01:49,635 --> 00:01:51,665
+itulah yang pengaturcaraan lakukan setiap masa
+
+38
+00:01:51,664 --> 00:01:54,494
+kita cuma pecahkan benda dan berbuat kesilapan dan kemudian kita belajar daripada itu
+
+39
+00:01:56,475 --> 00:02:00,415
+Sekarang sekali saya sudah buat program baru saya yang hebat dan saya berpuashati dengannya
+
+40
+00:02:00,411 --> 00:02:01,801
+saya boleh simpannya
+
+41
+00:02:01,798 --> 00:02:05,548
+berikan ia huraian nama yang menarik
+
+42
+00:02:05,546 --> 00:02:07,996
+seperti "Circle Drawy ThingyBobbler"- -""
+
+43
+00:02:08,331 --> 00:02:12,241
+"Mister Circle Drawy ThingyBobbler"- -"""
+
+44
+00:02:12,241 --> 00:02:14,001
+saya boleh simpan itu
+
+45
+00:02:14,158 --> 00:02:16,028
+dan kemudian orang lain sebenarnya boleh menjumpainya
+
+46
+00:02:17,047 --> 00:02:19,657
+tapi dayacipta bukan sahaja berkenaan membina perkara baru semata-mata
+
+47
+00:02:19,652 --> 00:02:22,242
+ia juga sebanyak membina di atas perkara sedia ada
+
+48
+00:02:22,241 --> 00:02:24,101
+dan membawanya ke haluan baru
+
+49
+00:02:24,098 --> 00:02:26,198
+itulah kuasa "Spin Off"!
+
+50
+00:02:26,199 --> 00:02:28,909
+jadi sekarang saya akan simpan program ini
+
+51
+00:02:28,908 --> 00:02:30,468
+saya betul-betul boleh pergi dan ubahnya
+
+52
+00:02:30,463 --> 00:02:33,833
+dan jika saya menala perbezaan parameter baru saya
+
+53
+00:02:33,828 --> 00:02:35,988
+saya boleh pergi... simpan spin off
+
+54
+00:02:35,986 --> 00:02:42,496
+yang ini seperti "Mister BIG Circle Drawy ThingyBobbler"- -""""
+
+55
+00:02:44,773 --> 00:02:47,543
+tapi anda tidak perlu hanya spin off program anda sendiri
+
+56
+00:02:47,540 --> 00:02:49,590
+anda boleh spin off program sesiapa sahaja
+
+57
+00:02:49,590 --> 00:02:52,430
+jadi kami telah buatkan ruang yang cukup mudah untuk mendapatkan program orang lain
+
+58
+00:02:52,431 --> 00:02:55,441
+anda boleh merayau "Hot" / "Spotlight" / "Top" / "Recent"
+
+59
+00:02:56,180 --> 00:02:59,440
+Maksud saya, saya telah habiskan malam Jumaat saya hanya merayau program dalam Khan Akademi
+
+60
+00:02:59,442 --> 00:03:03,822
+sebab saya dapati banyak perkara hebat yang saya memang tak terfikirkan
+
+61
+00:03:03,817 --> 00:03:06,997
+Jadi kebanyakan orang buatkan games, bukan?
+
+62
+00:03:06,992 --> 00:03:10,652
+seperti "doodle jump" anda boleh mainkan itu dalam henfon ianya game yang menghiburkan
+
+63
+00:03:10,656 --> 00:03:12,986
+dan ada orang buatkan versi ini di sini...
+
+64
+00:03:16,017 --> 00:03:17,947
+O...Hampir dapat!
+
+65
+00:03:17,949 --> 00:03:20,989
+HAA~~~~~OK saya akan mainkan itu lagi kemudian
+
+66
+00:03:21,616 --> 00:03:23,156
+Orang buat simulasi...
+
+67
+00:03:23,156 --> 00:03:24,986
+jadi kalau anda mahu memahami bagaimana buah bandul bergerak,
+
+68
+00:03:24,990 --> 00:03:27,700
+seperti anda buat dalam kelas Fizik,
+
+69
+00:03:27,700 --> 00:03:29,910
+anda boleh buat dengan cara lebih menghiburkan dengan menggunakan simulasi di sini
+
+70
+00:03:29,907 --> 00:03:32,537
+dan kemudian anda boleh pergi dan ubahsuai benda-benda di sebelah
+
+71
+00:03:32,538 --> 00:03:36,078
+bagi melihat sejauh mana perbezaan variables memberi kesan pada buah bandul
+
+72
+00:03:36,644 --> 00:03:39,594
+Orang buat lukisan seperti watak kartun tersohor (Despicable ME)
+
+73
+00:03:39,598 --> 00:03:42,238
+Inilah kesukaan saya---Tardis of Doctor Who
+
+74
+00:03:42,239 --> 00:03:45,489
+dan jika anda belum menonton Dr.Who lagi, anda patut (Advertising- -)
+
+75
+00:03:45,673 --> 00:03:49,903
+sebab seperti yang anda lihat, dari semua program ia sudah menjadi lagu kami Khan Akademi
+
+76
+00:03:50,121 --> 00:03:52,401
+Ia persembahan yang memang menarik
+
+77
+00:03:53,078 --> 00:03:55,818
+Orang buat carta atau boleh saja carta animasi
+
+78
+00:03:56,745 --> 00:03:59,985
+Kebanyakan orang memang buat ? animasi seperti ini
+
+79
+00:03:59,984 --> 00:04:02,984
+Saya rasa jika anda menonton berjam-jam akan dipukau olehnya
+
+80
+00:04:03,493 --> 00:04:07,533
+anda lihat ramai orang lain sukakan ia juga dan mereka sudah buat semua spin off ini
+
+81
+00:04:09,394 --> 00:04:11,304
+Akhir sekali, jika anda dapati program yang anda suka
+
+82
+00:04:11,301 --> 00:04:13,651
+anda cuma mula perbaikinya dan lihat seperti
+
+83
+00:04:13,649 --> 00:04:17,089
+macam mana kalu saya ubah ini... dan saya ubah ini..
+
+84
+00:04:17,090 --> 00:04:19,810
+mungkin saya ubah di sini...
+
+85
+00:04:19,807 --> 00:04:21,537
+bagaimana ia berubah..
+
+86
+00:04:21,533 --> 00:04:24,133
+anda mungkin tidak faham sepenuhnya pada mulanya
+
+87
+00:04:24,133 --> 00:04:25,493
+tapi lebih banyak anda perbaiki dengannya
+
+88
+00:04:25,489 --> 00:04:27,099
+lebih banyak anda bermain dengan kod
+
+89
+00:04:27,101 --> 00:04:28,431
+anda dapat perasaan lebih baik padanya
+
+90
+00:04:28,431 --> 00:04:30,871
+dan kemudian apabila anda mengemukakan tentang variasi ini yang anda rasa memang menarik
+
+91
+00:04:30,867 --> 00:04:32,967
+dan kemudian anda boleh simpannya sebagai spin off dan
+
+92
+00:04:32,965 --> 00:04:34,985
+katakan seperti.. baiklah....saya punya...
+
+93
+00:04:34,983 --> 00:04:38,903
+Pamela's Hypnosaic yang menarik di sini
+
+94
+00:04:38,905 --> 00:04:41,035
+dan kemudian anda boleh simpannya
+
+95
+00:04:41,035 --> 00:04:42,195
+dan orang lain boleh mendapatkannya
+
+96
+00:04:42,198 --> 00:04:45,098
+tapi mungkin anda mahu bertanya soalan tentangnya
+
+97
+00:04:45,099 --> 00:04:47,599
+betul? mungkin anda belum lagi faham bagaimana sesuatu benda bergerak
+
+98
+00:04:47,597 --> 00:04:49,797
+kita akan ke panel soalan
+
+99
+00:04:49,798 --> 00:04:51,828
+dan sebut seperti okay...
+
+100
+00:04:52,253 --> 00:04:58,653
+kenapa anda mulakan variables anda dengan i? Adakah anda bekerja untuk Apple?^ ^
+
+101
+00:05:00,344 --> 00:05:03,964
+anda boleh bertanya sebarang soalan dan mudah-mudahan orang yang merekanya akan menjawabnya
+
+102
+00:05:03,968 --> 00:05:07,318
+dan kalau anda dapat soalan anda tahu jawapannya juga
+
+103
+00:05:07,316 --> 00:05:12,446
+kemudian saya jawab seperti...Hey! Yeah! Anda boleh!
+
+104
+00:05:12,441 --> 00:05:14,321
+inilah di mana saya buatkan
+
+105
+00:05:14,318 --> 00:05:17,938
+anda boleh jawab dengan itu untuk kait ke lakaran asas yang lain
+
+106
+00:05:17,941 --> 00:05:20,701
+???jangan jawab soalan mereka
+
+107
+00:05:20,700 --> 00:05:23,970
+sekarang kalau anda hanya mahu katakan bagaimana kagumnya ia
+
+108
+00:05:23,972 --> 00:05:25,312
+atau beri tip
+
+109
+00:05:25,315 --> 00:05:27,265
+anda boleh pergi ke panal tips dan maklumbalas
+
+110
+00:05:27,894 --> 00:05:33,904
+kata seperti "WoW! Inilah perkara paling menarik saya pernah tengok hari ini!"
+
+111
+00:05:34,806 --> 00:05:36,486
+dan kemudian pereka akan rasa bagus betul
+
+112
+00:05:36,489 --> 00:05:39,029
+sebab mereka dapat pujian ini daripada anda
+
+113
+00:05:39,027 --> 00:05:42,137
+dan itulah satu perkara mengagumkan tentang pengaturcaraan
+
+114
+00:05:42,132 --> 00:05:44,072
+anda boleh letak semua perkara ini dalam dunia
+
+115
+00:05:44,072 --> 00:05:45,862
+dan anda tak pernah tahu siapa akan dapat
+
+116
+00:05:45,864 --> 00:05:48,274
+dan siapa yang anda akan buatkan mereka senang
+
+117
+00:05:48,278 --> 00:05:51,368
+sebab mereka mendapati anda kemukakan benda dayacipta yang memang menarik ini
+
+118
+00:05:52,755 --> 00:05:55,905
+jadi kami mahu ini menjadi masyarakat yang belajar dari satu sama lain
+
+119
+00:05:55,900 --> 00:05:57,530
+dan berkongsi rekaan mereka antara satu sama lain
+
+120
+00:05:57,532 --> 00:06:01,022
+sebab ini suatu bahagian penting yang kami suka tentang pengaturcaraan
+
+121
+00:06:01,018 --> 00:06:02,728
+ia akan sudah tentu susah pada mulanya
+
+122
+00:06:02,731 --> 00:06:05,801
+dan program pertama anda oleh itu bermula dengan sedikit
+
+123
+00:06:05,800 --> 00:06:06,630
+tapi selagi anda teruskan
+
+124
+00:06:06,632 --> 00:06:08,312
+anda akan berupaya membuat lagi dan lagi
+
+125
+00:06:08,316 --> 00:06:10,526
+sampailah suatu hari anda sedar yang
+
+126
+00:06:10,528 --> 00:06:14,528
+Wah! Anda dapat buat hampir apa saja dalam pengaturcaraan! ^ ^
+

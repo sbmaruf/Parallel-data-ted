@@ -1,0 +1,219 @@
+1
+00:00:00,720 --> 00:00:04,370
+Kita diberitahu bahawa kos untuk mengisi penuh kereta dengan
+
+2
+00:00:04,370 --> 00:00:10,540
+minyak berubah secara langsung dengan petrol dalam kuantiti gelen
+
+3
+00:00:10,540 --> 00:00:11,880
+daripada apa yang awak bayar.
+
+4
+00:00:11,880 --> 00:00:15,800
+Maka pernyataan pertama menyatakan jika 'x' sama dengan
+
+5
+00:00:15,800 --> 00:00:28,790
+kuantiti gelen yang dibayar, dan 'y' sama dengan kos
+
+6
+00:00:28,790 --> 00:00:35,300
+pengisian penuh kereta, pernyataan pertama memberitahu bahawa 'y'
+
+7
+00:00:35,300 --> 00:00:39,450
+berubah secara langsung dengan kuantiti gelen, dengan 'x'.
+
+8
+00:00:39,450 --> 00:00:44,850
+Maksudnya 'y' bersamaan dengan sesuatu konstan, kita akan
+
+9
+00:00:44,850 --> 00:00:47,050
+namakannya 'k', darab 'x'.
+
+10
+00:00:47,050 --> 00:00:49,310
+Inilah yang dimaksudkan dengan berubah secara langsung.
+
+11
+00:00:49,310 --> 00:00:51,670
+Jika 'x' meningkat, maka 'y' juga akan turut meningkat.
+
+12
+00:00:51,670 --> 00:00:54,150
+Kita tidak mengetahui apakah nilai itu. Kita boleh dapatinya dari 'k'.
+
+13
+00:00:54,150 --> 00:00:57,100
+Jika 'x' menurun, maka 'y' juga akan menurun
+
+14
+00:00:57,100 --> 00:00:58,850
+Sekarang, kita diberi lebih maklumat dan ianya akan
+
+15
+00:00:58,850 --> 00:01:01,260
+membantu kita untuk mendapatkan nilai 'k'.
+
+16
+00:01:01,260 --> 00:01:07,570
+Jika segelen petrol bernilai $2.25, maka berapa gelen
+
+17
+00:01:07,570 --> 00:01:09,700
+yang boleh awak beli untuk $18?
+
+18
+00:01:09,700 --> 00:01:13,350
+Jadi jika 'x' sama dengan 1-- penyataan di atas, segelen
+
+19
+00:01:13,350 --> 00:01:17,090
+petrol-- ini menyatakan jika kita dapat 1 gelen, maka 'x' sama dengan 1,
+
+20
+00:01:17,090 --> 00:01:20,060
+maka 'y' adalah $2.25, betul tak?
+
+21
+00:01:20,060 --> 00:01:21,390
+'y' adalah nilai kosnya.
+
+22
+00:01:21,390 --> 00:01:25,300
+Mereka memberitahu kita bahawa 1 gelen bernilai $2,25, maka kita boleh tulis
+
+23
+00:01:25,300 --> 00:01:33,190
+di sni, $2.25 sama dengan 'k' darab 'x', darab 1.
+
+24
+00:01:33,190 --> 00:01:35,190
+Sebenarnya, saya tidak perlu tulis darab satu.
+
+25
+00:01:35,190 --> 00:01:37,330
+Ianya terang-terang menyatakan yang
+
+26
+00:01:37,330 --> 00:01:38,900
+nilai sebenar, ialah 'k'.
+
+27
+00:01:38,900 --> 00:01:40,260
+Kita tidak perlu tulis 1 disini.
+
+28
+00:01:40,260 --> 00:01:42,880
+'k' sama dengan 2.25
+
+29
+00:01:42,880 --> 00:01:44,450
+Inilah yang kita diberitahu di sini.
+
+30
+00:01:44,450 --> 00:01:51,220
+Jadi persamaannya, bagaimana 'y' berubah dengan 'x', ialah 'y' sama dengan
+
+31
+00:01:51,220 --> 00:01:56,710
+2.25x, di mana 'x' ialah kuantiti gelen yang kita bayar.
+
+32
+00:01:56,710 --> 00:01:59,650
+'y' adalah nilai yang kita bayar, maka
+
+33
+00:01:59,650 --> 00:02:01,390
+ianya adalah $2.25 segelen.
+
+34
+00:02:01,390 --> 00:02:06,320
+Kemudiannya mereka menanyakan kita, berapa gelen yang kita boleh
+
+35
+00:02:06,320 --> 00:02:08,590
+beli dengan $18?
+
+36
+00:02:08,590 --> 00:02:12,690
+Jadi $18 adalah jumlah kos kita. Ianya adalah 'y' iaitu kos mengisi
+
+37
+00:02:12,690 --> 00:02:13,990
+penuh minyak kereta.
+
+38
+00:02:13,990 --> 00:02:19,690
+Maka 18 sama dengan 2.25x.
+
+39
+00:02:19,690 --> 00:02:25,020
+Sekarang jika kita nak selesaikan 'x', kita boleh bahagi kedua-dua belah dengan
+
+40
+00:02:25,020 --> 00:02:29,730
+2.25, mari kita lakukannya.
+
+41
+00:02:29,730 --> 00:02:36,310
+Awak bahagikan 18 dengan 2.25, bahagi 2.25x dengan 2.25
+
+42
+00:02:36,310 --> 00:02:37,610
+dan ape yang kita dapat?
+
+43
+00:02:37,610 --> 00:02:39,520
+Biar saya skrol ke bawah sedikit.
+
+44
+00:02:39,520 --> 00:02:43,650
+Di sebelah kanan, 2.25 dimansuhkan, awak akan dapat x.
+
+45
+00:02:43,650 --> 00:02:48,020
+Dan apakah nilai 18 bahagi dengan 2.25?
+
+46
+00:02:48,020 --> 00:02:49,090
+Jadi biar saya tuliskan.
+
+47
+00:02:49,090 --> 00:02:51,210
+Pertama sekali, saya bayangkan ia sebagai pecahan.
+
+48
+00:02:51,210 --> 00:02:57,930
+2.25 adalah perkara yang sama-- biar saya tulis-- 2.25 adalah
+
+49
+00:02:57,930 --> 00:03:04,160
+sama dengan 2 dan 1/4, dimana bersamaan dengan 9 per 4.
+
+50
+00:03:04,160 --> 00:03:12,480
+Maka 18 dibahagikan dengan 2.25 sama dengan 18 dibahagikan dengan 9 per 4.
+
+51
+00:03:12,480 --> 00:03:18,960
+Dimana sama dengan 18 darab 4 per 9, atau 18 per 1
+
+52
+00:03:18,960 --> 00:03:21,160
+darab 4 per 9
+
+53
+00:03:21,160 --> 00:03:26,540
+Dan lihat, 18 dibahagi dengan 9 adalah 2, 9 bahagi 9 adalah 1.
+
+54
+00:03:26,540 --> 00:03:29,330
+Ini mempermudahkannya kepada 8.
+
+55
+00:03:29,330 --> 00:03:37,915
+Maka 18 bahagi dengan 2.25 ialah 8, jadi kita boleh beli 8 gelen dengan $18.

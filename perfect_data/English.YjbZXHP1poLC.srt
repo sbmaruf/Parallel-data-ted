@@ -1,0 +1,52 @@
+1
+00:00:00,000 --> 00:00:09,000
+The answer is that soup occurs in most of these phrases
+
+2
+00:00:09,000 --> 00:00:11,000
+but not 100% of them.
+
+3
+00:00:11,000 --> 00:00:14,000
+It's missing in this phrase.
+
+4
+00:00:14,000 --> 00:00:17,000
+Equivalently, on the Chinese side
+
+5
+00:00:17,000 --> 00:00:20,000
+we see this character occurs
+
+6
+00:00:20,000 --> 00:00:23,000
+in most of the phrases,
+
+7
+00:00:23,000 --> 00:00:27,000
+but it's missing here.
+
+8
+00:00:27,000 --> 00:00:31,000
+So we see that the correspondence doesn't have to be 100%
+
+9
+00:00:31,000 --> 00:00:34,000
+to tell us that there is still a good chance of a correlation.
+
+10
+00:00:34,000 --> 00:00:37,000
+When we're learning to do machine translation
+
+11
+00:00:37,000 --> 00:00:41,000
+we use these kinds of alignments to learn probability tables
+
+12
+00:00:41,000 --> 00:00:45,000
+of what is the probability of one phrase in one language
+
+13
+00:00:45,000 --> 99:59:59,000
+corresponding to the phrase in another language.
+

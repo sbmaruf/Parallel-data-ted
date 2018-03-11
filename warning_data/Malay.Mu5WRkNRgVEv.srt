@@ -1,0 +1,88 @@
+1
+00:00:00,867 --> 00:00:09,397
+Tukarkan asas log 4 daripada 2 bersamaan 1/2 kepada persamaan eksponen.
+
+2
+00:00:09,400 --> 00:00:11,600
+Jadi logaritma memberitahu...
+
+3
+00:00:11,600 --> 00:00:14,070
+...jadi jika kita lihat pada bahagian ini.
+
+4
+00:00:14,067 --> 00:00:16,467
+Logaritma memberitahu kita eksponen...
+
+5
+00:00:16,467 --> 00:00:19,067
+...yang perlu kita menaikkan untuk asas kepada...
+
+6
+00:00:19,067 --> 00:00:22,737
+...yang saya hendak menaikkan 4 kepada 2.
+
+7
+00:00:22,733 --> 00:00:26,123
+Jadi, eksponen yang saya perlu menaikkan untuk mendapatkan 2.
+
+8
+00:00:26,122 --> 00:00:29,372
+Dan inilah persamaan ditulis sebagai persamaan logaritma...
+
+9
+00:00:29,373 --> 00:00:37,293
+...yang berkata, saya perlu menaikkan 4 kepada kuasa 1/2 supaya mendapatkan 2.
+
+10
+00:00:37,291 --> 00:00:39,891
+Jadi, kalau saya hendak menulis sebagai persamaan eksponen,
+
+11
+00:00:39,892 --> 00:00:45,532
+ia boleh dikatakan, jika saya menaikkan 4, dan 4 ini menjadi asas.
+
+12
+00:00:45,534 --> 00:00:48,944
+Untuk eksponen, kepada kuasa 1/2,
+
+13
+00:00:48,948 --> 00:00:54,168
+kemudian ia akan bersamaan dengan 2.
+
+14
+00:00:54,172 --> 00:00:58,122
+Kita telah menulis persamaan yang sama sebagai persamaan eksponen.
+
+15
+00:00:58,120 --> 00:01:00,870
+Nilai logaritma...
+
+16
+00:01:00,867 --> 00:01:03,797
+Apakah yang saya akan dapat jika saya menaikkan 4 kepada kuasa 1/2?
+
+17
+00:01:03,800 --> 00:01:06,400
+Saya mendapat 2 jika saya menaikkan 4 kepada kuasa 1/2.
+
+18
+00:01:06,395 --> 00:01:12,335
+Ia berkata, Apakah kuasa yang perlu saya naikkan 4 untuk mendapatkan 2?
+
+19
+00:01:12,333 --> 00:01:14,803
+Dan ia bersamaan dengan 1/2.
+
+20
+00:01:14,802 --> 00:01:18,612
+Jadi apakah kuasa yang saya perlu naikkan asas untuk...
+
+21
+00:01:18,615 --> 00:01:20,415
+...mendapatkan apa yang berada di dalam logaritma.
+
+22
+00:01:21,414 --> 00:01:25,554
+Apakah yang saya dapat apabila naikkan 4 kepada kuasa 1/2.
+

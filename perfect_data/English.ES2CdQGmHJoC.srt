@@ -1,0 +1,327 @@
+1
+00:00:00,000 --> 00:00:04,000
+It will be good to introduce some basic terminology
+
+2
+00:00:04,000 --> 00:00:09,000
+that is commonly used in artificial intelligence to distinguish different types of problems.
+
+3
+00:00:09,000 --> 00:00:16,000
+The very first word I will teach you is  fully versus partially observable.
+
+4
+00:00:16,000 --> 00:00:19,000
+An environment is called fully observable if what your agent can sense
+
+5
+00:00:19,000 --> 00:00:26,000
+at any point in time is completely sufficient to make the optimal decision.
+
+6
+00:00:26,000 --> 00:00:29,000
+So, for example, in many card games,
+
+7
+00:00:29,000 --> 00:00:36,000
+when all the cards are on the table, the momentary site of all those cards
+
+8
+00:00:36,000 --> 00:00:40,000
+is really sufficient to make the optimal choice.
+
+9
+00:00:40,000 --> 00:00:46,000
+That is in contrast to some other environments where you need memory
+
+10
+00:00:46,000 --> 00:00:50,000
+on the side of the agent to make the best possible decision.
+
+11
+00:00:50,000 --> 00:00:55,000
+For example, in the game of poker, the cards aren't openly on the table,
+
+12
+00:00:55,000 --> 00:01:00,000
+and memorizing past moves will help you make a better decision.
+
+13
+00:01:00,000 --> 00:01:04,000
+To fully understand the difference, consider the interaction of an agent
+
+14
+00:01:04,000 --> 00:01:08,000
+with the environment to its sensors and its actuators,
+
+15
+00:01:08,000 --> 00:01:11,000
+and this interaction takes place over many cycles,
+
+16
+00:01:11,000 --> 00:01:16,000
+often called the perception-action cycle.
+
+17
+00:01:16,000 --> 00:01:19,000
+For many environments, it's convenient to assume
+
+18
+00:01:19,000 --> 00:01:22,000
+that the environment has some sort of internal state.
+
+19
+00:01:22,000 --> 00:01:28,000
+For example, in a card game where the cards are not openly on the table,
+
+20
+00:01:28,000 --> 00:01:33,000
+the state might pertain to the cards in your hand.
+
+21
+00:01:33,000 --> 00:01:37,000
+An environment is fully observable if the sensors can always see
+
+22
+00:01:37,000 --> 00:01:41,000
+the entire state of the environment.
+
+23
+00:01:41,000 --> 00:01:46,000
+It's partially observable if the sensors can only see a fraction of the state,
+
+24
+00:01:46,000 --> 00:01:52,000
+yet memorizing past measurements gives us additional information of the state
+
+25
+00:01:52,000 --> 00:01:55,000
+that is not readily observable right now.
+
+26
+00:01:55,000 --> 00:02:01,000
+So any game, for example, where past moves have information about
+
+27
+00:02:01,000 --> 00:02:06,000
+what might be in a person's hand, those games are partially observable,
+
+28
+00:02:06,000 --> 00:02:08,000
+and they require different treatment.
+
+29
+00:02:08,000 --> 00:02:12,000
+Very often agents that deal with partially observable environments
+
+30
+00:02:12,000 --> 00:02:15,000
+need to acquire internal memory to understand what
+
+31
+00:02:15,000 --> 00:02:18,000
+the state of the environment is, and we'll talk extensively
+
+32
+00:02:18,000 --> 00:02:21,000
+when we talk about hidden Markov models about how this structure
+
+33
+00:02:21,000 --> 00:02:23,000
+has such internal memory.
+
+34
+00:02:23,000 --> 00:02:26,000
+A second terminology for environments pertains to whether the environment
+
+35
+00:02:26,000 --> 00:02:29,000
+is deterministic or stochastic.
+
+36
+00:02:29,000 --> 00:02:35,000
+Deterministic environment is one where your agent's actions
+
+37
+00:02:35,000 --> 00:02:37,000
+uniquely determine the outcome.
+
+38
+00:02:37,000 --> 00:02:42,000
+So, for example, in chess, there's really no randomness when you move a piece.
+
+39
+00:02:42,000 --> 00:02:46,000
+The effect of moving a piece is completely predetermined,
+
+40
+00:02:46,000 --> 00:02:50,000
+and no matter where I'm going to move the same piece, the outcome is the same.
+
+41
+00:02:50,000 --> 00:02:52,000
+That we call deterministic.
+
+42
+00:02:52,000 --> 00:02:56,000
+Games with dice, for example, like backgammon, are stochastic.
+
+43
+00:02:56,000 --> 00:03:00,000
+While you can still deterministically move your pieces,
+
+44
+00:03:00,000 --> 00:03:03,000
+the outcome of an action also involves throwing of the dice,
+
+45
+00:03:03,000 --> 00:03:05,000
+and  you can't predict those.
+
+46
+00:03:05,000 --> 00:03:08,000
+There's a certain amount of randomness involved for the outcome of dice,
+
+47
+00:03:08,000 --> 00:03:10,000
+and therefore, we call this stochastic.
+
+48
+00:03:10,000 --> 00:03:14,000
+Let me talk about discrete versus continuous.
+
+49
+00:03:14,000 --> 00:03:18,000
+A discrete environment is one where you have finitely many action choices,
+
+50
+00:03:18,000 --> 00:03:21,000
+and finitely many things you can sense.
+
+51
+00:03:21,000 --> 00:03:25,000
+So, for example, in chess, again, there's finitely many board positions,
+
+52
+00:03:25,000 --> 00:03:28,000
+and finitely many things you can do.
+
+53
+00:03:28,000 --> 00:03:30,000
+That is different from a continuous environment
+
+54
+00:03:30,000 --> 00:03:35,000
+where the space of possible actions or things you could sense may be infinite.
+
+55
+00:03:35,000 --> 00:03:41,000
+So, for example, if you throw darts, there's infinitely many ways to angle the darts
+
+56
+00:03:41,000 --> 00:03:43,000
+and to accelerate them.
+
+57
+00:03:43,000 --> 00:03:49,000
+Finally, we distinguish benign versus adversarial environments.
+
+58
+00:03:49,000 --> 00:03:53,000
+In benign environments, the environment might be random.
+
+59
+00:03:53,000 --> 00:03:57,000
+It might be stochastic, but it has no objective on its own
+
+60
+00:03:57,000 --> 00:03:59,000
+that would contradict the own objective.
+
+61
+00:03:59,000 --> 00:04:02,000
+So, for example, weather is benign.
+
+62
+00:04:02,000 --> 00:04:06,000
+It might be random. It might affect the outcome of your actions.
+
+63
+00:04:06,000 --> 00:04:08,000
+But it isn't really out there to get you.
+
+64
+00:04:08,000 --> 00:04:14,000
+Contrast this with adversarial environments, such as many games, like chess,
+
+65
+00:04:14,000 --> 00:04:16,000
+where your opponent is really out there to get you.
+
+66
+00:04:16,000 --> 00:04:21,000
+It turns out it's much harder to find good actions in adversarial environments
+
+67
+00:04:21,000 --> 00:04:26,000
+where the opponent actively observes you and counteracts what you're trying to achieve
+
+68
+00:04:26,000 --> 00:04:30,000
+relative to benign environment, where the environment might merely be stochastic
+
+69
+00:04:30,000 --> 00:04:35,000
+but isn't really interested in making your life worse.
+
+70
+00:04:35,000 --> 00:04:38,000
+So, let's see to what extent these expressions make sense to you
+
+71
+00:04:38,000 --> 00:04:40,000
+by going to our next quiz.
+
+72
+00:04:40,000 --> 00:04:45,000
+So here are the 4 concepts again: partially observable versus fully,
+
+73
+00:04:45,000 --> 00:04:50,000
+stochastic versus deterministic, continuous versus discrete,
+
+74
+00:04:50,000 --> 00:04:52,000
+adversarial versus benign.
+
+75
+00:04:52,000 --> 00:04:56,000
+And let me ask you about the game of checkers.
+
+76
+00:04:56,000 --> 00:05:00,000
+Check one or all of those attributes that apply.
+
+77
+00:05:00,000 --> 00:05:03,000
+So, if you think checkers is partially observable, check this one.
+
+78
+00:05:03,000 --> 00:05:05,000
+Otherwise, just don't check it.
+
+79
+00:05:05,000 --> 00:05:07,000
+If you think it's stochastic, check this one,
+
+80
+00:05:07,000 --> 00:05:11,000
+continuous, check this one, adversarial, check this one.
+
+81
+00:05:11,000 --> 00:05:15,000
+If you don't know about checkers, you can check the Web and Google it
+
+82
+00:05:15,000 --> 99:59:59,000
+to find a little more information about checkers.

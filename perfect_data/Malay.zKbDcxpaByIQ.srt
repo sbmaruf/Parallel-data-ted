@@ -1,0 +1,247 @@
+1
+00:00:00,580 --> 00:00:05,170
+Gunakan cara melengkapkan kuasa dua untuk mencari nilai c yang boleh menjadikan persamaan
+
+2
+00:00:05,170 --> 00:00:08,890
+x kuasa dua tolak 44x tambah c
+
+3
+00:00:08,890 --> 00:00:11,690
+suatu trinomial kuasa dua sempurna-- dan trinomial di sini
+
+4
+00:00:11,690 --> 00:00:14,590
+bermaksud polinomial dengan tiga sebutan.
+
+5
+00:00:14,590 --> 00:00:16,990
+Kemudian, tuliskan ungkapan tersebut sebagai kuasa dua binomial.
+
+6
+00:00:16,990 --> 00:00:23,690
+Jadi kita ada x kuasa dua tolak 44x tambah c.
+
+7
+00:00:23,690 --> 00:00:26,370
+Bagaimanakah kita boleh jadikannya kuasa dua sempurna?
+
+8
+00:00:26,370 --> 00:00:28,460
+Baik, kalau kamu fikirkan corak biasa bagi
+
+9
+00:00:28,460 --> 00:00:29,920
+sesuatu kuasa dua sempurna. Mari kita fikirkannya
+
+10
+00:00:29,920 --> 00:00:33,350
+dalam sebutan x tambah a kuasa dua.
+
+11
+00:00:33,350 --> 00:00:37,860
+Ia adalah sama dengan x tambah a kali x tambah a, dan
+
+12
+00:00:37,860 --> 00:00:39,260
+kita pernah lihat contoh sebegini.
+
+13
+00:00:39,260 --> 00:00:42,150
+Dan jika kamu darabkannya, x kali x,
+
+14
+00:00:42,150 --> 00:00:48,170
+iaitu x kuasa dua, tambah x kali a, iaitu ax.
+
+15
+00:00:48,170 --> 00:00:50,850
+Tambah a kali x, iaitu ax.
+
+16
+00:00:50,850 --> 00:00:53,490
+Tambah a kali a, iaitu a kuasa dua.
+
+17
+00:00:53,490 --> 00:00:59,365
+Maka dapatlah x kuasa dua tambah 2ax, dua-dua ini, ax campur ax
+
+18
+00:00:59,365 --> 00:01:03,610
+adalah 2ax, tambah a kuasa dua.
+
+19
+00:01:03,610 --> 00:01:06,820
+Jadi kalau kita boleh tuliskannya dalam bentuk ini, di mana
+
+20
+00:01:06,820 --> 00:01:10,120
+kita boleh ambil separuh daripada nilainya di sini, kan?
+
+21
+00:01:10,120 --> 00:01:11,490
+2a di sini.
+
+22
+00:01:11,490 --> 00:01:14,240
+Jika saya ambil separuh daripadanya dan kuasa dua di sini, ia akan
+
+23
+00:01:14,240 --> 00:01:16,150
+jadi kuasa dua sempurna.
+
+24
+00:01:16,150 --> 00:01:21,530
+Kalau kita perhatikan di sini, sebutan di sini sebenarnya adalah 2a.
+
+25
+00:01:21,530 --> 00:01:23,960
+Kalau kita bandingkan coraknya untuk jadikannya
+
+26
+00:01:23,960 --> 00:01:25,070
+kuasa dua sempurna.
+
+27
+00:01:25,070 --> 00:01:26,300
+Ini adalah 2a.
+
+28
+00:01:26,300 --> 00:01:29,550
+Maka negatif 44 adalah sama dengan 2a.
+
+29
+00:01:29,550 --> 00:01:32,790
+Dan c di sini, kalau kita bandingkan lagi, c adalah
+
+30
+00:01:32,790 --> 00:01:36,770
+sama dengan a kuasa dua.
+
+31
+00:01:36,770 --> 00:01:38,100
+Jadi apakah itu a?
+
+32
+00:01:38,100 --> 00:01:41,000
+Baik, kita sudah tahu yang negatif 44 adalah 2a, dan kita boleh bahagikan
+
+33
+00:01:41,000 --> 00:01:45,140
+kedua-dua belah persamaannya dengan 2.
+
+34
+00:01:45,140 --> 00:01:50,310
+Dan sekarang kita tahu bahawa negatif 22 adalah bersamaan dengan a.
+
+35
+00:01:50,310 --> 00:01:52,770
+a haruslah bersamaan dengan negatif 22.
+
+36
+00:01:52,770 --> 00:01:55,190
+a adalah separuh daripada pekali di sini.
+
+37
+00:01:55,190 --> 00:01:58,100
+Ia adalah separuh daripada negatif 44.
+
+38
+00:01:58,100 --> 00:02:00,250
+Dan semasa kamu melengkapkan kuasa dua, kamu perlu ingat
+
+39
+00:02:00,250 --> 00:02:02,420
+ia selalu adalah separuh daripada pekali di sini.
+
+40
+00:02:02,420 --> 00:02:05,840
+Baik, kalau ini adalah a, apakah c?
+
+41
+00:02:05,840 --> 00:02:08,800
+c haruslah bernilai a kuasa dua bagi menjadikannya
+
+42
+00:02:08,800 --> 00:02:09,430
+kuasa dua sempurna.
+
+43
+00:02:09,430 --> 00:02:14,880
+Jadi c perlulah bersamaan dengan negatif 22 kuasa dua.
+
+44
+00:02:14,880 --> 00:02:17,390
+Dan kita boleh carikan nilainya.
+
+45
+00:02:17,390 --> 00:02:20,880
+22 kali 22, kita boleh letakkan tanda negatif kemudian --
+
+46
+00:02:20,880 --> 00:02:22,390
+sebenarnya negatif kali negatif adalah positif,
+
+47
+00:02:22,390 --> 00:02:24,040
+maka kita boleh abaikannya.
+
+48
+00:02:24,040 --> 00:02:26,900
+2 kali 22 adalah 44, letakkan 0.
+
+49
+00:02:26,900 --> 00:02:29,580
+2 kali 22 adalah 44.
+
+50
+00:02:29,580 --> 00:02:32,200
+Dapatlah 4, 8, 4.
+
+51
+00:02:32,200 --> 00:02:33,950
+Jadi ia adalah 484.
+
+52
+00:02:33,950 --> 00:02:41,350
+Kalau kita tuliskannya semula sebagai x kuasa dua tolak 44x tambah
+
+53
+00:02:41,350 --> 00:02:47,030
+484, ia akan jadi trinomial kuasa dua sempurna.
+
+54
+00:02:47,030 --> 00:02:48,050
+Atau kita juga boleh tuliskannya seperti ini.
+
+55
+00:02:48,050 --> 00:02:53,130
+x kuasa dua tolak 2 kali-- mungkin saya patut
+
+56
+00:02:53,130 --> 00:03:00,750
+tuliskan dalam bentuk-- 2 kali negatif 22x tambah
+
+57
+00:03:00,750 --> 00:03:03,350
+negatif 22 kuasa dua.
+
+58
+00:03:03,350 --> 00:03:06,140
+Dalam bentuk ini, kamu boleh nampak yang
+
+59
+00:03:06,140 --> 00:03:08,170
+ia adalah kuasa dua sempurna, dan kalau kamu faktorkannya,
+
+60
+00:03:08,170 --> 00:03:14,040
+ia adalah sama dengan x tolak 22 kali x tolak 22,
+
+61
+00:03:14,040 --> 00:03:17,980
+ataupun x tolak 22 kuasa dua.
+
+62
+00:03:17,980 --> 00:03:20,530
+Semua ini adalah pernyataan setara.

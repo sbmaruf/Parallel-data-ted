@@ -1,0 +1,51 @@
+1
+00:00:00,000 --> 00:00:04,000
+Ini adalah satu lagi masalah carian.
+
+2
+00:00:04,000 --> 00:00:07,000
+Andaikan kita mempunyai graf carian.
+
+3
+00:00:07,000 --> 00:00:13,000
+Ia bukan suatu pokok tetapi kelihatan seperti satu.
+
+4
+00:00:13,000 --> 00:00:18,000
+Jelas sekali dalam strukturnya, kita boleh menemui nod melalui pelbagai laluan.
+
+5
+00:00:18,000 --> 00:00:22,000
+Oleh itu, mari kita menganggap bahawa carian kami tidak akan mengembang nod yang sama dua kali.
+
+6
+00:00:22,000 --> 00:00:27,000
+Mari kita juga menganggap bahawa nod permulaan ini adalah di atas sekali. Kami mencari secari menurun.
+
+7
+00:00:27,000 --> 00:00:30,000
+Dan di sini adalah nod matlamat kami.
+
+8
+00:00:30,000 --> 00:00:35,000
+Menggunakan carian kiri-ke-kanan, beritahu saya berapa nod
+
+9
+00:00:35,000 --> 00:00:43,000
+akan dikembangkan menggunakan carian lebar-dahulu -- sila bilangkan nod permulaan dan nod matlamat dalam jawapan akhir anda.
+
+10
+00:00:43,000 --> 00:00:48,000
+Juga beri saya jawapan bagi carian dalam-dahulu.
+
+11
+00:00:48,000 --> 00:00:51,000
+Sekali lagi, membilang nod permulaan, dan nod matlamat dalam jawapan anda.
+
+12
+00:00:51,000 --> 00:00:54,000
+Dan sekali lagi, beri saya jawapan anda bagi carian lebar-dahulu
+
+13
+00:00:54,000 --> 99:59:59,999
+dan bagi dalam-dahulu, dalam paradigma carian kanan-ke-kiri.

@@ -1,0 +1,160 @@
+1
+00:00:00,000 --> 00:00:07,000
+&gt;&gt;
+CUTTS: Hai, nama saya Matt Cutts. Saya seorang jurutera
+dalam kumpulan kualiti di Google dan hari ini, saya ingin
+
+2
+00:00:12,000 --> 00:00:16,950
+bercakap mengenai perkara yang berlaku apabila anda 
+membuat carian web. Perkara pertama untuk difahami
+
+3
+00:00:16,950 --> 00:00:21,560
+ialah, apabila anda membuat carian Google, anda 
+sebenarnya bukan mencari di web, anda mencari
+
+4
+00:00:21,560 --> 00:00:27,600
+dalam indeks web Google atau sekurang-kurangnya sebanyak 
+mana web yang kami boleh dapatkan. Kami melakukannya 
+
+5
+00:00:27,599 --> 00:00:32,999
+menggunakan program perisian dipanggil lelabah. Lelabah 
+bermula dengan mengambil beberapa halaman web, kemudian
+
+6
+00:00:33,000 --> 00:00:37,980
+lelabah mengikut pautan pada halaman tersebut dan 
+mengambil halaman yang ditunjukkan dan mengikut semua
+
+7
+00:00:37,980 --> 00:00:43,660
+pautan pada halaman tersebut dan mengambil halaman yang 
+dikaitkan padanya dan seterusnya, sehingga kami telah
+
+8
+00:00:43,660 --> 00:00:49,490
+mengindeks sebahagian besar web--berbilion-bilion 
+halaman yang disimpan merentasi beribu-ribu mesin.
+
+9
+00:00:49,489 --> 00:00:55,669
+Katakanlah saya ingin tahu betapa pantas seekor cheetah 
+berlari. Saya taipkan carian saya, contohnya, kelajuan
+
+10
+00:00:55,670 --> 00:01:02,670
+cheetah berlari dan menekan masuk. Perisian kami mencari 
+dalam indeks kami untuk mendapatkan setiap halaman yang
+
+11
+00:01:02,670 --> 00:01:08,480
+merangkumi istilah carian itu. Dalam kes ini,
+terdapat beratus ribu hasil carian yang mungkin.
+
+12
+00:01:08,479 --> 00:01:15,239
+Bagaimanakah Google memutuskan beberapa dokumen yang 
+benar-benar saya mahukan? Dengan bertanyakan soalan--
+
+13
+00:01:15,240 --> 00:01:20,550
+lebih 200 soalan. Seperti, berapa kali halaman ini 
+mengandungi kata kunci anda? Adakah perkataan ini
+
+14
+00:01:20,550 --> 00:01:26,860
+dipaparkan dalam tajuk, dalam URL, betul-betul bersebelahan?
+Adakah halaman ini merangkumi sinonim untuk
+
+15
+00:01:26,860 --> 00:01:33,860
+perkataan itu? Adakah halaman ini berasal dari tapak 
+web yang berkualiti tinggi atau rendah, malah spam?
+
+16
+00:01:34,490 --> 00:01:39,610
+Apakah Kedudukan Halaman ini? Kedudukan Halaman ialah 
+formula yang direka oleh pengasas kami, Larry Page dan Sergey
+
+17
+00:01:39,610 --> 00:01:44,750
+Brin, yang menarafkan kepentingan halaman web dengan 
+melihat pada bilangan pautan luar yang menunjuk padanya
+
+18
+00:01:44,750 --> 00:01:50,540
+dan betapa penting pautan tersebut. Akhir sekali, 
+kami satukan semua faktor itu untuk menghasilkan
+
+19
+00:01:50,540 --> 00:01:56,820
+skor keseluruhan setiap halaman dan menghantar kembali 
+kepada anda hasil carian anda kira-kira setengah saat selepas
+
+20
+00:01:56,820 --> 00:02:01,910
+anda menyerahkan carian anda. Di Google, kami amat 
+mengambil berat iltizam kami dalam menyampaikan 
+
+21
+00:02:01,910 --> 00:02:07,810
+hasil carian yang berguna dan adil. Kami tidak sekali-kali 
+menerima bayaran untuk menambahkan tapak pada indeks kami,
+
+22
+00:02:07,810 --> 00:02:13,420
+mengemas kini tapak itu lebih kerap atau meningkatkan kedudukannya. Mari lihat hasil carian saya. Setiap
+
+23
+00:02:13,420 --> 00:02:19,240
+masukan merangkumi tajuk, URL dan cebisan teks untuk 
+membantu saya memutuskan sama ada halaman ini
+
+24
+00:02:19,239 --> 00:02:24,999
+ialah halaman yang saya cari. Saya juga nampak 
+pautan ke halaman yang serupa, versi halaman itu 
+
+25
+00:02:24,999 --> 00:02:30,999
+yang terbaharu disimpan oleh Google dan carian berkaitan 
+seterusnya yang mungkin ingin saya cuba. Kadangkala
+
+26
+00:02:30,999 --> 00:02:37,999
+di sepanjang sisi kanan dan bahagian atas, saya akan lihat 
+iklan. Kami juga amat mengambil berat tentang perniagaan 
+
+27
+00:02:39,060 --> 00:02:43,880
+pengiklanan kami, kedua-dua iltizam kami untuk 
+menyampaikan khalayak terbaik mungkin untuk pengiklan
+
+28
+00:02:43,879 --> 00:02:49,039
+dan untuk berusaha memaparkan kepada anda iklan yang
+benar-benar anda ingin lihat. Kami amat teliti dalam membezakan
+
+29
+00:02:49,040 --> 00:02:54,480
+iklan anda daripada hasil carian biasa dan kami tidak akan
+memaparkan kepada anda apa-apa iklan langsung jika kami
+
+30
+00:02:54,480 --> 00:02:58,830
+tidak dapat mencari iklan yang kami rasa akan membantu 
+anda mendapatkan maklumat yang anda cari--yang,
+
+31
+00:02:58,829 --> 00:03:04,179
+dalam kes ini, kelajuan cheetah berlari paling tinggi 
+ialah melebihi 60 batu sejam. Terima kasih kerana
+
+32
+00:03:04,180 --> 00:03:07,630
+menonton, saya harap video ini telah menjadikan 
+Google mudah sedikit difahami.
+

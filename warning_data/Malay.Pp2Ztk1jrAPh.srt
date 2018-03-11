@@ -1,0 +1,379 @@
+1
+00:00:00,000 --> 00:00:00,820
+.
+
+2
+00:00:00,820 --> 00:00:04,370
+Sebuah jambatan gantung mempunyai dua menara yang digantung 500 kaki
+
+3
+00:00:04,370 --> 00:00:07,390
+di atas jalanraya dan disambung dengan kabel yang digantung
+
+4
+00:00:07,390 --> 00:00:11,410
+dalam bentuk parabola yang boleh diwakili dengan y
+
+5
+00:00:11,410 --> 00:00:19,990
+ialah bersamaan dengan 1/8, 960 kali x tolak 2,100 kuasa dua tambah 8,
+
+6
+00:00:19,990 --> 00:00:23,200
+di mana x dan y adalah ukuran dalam kaki dan x ialah jarak
+
+7
+00:00:23,200 --> 00:00:26,450
+dari kiri menara dalam arah kanan menara.
+
+8
+00:00:26,450 --> 00:00:28,980
+Berapakah jarak di antara 2 menara tersebut?
+
+9
+00:00:28,980 --> 00:00:31,330
+Mari lukiskan gambarajah.
+
+10
+00:00:31,330 --> 00:00:37,130
+Jika kita melukis menara yang kiri sekali-- saya
+
+11
+00:00:37,130 --> 00:00:38,640
+akan warnakan ia dengan oren.
+
+12
+00:00:38,640 --> 00:00:41,960
+Jadi kita mempunyai menara kiri di sana.
+
+13
+00:00:41,960 --> 00:00:45,510
+Menara itu di x ialah bersamaan dengan 0.
+
+14
+00:00:45,510 --> 00:00:49,490
+Kita akan memanggil itu x ialah bersamaan dengan 0, atau mungkin hanya memanggil ia
+
+15
+00:00:49,490 --> 00:00:51,480
+titik 0 di sana.
+
+16
+00:00:51,480 --> 00:00:53,940
+Kemudian x hanyalah ukuran jarak dari menara yang paling kira
+
+17
+00:00:53,940 --> 00:00:57,600
+kepada menara yang paling kanan, jadi menara yang paling kanan dalam
+
+18
+00:00:57,600 --> 00:01:00,060
+arah kanan menara.
+
+19
+00:01:00,060 --> 00:01:02,145
+Yang di sini, mungkin menara kanan
+
+20
+00:01:02,145 --> 00:01:05,099
+ialah yang di atas sini.
+
+21
+00:01:05,099 --> 00:01:07,680
+Kedua-duanya ialah 500 kaki tinggi.
+
+22
+00:01:07,680 --> 00:01:10,510
+Menara kanan ialah di atas sana, dan kita tidak tahu
+
+23
+00:01:10,510 --> 00:01:11,240
+ia di mana.
+
+24
+00:01:11,240 --> 00:01:11,930
+Itu yang kita perlu cari.
+
+25
+00:01:11,930 --> 00:01:13,880
+Kita perlu cari jarak di antara dua itu, tetapi
+
+26
+00:01:13,880 --> 00:01:16,650
+kita hanya perlu tahu x mengukur jarak ini.
+
+27
+00:01:16,650 --> 00:01:19,810
+Ia mengukur jarak dari menara kiri dalam
+
+28
+00:01:19,810 --> 00:01:22,050
+arah menara kanan, jadi ia hanya tradisional, hanya
+
+29
+00:01:22,050 --> 00:01:23,540
+seperti satah koordinat kita.
+
+30
+00:01:23,540 --> 00:01:25,020
+Itulah apa yang x ukur.
+
+31
+00:01:25,020 --> 00:01:29,560
+Jika anda katakan x ialah bersamaan dengan juta kaki, anda akan
+
+32
+00:01:29,560 --> 00:01:32,190
+mendapat sesuatu jauh melebihi menara kedua.
+
+33
+00:01:32,190 --> 00:01:33,910
+Jika anda katakan x ialah satu kaki, anda akan mendapat sesuatu
+
+34
+00:01:33,910 --> 00:01:36,840
+dalam arah menara kedua daripada menara kiri.
+
+35
+00:01:36,840 --> 00:01:39,840
+Jadi itu ialah x, dan kemudia y, kita boleh anggarkan ketinggian
+
+36
+00:01:39,840 --> 00:01:42,680
+menara, atau hanya ketinggian umum yang kita
+
+37
+00:01:42,680 --> 00:01:43,830
+berurusan.
+
+38
+00:01:43,830 --> 00:01:45,860
+Ini ialah paksi y, jadi kita hanya berurusan dengan suku pertama
+
+39
+00:01:45,860 --> 00:01:49,470
+satah koordinat, dan itu ialah y.
+
+40
+00:01:49,470 --> 00:01:52,220
+Mereka memberitahu kita bahawa parabola ini, bentuk
+
+41
+00:01:52,220 --> 00:01:54,350
+parabola ini, boleh diwakili-- atau lebih baik, mereka berkata
+
+42
+00:01:54,350 --> 00:01:57,320
+bahawa kabel yang menghubungkan dua ini ialah dalam
+
+43
+00:01:57,320 --> 00:01:58,420
+bentuk parabola.
+
+44
+00:01:58,420 --> 00:02:01,690
+Biar saya lukiskan parabola itu di sana.
+
+45
+00:02:01,690 --> 00:02:03,550
+Mereka mempunyai ketinggian yang sama, jadi parabola itu akan kelihatan
+
+46
+00:02:03,550 --> 00:02:04,800
+sesuatu seperti ini.
+
+47
+00:02:04,800 --> 00:02:09,289
+.
+
+48
+00:02:09,289 --> 00:02:12,840
+Apa yang kita boleh lakukan untuk selesaikan, atau satu teknik--
+
+49
+00:02:12,840 --> 00:02:15,530
+biar saya lukiskan parabola yang lebih baik di sana.
+
+50
+00:02:15,530 --> 00:02:18,290
+Yang itu lebih teruk.
+
+51
+00:02:18,290 --> 00:02:20,200
+Itu adalah yang agak bagus saya boleh lakukan.
+
+52
+00:02:20,200 --> 00:02:23,320
+Satu teknik untuk mencari jarak di antara dua itu ialah jika
+
+53
+00:02:23,320 --> 00:02:27,040
+kita dapat fikirkan titik minimum kepada
+
+54
+00:02:27,040 --> 00:02:31,920
+parabola ini, iaitu akan juga menjadi bucu kepada
+
+55
+00:02:31,920 --> 00:02:33,970
+parabola, itu akan menjadi separuh
+
+56
+00:02:33,970 --> 00:02:35,940
+di antara dua menara tersebut.
+
+57
+00:02:35,940 --> 00:02:38,090
+Jika kita boleh selesaikan koordinat-x ini, kita boleh katakan
+
+58
+00:02:38,090 --> 00:02:40,450
+itu akan menjadi separuh di antara dua menara tersebut dan
+
+59
+00:02:40,450 --> 00:02:42,170
+kemudian darabkan dengan dua.
+
+60
+00:02:42,170 --> 00:02:44,960
+Mari lihat jika kita boleh selesaikan titik minimum ini, kerana
+
+61
+00:02:44,960 --> 00:02:47,450
+parabola itu ialah simetri di sekelilingnya, dan kedua-dua ini
+
+62
+00:02:47,450 --> 00:02:48,830
+mempunyai ketinggian yang sama.
+
+63
+00:02:48,830 --> 00:02:50,530
+Mari lihat jika kita dapat selesaikan titik minimum itu.
+
+64
+00:02:50,530 --> 00:02:57,920
+Biar saya menulis semula persamaan ini : Kita mempunyai y ialah bersamaan dengan 1/8, 960
+
+65
+00:02:57,920 --> 00:03:03,070
+kali x tolak 2,100 kuasa dua tambah 8.
+
+66
+00:03:03,070 --> 00:03:06,280
+Bagaimana kita hendak cari titik minimum di sini?
+
+67
+00:03:06,280 --> 00:03:09,460
+Keseluruhan persamaan ini iaitu kuasa dua, keseluruhan persamaan
+
+68
+00:03:09,460 --> 00:03:12,180
+ini akan sentiasa menjadi positif, atau ia sebenarnya akan
+
+69
+00:03:12,180 --> 00:03:13,770
+sentiasa menjadi bukan negatif.
+
+70
+00:03:13,770 --> 00:03:17,010
+Ia boleh bersamaan dengan 0, dan jadi keseluruhan ini akan sentiasa
+
+71
+00:03:17,010 --> 00:03:19,920
+menjadi lebih besar atau bersamaan dengan 0.
+
+72
+00:03:19,920 --> 00:03:22,520
+Keseluruhan ini yang saya segiempat dalam warna oren akan sentiasa
+
+73
+00:03:22,520 --> 00:03:24,440
+menjadi lebih besar atau bersamaan dengan 0.
+
+74
+00:03:24,440 --> 00:03:27,540
+Jadi apakah nilai paling rendah yang y boleh ambil?
+
+75
+00:03:27,540 --> 00:03:31,200
+Nilai paling rendah yang y boleh ambil akan terjadi apabila
+
+76
+00:03:31,200 --> 00:03:37,930
+persamaan ini ialah bersamaan dengan 0, dan persamaan ini bersamaan 0 hanya
+
+77
+00:03:37,930 --> 00:03:41,670
+apabila x tolak 2,100 kuasa dua ialah bersamaan dengan 0
+
+78
+00:03:41,670 --> 00:03:44,820
+Itu hanyalah akan menjadi bersamaan dengan 0 apabila x tolak 2,100 ialah
+
+79
+00:03:44,820 --> 00:03:50,290
+bersamaan 0, jadi x-- biar saya tuliskan ia cara ini-- bersamaan 0,
+
+80
+00:03:50,290 --> 00:03:53,650
+dan saya hanya bercakap mengenai bahagian berwarna oren di sini-- apabila x
+
+81
+00:03:53,650 --> 00:03:57,650
+tolak 2,100 ialah bersamaan 0, atau jikalau anta tambah 2,100 kepada kedua-dua
+
+82
+00:03:57,650 --> 00:04:01,890
+belah, atau x ialah bersamaan dengan 2,100.
+
+83
+00:04:01,890 --> 00:04:05,180
+Apabila x ialah bersamaan dengan 2, 100, hanya tertanya-tanya, apakah y?
+
+84
+00:04:05,180 --> 00:04:09,350
+Jika x ialah 2,100, benda ini ialah 0 kali 0, dan y hanya akan menjadi
+
+85
+00:04:09,350 --> 00:04:10,900
+bersamaan dengan 8 di sana.
+
+86
+00:04:10,900 --> 00:04:13,460
+Jadi koordinat di sini ialah koordinat x ialah bersamaan
+
+87
+00:04:13,460 --> 00:04:18,630
+dengan 2,100, y ialah bersamaan dengan 8, dan ia akan menjadi separuh
+
+88
+00:04:18,630 --> 00:04:21,070
+di antara dua menara kita.
+
+89
+00:04:21,070 --> 00:04:23,630
+Jika ini ialah di 2,100, berapa jauh menara ini?
+
+90
+00:04:23,630 --> 00:04:25,350
+Ia akan menjadi dua kali 2,100.
+
+91
+00:04:25,350 --> 00:04:27,920
+Ia akan menjadi 4,200 dan semua yang kita
+
+92
+00:04:27,920 --> 00:04:28,720
+berurusan ialah kaki.
+
+93
+00:04:28,720 --> 00:04:32,630
+Ia akan menjadi 4,200 kaki jauh dari menara pertama.
+
+94
+00:04:32,630 --> 00:04:38,160
+Jadi jarak di antara dua menara tersebut ialah 4,200 kaki.
+
+95
+00:04:38,160 --> 00:04:38,733
+.

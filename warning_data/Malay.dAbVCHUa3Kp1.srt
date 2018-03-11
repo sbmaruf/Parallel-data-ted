@@ -1,0 +1,152 @@
+1
+00:00:00,000 --> 00:00:02,430
+Saya ada 3 masalah perkataan dalam video ini
+
+2
+00:00:02,433 --> 00:00:05,883
+Apa saya mahu lakukan dalam video ini ialah bukan selesaikan masalah perkataan
+
+3
+00:00:05,887 --> 00:00:10,157
+tetapi membuat persamaan yang kita boleh selesaikan untuk dapatkan jawapan bagi masalah perkataan
+
+4
+00:00:10,154 --> 00:00:13,594
+Apa yang kita akan lakukan ialah membina perkadaran untuk masalah perkataan
+
+5
+00:00:13,597 --> 00:00:14,907
+Maka dalam masalah pertama
+
+6
+00:00:14,907 --> 00:00:18,937
+Kita ada 9 penanda bernilai $11.50. Dan kemudian mereka bertanya
+
+7
+00:00:18,933 --> 00:00:22,233
+Berapa banyak nilai 7 penanda.
+
+8
+00:00:22,236 --> 00:00:31,336
+Sekarang, mari kita setkan X untuk menjadi bersamaan dengan jawapan kita, di mana X ialah bersamaan dengan nilai 7 penanda
+
+9
+00:00:31,333 --> 00:00:34,473
+Cara untuk selesaikan satu masalah seperti ini ialah untuk menetapkan
+
+10
+00:00:34,471 --> 00:00:36,331
+nisbah dan setkannya bersamaan antara satu sama lain
+
+11
+00:00:36,333 --> 00:00:38,813
+Maka anda boleh katakan yang nisbah 9 penanda
+
+12
+00:00:38,815 --> 00:01:10,575
+kepada kos 9 penanda; 9/11.50 = 7/X
+
+13
+00:01:10,578 --> 00:01:21,048
+Ini ialah perkadaran yang benar di sini
+
+14
+00:01:21,046 --> 00:01:23,476
+Anda boleh selesaikan ini untuk mencari berapa banyak
+
+15
+00:01:23,471 --> 00:01:25,321
+nilai 7 penanda
+
+16
+00:01:25,317 --> 00:01:58,557
+Anda boleh ada 11.50/9 = X/7. Ini ialah nisbah yang sah
+
+17
+00:01:58,553 --> 00:02:01,653
+Anda juga boleh fikir tentang nisbah dengan cara yang lain
+
+18
+00:02:01,651 --> 00:02:11,401
+Anda boleh katakan, nisbah 9 penanda kepada 7 penanda,
+
+19
+00:02:11,404 --> 00:02:22,934
+akan menjadi sama dengan nisbah kos mereka
+
+20
+00:02:22,933 --> 00:02:42,753
+9/7 = 11.5/X atau 7/9 = X/11.5
+
+21
+00:02:42,748 --> 00:02:51,058
+Maka kesemuanya ialah perkadaran yang benar
+
+22
+00:02:51,061 --> 00:02:54,931
+Oleh itu, mari kita lakukan permasalahan ini sekarang. Nilai 7 epal ialah $5
+
+23
+00:02:54,933 --> 00:03:02,173
+Berapa banyak saya boleh beli dengan $8
+
+24
+00:03:02,169 --> 00:03:11,209
+Berapa banyak epal- mari kita namakan itu X. Kita perlu selesaikan X
+
+25
+00:03:11,205 --> 00:03:13,135
+Maka kita ada nisbah antara nombor
+
+26
+00:03:13,138 --> 00:03:34,938
+epal dan kos epal -7/5 = X/8
+
+27
+00:03:34,933 --> 00:03:42,803
+Dalam situasi pertama, kos yang tidak diketahui, dalam contoh ini
+
+28
+00:03:42,800 --> 00:03:49,510
+nombor yang tidak diketahui ialah epal. Kita boleh lakukan semua
+
+29
+00:03:49,507 --> 00:04:15,197
+situasi yang berbeza seperti di atas. Kta boleh katakan 7/X = 5/8
+
+30
+00:04:15,194 --> 00:04:19,174
+Sekarang mari kita lakukan yang terakhir. Kita ada resepi kek untuk
+
+31
+00:04:19,174 --> 00:04:32,664
+5 orang yang memerlukan 2 telur. Berapa banyak telur? Maka kita mahu tahu berapa banyak telur
+
+32
+00:04:32,660 --> 00:04:35,760
+Kita akan panggil berapa banyak telur, yang mana kita kenali
+
+33
+00:04:35,759 --> 00:04:45,229
+sebagai X, kita juga boleh panggil apa saja seperti Y,A.B,C dan lain-lain
+
+34
+00:04:45,225 --> 00:04:56,675
+Maka anda boleh katakan nisbah orang kepada telur ialah tetap
+
+35
+00:04:56,671 --> 00:05:13,401
+Kita ada 5 orang untuk 2 telur- 5/2 = 15/X
+
+36
+00:05:13,400 --> 00:05:38,870
+Atau anda boleh katakan nisbah antara 5/15 = 2/X
+
+37
+00:05:38,867 --> 00:05:46,937
+Kesemua ini kita tetapkan perkadarannya dan kita boleh
+
+38
+00:05:46,933 --> 00:05:50,933
+menyelesaikan X dan mendapatkan jawapannya.
+

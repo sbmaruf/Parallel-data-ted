@@ -1,0 +1,79 @@
+1
+00:00:00,000 --> 00:00:00,036
+
+
+2
+00:00:00,036 --> 00:00:01,637
+We all need a lot ofinformation to
+
+3
+00:00:01,637 --> 00:00:03,007
+get through our day.
+
+4
+00:00:03,007 --> 00:00:05,085
+So wouldn't it be cool if it wasjust there for you, right
+
+5
+00:00:05,085 --> 00:00:07,031
+when you needed it?
+
+6
+00:00:07,031 --> 00:00:09,062
+Introducing GoogleNow for iOS.
+
+7
+00:00:09,062 --> 00:00:12,093
+The right information atjust the right time.
+
+8
+00:00:12,093 --> 00:00:15,053
+On your way to work eachmorning, Google Now shows you
+
+9
+00:00:15,053 --> 00:00:17,046
+the fastest way to get there.(features limited by country)
+
+10
+00:00:17,046 --> 00:00:19,078
+When you're heading to theairport, get live updates
+
+11
+00:00:19,078 --> 00:00:21,004
+about your flight.(features limited by country)
+
+12
+00:00:21,004 --> 00:00:25,009
+And as soon as you land, checkout local phrases and rates.
+
+13
+00:00:25,009 --> 00:00:27,087
+During the big game, getupdates in real time.
+
+14
+00:00:27,087 --> 00:00:31,053
+Or instantly learn about nearbyattractions, movies,
+
+15
+00:00:31,053 --> 00:00:33,315
+and restaurants.(features limited by country)
+
+16
+00:00:33,315 --> 00:00:35,395
+Google Now is easy to find.
+
+17
+00:00:35,395 --> 00:00:39,017
+Open the Google Search app,sign in, and swipe up.
+
+18
+00:00:39,017 --> 00:00:41,064
+Google Now, the rightinformation at
+
+19
+00:00:41,064 --> 00:00:42,089
+just the right time.
+
+20
+00:00:42,089 --> 99:59:59,999
+

@@ -1,0 +1,427 @@
+1
+00:00:00,000 --> 00:00:03,000
+So the type of magic I like, and I'm a magician,
+
+2
+00:00:03,000 --> 00:00:05,000
+is a magic that uses technology
+
+3
+00:00:05,000 --> 00:00:07,000
+to create illusions.
+
+4
+00:00:07,000 --> 00:00:09,000
+So I would like to show you something I've been working on.
+
+5
+00:00:09,000 --> 00:00:11,000
+It's an application
+
+6
+00:00:11,000 --> 00:00:13,000
+that I think will be useful for artists --
+
+7
+00:00:13,000 --> 00:00:15,000
+multimedia artists in particular.
+
+8
+00:00:15,000 --> 00:00:17,000
+It synchronizes videos
+
+9
+00:00:17,000 --> 00:00:19,000
+across multiple screens of mobile devices.
+
+10
+00:00:19,000 --> 00:00:21,000
+And I borrowed these three iPods
+
+11
+00:00:21,000 --> 00:00:23,000
+from people here in the audience
+
+12
+00:00:23,000 --> 00:00:25,000
+to show you what I mean.
+
+13
+00:00:27,000 --> 00:00:29,000
+And I'm going to use them to tell you
+
+14
+00:00:29,000 --> 00:00:32,000
+a little bit about my favorite subject:
+
+15
+00:00:32,000 --> 00:00:34,000
+deception.
+
+16
+00:00:36,000 --> 00:00:38,000
+(Music)
+
+17
+00:00:38,000 --> 00:00:41,000
+One of my favorite magicians
+
+18
+00:00:41,000 --> 00:00:43,000
+is Karl Germain.
+
+19
+00:00:43,000 --> 00:00:45,000
+He had this wonderful trick
+
+20
+00:00:45,000 --> 00:00:48,000
+where a rosebush would bloom
+
+21
+00:00:48,000 --> 00:00:50,000
+right in front of your eyes.
+
+22
+00:00:50,000 --> 00:00:53,000
+But it was his production of a butterfly
+
+23
+00:00:53,000 --> 00:00:55,000
+that was the most beautiful.
+
+24
+00:00:55,000 --> 00:00:58,000
+(Recording) Announcer: Ladies and gentlemen,
+
+25
+00:00:58,000 --> 00:01:01,000
+the creation of life.
+
+26
+00:01:01,000 --> 00:01:03,000
+(Applause)
+
+27
+00:01:03,000 --> 00:01:06,000
+(Music)
+
+28
+00:01:06,000 --> 00:01:08,000
+Marco Tempest: When asked about deception,
+
+29
+00:01:08,000 --> 00:01:11,000
+he said this:
+
+30
+00:01:11,000 --> 00:01:15,000
+Announcer: Magic is the only honest profession.
+
+31
+00:01:15,000 --> 00:01:17,000
+A magician promises to deceive you --
+
+32
+00:01:17,000 --> 00:01:19,000
+and he does.
+
+33
+00:01:19,000 --> 00:01:22,000
+MT: I like to think of myself as an honest magician.
+
+34
+00:01:22,000 --> 00:01:24,000
+I use a lot of tricks,
+
+35
+00:01:24,000 --> 00:01:26,000
+which means
+
+36
+00:01:26,000 --> 00:01:29,000
+that sometimes I have to lie to you.
+
+37
+00:01:29,000 --> 00:01:32,000
+Now I feel bad about that.
+
+38
+00:01:32,000 --> 00:01:35,000
+But people lie every day.
+
+39
+00:01:35,000 --> 00:01:37,000
+(Ringing) Hold on.
+
+40
+00:01:37,000 --> 00:01:39,000
+Girl in Phone: Hey, where are you?
+
+41
+00:01:39,000 --> 00:01:41,000
+MT: Stuck in traffic. I'll be there soon.
+
+42
+00:01:41,000 --> 00:01:43,000
+You've all done it.
+
+43
+00:01:43,000 --> 00:01:45,000
+(Laughter)
+
+44
+00:01:45,000 --> 00:01:48,000
+Lady: I'll be ready in just a minute, darling.
+
+45
+00:01:48,000 --> 00:01:51,000
+Man: It's just what I've always wanted.
+
+46
+00:01:51,000 --> 00:01:53,000
+Woman: You were great.
+
+47
+00:01:53,000 --> 00:01:55,000
+MT: Deception,
+
+48
+00:01:55,000 --> 00:01:59,000
+it's a fundamental part of life.
+
+49
+00:01:59,000 --> 00:02:01,000
+Now polls show
+
+50
+00:02:01,000 --> 00:02:03,000
+that men tell twice as many lies
+
+51
+00:02:03,000 --> 00:02:05,000
+as women --
+
+52
+00:02:05,000 --> 00:02:07,000
+assuming the women they ask told the truth.
+
+53
+00:02:07,000 --> 00:02:09,000
+(Laughing)
+
+54
+00:02:09,000 --> 00:02:12,000
+We deceive to gain advantage
+
+55
+00:02:12,000 --> 00:02:15,000
+and to hide our weaknesses.
+
+56
+00:02:15,000 --> 00:02:17,000
+The Chinese general Sun Tzu
+
+57
+00:02:17,000 --> 00:02:19,000
+said that all war
+
+58
+00:02:19,000 --> 00:02:21,000
+was based on deception.
+
+59
+00:02:21,000 --> 00:02:23,000
+Oscar Wilde
+
+60
+00:02:23,000 --> 00:02:26,000
+said the same thing of romance.
+
+61
+00:02:26,000 --> 00:02:28,000
+Some people
+
+62
+00:02:28,000 --> 00:02:30,000
+deceive for money.
+
+63
+00:02:30,000 --> 00:02:33,000
+Let's play a game.
+
+64
+00:02:33,000 --> 00:02:36,000
+Three cards, three chances.
+
+65
+00:02:36,000 --> 00:02:39,000
+Announcer: One five will get you 10, 10 will get you 20.
+
+66
+00:02:39,000 --> 00:02:41,000
+Now where's the lady?
+
+67
+00:02:41,000 --> 00:02:43,000
+Where is the queen?
+
+68
+00:02:43,000 --> 00:02:45,000
+MT: This one?
+
+69
+00:02:45,000 --> 00:02:47,000
+Sorry. You lose.
+
+70
+00:02:47,000 --> 00:02:50,000
+Well, I didn't deceive you.
+
+71
+00:02:50,000 --> 00:02:53,000
+You deceived yourself.
+
+72
+00:02:53,000 --> 00:02:55,000
+Self-deception.
+
+73
+00:02:55,000 --> 00:02:57,000
+That's when we convince ourselves
+
+74
+00:02:57,000 --> 00:02:59,000
+that a lie is the truth.
+
+75
+00:02:59,000 --> 00:03:02,000
+Sometimes it's hard to tell the two apart.
+
+76
+00:03:04,000 --> 00:03:06,000
+Compulsive gamblers
+
+77
+00:03:06,000 --> 00:03:08,000
+are experts at self-deception.
+
+78
+00:03:08,000 --> 00:03:10,000
+(Slot machine noise)
+
+79
+00:03:10,000 --> 00:03:12,000
+They believe they can win.
+
+80
+00:03:12,000 --> 00:03:15,000
+They forget the times they lose.
+
+81
+00:03:15,000 --> 00:03:18,000
+The brain is very good at forgetting.
+
+82
+00:03:18,000 --> 00:03:21,000
+Bad experiences are quickly forgotten.
+
+83
+00:03:21,000 --> 00:03:23,000
+Bad experiences
+
+84
+00:03:23,000 --> 00:03:25,000
+quickly disappear.
+
+85
+00:03:25,000 --> 00:03:28,000
+Which is why in this vast and lonely cosmos,
+
+86
+00:03:28,000 --> 00:03:32,000
+we are so wonderfully optimistic.
+
+87
+00:03:32,000 --> 00:03:34,000
+Our self-deception
+
+88
+00:03:34,000 --> 00:03:36,000
+becomes a positive illusion --
+
+89
+00:03:36,000 --> 00:03:38,000
+why movies
+
+90
+00:03:38,000 --> 00:03:41,000
+are able to take us onto extraordinary adventures;
+
+91
+00:03:41,000 --> 00:03:43,000
+why we believe Romeo
+
+92
+00:03:43,000 --> 00:03:45,000
+when he says he loves Juliet;
+
+93
+00:03:45,000 --> 00:03:48,000
+and why single notes of music,
+
+94
+00:03:48,000 --> 00:03:50,000
+when played together,
+
+95
+00:03:50,000 --> 00:03:53,000
+become a sonata and conjure up meaning.
+
+96
+00:03:53,000 --> 00:03:55,000
+That's "Clair de Lune."
+
+97
+00:03:55,000 --> 00:03:57,000
+Its composer called Debussy
+
+98
+00:03:57,000 --> 00:03:59,000
+said that art
+
+99
+00:03:59,000 --> 00:04:03,000
+was the greatest deception of all.
+
+100
+00:04:03,000 --> 00:04:06,000
+Art is a deception
+
+101
+00:04:06,000 --> 00:04:08,000
+that creates real emotions --
+
+102
+00:04:08,000 --> 00:04:11,000
+a lie that creates a truth.
+
+103
+00:04:11,000 --> 00:04:15,000
+And when you give yourself over to that deception,
+
+104
+00:04:15,000 --> 00:04:18,000
+it becomes magic.
+
+105
+00:04:26,000 --> 00:04:38,000
+(Applause)
+
+106
+00:04:38,000 --> 00:04:41,000
+Thank you. Thank you very much.
+
+107
+00:04:41,000 --> 00:04:46,000
+(Applause)

@@ -1,0 +1,220 @@
+1
+00:00:00,813 --> 00:00:02,863
+Katakan saya ada 5 biji lemon,
+
+2
+00:00:02,867 --> 00:00:07,127
+1, 2, 3, 4, 5 biji lemon,
+
+3
+00:00:07,129 --> 00:00:12,239
+apa yang perlu saya darabkan 5 kali untuk mendapatkan 1?
+
+4
+00:00:12,238 --> 00:00:16,978
+atau dalam kes ini, apa yang saya perlu darabkan 5 biji lemon untuk dapatkan sebiji lemon?
+
+5
+00:00:16,974 --> 00:00:19,464
+soalan lain yang anda boleh tanya
+
+6
+00:00:19,486 --> 00:00:22,816
+(kerana pendaraban dan pembahagian adalah masalah yang berkaitan),
+
+7
+00:00:22,812 --> 00:00:23,312
+ialah
+
+8
+00:00:23,312 --> 00:00:27,302
+apa yang saya perlu bahagi 5 untuk mendapatkan 1 biji lemon
+
+9
+00:00:27,300 --> 00:00:30,120
+atau bulatan kuning atau apa sahaja yang saya dah lukis disini.
+
+10
+00:00:30,116 --> 00:00:35,136
+Kalau anda ada 5 benda dan anda bahagi dengan 5, anda ada 5 kumpulan,
+
+11
+00:00:35,132 --> 00:00:39,632
+jadi jika anda bahagi dengan 5, anda akan dapat 1, 2, 3, 4, 5 kumpulan.
+
+12
+00:00:39,636 --> 00:00:44,146
+Jadi anda boleh katakan 5 bahagi 5 sama dengan 1
+
+13
+00:00:44,141 --> 00:00:49,401
+ambil 5 benda dan bahagi kepada 5 kumpulan dan setiap kumpulan ada 1
+
+14
+00:00:49,400 --> 00:00:54,860
+atau anda boleh katakan 5 darab 1/5 sama dengan 1
+
+15
+00:00:54,855 --> 00:00:56,925
+(saya gunakan dot sebagai darab)
+
+16
+00:00:56,929 --> 00:01:00,769
+Saya juga boleh katakan 5 x 1/5 = 1
+
+17
+00:01:00,767 --> 00:01:03,627
+ini adalah perkara yang sama.
+
+18
+00:01:03,631 --> 00:01:06,471
+Mungkin ini agak menarik
+
+19
+00:01:06,467 --> 00:01:09,127
+(walaupun bukan pembelajaran yang penting)
+
+20
+00:01:09,128 --> 00:01:12,938
+ia cara lain untuk menulis sesuatu yang anda mungkin dah tahu,
+
+21
+00:01:12,933 --> 00:01:19,463
+jika saya ada satu nombor dan saya darabkan secara songsang
+
+22
+00:01:19,467 --> 00:01:22,537
+(selalunya bila orang bercakap tentang songsang dalam matematik,
+
+23
+00:01:22,533 --> 00:01:24,633
+mereka bercakap tentang pendaraban songsang)
+
+24
+00:01:24,637 --> 00:01:26,467
+dan saya dapat 1
+
+25
+00:01:26,465 --> 00:01:28,575
+jadi 5 darab 1/5 sama dengan 1
+
+26
+00:01:28,579 --> 00:01:34,389
+kerana 5 darab 1/5 adalah sama dengan 5 bahagi 5
+
+27
+00:01:34,389 --> 00:01:35,969
+jika anda darabkan ini
+
+28
+00:01:35,968 --> 00:01:38,478
+anda sebenarnya buat 5 x 1/5
+
+29
+00:01:38,476 --> 00:01:44,656
+sama dengan 5/1 x 1/5
+
+30
+00:01:44,652 --> 00:01:47,402
+darabkan pengangkanya: 5 x 1 = 5
+
+31
+00:01:47,400 --> 00:01:51,130
+darabkan penyebut: 1 x 5 = 5
+
+32
+00:01:51,133 --> 00:01:56,633
+anda dapat 5/5, dan ia sama dengan 1.
+
+33
+00:01:56,634 --> 00:01:58,444
+Jadi jika seseorang tanya anda soalan,
+
+34
+00:01:58,445 --> 00:02:01,785
+"Hey, saya ada 217 dan saya darabkan dengan sesuatu,
+
+35
+00:02:01,789 --> 00:02:07,539
+dan saya nak dapat 1 selepas mendarabkannya dengan sesuatu"
+
+36
+00:02:07,535 --> 00:02:12,475
+Anda kata-- Lihat, jika saya ambil 217 dan bahagi dengan 217 saya akan dapat 1
+
+37
+00:02:12,470 --> 00:02:19,760
+dan bahagi dengan 217 sama dengan darabkan dengan 1/217
+
+38
+00:02:19,761 --> 00:02:22,351
+darabkan secara pendaraban songsang,
+
+39
+00:02:22,348 --> 00:02:25,868
+perkataan yang rumit berbanding konsep sebenar
+
+40
+00:02:25,867 --> 00:02:28,327
+anda hanya darabkan dengan songsang nombor ini.
+
+41
+00:02:28,323 --> 00:02:29,523
+Cara lain untuk fikirkannya ialah,
+
+42
+00:02:29,519 --> 00:02:35,009
+jika saya ada 5 benda dan saya ambil 1/5 daripadanya, berapa yang saya ada?
+
+43
+00:02:35,005 --> 00:02:39,775
+Jika saya ambil 1/5 daripada 5 saya ada 1 disini.
+
+44
+00:02:39,777 --> 00:02:42,377
+Tapi idea sebenarnya adalah sangat mudah,
+
+45
+00:02:42,377 --> 00:02:47,317
+jika saya ada nombor susah-- 8,345
+
+46
+00:02:47,318 --> 00:02:50,458
+itu sebenarnya tak cukup susah, kita tukar kepada juta
+
+47
+00:02:50,458 --> 00:02:52,068
+.. dan 271 ...
+
+48
+00:02:52,086 --> 00:02:52,646
+jadi,
+
+49
+00:02:52,645 --> 00:02:55,505
+8,345,271
+
+50
+00:02:55,502 --> 00:02:57,652
+Apa yang saya perlu darabkan
+
+51
+00:02:57,647 --> 00:02:59,647
+(saya gunakan simbol darab sekarang)
+
+52
+00:02:59,642 --> 00:03:03,462
+apa yang saya perlu darabkan ia untuk mendapatkan 1?
+
+53
+00:03:03,461 --> 00:03:05,971
+Saya hanya perlu darabkan dengan songsang,
+
+54
+00:03:05,969 --> 00:03:08,139
+pendaraban songsang
+
+55
+00:03:08,138 --> 00:03:16,198
+Jadi 1/8,345,271.
+

@@ -1,0 +1,531 @@
+1
+00:00:02,136 --> 00:00:05,466
+Voiceover: Ok so now you see
+how cool a short program can be
+
+2
+00:00:05,470 --> 00:00:09,570
+so hopefully you're really excited to keep
+going with programming and Khan Academy
+
+3
+00:00:09,570 --> 00:00:13,100
+and we want to give you a little
+tour of what you can expect.
+
+4
+00:00:13,856 --> 00:00:16,276
+When we want to teach new concepts
+we use coding talk throughs
+
+5
+00:00:16,272 --> 00:00:19,442
+where we'll write code on
+the left side over here
+
+6
+00:00:19,439 --> 00:00:21,859
+and we'll see the result on
+the right side constantly
+
+7
+00:00:21,856 --> 00:00:23,776
+updating as we change the code.
+
+8
+00:00:23,773 --> 00:00:25,773
+We'll also be talking
+about what we're writing
+
+9
+00:00:25,773 --> 00:00:28,573
+so make sure you have your
+headphones or speakers on.
+
+10
+00:00:29,136 --> 00:00:32,216
+To get started with a
+talkthrough, just click play.
+
+11
+00:00:32,220 --> 00:00:36,190
+And pause if you want to study
+something that we've done.
+
+12
+00:00:36,191 --> 00:00:39,941
+You can even change the code yourself
+then and see the result update.
+
+13
+00:00:39,940 --> 00:00:43,140
+Like maybe, I think that
+Winston is actually an alien
+
+14
+00:00:43,136 --> 00:00:46,686
+from this crazy planet
+with purple faces and
+
+15
+00:00:46,690 --> 00:00:49,970
+I just think that he should
+have really, really big eyes.
+
+16
+00:00:49,969 --> 00:00:52,139
+Whoah! bug eyes!
+
+17
+00:00:52,570 --> 00:00:56,400
+Programming isn't just about going through
+the tutorials that we've given you.
+
+18
+00:00:56,403 --> 00:00:58,853
+Our favorite part about
+programming is the exploration and
+
+19
+00:00:58,856 --> 00:01:01,186
+the creativity of it.
+
+20
+00:01:01,190 --> 00:01:04,770
+That means that when you wake
+up in the middle of the night
+
+21
+00:01:04,772 --> 00:01:06,522
+with an idea for a completely new program,
+
+22
+00:01:06,523 --> 00:01:09,443
+just log on and click new program.
+
+23
+00:01:09,440 --> 00:01:11,470
+Once you've done that,
+you'll get a blank editor and
+
+24
+00:01:11,465 --> 00:01:14,855
+a blank canvas and the world will
+be your programmatic playground.
+
+25
+00:01:14,965 --> 00:01:16,755
+So you might not remember
+how to do things,
+
+26
+00:01:16,750 --> 00:01:18,630
+you can look down at the
+documentation and remember
+
+27
+00:01:18,633 --> 00:01:23,683
+oh yeah, i want the ellipse
+function and then I'm going to
+
+28
+00:01:23,685 --> 00:01:28,185
+use the draw function, OK,
+alright so we go up here and we
+
+29
+00:01:30,294 --> 00:01:34,154
+use some variables there.
+
+30
+00:01:35,568 --> 00:01:37,568
+And then we hope it runs.
+
+31
+00:01:37,568 --> 00:01:39,598
+Oh! But we got a problem, uh-oh.
+
+32
+00:01:39,593 --> 00:01:42,393
+mouseZ is not defined. OK, that's fine.
+
+33
+00:01:42,391 --> 00:01:44,421
+It's actually supposed to be mouseY.
+
+34
+00:01:44,425 --> 00:01:46,485
+And now it works. So here's the point
+
+35
+00:01:46,485 --> 00:01:48,455
+It's totally OK to make mistakes.
+
+36
+00:01:48,459 --> 00:01:50,259
+You should make mistakes.
+
+37
+00:01:50,258 --> 00:01:52,088
+That's what we programmers
+do, all the time.
+
+38
+00:01:52,092 --> 00:01:55,952
+We just break things and make
+mistakes, and then we learn from them.
+
+39
+00:01:56,927 --> 00:01:59,187
+Now once I've made my
+amazing new program and
+
+40
+00:01:59,191 --> 00:02:05,761
+I'm really satisfied with it, I can save
+it, give it a really nice descriptive name
+
+41
+00:02:05,759 --> 00:02:08,859
+like "Circle Drawy ThingyBobby".
+
+42
+00:02:08,860 --> 00:02:14,670
+Maybe, "Mr Circle Drawy Thingerbobby",
+I can save that and then
+
+43
+00:02:15,022 --> 00:02:17,292
+other people can actually find it.
+
+44
+00:02:17,289 --> 00:02:20,219
+But creativity isn't just about
+creating completely new things,
+
+45
+00:02:20,223 --> 00:02:24,733
+it's just as much about building
+on top of existing things and
+taking them in new directions.
+
+46
+00:02:24,737 --> 00:02:27,407
+That's the power of the spin off.
+
+47
+00:02:27,403 --> 00:02:31,653
+So now that I've saved this program,
+I can actually go and modify it.
+
+48
+00:02:31,654 --> 00:02:36,404
+And if I consider my new
+program to be different, I
+can just go "save as spin-off"
+
+49
+00:02:36,404 --> 00:02:43,824
+Alright so this one's like "Mr
+Big Circle Drawer ThingyBobby"
+
+50
+00:02:45,320 --> 00:02:47,400
+But you don't just have to
+spin off your own programs
+
+51
+00:02:47,403 --> 00:02:50,193
+you can spin off anyone's programs.
+
+52
+00:02:50,189 --> 00:02:52,859
+We've made it really easy for you
+to find other people's programs.
+
+53
+00:02:52,856 --> 00:02:56,736
+You can browse the hot, the
+spotlight, the top, the recent.
+
+54
+00:02:56,735 --> 00:03:00,195
+I mean, I spend my Friday nights just
+browsing programs on Khan Academy
+
+55
+00:03:00,190 --> 00:03:04,990
+because I find so many cool things
+that I would have never thought of.
+
+56
+00:03:04,986 --> 00:03:07,236
+So some people make games, right.
+
+57
+00:03:07,236 --> 00:03:09,906
+Like Doodle-Jump. If you've ever
+played that on the mobile phone.
+
+58
+00:03:09,904 --> 00:03:11,484
+It's a really fun game.
+
+59
+00:03:11,486 --> 00:03:18,486
+And somebody made this version on
+here and oh-man, almost got it, ahh!
+
+60
+00:03:18,559 --> 00:03:21,989
+Alright, I'll play that again later.
+
+61
+00:03:22,134 --> 00:03:25,634
+People make simulations, so if you want
+to understand how a pendulum works,
+
+62
+00:03:25,635 --> 00:03:30,785
+like if you're in physics class,
+you can do it in a much more fun
+way by using this simulation here.
+
+63
+00:03:30,800 --> 00:03:33,830
+And then you can go and modify
+things on the side to see
+
+64
+00:03:33,834 --> 00:03:37,164
+how different variables
+affect the pendulum.
+
+65
+00:03:37,168 --> 00:03:40,398
+People make drawings, like of
+their favorite cartoon characters.
+
+66
+00:03:40,400 --> 00:03:42,850
+This is my favorite,
+the TARDIS from Dr. Who.
+
+67
+00:03:42,847 --> 00:03:46,467
+And if you're not watching Dr.
+Who yet, you really should.
+
+68
+00:03:46,467 --> 00:03:50,337
+Because as you can see from all the
+programs and spin-offs on Khan Acadamy
+
+69
+00:03:50,334 --> 00:03:53,354
+it's a really cool show.
+
+70
+00:03:53,349 --> 00:03:56,999
+People make charts or
+even animated charts.
+
+71
+00:03:57,000 --> 00:04:00,430
+Some people make really trippy
+animations like this one.
+
+72
+00:04:00,431 --> 00:04:04,021
+I could just watch this for
+hours and get hypnotized by it.
+
+73
+00:04:04,016 --> 00:04:09,306
+You can see that lots of other
+people liked it too because they made
+all these spin-offs of it, right.
+
+74
+00:04:09,301 --> 00:04:10,711
+Because that's the thing,
+
+75
+00:04:10,706 --> 00:04:13,406
+if you find a program that you like,
+you can just start tinkering with it
+
+76
+00:04:13,403 --> 00:04:17,513
+and seeing "oh well what
+if I change this, and this?
+
+77
+00:04:17,555 --> 00:04:21,565
+"and maybe I change this
+here, how's it change it?"
+
+78
+00:04:22,180 --> 00:04:24,180
+And you may not even
+understand it entirely first,
+
+79
+00:04:24,181 --> 00:04:27,461
+but the more you tinker with it,
+the more you play with the code,
+
+80
+00:04:27,465 --> 00:04:28,515
+you get a better feel for it and
+
+81
+00:04:28,514 --> 00:04:30,904
+maybe you come up with this variation
+that you think is really cool,
+
+82
+00:04:30,900 --> 00:04:33,850
+and then you'll save it
+as a spin-off and say like
+
+83
+00:04:33,846 --> 00:04:38,676
+"Alright this is my really
+cool version of the Hypnozaic"
+
+84
+00:04:38,680 --> 00:04:42,370
+And then you can save it and
+other people can find it.
+
+85
+00:04:42,366 --> 00:04:46,066
+But maybe you want to ask
+a question about it. Right.
+
+86
+00:04:46,065 --> 00:04:48,615
+Maybe you don't understand
+how something works.
+
+87
+00:04:48,617 --> 00:04:50,787
+We'll just go to the questions panel
+
+88
+00:04:50,786 --> 00:04:57,226
+and say like "why did you
+start your variables with i?"
+
+89
+00:04:57,227 --> 00:05:00,867
+"Do you work for Apple?"
+
+90
+00:05:00,867 --> 00:05:02,497
+And you can ask your
+question and hopefully
+
+91
+00:05:02,492 --> 00:05:04,872
+the person who created it will answer it.
+
+92
+00:05:04,868 --> 00:05:09,118
+If you find a question that
+you know the answer to,
+
+93
+00:05:09,117 --> 00:05:13,997
+then answer them, and say
+like "hey, yeah you can,
+
+94
+00:05:13,992 --> 00:05:16,282
+"here's where I did it"
+
+95
+00:05:16,285 --> 00:05:19,425
+And a lot of times you can answer with
+actually a link to another scratchpad
+
+96
+00:05:19,424 --> 00:05:21,724
+where you actually
+answered their questions.
+
+97
+00:05:21,727 --> 00:05:23,787
+Now if you just want to
+say how awesome it is
+
+98
+00:05:23,785 --> 00:05:28,395
+or give a tip, you can goto
+the tips and feedback panel.
+
+99
+00:05:28,391 --> 00:05:35,331
+And say like "Wow, this is the
+coolest thing I've seen today"
+
+100
+00:05:35,326 --> 00:05:39,826
+And then the creator will feel really good
+because they got this compliment from you.
+
+101
+00:05:39,823 --> 00:05:42,113
+And that's one of the awesome
+things about programming
+
+102
+00:05:42,117 --> 00:05:44,597
+is that you can put out
+these things in the world and
+
+103
+00:05:44,593 --> 00:05:47,993
+you never know who's going to find them
+and who's day you're going to make better
+
+104
+00:05:47,993 --> 00:05:51,763
+because they found this really cool,
+creative thing that you came up with.
+
+105
+00:05:51,758 --> 00:05:56,198
+So we want this to be a community
+of people learning from each other,
+
+106
+00:05:56,201 --> 00:05:57,871
+and sharing their
+creations with each other.
+
+107
+00:05:57,869 --> 00:06:01,659
+Because that's a big part of
+what we love about programming.
+
+108
+00:06:01,659 --> 00:06:03,619
+It will definitely be hard at first.
+
+109
+00:06:03,618 --> 00:06:05,688
+And you're first programs
+will start out small.
+
+110
+00:06:05,691 --> 00:06:08,491
+But as you keep going, you'll
+be able to do more and more
+
+111
+00:06:08,493 --> 00:06:12,493
+until one day you realize that, wow, you
+can do almost anything in programming.
+

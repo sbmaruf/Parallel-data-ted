@@ -1,0 +1,51 @@
+1
+00:00:00,000 --> 00:00:04,000
+Dam adalah satu permainan yang menarik.
+
+2
+00:00:04,000 --> 00:00:08,000
+Berikut adalah papan dam.
+
+3
+00:00:08,000 --> 00:00:11,000
+Buah-buah anda mungkin macam ini,
+
+4
+00:00:11,000 --> 00:00:16,000
+dan buah-buah pihak lawan anda mungkin macam ini.
+
+5
+00:00:16,000 --> 00:00:19,000
+Dan selain daripada beberapa peraturan yang kompleks dalam permainan dam,
+
+6
+00:00:19,000 --> 00:00:23,000
+yang saya akan meninggalkan, papan dam ini jelas memberitahu anda
+
+7
+00:00:23,000 --> 00:00:28,000
+seluruhnya yang perlu anda tahu mengenai permainan dam, jadi ia boleh diperhatikan sepenuhnya.
+
+8
+00:00:28,000 --> 00:00:33,000
+Ia adalah berketentuan kerana gerakan anda dan gerakan lawan anda
+
+9
+00:00:33,000 --> 00:00:36,000
+jelas mengubahkan keadaan papan dam dalam cara yang mengandungi
+
+10
+00:00:36,000 --> 00:00:39,000
+tiada sifat stokastik langsung.
+
+11
+00:00:39,000 --> 00:00:45,000
+Ia juga diskret kerana terdapat pilihan gerakan adalah terhad
+
+12
+00:00:45,000 --> 00:00:47,000
+dan posisi papan dam juga terhad.
+
+13
+00:00:47,000 --> 99:59:59,999
+dan ia jelas adalah pertentangan, kerana lawan anda berniat mengalahkan kamu.

@@ -1,0 +1,664 @@
+1
+00:00:00,970 --> 00:00:03,870
+Baiklah, kini anda belajar apa yang saya anggap sebagai salah satu daripada
+
+2
+00:00:03,910 --> 00:00:07,680
+konsep terpenting dalam kehidupan seharian, sesuatu yang anda mungkin sudah pun
+
+3
+00:00:07,710 --> 00:00:11,920
+biasa dengannya, tetapi jika anda belum memahaminya, pengenalan ini saya harap
+
+4
+00:00:11,940 --> 00:00:16,230
+dapat melindungi anda daripada terpaksa menjadi muflis.
+
+5
+00:00:16,250 --> 00:00:18,460
+Baiklah, saya akan bercakap tentang faedah, dan kemudian tentang faedah mudah
+
+6
+00:00:18,485 --> 00:00:20,755
+berbanding dengan faedah terkompaun.
+
+7
+00:00:20,755 --> 00:00:23,775
+Jadi kita mulakan, apakah yang dimaksudkan dengan faedah?
+
+8
+00:00:23,770 --> 00:00:24,840
+Kita semua pernah mendengarnya.
+
+9
+00:00:24,840 --> 00:00:29,030
+Kadar faedah, atau faedah ke atas cagaran pinjaman anda, atau jumlah
+
+10
+00:00:29,030 --> 00:00:31,440
+faedah yang dianggap sebagai hutang saya ke atas kad kredit saya.
+
+11
+00:00:31,440 --> 00:00:34,140
+Faedah - saya tidak pasti apa definisi sebenar atau definisi rasmi bagi istilah ini,
+
+12
+00:00:34,140 --> 00:00:35,610
+mungkin saya perlu mencarinya di Wikipedia - namun, bagi saya, faedah ialah
+
+13
+00:00:35,610 --> 00:00:37,850
+sewa ke atas wang.
+
+14
+00:00:37,850 --> 00:00:41,350
+Jadi, faedah ialah sewa yang anda bayar bagi membolehkan anda menyimpan wang
+
+15
+00:00:41,350 --> 00:00:42,520
+untuk tempoh masa tertentu.
+
+16
+00:00:42,520 --> 00:00:45,420
+Mungkin definisi ini mungkin bukan definisi terbaik, tetapi
+
+17
+00:00:45,420 --> 00:00:46,920
+izinkan saya menjelaskan kepada anda.
+
+18
+00:00:46,920 --> 00:00:52,640
+Katakanlah saya mahu meminjam sebanyak $100 daripada anda.
+
+19
+00:00:52,640 --> 00:00:54,760
+Jadi, pinjaman ini dibuat sekarang.
+
+20
+00:00:54,760 --> 00:00:59,120
+Dan katakanlah setahun dari sekarang.
+
+21
+00:00:59,120 --> 00:01:00,080
+Satu tahun.
+
+22
+00:01:00,080 --> 00:01:04,830
+Ini anda, dan ini saya.
+
+23
+00:01:04,830 --> 00:01:07,580
+Anda meminjamkan kepada saya sebanyak $100.
+
+24
+00:01:07,580 --> 00:01:09,920
+Saya meminjam duit $100 itu dan kemudian tempoh setahun berlalu,
+
+25
+00:01:09,915 --> 00:01:12,575
+Ini $100 yang saya pinjam tadi.
+
+26
+00:01:12,570 --> 00:01:15,980
+Jika saya memulangkan $100 itu semula kepada anda, anda
+
+27
+00:01:15,980 --> 00:01:17,510
+akan mendapat wang tersebut tanpa sebarang sewa ke atasnya.
+
+28
+00:01:17,510 --> 00:01:19,470
+Anda hanya memperoleh wang anda semata-mata.
+
+29
+00:01:19,470 --> 00:01:20,880
+Ertinya, anda tidak mengutip sebarang faedah.
+
+30
+00:01:20,880 --> 00:01:24,470
+Tetapi sekiranya anda berkata, Sal, saya sanggup meminjamkan kepada anda $100 sekarang jika
+
+31
+00:01:24,470 --> 00:01:30,860
+anda membayar semula kepada saya sebanyak $110 setahun dari sekarang.
+
+32
+00:01:30,860 --> 00:01:34,620
+Jadi dalam situasi ini, berapakah jumlah yang saya bayar kepada anda bagi membolehkan saya menyimpan
+
+33
+00:01:34,620 --> 00:01:36,620
+wang $100 itu untuk tempoh setahun?
+
+34
+00:01:36,620 --> 00:01:38,200
+Baiklah, saya sedang membayar anda tambahan sebanyak $10 sekarang, betul?
+
+35
+00:01:38,200 --> 00:01:45,610
+Saya membayar semula kepada anda $100, dan saya juga membayar kepada anda tambahan $10.
+
+36
+00:01:45,610 --> 00:01:51,510
+Maka, tambahan $10 yang saya bayar kepada anda ini sebenarnya ialah
+
+37
+00:01:51,510 --> 00:01:54,570
+sewa atau yuran yang saya bayar bagi membolehkan saya menyimpan wang tersebut dan
+
+38
+00:01:54,570 --> 00:01:56,790
+membolehkan saya berbuat apa sahaja dengan wang tersebut, malah mungkin saya menyimpan
+
+39
+00:01:56,790 --> 00:01:59,630
+wang itu, mungkin melabur dengannya, apa sahaja, untuk jangka masa setahun tadi.
+
+40
+00:01:59,630 --> 00:02:02,200
+Dan $10 itu ialah faedah ke atas wang yang saya pinjam tadi.
+
+41
+00:02:02,200 --> 00:02:05,530
+Kaedah yang kerap digunakan bagi mengira faedah adalah dengan peratusan
+
+42
+00:02:05,530 --> 00:02:07,850
+ke atas jumlah asal yang saya pinjam.
+
+43
+00:02:07,850 --> 00:02:11,140
+Jumlah asal yang saya pinjam di sebuah bank atau
+
+44
+00:02:11,140 --> 00:02:13,760
+istilah kewangan yang digunakan ialah jumlah pokok.
+
+45
+00:02:13,762 --> 00:02:19,122
+Jadi dalam hal ini sewa ke atas wang tadi atau faedah yang dikenakan ialah $10.
+
+46
+00:02:19,120 --> 00:02:27,920
+Dan jika saya mahu mengira dalam bentuk peratusan, maka ia menjadi 10 ditambahkan kepada
+
+47
+00:02:27,920 --> 00:02:34,240
+jumlah pokok - iaitu 100 - bersamaan dengan 10%.
+
+48
+00:02:34,240 --> 00:02:39,480
+Jadi anda mungkin berkata, hai Sal, saya sanggup meminjamkan kepada anda $100 jika
+
+49
+00:02:39,480 --> 00:02:41,420
+anda bayar saya faedah sebanyak 10% ke atas wang pokok.
+
+50
+00:02:41,420 --> 00:02:44,770
+Sekiranya 10% ke atas $100 ialah $10, jadi sesudah setahun, saya akan bayar kepada anda
+
+51
+00:02:44,770 --> 00:02:46,810
+$100, ditambah dengan 10%.
+
+52
+00:02:46,810 --> 00:02:47,560
+Sama juga.
+
+53
+00:02:47,560 --> 00:02:51,220
+Maka untuk sebarang jumlah wang pun, katalah anda sudi meminjamkan saya
+
+54
+00:02:51,220 --> 00:02:53,540
+sebarang jumlah wang pun, dengan faedah sebanyak 10%.
+
+55
+00:02:53,540 --> 00:02:58,680
+Jadi, kalau anda meminjamkan saya $1,000, maka faedah
+
+56
+00:02:58,680 --> 00:03:00,950
+sebanyak 10% akan memberikan $100.
+
+57
+00:03:00,950 --> 00:03:11,020
+Ertinya, selepas setahun saya akan berhutang sebanyak $1,000 ditambah dengan 10% didarabkan dengan
+
+58
+00:03:11,020 --> 00:03:14,560
+$1,000 bersamaan dengan $1,100
+
+59
+00:03:14,555 --> 00:03:17,785
+Saya hanya perlu menambah sifar kepada semua angka ini.
+
+60
+00:03:17,780 --> 00:03:20,090
+Dalam hal ini, $100 ialah faedahnya, tetapi
+
+61
+00:03:20,090 --> 00:03:22,130
+faedah tetap 10%.
+
+62
+00:03:22,130 --> 00:03:25,050
+Jadi, saya akan menunjukkan perbezaan antara faedah mudah
+
+63
+00:03:25,050 --> 00:03:27,020
+dan faedah terkompaun.
+
+64
+00:03:27,022 --> 00:03:33,162
+Kita baru sahaja membuat contoh mudah yakni anda meminjamkan saya wang
+
+65
+00:03:33,160 --> 00:03:36,470
+selama setahun pada kadar 10%, betul?
+
+66
+00:03:36,470 --> 00:03:42,350
+Jadi sekiranya seseorang mengatakan bahawa kadar faedah saya
+
+67
+00:03:42,350 --> 00:03:43,860
+iaitu kadar faedah yang dikenakan kepada saya - atau kadar faedah yang mereka kenakan kepada
+
+68
+00:03:43,890 --> 00:03:50,800
+orang lain - ialah - 10% ialah satu angka yang bagus - 10% setiap tahun.
+
+69
+00:03:50,800 --> 00:03:56,540
+Dan katalah jumlah pokok yang saya pinjam ialah
+
+70
+00:03:56,540 --> 00:04:00,880
+$100 daripada orang ini.
+
+71
+00:04:00,880 --> 00:04:04,220
+Soalah saya kepada anda - dan mungkin anda mahu berhenti sejenak
+
+72
+00:04:04,220 --> 00:04:18,120
+setelah saya mengajukan kepada anda soalan tadi - berapakah jumlah yang saya hutang selepas 10 tahun?
+
+73
+00:04:18,120 --> 00:04:21,610
+Berapa hutang saya dalam tempoh 10 tahun?
+
+74
+00:04:21,610 --> 00:04:23,680
+Ada dua cara untuk memikirkan soalan ini.
+
+75
+00:04:23,680 --> 00:04:29,970
+Anda boleh berkata, OK, jika didarabkan dengan sifar - yakni jika saya baru
+
+76
+00:04:29,970 --> 00:04:32,700
+pinjam wang itu, dan saya membayarnya serta- merta,
+
+77
+00:04:32,700 --> 00:04:34,200
+jumlah yang saya pinjam hanya $100, bukan?
+
+78
+00:04:34,200 --> 00:04:35,920
+Saya tidak akan berbuat begitu, maka saya akan terus
+
+79
+00:04:35,920 --> 00:04:37,220
+meminjamnya sekurang-kurangnya untuk tempoh setahun.
+
+80
+00:04:37,220 --> 00:04:40,100
+Jadi selepas setahun, berdasarkan contoh yang baru kita buat tadi, saya
+
+81
+00:04:40,100 --> 00:04:48,240
+akan menambah 10% kepada jumlah $100 tersebut, dan saya akan
+
+82
+00:04:48,240 --> 00:04:51,190
+berhutang sebanyak $110.
+
+83
+00:04:51,190 --> 00:04:55,620
+Selepas dua tahun, saya boleh tambahkan 10% kepada
+
+84
+00:04:55,615 --> 00:04:57,945
+jumlah pokok itu, betul?
+
+85
+00:04:57,940 --> 00:04:59,970
+Ertinya, setiap tahun, saya hanya menambah $10.
+
+86
+00:04:59,970 --> 00:05:03,820
+Jadi dalam hal ini, jumlah tersebut menjadi $120, dan pada tahun ketiga,
+
+87
+00:05:03,820 --> 00:05:05,710
+saya sudah berhutang sebanyak $130.
+
+88
+00:05:05,710 --> 00:05:10,150
+Pada dasarnya, sewa yang perlu saya bayar untuk meminjam $100 ini ialah $10, betul?
+
+89
+00:05:10,150 --> 00:05:13,830
+Hal ini demikian kerana faedah yang saya bayar ialah 10% daripada jumlah asal.
+
+90
+00:05:13,830 --> 00:05:17,310
+Selepas 10 tahun - disebabkan saya terpaksa membayar setiap tahun
+
+91
+00:05:17,310 --> 00:05:20,310
+tambahan sebanyak $10 sebagai faedah - selepas 10 tahun, saya
+
+92
+00:05:20,310 --> 00:05:22,600
+sudah berhutang sebanyak $200.
+
+93
+00:05:22,600 --> 00:05:23,700
+Betul tak?
+
+94
+00:05:23,700 --> 00:05:33,530
+Dan $200 ini bersamaan dengan jumlah pokok sebanyak $100, ditambah dengan $100
+
+95
+00:05:33,530 --> 00:05:36,590
+faedah, sebab saya membayar sebanyak $10 dalam bentuk faedah setahun.
+
+96
+00:05:36,590 --> 00:05:39,780
+Pengiraan faedah yang saya baru lakukan ini, inilah yang dikatakan sebagai
+
+97
+00:05:39,780 --> 00:05:43,250
+faedah mudah atau bunga biasa.
+
+98
+00:05:43,250 --> 00:05:45,560
+Pada dasarnya, anda hanya mengambil jumlah asal yang anda
+
+99
+00:05:45,560 --> 00:05:48,500
+pinjam, dan kadar faedah, iaitu jumlah atau yuran yang anda
+
+100
+00:05:48,500 --> 00:05:51,260
+bayar setiap tahun, ialah kadar faedah didarabkan dengan jumlah asal
+
+101
+00:05:51,260 --> 00:05:53,220
+dan anda perlu membayar jumlah yang semakin banyak
+
+102
+00:05:53,220 --> 00:05:54,500
+setiap tahun.
+
+103
+00:05:54,500 --> 00:05:55,930
+Tetapi jika anda renung semula, anda sebenarnya membayar
+
+104
+00:05:55,930 --> 00:05:58,700
+peratusan yang semakin mengecil terhadap jumlah yang anda pinjam,
+
+105
+00:05:58,700 --> 00:05:59,850
+apabila anda memasuki tempoh tersebut.
+
+106
+00:05:59,850 --> 00:06:01,170
+Mungkin setelah saya tunjukkan kepada anda faedah terkompaun
+
+107
+00:06:01,170 --> 00:06:02,040
+barulah anda faham semua ini.
+
+108
+00:06:02,040 --> 00:06:05,920
+Jadi, kaedah tadi merupakan satu kaedah untuk mentafsir maksud faedah 10% setahun.
+
+109
+00:06:05,920 --> 00:06:10,100
+Satu cara lain untuk mentafsirkannya ialah, OK, pada tahun sifar, jumlah ialah $100
+
+110
+00:06:10,100 --> 00:06:13,770
+iaitu jumlah yang anda pinjam, atau jika mereka serahkan wang itu kepada anda, anda kata
+
+111
+00:06:13,770 --> 00:06:15,750
+oh tidak, tidak, saya tak mahu wang ini, dan anda terus membayar semula wang itu,
+
+112
+00:06:15,750 --> 00:06:16,810
+anda hanya berhutang sebanyak $100.
+
+113
+00:06:16,810 --> 00:06:21,160
+Setelah setahun, anda cuma membayar
+
+114
+00:06:21,160 --> 00:06:27,380
+$100 ditambahkan dengan 10% ke atas $100, maka ia menjadi $110, betul.
+
+115
+00:06:27,390 --> 00:06:32,800
+Jadi $100 ditambah dengan 10% ke atas $100.
+
+116
+00:06:32,800 --> 00:06:35,380
+Biar saya tukarkan warna, sebab terlalu serupa
+
+117
+00:06:35,380 --> 00:06:36,800
+Baiklah, saya pasti anda sudah mula memahami.
+
+118
+00:06:36,800 --> 00:06:39,430
+Dan di sinilah berlakunya perbezaan antara faedah mudah dan faedah terkompaun
+
+119
+00:06:39,430 --> 00:06:40,280
+dan perbezaan ini sudah dapat dilihat.
+
+120
+00:06:40,280 --> 00:06:42,760
+Dalam kes tadi, kita hanya perlu menambah 10%
+
+121
+00:06:42,760 --> 00:06:44,740
+kepada jumlah asal sebanyak $100.
+
+122
+00:06:44,740 --> 00:06:47,580
+Namun dalam faedah terkompaun, kita tidak mengira 10% daripada
+
+123
+00:06:47,580 --> 00:06:50,440
+jumlah asal tersebut.
+
+124
+00:06:50,440 --> 00:06:55,790
+Kita sekarang mengira 10% daripada jumlah asal.
+
+125
+00:06:55,786 --> 00:07:02,056
+Baik, sekarang kita memperoleh $110.
+
+126
+00:07:02,060 --> 00:07:05,830
+Anda kini boleh menganggap jumlah ini sebagai jumlah pokok yang baharu.
+
+127
+00:07:05,830 --> 00:07:06,280
+Inilah faedah yang ditawarkan setahun, dan kemudiannya kita
+
+128
+00:07:06,280 --> 00:07:09,630
+akan meminjam semula daripada jumlah pokok baharu ini.
+
+129
+00:07:09,630 --> 00:07:19,470
+Jadi kita berhutang sebanyak $110 ditambah dengan 10% didarabkan dengan 110
+
+130
+00:07:19,470 --> 00:07:23,410
+Anda boleh sahaja keluarkan 110 ini, dan
+
+131
+00:07:23,410 --> 00:07:32,720
+ini bersamaan dengan 110 didarabkan dengan 110.
+
+132
+00:07:32,720 --> 00:07:39,560
+Iaitu 100 darab 1.1
+
+133
+00:07:39,560 --> 00:07:41,620
+Sebenarnya, saya boleh menulis persamaan ini semula dengan cara ini
+
+134
+00:07:41,620 --> 00:07:45,590
+Saya boleh menulisnya semula sebagai 100 darab 1.1 dikuasakan
+
+135
+00:07:45,590 --> 00:07:49,680
+dan ini bersamaan dengan $121.
+
+136
+00:07:49,680 --> 00:07:52,820
+Dan pada tahun kedua, ini ialah jumlah pokok yang baharu bagi saya - ini ialah
+
+137
+00:07:52,820 --> 00:07:55,280
+$121 - jumlah pokok yang baharu bagi saya.
+
+138
+00:07:55,280 --> 00:07:57,810
+Dan sekarang untuk tahun ketiga - ini adalah untuk tahun kedua.
+
+139
+00:07:57,810 --> 00:08:01,750
+Saya sedang menggunakan ruang lebih banyak, baiklah - jumlah ini adalah jumlah pada tahun kedua
+
+140
+00:08:01,750 --> 00:08:06,480
+Sekarang pada tahun ketiga, saya terpaksa membayar $121
+
+141
+00:08:06,480 --> 00:08:14,610
+iaitu jumlah yang saya hutang pada akhir tahun kedua, ditambah pula dengan 10% darab jumlah baharu ini
+
+142
+00:08:14,610 --> 00:08:20,480
+iaitu jumlah yang dianggap hutang saya tatkala masuk ke tahun ketiga, $121
+
+143
+00:08:20,480 --> 00:08:22,800
+Jadi ia akan berulang dan sama sahaja - kita boleh letak parentesis
+
+144
+00:08:22,800 --> 00:08:29,820
+di sini - jadi ini bersamaan dengan 1 darab 121, ditambah sebanyak 0.1 darab
+
+145
+00:08:29,820 --> 00:08:35,680
+121, bersamaan dengan 1.1 darab 121
+
+146
+00:08:35,680 --> 00:08:38,820
+Atau cara lain melihatnya ialah, jumlah ini bersamaan dengan jumlah asal
+
+147
+00:08:38,820 --> 00:08:44,300
+iaitu jumlah pokok, darab 1.1 dikuasa tiga
+
+148
+00:08:44,302 --> 00:08:46,142
+dan jika anda teruskan pengiraan ini, dan saya menggalakkan anda mengira sebegini,
+
+149
+00:08:46,140 --> 00:08:48,500
+agar anda dapat memahami lebih lanjut - akhir sekali
+
+150
+00:08:48,500 --> 00:08:52,200
+iaitu setelah 10 tahun, kita berhutang - yakni anda berhutang, maaf saya lupa siapa yang berhutang
+
+151
+00:08:52,200 --> 00:08:57,760
+$100 darab 1.1 dikuasa sepuluh
+
+152
+00:08:57,760 --> 00:08:59,250
+Akan bersamaan dengan?
+
+153
+00:08:59,250 --> 00:09:01,510
+Ayuh saya ambil lembaran kerja saya
+
+154
+00:09:01,510 --> 00:09:04,210
+Saya akan mengambil satu ruang secara rambang
+
+155
+00:09:04,210 --> 00:09:10,800
+Jadi, ditambah dengan 100 darab 1.1 dikuasakan kepada 10
+
+156
+00:09:10,800 --> 00:09:19,780
+Jadi $259 dan sedikit wang syiling
+
+157
+00:09:19,782 --> 00:09:22,732
+Jadi mungkin zahirnya kelihatan sebagai suatu perbezaan yang tidak jelas. tapi
+
+158
+00:09:22,730 --> 00:09:24,370
+jumlah akhir memberikan perbezaan yang begitu ketara
+
+159
+00:09:24,370 --> 00:09:28,940
+Bila saya kompaunkan 10% untuk 10 tahun menggunakan kaedah kompaun
+
+160
+00:09:28,940 --> 00:09:33,330
+iaitu faedah kompaun, saya berhutang sebanyak $259.
+
+161
+00:09:33,330 --> 00:09:37,140
+Tetapi bila saya gunakan kaedah faedah biasa, saya hanya berhutang sebanyak $200
+
+162
+00:09:37,140 --> 00:09:40,700
+Jadi tambahan sebanyak $59 itu ialah penokokan
+
+163
+00:09:40,700 --> 00:09:43,510
+yang menunjukkan betapa banyak hutang saya jika saya dikenakan faedah terkompaun
+
+164
+00:09:43,510 --> 00:09:45,510
+Saya hampir kehabisan masa, jadi saya akan
+
+165
+00:09:45,510 --> 00:09:48,160
+menunjukkan beberapa contoh lain dalam video akan datang, tetapi bagi membolehkan anda
+
+166
+00:09:48,158 --> 00:09:55,998
+meraih pemahaman yang baik terhadap maksud faedah terkompaun, bagaimana eksponen berfungsi, dan perbezaan sebenar antaranya. Jumpa lagi.
+

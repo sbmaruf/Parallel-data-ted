@@ -1,0 +1,195 @@
+1
+00:00:01,333 --> 00:00:06,467
+Satu resipi biskut gandum memerlukan 2 cawan tepung
+
+2
+00:00:06,467 --> 00:00:09,800
+untuk setiap 3 cawan gandum. Berapakah banyak tepung yang diperlukan
+
+3
+00:00:09,800 --> 00:00:15,467
+untuk membuat satu kelompok biskut yang menggunakan 9 cawan gandum?
+
+4
+00:00:15,467 --> 00:00:31,800
+Jadi 2 cawan tepung diperlukan untuk setiap 3 cawan gandum.
+
+5
+00:00:31,800 --> 00:00:45,000
+Sekarang kita berada dalam situasi di mana kita menggunakan
+
+6
+00:00:45,000 --> 00:00:58,400
+9 cawan gandum. Saya akan memberitahu anda beberapa
+
+7
+00:00:58,400 --> 00:01:04,133
+cara yang berlainan untuk menyelesaikan ini. Satu cara untuk memikirkan
+
+8
+00:01:04,133 --> 00:01:08,933
+ini adalah kita mengetahui bahawa jika kita menggunakan 3 cawan gandum,
+
+9
+00:01:08,933 --> 00:01:11,267
+kita memerlukan 2 cawan tepung. Kita tidak mengetahui
+
+10
+00:01:11,267 --> 00:01:13,067
+berapa banyak yang diperlukan jika kita menggunakan 9 cawan gandum.
+
+11
+00:01:13,067 --> 00:01:19,733
+Jika kita beralih dari 3 cawan ke 9 cawan gandum
+
+12
+00:01:19,733 --> 00:01:22,733
+berapa banyak lagi gandum yang kita gunakan?
+
+13
+00:01:22,733 --> 00:01:32,000
+Kita menggunakan 3 kali lagi banyak, 3 x 3 = 9.
+
+14
+00:01:32,000 --> 00:01:34,667
+Jika kita mahu menggunakan tepung dengan perkadaran yang sama
+
+15
+00:01:34,667 --> 00:01:38,467
+kita perlu menggunakan, 3 darab tepung itu.
+
+16
+00:01:38,467 --> 00:01:53,267
+Kita memerlukan tepung darab 3; 2x3 = 6 cawan tepung.
+
+17
+00:01:53,267 --> 00:02:00,533
+Satu lagi cara untuk memikirkannya
+
+18
+00:02:00,533 --> 00:02:16,067
+Anda boleh mengatakan 2 cawan tepung per 3 cawan gandum
+
+19
+00:02:16,067 --> 00:02:36,400
+adalah sama dengan ? cawan tepung per
+
+20
+00:02:36,400 --> 00:02:45,267
+9 cawan gandum. Saya suka cara pertama untuk melakukannya.
+
+21
+00:02:45,267 --> 00:02:54,333
+Itu senang difahami. Jika anda darabkan gandum itu sebanyak tiga kali, anda mendapat tiga kali tepung itu.
+
+22
+00:02:54,333 --> 00:02:56,000
+Setelah anda mendapat persamaan seperti ini, anda
+
+23
+00:02:56,000 --> 00:03:05,600
+perlu menggunakan sedikit algebra.
+
+24
+00:03:05,600 --> 00:03:09,000
+Dalam pendaraban secara menyilang, apabila anda mendapat perkadaran
+
+25
+00:03:09,000 --> 00:03:43,400
+seperti ini, 2 x 9 = ? x 3 ataupun kita mendapat 18 = ? x 3
+
+26
+00:03:43,400 --> 00:03:46,200
+Jadi kuantiti cawan tepung yang kita perlu guna
+
+27
+00:03:46,200 --> 00:03:52,333
+darab 3 perlu menjadi 18. Anda membahagi kedua-dua
+
+28
+00:03:52,333 --> 00:03:55,667
+belah dengan 3 untuk mendapat jawapan yang adalah 6.
+
+29
+00:03:55,667 --> 00:04:03,267
+Jadi kita mendapat ? = 6 cawan tepung.
+
+30
+00:04:03,267 --> 00:04:07,200
+Anda mungkin memikirkan pendaraban secara menyilang tidak
+
+31
+00:04:07,200 --> 00:04:10,733
+masuk akal. Jika anda telah mendapat perkadaran seperti ini,
+
+32
+00:04:10,733 --> 00:04:20,133
+mengapakah pendaraban secara menyilang akan berkesan? Itu datangnya dari algebra.
+
+33
+00:04:20,133 --> 00:04:25,733
+Saya akan menulis semula bahagian ini sebagai x untuk memudahkannya.
+
+34
+00:04:25,733 --> 00:04:32,667
+Kita mempunyai 2/3 = x/9.
+
+35
+00:04:32,667 --> 00:04:36,067
+Dalam algebra, kita mengatakan kuantiti ini di sini
+
+36
+00:04:36,067 --> 00:04:38,467
+adalah sama dengan kuantiti ini di sana.
+
+37
+00:04:38,467 --> 00:04:44,133
+Jika anda melakukan apa-apa pada bahagian kiri, kita perlu melakukan
+
+38
+00:04:44,133 --> 00:04:50,533
+perkara yang sama pada bahagian kanan untuk memastikan yang ia adalah sama.
+
+39
+00:04:50,533 --> 00:04:53,133
+Jadi apa yang kita boleh mendarab dengan ini, supaya
+
+40
+00:04:53,133 --> 00:04:56,800
+kita hanya ditinggalkan dengan "x".
+
+41
+00:04:56,800 --> 00:05:01,733
+Jadi kita mendarab ini dengan 9. Jika anda mendarab bahagian kanan
+
+42
+00:05:01,733 --> 00:05:12,733
+dengan 9, anda perlu mendarab bahagian kiri dengan 9
+
+43
+00:05:12,733 --> 00:05:15,000
+supaya kedua-dua bahagian adalah sama.
+
+44
+00:05:15,000 --> 00:05:16,467
+Pada bahagian kanan, 9 itu akan terbatal, anda
+
+45
+00:05:16,467 --> 00:05:27,467
+ditinggalkan dengan x. Pada bahagian kiri, 9*2/3 = 18/3 = 6.
+
+46
+00:05:27,467 --> 00:05:36,333
+Jadi semua ini adalah cara yang sah untuk melakukan ini.
+
+47
+00:05:36,333 --> 00:05:38,400
+Untuk masalah yang senang seperti ini
+
+48
+00:05:38,400 --> 00:05:41,133
+anda boleh menggunakan akal sendiri. Jika anda menambahkan kuantiti
+
+49
+00:05:41,133 --> 99:59:59,999
+gandum sebanyak 3 kali, tepung juga perlu ditambahkan kuantitinya dengan faktor 3.
