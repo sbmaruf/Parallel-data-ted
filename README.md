@@ -1,5 +1,6 @@
 # Parallel data extractor from ted corpa
 --
+
 This is a script written in **python** to extract parallel sentences from ted corpa.
 
 Here are the *parameters* of the *.py files. A default value is set to the script for easier use. 
@@ -34,6 +35,7 @@ optional arguments:
 
 ## I/O
 --
+
 The sentences are in multiple files. Each of the parallel files contains a name format like below,
 
 ```
@@ -59,6 +61,7 @@ Before each of the sentence, there is a line containing `#-----<s>-----#`. This 
 
 ## Data file structure
 --
+
 The script is written assuming the format of the input file in the corpa are like below,
 ```
 #line number
@@ -81,9 +84,10 @@ If there is any other change in the format of the input files then this parser m
 
 ## Problem
 --
+
 * Sometimes the parallel data files (like `Lang1.hash.ext` and `Lang2.hash.ext`) does not contain the same number of lines. In this case, we match the timestamp to extract the data. The script will give you a warning for this kind of scenario. One copy of this type of files will be copied to `--war_dir`.
 * Sometimes the parallel data files (like `Lang1.hash.ext` and `Lang2.hash.ext`) does not contain the same number of lines and one/both data file may contain all the time stamp same. These are called `critical` files and will be copied to `--drop_dir` folder.
 
-*** Till now we don't have any way to extract data from `critical` data files. ***
+***Till now we don't have any way to extract data from `critical` data files.***
 
 If the number of lines for a parallel data file(like `Lang1.hash.ext` and `Lang2.hash.ext`) are same then one copy of this parallel data file will be copied to `--per_dir`.
