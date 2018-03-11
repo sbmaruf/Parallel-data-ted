@@ -1,4 +1,4 @@
-# parallel_data_ted
+# Parallel data extractor from ted corpa
 --
 This is a script written in **python** to extract parallel sentences from ted corpa.
 

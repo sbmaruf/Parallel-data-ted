@@ -15,16 +15,16 @@ Ted parallel data extraction.
 
 optional arguments:
   -h, --help           show this help message and exit
-  --debug DEBUG        Additional print operation for debug.
+  --debug DEBUG        Additional print operation for debugging.
   --drop_dir DROP_DIR  The dataset with ambiguous data will be transferred to
                        this directory.
   --per_dir PER_DIR    The dataset with perfect data will be transferred to
                        this directory.
   --war_dir WAR_DIR    The dataset with warning based data will be transferred
                        to this directory.
-  --lang1 LANG1        Each of the srt file's name starts with this Language
+  --lang1 LANG1        Each of the input file's name starts with this Language
                        name.
-  --lang2 LANG2        Each of the srt file's name starts with this Language
+  --lang2 LANG2        Each of the input file's name starts with this Language
                        name.
   --dir DIR            Directory of the dataset
   --out_dir OUT_DIR    NMT parallel sentences files
@@ -34,7 +34,7 @@ optional arguments:
 
 ## I/O
 --
-The sentences are in multiple files. Each of the file contains a name format like below,
+The sentences are in multiple files. Each of the parallel files contains a name format like below,
 
 ```
 Lang1.hash.ext
@@ -51,7 +51,11 @@ For a pair of language, `Lang1` and `Lang2` will be always same. The name of the
 The file where all the output parallel sentences are written is `--out_dir`+`--out_file`.
 
 the structure of the output file is
-
+```
+#-----<s>-----#
+sentence 1
+```
+Before each of the sentence, there is a line containing `#-----<s>-----#`. This is added for further helping further processing. 
 
 ## Data file structure
 --
@@ -69,16 +73,17 @@ The script is written assuming the format of the input file in the corpa are lik
 #line
 #space
 ```
-* So there could be multiple new lines `\n` between sentences but each sentence will be starting by a line number. 
-* Each sentence can also contained in multiple lines. 
+* So there could be multiple new lines `\n` between sentences but each sentence will be starting with a line number. 
+* Each sentence can also contain in multiple lines. 
 * Each sentence will strictly start just after time stamp.
 
 If there is any other change in the format of the input files then this parser may not work.
 
 ## Problem
 --
-* Sometimes the parallel data files (like `Lang1.hash.ext` and `Lang2.hash.ext`) does not contain same number of lines. In this case we match the timestamp to extract the data. The script will give you a warning for this kind of scenario. One copy of this type of files will be copied to `--war_dir`.
-* Sometimes the parallel data files (like `Lang1.hash.ext` and `Lang2.hash.ext`) does not contain same number of lines and one/both data file may contain all the time stamp same. This are called critical files and will be copied to `--drop_dir` foder.
+* Sometimes the parallel data files (like `Lang1.hash.ext` and `Lang2.hash.ext`) does not contain the same number of lines. In this case, we match the timestamp to extract the data. The script will give you a warning for this kind of scenario. One copy of this type of files will be copied to `--war_dir`.
+* Sometimes the parallel data files (like `Lang1.hash.ext` and `Lang2.hash.ext`) does not contain the same number of lines and one/both data file may contain all the time stamp same. These are called `critical` files and will be copied to `--drop_dir` folder.
 
+*** Till now we don't have any way to extract data from `critical` data files. ***
 
-If number of lines for parallel data file(like `Lang1.hash.ext` and `Lang2.hash.ext`) are same then One copy of this type of files will be copied to `--per_dir`.
+If the number of lines for a parallel data file(like `Lang1.hash.ext` and `Lang2.hash.ext`) are same then one copy of this parallel data file will be copied to `--per_dir`.
