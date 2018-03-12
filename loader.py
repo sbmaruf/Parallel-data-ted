@@ -80,7 +80,7 @@ def extract_line(File, file_name):
         words = line.strip().split()
         n_w = len(words)
         if state == 2 :
-            tmp_line = tmp_line + line.strip()
+            tmp_line = tmp_line + ' ' + line.strip()
         #print(line.strip(), state, n_w, tmp_line, idx)
         if n_w == 3 and isOk(words) and state == 1:
             state = state+1
