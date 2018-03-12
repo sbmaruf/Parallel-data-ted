@@ -91,3 +91,7 @@ If there is any other change in the format of the input files then this parser m
 ***Till now we don't have any way to extract data from `critical` data files.***
 
 If the number of lines for a parallel data file(like `Lang1.hash.ext` and `Lang2.hash.ext`) are same then one copy of this parallel data file will be copied to `--per_dir`.
+
+## Related Repository
+
+	[srt2txt]https://github.com/ahmed451/srt2txt
