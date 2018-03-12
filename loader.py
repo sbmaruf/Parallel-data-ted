@@ -210,5 +210,5 @@ if params.debug :
     print("Matching number of line from the generated file contains parallel lines")
     num_lines = sum(1 for line in open(params.out_dir+params.out_file))
     assert(int(num_lines/2)==(tot_line_lang1_war_extracted+tot_line_lang1_per_extracted)*2 )
-    print("Lines generated successful!")
+    print("Lines generated successfully!")
 
