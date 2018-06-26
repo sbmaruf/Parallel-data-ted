@@ -8,7 +8,7 @@ import shutil
 import numpy as np
 import random
 import sys
-
+import hashlib
 
 def _make_parser():
     parser = argparse.ArgumentParser(
@@ -323,10 +323,10 @@ class LinePair:
     9. freq_score = sum of the frequecy of the words in src_line and tgt_line
     10. is_freq_one = if there is any word whose frequency is one or not.
     """
-    def __init__(self, _src_line, _tgt_line, _id):
+    def __init__(self, _src_line, _tgt_line):
         self.src_line = _src_line
         self.tgt_line = _tgt_line
-        self.id = _id
+        self.id = _src_line + _tgt_line
         self.src_words = _src_line.strip().split()
         self.tgt_words = _tgt_line.strip().split()
         self.num_of_token = len(self.src_words) + len(self.tgt_words)
@@ -463,17 +463,17 @@ def write_data(par_line,
         index_taken = set() if id_set is None else id_set
 
         if folder_name == 'train':
-            for i in range(total_num_lines):
-                if i not in index_taken:
-
-                    _src_line = par_line[i].src_line
-                    _tgt_line = par_line[i].tgt_line
-
+            for line_pair in par_line:
+                if line_pair.id not in index_taken:
+                    _src_line = line_pair.src_line
+                    _tgt_line = line_pair.tgt_line
+                    if _src_line == "" or _tgt_line == "":
+                        continue
                     src_file_ptr.write(_src_line)
                     tgt_file_ptr.write(_tgt_line)
 
                     total_sent_writen += 1
-                    index_taken.add(par_line[i].id)
+                    index_taken.add(line_pair.id)
 
         # for dev and test
         else:
@@ -515,12 +515,13 @@ def write_data(par_line,
 
                         _src_line = sorted_par_lines[int(i)].src_line
                         _tgt_line = sorted_par_lines[int(i)].tgt_line
-
-                        index_taken.add(sorted_par_lines[int(i)].id)
+                        if _src_line == "" or _tgt_line == "":
+                            continue
 
                         src_file_ptr.write(_src_line)
                         tgt_file_ptr.write(_tgt_line)
 
+                        index_taken.add(sorted_par_lines[int(i)].id)
                         tot_line_each_case += 1
                         total_sent_writen += 1
 
@@ -537,11 +538,13 @@ def write_data(par_line,
                     _src_line = par_line[int(rand_index)].src_line
                     _tgt_line = par_line[int(rand_index)].tgt_line
 
-                    index_taken.add(par_line[int(rand_index)].id)
+                    if _src_line == "" or _tgt_line == "":
+                        continue
 
                     src_file_ptr.write(_src_line)
                     tgt_file_ptr.write(_tgt_line)
 
+                    index_taken.add(par_line[int(rand_index)].id)
                     total_sent_writen += 1
 
     return index_taken, total_sent_writen
@@ -614,7 +617,7 @@ def extract_lines(src_data_add, tgt_data_add):
     with open(src_data_add) as src_ptr, \
             open(tgt_data_add) as tgt_ptr:
         for (src_line, tgt_line) in zip(src_ptr, tgt_ptr):
-            par_line.append(LinePair(src_line, tgt_line, idx))
+            par_line.append(LinePair(src_line, tgt_line))
             for i in par_line[idx].src_words:
                 if i not in frq:
                     frq[i] = 0
@@ -834,7 +837,8 @@ def main(params):
     np.random.seed(params.seed)
 
     all_files = os.listdir(params.dir)
-    all_files.sort()
+    all_files.sort(key=lambda x: x.lower())
+
     file_dict = retrieve_file_dict(all_files,
                                    params.src_lang,
                                    params.tgt_lang)
@@ -893,7 +897,7 @@ def main(params):
             print("-"*30)
 
         total_sent_written_train_dev_test = 0
-        (index_taken,
+        (sentence_taken,
          total_sent_writen) = write_data(par_line,
                                          file_name,
                                          'dev',
@@ -927,7 +931,7 @@ def main(params):
                                          new_test_folder_address,
                                          comp_funcs,
                                          test_tot[file_name],
-                                         id_set=index_taken)
+                                         id_set=sentence_taken)
         if params.prod_test == 1:
             reproduciblity_test(file_name,
                                 'test',
@@ -973,10 +977,23 @@ def main(params):
             print("total_sent_written_train_dev_test :", total_sent_written_train_dev_test)
             print("total number of line in the file :", len(par_line))
             if len(par_line) > total_sent_written_train_dev_test:
-                print("line missing :", len(par_line)-total_sent_written_train_dev_test)
+                tot_missing_line = (len(par_line) - total_sent_written_train_dev_test)
+                temp_dict = set()
+                try:
+                    for line_pair in par_line:
+                        src_tgt = line_pair.id
+                        temp_dict.add(src_tgt)
+                    missing_line_calc = len(par_line) - len(temp_dict)
+                    assert missing_line_calc == tot_missing_line
+                    print("{0} number of repetitive line in {1} dataset".
+                          format(tot_missing_line, file_name))
+                except AssertionError:
+                    print("total number of unique line in the dataset {0}".format(len(temp_dict)))
+                    print("line missing :", tot_missing_line)
+                    raise
             else:
                 print("line overwritten", total_sent_written_train_dev_test-len(par_line))
-            raise
+                raise
 
         if params.verbose == 1:
             print("-"*100, "\n")

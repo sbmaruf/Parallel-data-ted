@@ -3,7 +3,8 @@ import argparse
 import time
 import sys
 from collections import OrderedDict
-
+import re
+import unicodedata
 
 parser = argparse.ArgumentParser(
             description="Accumulate different source of data",
@@ -58,7 +59,7 @@ def retrieve_file_dict(_all_files, src_lang, tgt_lang):
     :param _all_files: the nmt bas named file in a list.
     :param src_lang: the src_language short form.
     :param tgt_lang: the tgt_language short form.
-    :return: a dictionary(OrderedDict) of file names.
+    :return: a dictionary(OrderedDict) of file names, and the output_file_name in string
     """
     search_str = '.' + src_lang + '-' + tgt_lang
     src_search_str = search_str + '.' + src_lang
@@ -72,7 +73,13 @@ def retrieve_file_dict(_all_files, src_lang, tgt_lang):
         if tgt_search_str in files:
             file_name = files.split(sep=tgt_search_str)
             _file_dict[file_name[0]] = 1
-    return _file_dict
+
+    output_file_name = ''
+    flag = 0
+    for name in _file_dict:
+        output_file_name = output_file_name + ("_" if flag > 0 else "") + name
+        flag = 1
+    return _file_dict, output_file_name
 
 
 def assert_check_before(_src_file_address,
@@ -80,6 +87,15 @@ def assert_check_before(_src_file_address,
 
     _num_lines_src = sum(1 for _ in open(_src_file_address))
     _num_lines_tgt = sum(1 for _ in open(_tgt_file_address))
+    line_no = 0
+    for src_line, tgt_line in zip(open(_src_file_address),
+                                  open(_tgt_file_address)):
+        line_no += 1
+        try:
+            assert src_line != "" and tgt_line != ""
+        except AssertionError:
+            print("Empty line found in {0}, {1} at line {2}.".
+                  format(_src_file_address, _tgt_file_address, line_no))
     try:
         assert _num_lines_src == _num_lines_tgt
     except AssertionError:
@@ -97,13 +113,14 @@ def assert_check_after(_num_lines_src,
                        _dummy_output_file_address_src,
                        _dummy_output_file_address_tgt,
                        _tot_num_of_line,
-                       parallel_file=1):
+                       parallel_file=1,
+                       skipped_lines=0):
     if parallel_file:
         num_lines_src_output = sum(1 for _ in open(_dummy_output_file_address_src))
         num_lines_tgt_output = sum(1 for _ in open(_dummy_output_file_address_tgt))
         try:
             assert num_lines_src_output == num_lines_tgt_output == \
-                   _tot_num_of_line + _num_lines_src
+                   _tot_num_of_line + _num_lines_src - skipped_lines
         except AssertionError:
             print("Testing after adding lines to output files. (parallel_data=1)")
             print("num_lines_src :", _num_lines_src)
@@ -111,6 +128,7 @@ def assert_check_after(_num_lines_src,
             print("num_lines_src_output :", num_lines_src_output)
             print("num_lines_tgt_output :", num_lines_tgt_output)
             print("tot_num_of_line :", _tot_num_of_line)
+            print("_tot_num_of_line + _num_lines_src:", _tot_num_of_line + _num_lines_src)
             print("Total loss :", abs(num_lines_src_output - num_lines_tgt_output))
             raise
     else:
@@ -134,13 +152,18 @@ def assert_check_inside(_dummy_output_file_address_src,
         raise
 
 
+# Converts the unicode file to ascii
+def unicode_to_ascii(s):
+    return ''.join(c for c in unicodedata.normalize('NFD', s)
+                   if unicodedata.category(c) != 'Mn')
+
 def refine(par_line):
     """
     TODO: If there is any pre-processing needed before accumulating all data
     :param par_line: a string that will be refined
     :return: ret: the refined string
     """
-    ret = par_line
+    ret = unicode_to_ascii(par_line)
     return ret
 
 
@@ -150,6 +173,7 @@ def write_lines(_src_file_address,
                 _dummy_output_file_address_tgt,
                 _tot_num_of_line,
                 file_name,
+                line_id_dict,
                 read_type="w",
                 parallel_file=1,
                 debug=1):
@@ -158,24 +182,29 @@ def write_lines(_src_file_address,
     print("\nReading {0} dataset...".format(file_name))
     tic = time.time()
     cnt = 0
+    skipped = 0
     with open(_src_file_address) as src_file_ptr, \
             open(_tgt_file_address) as tgt_file_ptr:
         for src_sent, tgt_sent in zip(src_file_ptr, tgt_file_ptr):
             src_sent = refine(src_sent)
             tgt_sent = refine(tgt_sent)
             if parallel_file:
-                _out_file_ptr_src.write(src_sent)
-                _out_file_ptr_src.flush()
-                _out_file_ptr_tgt.write(tgt_sent)
-                _out_file_ptr_tgt.flush()
-                cnt += 1
-                if cnt % 10000 == 0 and debug:
-                    assert_check_inside(_dummy_output_file_address_src,
-                                        _dummy_output_file_address_tgt,
-                                        _tot_num_of_line,
-                                        cnt)
-                    print("Line number :" if cnt <= 10000 else " ", cnt, end="")
-                    sys.stdout.flush()
+                if (src_sent+tgt_sent) not in line_id_dict:
+                    _out_file_ptr_src.write(src_sent)
+                    _out_file_ptr_src.flush()
+                    _out_file_ptr_tgt.write(tgt_sent)
+                    _out_file_ptr_tgt.flush()
+                    cnt += 1
+                    if cnt % 10000 == 0 and debug:
+                        assert_check_inside(_dummy_output_file_address_src,
+                                            _dummy_output_file_address_tgt,
+                                            _tot_num_of_line,
+                                            cnt)
+                        print("Line number :" if cnt <= 10000 else " ", cnt, end="")
+                        sys.stdout.flush()
+                    line_id_dict.add(src_sent+tgt_sent)
+                else:
+                    skipped += 1
             else:
                 raise Exception("condition for parallel_file == 0 is not implemented in the script")
 
@@ -188,6 +217,7 @@ def write_lines(_src_file_address,
     toc = time.time()
     total_time = round(toc - tic, 3)
     print("{0} dataset reading time {1}(s)".format(file_name, total_time))
+    return line_id_dict, skipped
 
 
 def create_file_path(dir,
@@ -271,12 +301,12 @@ def read_and_write_test(src_num_of_line,
     return 0
 
 
-def total_num_of_line_test(tot_num_of_line, read_tot_num_of_line, verbose):
+def total_num_of_line_test(tot_num_of_line, skipped_dict, read_tot_num_of_line, verbose):
     for dataset_type, cnt in tot_num_of_line.items():
         try:
             if verbose >= 1:
                 print("\nTesting is sum of total number of train, dev and test is same.")
-            assert read_tot_num_of_line[dataset_type] == cnt
+            assert read_tot_num_of_line[dataset_type]-skipped_dict[dataset_type] == cnt
         except AssertionError:
             print("dataset type :", dataset_type)
             print("total number of example (newly read):",
@@ -296,41 +326,46 @@ def data_set_accumulation(params):
     print("")
 
     all_files = os.listdir(params.dir)
-    all_files.sort()
+    all_files.sort(key=lambda x: x.lower())
     dataset_line = {}
     params.restrict = list(map(str, params.restrict.split()))
-    file_dict = retrieve_file_dict(all_files,
-                                   params.src_lang,
-                                   params.tgt_lang)
+    (file_dict,
+     output_file_name) = retrieve_file_dict(all_files,
+                                            params.src_lang,
+                                            params.tgt_lang)
+
     os.makedirs(params.out_dir, exist_ok=True)
     if params.verbose == 2:
         print(params.out_dir, "folder created")
-    output_file_name = ''
 
-    dataset_types = ['train', 'dev', 'test']
+    dataset_types = ['dev', 'test', 'train']
+    dataset_types.sort()    # very important to do dev and test at first then train
+    print("Accumulating dev, test and then train dataset.")
     address_dict = create_out_file_address(dataset_types,
                                            params.out_dir,
                                            params.parallel_file,
                                            params.verbose,
                                            params.src_lang,
                                            params.tgt_lang)
-
+    
     tot_num_of_line = {}
+    skipped_dict = {}
     for dataset_type in dataset_types:
         tot_num_of_line[dataset_type] = 0
+        skipped_dict[dataset_type] = 0
 
-    read_type_flag = 0
     dataset_add_list = []
-    for val in file_dict:
+    line_id_dict = set()
+    for dataset_type in dataset_types:
+        print("\n\nCREATING `{0}` DATASET ...".format(dataset_type))
+        read_type_flag = 0
+        for val in file_dict:
 
-        print("\n", "#" * 100, "\n", val, " dataset", "\n", "#" * 100, sep="")
-        if val in params.restrict:
-            print("{0} : is manually restricted to read.\n".format(val))
-            continue
-        output_file_name = output_file_name + ("_" if read_type_flag > 0 else "") + str(val)
-        for dataset_type in dataset_types:
-            print("\n", dataset_type, "set accumulation")
-            print("-" * 100)
+            print("\n", "#" * 100, "\n", val, " dataset (", dataset_type, ")", "\n", "#" * 100, sep="")
+            if val in params.restrict:
+                print("{0} : is manually restricted to read.\n".format(val))
+                continue
+
             # create file path
             # ./params.dir/[alt/ubuntu/os16/...]/[train/dev/test]/[alt/ubuntu/os16/...].en-ms.en
             src_file_address = create_file_path(params.dir,
@@ -350,9 +385,11 @@ def data_set_accumulation(params):
                                                     params.tgt_lang,
                                                     params.tgt_lang,
                                                     verbose=params.verbose)
-                dataset_add_list.append((src_file_address, tgt_file_address))
+
                 if params.verbose >= 1:
                     print("\t", "tgt_file_address :", tgt_file_address)
+
+                dataset_add_list.append((src_file_address, tgt_file_address))
 
                 if os.path.exists(tgt_file_address):
 
@@ -363,27 +400,38 @@ def data_set_accumulation(params):
 
                     # Write on the combined output file
                     read_type = "w" if read_type_flag == 0 else "a"
+                    if params.verbose == 1:
+                        print("\tLines will be {0} in".format("written" if read_type == "w" else "appended"))
+                        print("\t\t", address_dict[dataset_type][0])
+                        print("\t\t", address_dict[dataset_type][1])
 
-                    write_lines(src_file_address,
-                                tgt_file_address,
-                                address_dict[dataset_type][0],
-                                address_dict[dataset_type][1],
-                                tot_num_of_line[dataset_type],
-                                file_name,
-                                debug=params.debug,
-                                parallel_file=params.parallel_file,
-                                read_type=read_type)
-
+                    (line_id_dict,
+                     skipped) = write_lines(src_file_address,
+                                            tgt_file_address,
+                                            address_dict[dataset_type][0],
+                                            address_dict[dataset_type][1],
+                                            tot_num_of_line[dataset_type],
+                                            file_name,
+                                            line_id_dict,
+                                            debug=params.debug,
+                                            parallel_file=params.parallel_file,
+                                            read_type=read_type)
+                    if params.verbose == 1:
+                        print("Total {0} number of lines skipped from {1}-{2} dataset".
+                              format(skipped, val, dataset_type))
+                    read_type_flag = 1
                     # Check if all the lines have been successfully added.
                     assert_check_after(num_lines_src,
                                        num_lines_tgt,
                                        address_dict[dataset_type][0],
                                        address_dict[dataset_type][1],
                                        tot_num_of_line[dataset_type],
-                                       parallel_file=params.parallel_file)
+                                       parallel_file=params.parallel_file,
+                                       skipped_lines=skipped)
 
-                    tot_num_of_line[dataset_type] += num_lines_src
+                    tot_num_of_line[dataset_type] += num_lines_src-skipped
                     dataset_line[file_name] = num_lines_src
+                    skipped_dict[dataset_type] += skipped
                     print("-" * 100)
 
                 else:
@@ -392,9 +440,10 @@ def data_set_accumulation(params):
             else:
                 print("{0} file doesn't contain nmt input file naming convension or doesn't exists.".
                       format(src_file_address))
-        read_type_flag = 1
+
     return (dataset_types,
             tot_num_of_line,
+            skipped_dict,
             dataset_line,
             dataset_add_list,
             output_file_name)
@@ -402,10 +451,11 @@ def data_set_accumulation(params):
 
 def reporting_read_write_check(params,
                                tot_num_of_line,
+                               skipped_dict,
                                dataset_line,
                                dataset_add_list,
                                output_file_name):
-    print("\nReporting started.")
+    print("\nReporting and read&write check started.")
     print("*" * 100)
     read_tot_num_of_line = {}
     if params.parallel_file:
@@ -427,10 +477,15 @@ def reporting_read_write_check(params,
                 read_tot_num_of_line[dataset_type] += src_num_of_line
             raw_tot_line += src_num_of_line
 
-        # reading train, dev and test from source and current runs variable.
-        total_num_of_line_test(tot_num_of_line, read_tot_num_of_line, params.verbose)
+        for k, v in skipped_dict.items():
+            raw_tot_line -= v
+
+        # reading train, dev and test from source and current run's variable.
+        total_num_of_line_test(tot_num_of_line, skipped_dict, read_tot_num_of_line, params.verbose)
+
         read_tot_num_of_line = {}
         raw_tot_line_output = 0
+
         for dataset_type in tot_num_of_line:
             src_out_address = os.path.join(
                                 os.path.join(params.out_dir, dataset_type),
@@ -458,21 +513,21 @@ def reporting_read_write_check(params,
             raw_tot_line_output += src_num_of_line
 
         # reading train, dev and test from source and output data variable.
-        total_num_of_line_test(tot_num_of_line, read_tot_num_of_line, params.verbose)
+        total_num_of_line_test(tot_num_of_line, {'dev': 0, 'test': 0, 'train': 0}, read_tot_num_of_line, params.verbose)
         try:
             assert raw_tot_line_output == raw_tot_line
         except AssertionError:
             print("raw_tot_line_output:", raw_tot_line_output)
             print("raw_tot_line:", raw_tot_line)
+            raise
 
-        for k, v in tot_num_of_line.items():
-            print(k, ":", v)
         # Rename the file and print the report.
         new_folder = os.path.join(params.out_dir, output_file_name)
         os.makedirs(new_folder, exist_ok=True)
         if params.verbose == 2:
             print("new folder created at :", new_folder)
 
+        dataset_final_address = []
         for dataset_type in tot_num_of_line:
             src_out_address = os.path.join(
                                 os.path.join(params.out_dir, dataset_type),
@@ -498,6 +553,32 @@ def reporting_read_write_check(params,
             os.system(src_cmd)
             os.system(tgt_cmd)
 
+            dataset_final_address.append((dataset_type, (new_src_out_address, new_tgt_out_address)))
+            no_of_line = sum(1 for _ in open(new_src_out_address))
+            print("Total number of line in {0} : {1}".format(dataset_type, no_of_line))
+
+        print("Calculating number of common lines between dev, test and train.")
+        for itr1, (dataset_type1, (src_add1, tgt_add1)) in enumerate(dataset_final_address):
+            for itr2, (dataset_type2, (src_add2, tgt_add2)) in enumerate(dataset_final_address):
+                if itr1 <= itr2:
+                    continue
+                src_ptr = open(src_add1, "r")
+                tgt_ptr = open(tgt_add1, "r")
+                cnt = 0
+                for (src_line, tgt_line) in zip(src_ptr, tgt_ptr):
+                    train_src_ptr = open(src_add2, "r")
+                    train_tgt_ptr = open(tgt_add2, "r")
+                    flag = 0
+                    for (train_src_line, train_tgt_line) in zip(train_src_ptr, train_tgt_ptr):
+                        if src_line == train_src_line and tgt_line == train_tgt_line:
+                            flag = 1
+                        if flag == 1:
+                            break
+                    if flag == 1:
+                        cnt += 1
+                print("Total {0} number of line common between {1} and {2}.".
+                      format(cnt, dataset_type1, dataset_type2))
+
 
 #################################################
 # Start of the script
@@ -508,11 +589,13 @@ def main():
     params = parser.parse_args()
     (dataset_types,
      tot_num_of_line,
+     skipped_dict,
      dataset_line,
      dataset_add_list,
      output_file_name) = data_set_accumulation(params)
     reporting_read_write_check(params,
                                tot_num_of_line,
+                               skipped_dict,
                                dataset_line,
                                dataset_add_list,
                                output_file_name)
