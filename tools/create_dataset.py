@@ -326,7 +326,8 @@ class LinePair:
     def __init__(self, _src_line, _tgt_line):
         self.src_line = _src_line
         self.tgt_line = _tgt_line
-        self.id = _src_line + _tgt_line
+        self.id1 = _src_line
+        self.id2 = _tgt_line
         self.src_words = _src_line.strip().split()
         self.tgt_words = _tgt_line.strip().split()
         self.num_of_token = len(self.src_words) + len(self.tgt_words)
@@ -383,15 +384,17 @@ def select_line_ids(folder_name,
                                endpoint=False))
 
     if folder_name == 'test':
-        indexes = map(lambda x: x+5, indexes)
+        indexes = map(lambda x: x+20, indexes)
 
     indexes = set(list(map(round, indexes)))
     index_out_of_boundary = 0
+    new_indexes = set()
     for index in indexes:
         if index >= total_num_lines:
             index_out_of_boundary += 1
-            indexes.remove(index)
-
+        else:
+            new_indexes.add(index)
+    indexes = new_indexes
     # to ensure test set is harder than dev set
     if folder_name == 'test' and index_out_of_boundary > 0:
         idx = total_num_lines-1
@@ -464,7 +467,8 @@ def write_data(par_line,
 
         if folder_name == 'train':
             for line_pair in par_line:
-                if line_pair.id not in index_taken:
+                if line_pair.id1 not in index_taken and \
+                        line_pair.id2 not in index_taken:
                     _src_line = line_pair.src_line
                     _tgt_line = line_pair.tgt_line
                     if _src_line == "" or _tgt_line == "":
@@ -473,7 +477,10 @@ def write_data(par_line,
                     tgt_file_ptr.write(_tgt_line)
 
                     total_sent_writen += 1
-                    index_taken.add(line_pair.id)
+                    index_taken.add(line_pair.id1)
+                    index_taken.add(line_pair.id2)
+                else:
+                    tot_skippe_line += 1
 
         # for dev and test
         else:
@@ -511,7 +518,8 @@ def write_data(par_line,
 
                 tot_line_each_case = 0
                 for i in indexes:
-                    if sorted_par_lines[int(i)].id not in index_taken:
+                    if sorted_par_lines[int(i)].id1 not in index_taken and \
+                            sorted_par_lines[int(i)].id2 not in index_taken:
 
                         _src_line = sorted_par_lines[int(i)].src_line
                         _tgt_line = sorted_par_lines[int(i)].tgt_line
@@ -521,7 +529,8 @@ def write_data(par_line,
                         src_file_ptr.write(_src_line)
                         tgt_file_ptr.write(_tgt_line)
 
-                        index_taken.add(sorted_par_lines[int(i)].id)
+                        index_taken.add(sorted_par_lines[int(i)].id1)
+                        index_taken.add(sorted_par_lines[int(i)].id2)
                         tot_line_each_case += 1
                         total_sent_writen += 1
 
@@ -533,7 +542,8 @@ def write_data(par_line,
 
                 rand_index = np.random.randint(0, total_num_lines, size=1)
 
-                if par_line[int(rand_index)].id not in index_taken:
+                if par_line[int(rand_index)].id1 not in index_taken and \
+                        par_line[int(rand_index)].id2 not in index_taken:
 
                     _src_line = par_line[int(rand_index)].src_line
                     _tgt_line = par_line[int(rand_index)].tgt_line
@@ -544,7 +554,8 @@ def write_data(par_line,
                     src_file_ptr.write(_src_line)
                     tgt_file_ptr.write(_tgt_line)
 
-                    index_taken.add(par_line[int(rand_index)].id)
+                    index_taken.add(par_line[int(rand_index)].id1)
+                    index_taken.add(par_line[int(rand_index)].id2)
                     total_sent_writen += 1
 
     return index_taken, total_sent_writen
@@ -743,9 +754,11 @@ def index_list_test(par_line, index_set):
     """
     for i in range(len(par_line)):
         try:
-            assert par_line[i].id in index_set
+            assert par_line[i].id1 in index_set
+            assert par_line[i].id2 in index_set
         except AssertionError:
-            print("par_line[i].id :", par_line[i].id)
+            print("par_line[i].id1 :", par_line[i].id1)
+            print("par_line[i].id2 :", par_line[i].id2)
             raise
     return 0
 
@@ -853,7 +866,6 @@ def main(params):
                                       file_dict,
                                       params.src_lang,
                                       params.tgt_lang)
-
     for src_data_add, tgt_data_add in dataset_address_list:
 
         file_name = str(os.path.basename(src_data_add).split('.')[0])
@@ -965,35 +977,37 @@ def main(params):
                                 new_train_folder_address)
 
         total_sent_written_train_dev_test += total_sent_writen
-        index_list_test(par_line, index_set)
+        # index_list_test(par_line, index_set)
 
         if params.verbose == 1:
             print("Total number of train sentences taken :",
                   total_sent_writen)
 
-        try:
-            assert total_sent_written_train_dev_test == total_num_of_lines
-        except AssertionError:
-            print("total_sent_written_train_dev_test :", total_sent_written_train_dev_test)
-            print("total number of line in the file :", len(par_line))
-            if len(par_line) > total_sent_written_train_dev_test:
-                tot_missing_line = (len(par_line) - total_sent_written_train_dev_test)
-                temp_dict = set()
-                try:
-                    for line_pair in par_line:
-                        src_tgt = line_pair.id
-                        temp_dict.add(src_tgt)
-                    missing_line_calc = len(par_line) - len(temp_dict)
-                    assert missing_line_calc == tot_missing_line
-                    print("{0} number of repetitive line in {1} dataset".
-                          format(tot_missing_line, file_name))
-                except AssertionError:
-                    print("total number of unique line in the dataset {0}".format(len(temp_dict)))
-                    print("line missing :", tot_missing_line)
-                    raise
-            else:
-                print("line overwritten", total_sent_written_train_dev_test-len(par_line))
-                raise
+        # try:
+        #     assert total_sent_written_train_dev_test == total_num_of_lines
+        # except AssertionError:
+        #     print("total_sent_written_train_dev_test :", total_sent_written_train_dev_test)
+        #     print("total number of line in the file :", len(par_line))
+        #     if len(par_line) > total_sent_written_train_dev_test:
+        #         tot_missing_line = (len(par_line) - total_sent_written_train_dev_test)
+        #         temp_dict = set()
+        #         try:
+        #             for line_pair in par_line:
+        #                 src_tgt1 = line_pair.id1
+        #                 src_tgt2 = line_pair.id2
+        #                 temp_dict.add(src_tgt1)
+        #                 temp_dict.add(src_tgt2)
+        #             missing_line_calc = len(par_line) - len(temp_dict)
+        #             assert missing_line_calc == tot_missing_line
+        #             print("{0} number of repetitive line in {1} dataset".
+        #                   format(tot_missing_line, file_name))
+        #         except AssertionError:
+        #             print("total number of unique line in the dataset {0}".format(len(temp_dict)))
+        #             print("line missing :", tot_missing_line)
+        #             raise
+        #     else:
+        #         print("line overwritten", total_sent_written_train_dev_test-len(par_line))
+        #         raise
 
         if params.verbose == 1:
             print("-"*100, "\n")

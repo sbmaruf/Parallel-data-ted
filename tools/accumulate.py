@@ -189,7 +189,7 @@ def write_lines(_src_file_address,
             src_sent = refine(src_sent)
             tgt_sent = refine(tgt_sent)
             if parallel_file:
-                if (src_sent+tgt_sent) not in line_id_dict:
+                if src_sent not in line_id_dict and tgt_sent not in line_id_dict:
                     _out_file_ptr_src.write(src_sent)
                     _out_file_ptr_src.flush()
                     _out_file_ptr_tgt.write(tgt_sent)
@@ -202,7 +202,8 @@ def write_lines(_src_file_address,
                                             cnt)
                         print("Line number :" if cnt <= 10000 else " ", cnt, end="")
                         sys.stdout.flush()
-                    line_id_dict.add(src_sent+tgt_sent)
+                    line_id_dict.add(src_sent)
+                    line_id_dict.add(tgt_sent)
                 else:
                     skipped += 1
             else:
@@ -553,32 +554,31 @@ def reporting_read_write_check(params,
             os.system(src_cmd)
             os.system(tgt_cmd)
 
-            dataset_final_address.append((dataset_type, (new_src_out_address, new_tgt_out_address)))
+            id_set = set()
+            src_ptr = open(new_src_out_address, "r")
+            tgt_ptr = open(new_tgt_out_address, "r")
+            for src_line, tgt_line in zip(src_ptr, tgt_ptr):
+                id_set.add(src_line)
+                id_set.add(tgt_line)
+            dataset_final_address.append(((dataset_type, id_set), (new_src_out_address, new_tgt_out_address)))
             no_of_line = sum(1 for _ in open(new_src_out_address))
+            print(new_src_out_address)
+            print(new_tgt_out_address)
             print("Total number of line in {0} : {1}".format(dataset_type, no_of_line))
 
         print("Calculating number of common lines between dev, test and train.")
-        for itr1, (dataset_type1, (src_add1, tgt_add1)) in enumerate(dataset_final_address):
-            for itr2, (dataset_type2, (src_add2, tgt_add2)) in enumerate(dataset_final_address):
-                if itr1 <= itr2:
+        for itr1, ((dataset_type1, id_set1), (src_add1, tgt_add1)) in enumerate(dataset_final_address):
+            for itr2, ((dataset_type2, id_set2), (_, _)) in enumerate(dataset_final_address):
+                if itr1 == itr2:
                     continue
-                src_ptr = open(src_add1, "r")
-                tgt_ptr = open(tgt_add1, "r")
+                src_add1_ptr = open(src_add1, "r")
+                tgt_add1_ptr = open(tgt_add1, "r")
                 cnt = 0
-                for (src_line, tgt_line) in zip(src_ptr, tgt_ptr):
-                    train_src_ptr = open(src_add2, "r")
-                    train_tgt_ptr = open(tgt_add2, "r")
-                    flag = 0
-                    for (train_src_line, train_tgt_line) in zip(train_src_ptr, train_tgt_ptr):
-                        if src_line == train_src_line and tgt_line == train_tgt_line:
-                            flag = 1
-                        if flag == 1:
-                            break
-                    if flag == 1:
+                for src_add1_line, tgt_add1_line in zip(src_add1_ptr, tgt_add1_ptr):
+                    if src_add1_line in id_set2 or tgt_add1_line in id_set2:
                         cnt += 1
                 print("Total {0} number of line common between {1} and {2}.".
                       format(cnt, dataset_type1, dataset_type2))
-
 
 #################################################
 # Start of the script
