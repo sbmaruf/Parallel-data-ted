@@ -479,8 +479,6 @@ def write_data(par_line,
                     total_sent_writen += 1
                     index_taken.add(line_pair.id1)
                     index_taken.add(line_pair.id2)
-                else:
-                    tot_skippe_line += 1
 
         # for dev and test
         else:
